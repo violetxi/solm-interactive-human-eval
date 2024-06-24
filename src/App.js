@@ -33,9 +33,9 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True" },
-  { question: "Please determine if the following statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False" },
-  { question: "Please determine if the following statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False" }
+  { question: "Please determine if the above statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
+  { question: "Please determine if the above statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
+  { question: "Please determine if the above statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
 ];
 
 function App() {
@@ -59,7 +59,8 @@ function App() {
         const questionsData = data.map(item => ({
           question: `Was the person intended to be sarcastic when "${item.original_data}" was said during the conversation?`,
           statement: item.conversation,
-          note: item.note || ''
+          note: item.note || '',
+          isAttentionCheck: false
         }));
         const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
         setQuestions(allQuestions);
@@ -117,6 +118,7 @@ function App() {
   const currentQuestion = questions[currentQuestionIndex]?.question || 'Loading...';
   const currentStatement = questions[currentQuestionIndex]?.statement || '';
   const currentNote = questions[currentQuestionIndex]?.note || '';
+  const isAttentionCheck = questions[currentQuestionIndex]?.isAttentionCheck || false;
   const parsedConversation = parseConversation(currentStatement);
 
   return (
@@ -132,13 +134,14 @@ function App() {
         />
       ) : (
         <header className="App-header">
-          <p>Please read the conversation below:</p>
+          {!isAttentionCheck && <p>Please read the conversation below:</p>}
           <div className="conversation">
-            {parsedConversation.map((line, index) => (
+            {!isAttentionCheck && parsedConversation.map((line, index) => (
               <p key={index} style={{ color: line.speaker === 'A' ? 'red' : 'blue', margin: '0 0 10px 0' }}>
                 {line.speaker}: {line.content}
               </p>
             ))}
+            {isAttentionCheck && <p>{currentStatement}</p>}
           </div>
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}

@@ -1,16 +1,23 @@
-import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
+import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD1cVuVxgiNt3NSsGfdO74rUZU1HoQNAiQ",
-    authDomain: "solm-human-eval-b3bfb.firebaseapp.com",
-    projectId: "solm-human-eval-b3bfb",  
-    storageBucket: "solm-human-eval-b3bfb.appspot.com",  
-    messagingSenderId: "272800487127",
-    appId: "1:272800487127:web:a12a709ece0a8d278f0292"
-};
+    apiKey: "AIzaSyCifFfmc_eq2aLfHfQn9Zunx6fx8K4zwxI",
+    authDomain: "solm-human-eval-interactive.firebaseapp.com",
+    databaseURL: "https://solm-human-eval-interactive-default-rtdb.firebaseio.com",
+    projectId: "solm-human-eval-interactive",
+    storageBucket: "solm-human-eval-interactive.appspot.com",
+    messagingSenderId: "402747185470",
+    appId: "1:402747185470:web:eefd826c1535cf3eea346f"
+  };
+  
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
 
-const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
 export { db };
+
+
+
+

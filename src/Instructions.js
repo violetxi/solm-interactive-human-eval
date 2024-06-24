@@ -132,11 +132,11 @@ const Instructions = ({ onComplete, setProlificID }) => {
           <h2>Instructions 1/2: Introduction</h2> 
           <p>Welcome to this intent recognition experiment!</p>
           <p>
-            In this study, you will be presented a statement and your task is to 
+            In this study, you will be presented a conversation containing a statement and your task is to 
             judge if the statement is <span style={{color: 'blue'}}> sarcastic </span> 
-            or <span style={{color: 'red'}}> not sarcastic</span>.            
+            or <span style={{color: 'red'}}> not sarcastic</span> in the context of the conversation
           </p>
-          <p> Our goal is to find out how well people can recognize the intent behind a statement. </p>
+          <p> Our goal is to find out how well people can recognize the intent behind a statement in a conversation. </p>
           <p><strong>IMPORTANT NOTE:</strong> Please read all instructions carefully and thoroughly. At the end of the instructions, you will be asked comprehension questions to ensure you have fully understood the task and your role in this experiment.</p>
         </>
       ) 
@@ -147,9 +147,9 @@ const Instructions = ({ onComplete, setProlificID }) => {
         <>
           <h2>Instructions 2/2: Choices</h2>
           <p>For each statement, you will choose from the following:</p>
-          <p><strong>True</strong>: If the statement by itself is balantly sarcastic.</p>
-          <p><strong>False</strong>: If the statement by itself is not sarcastic.</p>
-          <p><strong>Ambiguous</strong>: If you cannot determine if the statement is sarcastic or not without more context, or if you do not understand the statement.</p>
+          <p><strong>True</strong>: If the statement is sarcastic given the conversation.</p>
+          <p><strong>False</strong>: If the statement is not sarcastic given the conversation.</p>
+          <p><strong>Ambiguous</strong>: If you cannot determine if the statement is sarcastic or not, or if you do not understand the statement given the conversation.</p>
         </>
       ) 
     },
