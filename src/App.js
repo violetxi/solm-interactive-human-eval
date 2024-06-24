@@ -33,9 +33,9 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "Please determine if the above statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
-  { question: "Please determine if the above statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
-  { question: "Please determine if the above statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
+  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
 ];
 
 function App() {
@@ -146,17 +146,31 @@ function App() {
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
-            <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
-              True: the statement is sarcastic
-            </button>
-
-            <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
-              False: the statement is not sarcastic
-            </button>            
-
-            <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-              Ambiguous: I am not sure if this is sarcastic or not
-            </button>
+            {isAttentionCheck ? (
+              <>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
+                  True
+                </button>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
+                  False
+                </button>
+                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
+                  Ambiguous
+                </button>
+              </>
+            ) : (
+              <>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
+                  True: the statement is sarcastic
+                </button>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
+                  False: the statement is not sarcastic
+                </button>
+                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
+                  Ambiguous: I am not sure if this is sarcastic or not
+                </button>
+              </>
+            )}
           </div>
         </header>
       )}
