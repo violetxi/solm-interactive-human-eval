@@ -3,23 +3,11 @@
         "responses": [],
         "ratings": [],
         "demographics": {
-            "age": "31",
-            "race": "asian",
-            "gender": "female",
-            "prolificID": "honeydew",
-            "timestamp": "2024-06-20T20:42:34.110000+00:00",
-            "ethnicity": "non_hispanic"
-        }
-    },
-    {
-        "responses": [],
-        "ratings": [],
-        "demographics": {
-            "age": "61",
-            "race": "white",
-            "gender": "female",
-            "prolificID": "5f529c8d81da7d58cd46cc29",
-            "timestamp": "2024-06-20T21:06:24.200000+00:00",
+            "age": "24",
+            "race": "black",
+            "gender": "male",
+            "prolificID": "65e3e36cf4f63b4723f76f46",
+            "timestamp": "2024-06-24T22:04:31.731000+00:00",
             "ethnicity": "non_hispanic"
         }
     }

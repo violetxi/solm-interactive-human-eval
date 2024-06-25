@@ -5,7 +5,7 @@ from google.cloud import firestore
 from google.api_core.datetime_helpers import DatetimeWithNanoseconds
 
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'authen_keys/solm-human-eval-b3bfb-firebase-adminsdk-gdmth-9f91bf5eb2.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'authen_keys/solm-human-eval-interactive-firebase-adminsdk-19csk-e5198070e1.json'
 db = firestore.Client()
 
 
@@ -44,6 +44,7 @@ def convert_timestamps(data):
 if __name__ == '__main__':
     collection_names = get_all_collections()
     raw_data = {}
+    collection_names = [name for name in collection_names if name != 'k']
 
     for subject_id in collection_names:
         print(f"Downloading data from collection for subject: {subject_id}")

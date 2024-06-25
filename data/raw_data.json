@@ -1,282 +1,142 @@
 {
-    "5f529c8d81da7d58cd46cc29": [
+    "65e3e36cf4f63b4723f76f46": [
         {
-            "statement": "If you don't have a PHD in immunology then you probably aren't qualified to comment on the effectiveness of the vaccine.",
-            "response": "True",
-            "timestamp": "2024-06-20T21:03:18.593000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times",
+            "statement": "Turn 1:\nA: \"Have you noticed that Luna's been acting really strange when we leave the house? I mean, look at this couch - it's like she's trying to shred it to pieces.\"\nB: \"Yeah, I know. And it's not just the couch. I came home yesterday and found that she'd knocked over three plants. I don't get it, she's always been such a calm cat.\"\n\nTurn 2:\nA: \"I think it's because we've been leaving her alone for longer periods of time lately. I've been working late and you've been taking on more projects, so we're not home as much.  I think our cat has separation anxiety.\"\nB: \"That makes sense. I've read that cats can get anxious when their owners are away. Maybe we should try leaving a TV or radio on for her when we're gone, or even get one of those interactive toys to keep her occupied.\"",
             "response": "False",
-            "timestamp": "2024-06-20T21:03:35.354000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T22:03:05.239000+00:00",
+            "question": "Was the person intended to be sarcastic when \"I think our cat has separation anxiety.\" was said during the conversation?"
         },
         {
-            "statement": "If only we had another lockdown I'd love to be locked in my room for another 8 months",
-            "response": "True",
-            "timestamp": "2024-06-20T21:04:50.088000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "statement": "Turn 1:\nB: \"Man, these boxers are beasts. I don't think I could ever handle getting punched in the face like that.\"\nA: \"Yeah, it's definitely not for the faint of heart. But you know who could totally handle it? My aunt Mildred. She's like 5'2\" and 100 pounds soaking wet.\"\n\nTurn 2:\nB: \"Uh, I don't think that's a good idea. I mean, there's a reason there are separate men's and women's leagues in most sports.\"\nA: \"I think women should be able to join men's sports teams and vice versa. I really don't see any problem with for example having a 5 foot 3 inches slim women versus a 300 pound heavyweight boxer because i feel like women are very much equal to any man. Even much faster and stronger men. If anybody takes offense to my point then they need to reevaluate their lives as their are no man that could do anything better than a lady.\"",
+            "response": "Ambiguous",
+            "timestamp": "2024-06-24T21:54:09.662000+00:00",
+            "question": "Was the person intended to be sarcastic when \"I think women should be able to join men's sports teams and vice versa. I really don't see any problem with for example having a 5 foot 3 inches slim women versus a 300 pound heavyweight boxer because i feel like women are very much equal to any man. Even much faster and stronger men. If anybody takes offense to my point then they need to reevaluate their lives as their are no man that could do anything better than a lady.\" was said during the conversation?"
         },
         {
             "statement": "Texas is the capital of the United States.",
             "response": "False",
-            "timestamp": "2024-06-20T21:04:31.520000+00:00",
+            "timestamp": "2024-06-24T21:58:33.659000+00:00",
             "question": "Please determine if the following statement is true or false."
         },
         {
-            "statement": "Clapped out the post twice now.",
+            "statement": "Turn 1:\nA: I think we should invite Sarah and Emily too, they're really close to her.\nB: I'm not sure, the venue can only hold 20 people and we already have 18 confirmed.\n\nTurn 2:\nA: Okay, let me see if I can squeeze them in... (pauses to count and calculate)  nevermind i can't put them in.\nB: Yeah, it's getting a bit tight. Maybe we can have a smaller celebration with just the closest friends.",
             "response": "False",
-            "timestamp": "2024-06-20T21:05:10.922000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T22:02:38.486000+00:00",
+            "question": "Was the person intended to be sarcastic when \"nevermind i can't put them in\" was said during the conversation?"
         },
         {
-            "statement": "Politicians are so honest it melts my heart",
+            "statement": "Turn 1:\nA: \"Hey, can I take a look at the post before you publish it? I just want to make sure everything looks good.\"\nB: \"Yeah, sure thing! I'm pretty sure it's fine, but go ahead and take a glance.\"\n\nTurn 2:\nA: \"Not to be a spelling nerd but please check your spelling before posting.  I noticed 'accomodate' is spelled incorrectly - it should be 'accommodate'.\"\nB: \"Oh, nice catch! I wouldn't have noticed that. Thanks for looking it over, I'll make the change before posting.\"",
+            "response": "False",
+            "timestamp": "2024-06-24T22:02:11.653000+00:00",
+            "question": "Was the person intended to be sarcastic when \"Not to be a spelling nerd but please check your spelling before posting.\" was said during the conversation?"
+        },
+        {
+            "statement": "Turn 1:\nA: \"I've rewritten the social media post to better align with our new branding guidelines. Want to take a look?\"\nB: \"Yeah, let me see it. (pauses to read) This looks great! I think we're really close to finalizing it.\"\n\nTurn 2:\nA: \"Awesome, I'm glad you like it. I've actually  clapped out the post twice now. I think we can confidently move forward with this version.\"\nB: \"Sounds good to me. Let's schedule it to go live tomorrow morning then.\"",
+            "response": "Ambiguous",
+            "timestamp": "2024-06-24T22:01:38.160000+00:00",
+            "question": "Was the person intended to be sarcastic when \"Clapped out the post twice now.\" was said during the conversation?"
+        },
+        {
+            "statement": "Turn 1:\nA: I've been noticing that the new traffic rules have been a huge success, haven't they? I mean, the roads are still congested, and people are still complaining about the fines they're getting.\nB: Well, I think it's too early to judge. The city officials are still working out the kinks. We need to give it some time.\n\nTurn 2:\nA: Oh, absolutely. I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times . I mean, who doesn't love being stuck in traffic for hours and getting fined for minor infractions?\nB: (pausing, taken aback by A's sarcasm) Uh, well, I think you might be being a bit facetious, A. The rules are meant to improve traffic flow and reduce congestion in the long run.",
             "response": "True",
-            "timestamp": "2024-06-20T21:05:51.979000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T22:00:04.626000+00:00",
+            "question": "Was the person intended to be sarcastic when \"I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times\" was said during the conversation?"
         },
         {
-            "statement": "New years resolution this year is to pick up some more self distinctive habits.",
-            "response": "False",
-            "timestamp": "2024-06-20T21:04:57.334000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "statement": "Turn 1:\nA: Have you been following the news about the latest election results in Europe? It's really disturbing to see how many people are supporting these far-right parties.\nB: Yeah, I know. It's like they're tapping into people's fears and prejudices. But I've also seen a lot of pushback from people who are standing up against their hateful rhetoric.\n\nTurn 2:\nA: Exactly! And that's what gives me hope. It's like the whole world is becoming woke to the rise of right wing nationalism and its horrific consequences.  I mean, just look at the protests and rallies that have been happening all over the world. People are finally starting to realize that we can't just sit back and let these ideologies take over.\nB: Absolutely. And it's not just about politics - it's about basic human rights and dignity. We need to keep speaking out and standing up for what's right.",
+            "response": "Ambiguous",
+            "timestamp": "2024-06-24T22:00:59.370000+00:00",
+            "question": "Was the person intended to be sarcastic when \"It's like the whole world is becoming woke to the rise of right wing nationalism and its horrific consequences.\" was said during the conversation?"
         },
         {
-            "statement": "So the PM has finally given his verdict on his COVID NHS stay in hospital.  Don't understand why nurses would not want his pay recomendation.",
+            "statement": "Turn 1:\nA: Ugh, looks like it's going to be a great day for our picnic. The forecast says it's going to pour all day.\nB: Yeah, I know. I was really looking forward to it too. But we can still make the most of it, right?\n\nTurn 2:\nA: Oh, absolutely!  I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.\nB: (laughs) You're being sarcastic, aren't you?",
             "response": "True",
-            "timestamp": "2024-06-20T21:05:35.252000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "1 + 1 = 2",
-            "response": "False",
-            "timestamp": "2024-06-20T21:05:23.908000+00:00",
-            "question": "Please determine if the following statement is true or false."
+            "timestamp": "2024-06-24T22:01:19.071000+00:00",
+            "question": "Was the person intended to be sarcastic when \"I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.\" was said during the conversation?"
         },
         {
             "statement": "The sun rises from the north and sets at the west.",
             "response": "False",
-            "timestamp": "2024-06-20T21:04:23.466000+00:00",
+            "timestamp": "2024-06-24T21:58:28.953000+00:00",
             "question": "Please determine if the following statement is true or false."
         },
         {
-            "statement": "sometimes i wish i could just do the most obvious things without it feeling like rocket science",
+            "statement": "Turn 1:\nA: How's it going? Enjoying being back in the office?\nB: Ugh, no. I'm so tired of this commute. And it's so loud in here. I miss working from home.\n\nTurn 2:\nA: Oh, come on, it's not that bad. You're just not used to being around people anymore.  If only we had another lockdown I'd love to be locked in my room for another 8 months.\nB: Ha! Yeah, right. I know you're being sarcastic, but I'm serious. I'm considering asking our manager if I can work from home one day a week.",
             "response": "True",
-            "timestamp": "2024-06-20T21:05:17.860000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Now is an amazing time to join the group. Music and arts education have a major role to play in Covid recovery and we need talent and expertise to give the best to all Oxfordshire's children. Please give it some thought….",
-            "response": "False",
-            "timestamp": "2024-06-20T21:03:52.878000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "I think Boris Johnson deserves his parties after the great job he does for the country these past few years",
-            "response": "True",
-            "timestamp": "2024-06-20T21:05:05.320000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Let's cut funding to social services. What could possibly go wrong",
-            "response": "True",
-            "timestamp": "2024-06-20T21:04:45.875000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "It's like the whole world is becoming woke to the rise of right wing nationalism and its horrific consequences.",
-            "response": "False",
-            "timestamp": "2024-06-20T21:04:42.356000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Not to be a spelling nerd but please check your spelling before posting.",
-            "response": "True",
-            "timestamp": "2024-06-20T21:03:39.918000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "nevermind i can't put them in",
-            "response": "False",
-            "timestamp": "2024-06-20T21:05:42.135000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Lucky I'm not going to that then…",
-            "response": "True",
-            "timestamp": "2024-06-20T21:05:59.280000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "So kind of the government to introduce 900 new covid tests right before I fly to Paris x",
-            "response": "True",
-            "timestamp": "2024-06-20T21:05:39.245000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "I think women should be able to join men's sports teams and vice versa. I really don't see any problem with for example having a 5 foot 3 inches slim women versus a 300 pound heavyweight boxer because i feel like women are very much equal to any man. Even much faster and stronger men. If anybody takes offense to my point then they need to reevaluate their lives as their are no man that could do anything better than a lady.",
-            "response": "True",
-            "timestamp": "2024-06-20T21:04:16.610000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "I think our cat has separation anxiety.",
-            "response": "False",
-            "timestamp": "2024-06-20T21:03:07.850000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "You look fantastic in that new dress.  It shows off your figure.",
-            "response": "False",
-            "timestamp": "2024-06-20T21:06:02.523000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.",
-            "response": "False",
-            "timestamp": "2024-06-20T21:05:49.690000+00:00",
-            "question": "Is the following statement sarcastic?"
-        }
-    ],
-    "honeydew": [
-        {
-            "statement": "If you don't have a PHD in immunology then you probably aren't qualified to comment on the effectiveness of the vaccine.",
-            "response": "True",
-            "timestamp": "2024-06-20T20:40:10.240000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "If only we had another lockdown I'd love to be locked in my room for another 8 months",
-            "response": "True",
-            "timestamp": "2024-06-20T20:40:38.005000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "New years resolution this year is to pick up some more self distinctive habits.",
-            "response": "Ambiguous",
-            "timestamp": "2024-06-20T20:40:31.079000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Not to be a spelling nerd but please check your spelling before posting.",
-            "response": "False",
-            "timestamp": "2024-06-20T20:40:03.405000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Now is an amazing time to join the group. Music and arts education have a major role to play in Covid recovery and we need talent and expertise to give the best to all Oxfordshire's children. Please give it some thought….",
-            "response": "False",
-            "timestamp": "2024-06-20T20:42:17.880000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Lucky I'm not going to that then…",
-            "response": "Ambiguous",
-            "timestamp": "2024-06-20T20:40:42.112000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Politicians are so honest it melts my heart",
-            "response": "True",
-            "timestamp": "2024-06-20T20:41:31.447000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "You look fantastic in that new dress.  It shows off your figure.",
-            "response": "Ambiguous",
-            "timestamp": "2024-06-20T20:39:34.094000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T21:56:43.180000+00:00",
+            "question": "Was the person intended to be sarcastic when \"If only we had another lockdown I'd love to be locked in my room for another 8 months\" was said during the conversation?"
         },
         {
             "statement": "1 + 1 = 2",
             "response": "True",
-            "timestamp": "2024-06-20T20:40:44.161000+00:00",
+            "timestamp": "2024-06-24T21:59:08.347000+00:00",
             "question": "Please determine if the following statement is true or false."
         },
         {
-            "statement": "nevermind i can't put them in",
-            "response": "False",
-            "timestamp": "2024-06-20T20:41:49.399000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "sometimes i wish i could just do the most obvious things without it feeling like rocket science",
+            "statement": "Turn 1:\nA: I don't understand how the government can justify cutting funding to social services. It's not like they're going to magically fix themselves.\nB: I know, it's tough, but we need to think about ways to make it work. Maybe we can reduce some of our programs or find alternative funding sources.\n\nTurn 2:\nA: Oh, sure, because that's exactly what we need - fewer services for people who are already struggling to get by.  Let's cut funding to social services. What could possibly go wrong?\nB: A, come on, that's not what I meant. We just need to be realistic about our options.",
             "response": "True",
-            "timestamp": "2024-06-20T20:40:55.432000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T21:57:19.236000+00:00",
+            "question": "Was the person intended to be sarcastic when \"Let's cut funding to social services. What could possibly go wrong\" was said during the conversation?"
         },
         {
-            "statement": "It's like the whole world is becoming woke to the rise of right wing nationalism and its horrific consequences.",
+            "statement": "Turn 1:\nA: \"Hey, have you seen the email about the company meeting on Saturday?\"\nB: \"Yeah, I got it. I'm not looking forward to it. I was really hoping to sleep in that morning.\"\n\nTurn 2:\nA: \"Lucky I'm not going to that then…  I've got a camping trip planned with my family and I wouldn't have been able to make it anyway.\"\nB: \"That sounds like a lot more fun than a meeting! You're definitely getting the better end of that deal.\"",
             "response": "False",
-            "timestamp": "2024-06-20T20:42:06.043000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T21:59:05.109000+00:00",
+            "question": "Was the person intended to be sarcastic when \"Lucky I'm not going to that then…\" was said during the conversation?"
         },
         {
-            "statement": "I think our cat has separation anxiety.",
+            "statement": "Turn 1:\nA: I've been reading about the new study on the XYZ vaccine, and I'm not convinced by the results. What do you think about it?\nB: Honestly, I think it's a game-changer. I've heard it's been shown to be 90% effective in preventing the disease.\n\nTurn 2:\nA: I understand why you might think that, but I've looked at the methodology and I have some concerns. The sample size was relatively small, and the control group wasn't well-matched.  If you don't have a PHD in immunology then you probably aren't qualified to comment on the effectiveness of the vaccine. I think we need to be more cautious in our interpretation of the results.\nB: That's a good point. I didn't realize the sample size was that small. Maybe I should take a closer look at the study myself.",
             "response": "False",
-            "timestamp": "2024-06-20T20:38:52.558000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T22:03:42.237000+00:00",
+            "question": "Was the person intended to be sarcastic when \"If you don't have a PHD in immunology then you probably aren't qualified to comment on the effectiveness of the vaccine.\" was said during the conversation?"
         },
         {
-            "statement": "So kind of the government to introduce 900 new covid tests right before I fly to Paris x",
+            "statement": "Turn 1:\nA: I'm so annoyed, I just found out that I need to take an extra COVID test before my flight to Paris tomorrow. \nB: Yeah, I heard the government just announced new travel restrictions. Are you all set with your tests and paperwork?\n\nTurn 2:\nA:  So kind of the government to introduce 900 new covid tests right before I fly to Paris x. \nB: I know, it's a real hassle. But at least you'll be safe, right?",
             "response": "True",
-            "timestamp": "2024-06-20T20:41:02.161000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T21:54:32.348000+00:00",
+            "question": "Was the person intended to be sarcastic when \"So kind of the government to introduce 900 new covid tests right before I fly to Paris x\" was said during the conversation?"
         },
         {
-            "statement": "Let's cut funding to social services. What could possibly go wrong",
-            "response": "True",
-            "timestamp": "2024-06-20T20:42:23.273000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "Clapped out the post twice now.",
-            "response": "Ambiguous",
-            "timestamp": "2024-06-20T20:40:17.663000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "So the PM has finally given his verdict on his COVID NHS stay in hospital.  Don't understand why nurses would not want his pay recomendation.",
+            "statement": "Turn 1:\nA: Hi, I'm so glad you could make it to our event today! I've heard great things about your work with local students. What do you think about the importance of music and arts education in our community?\nB: Absolutely, I think it's essential. Especially after the pandemic, kids need creative outlets and ways to express themselves more than ever. I've seen firsthand how it can help with their mental health and confidence.\n\nTurn 2:\nA:  Now is an amazing time to join the group. Music and arts education have a major role to play in Covid recovery and we need talent and expertise to give the best to all Oxfordshire's children. Please give it some thought….\nB: That's really resonating with me. I've been looking for a way to make a bigger impact, and this might be the perfect opportunity. Can you tell me more about how I can get involved and what kind of roles are available?",
             "response": "False",
-            "timestamp": "2024-06-20T20:41:28.557000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T21:55:35.089000+00:00",
+            "question": "Was the person intended to be sarcastic when \"Now is an amazing time to join the group. Music and arts education have a major role to play in Covid recovery and we need talent and expertise to give the best to all Oxfordshire's children. Please give it some thought….\" was said during the conversation?"
         },
         {
-            "statement": "I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times",
-            "response": "Ambiguous",
-            "timestamp": "2024-06-20T20:39:25.407000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "I think Boris Johnson deserves his parties after the great job he does for the country these past few years",
+            "statement": "Turn 1:\nA: Can you believe this latest scandal? It's like they think they're above the law.\nB: I know, it's disgusting. And the worst part is that they'll probably get away with it, just like all the others.\n\nTurn 2:\nA: Yeah, it's amazing how they can just lie to our faces and expect us to believe them. Politicians are so honest it melts my heart . \nB: (laughs) Oh, come on, you're not serious, right? They're all corrupt to the core.",
             "response": "True",
-            "timestamp": "2024-06-20T20:38:49.314000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T22:04:00.271000+00:00",
+            "question": "Was the person intended to be sarcastic when \"Politicians are so honest it melts my heart\" was said during the conversation?"
         },
         {
-            "statement": "I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.",
+            "statement": "Turn 1:\nA: I'm just having trouble figuring out how to get started on this task. I feel like I'm overthinking it.\nB: Yeah, it can be tough to know where to begin. What's specifically giving you trouble?\n\nTurn 2:\nA: It's just that every time I try to break it down, I start wondering about all the what-ifs and maybes, and suddenly it feels like I need a Ph.D. in project management to make it happen. Sometimes I wish I could just do the most obvious things without it feeling like rocket science . \nB: I totally get it. Sometimes you just need to take a step back and focus on the simplest solution. Let's try to break it down together and see if we can't make it feel more manageable.",
             "response": "True",
-            "timestamp": "2024-06-20T20:39:54.111000+00:00",
-            "question": "Is the following statement sarcastic?"
+            "timestamp": "2024-06-24T21:56:09.038000+00:00",
+            "question": "Was the person intended to be sarcastic when \"sometimes i wish i could just do the most obvious things without it feeling like rocket science\" was said during the conversation?"
         },
         {
-            "statement": "I think women should be able to join men's sports teams and vice versa. I really don't see any problem with for example having a 5 foot 3 inches slim women versus a 300 pound heavyweight boxer because i feel like women are very much equal to any man. Even much faster and stronger men. If anybody takes offense to my point then they need to reevaluate their lives as their are no man that could do anything better than a lady.",
-            "response": "True",
-            "timestamp": "2024-06-20T20:41:44.431000+00:00",
-            "question": "Is the following statement sarcastic?"
-        },
-        {
-            "statement": "The sun rises from the north and sets at the west.",
+            "statement": "Turn 1:\nA: (looking B up and down) Wow, you really went all out for this party, didn't you?\nB: (oblivious to A's sarcasm) Yeah, I just got this dress yesterday and I couldn't wait to wear it out!\n\nTurn 2:\nA:  You look fantastic in that new dress.  It shows off your figure.\nB: (beaming with pride) Thanks, I was hoping to make a statement!",
             "response": "False",
-            "timestamp": "2024-06-20T20:38:58.520000+00:00",
-            "question": "Please determine if the following statement is true or false."
+            "timestamp": "2024-06-24T22:04:17.789000+00:00",
+            "question": "Was the person intended to be sarcastic when \"You look fantastic in that new dress.  It shows off your figure.\" was said during the conversation?"
         },
         {
-            "statement": "Texas is the capital of the United States.",
+            "statement": "Turn 1:\nA: I'm so fed up with the state of the country right now. The NHS is in shambles, the economy is tanking, and the government seems more interested in lining their own pockets than helping the people.\nB: I know, it's like they're completely out of touch with reality. And to think they're still trying to push through Brexit despite all the warnings and uncertainties.\n\nTurn 2:\nA:  I think Boris Johnson deserves his parties after the great job he does for the country these past few years. \nB: (laughs) Oh, come on, you can't be serious. You're being sarcastic, right?",
+            "response": "True",
+            "timestamp": "2024-06-24T21:55:04.039000+00:00",
+            "question": "Was the person intended to be sarcastic when \"I think Boris Johnson deserves his parties after the great job he does for the country these past few years\" was said during the conversation?"
+        },
+        {
+            "statement": "Turn 1:\nA: I've been feeling like I've been stuck in a rut lately. I want to do something to shake things up and make myself stand out more.\nB: Yeah, I know what you mean. I've been feeling a bit stagnant too. What kind of things are you thinking of doing to mix it up?\n\nTurn 2:\nA:  New years resolution this year is to pick up some more self distinctive habits. Maybe take up a new hobby or try a new style of fashion. Something to make me more memorable.\nB: That's a great idea! I've always admired people who have a unique sense of style or a quirky talent. You should totally go for it!",
             "response": "False",
-            "timestamp": "2024-06-20T20:39:38.250000+00:00",
-            "question": "Please determine if the following statement is true or false."
+            "timestamp": "2024-06-24T21:58:15.996000+00:00",
+            "question": "Was the person intended to be sarcastic when \"New years resolution this year is to pick up some more self distinctive habits.\" was said during the conversation?"
+        },
+        {
+            "statement": "Turn 1:\nA: Did you hear about the PM's latest statement on his COVID-19 hospital stay?\nB: Yeah, I saw it on the news. He was praising the NHS staff for their care. What about it?\n\nTurn 2:\nA: So the PM has finally given his verdict on his COVID NHS stay in hospital.  Don't understand why nurses would not want his pay recomendation. \nB: (laughs) Oh, come on, you know that's not what they meant. He's just trying to save face after his party's handling of the pandemic.",
+            "response": "False",
+            "timestamp": "2024-06-24T21:57:51.936000+00:00",
+            "question": "Was the person intended to be sarcastic when \"So the PM has finally given his verdict on his COVID NHS stay in hospital.  Don't understand why nurses would not want his pay recomendation.\" was said during the conversation?"
         }
     ],
     "surveys": [
@@ -284,23 +144,11 @@
             "responses": [],
             "ratings": [],
             "demographics": {
-                "age": "31",
-                "race": "asian",
-                "gender": "female",
-                "prolificID": "honeydew",
-                "timestamp": "2024-06-20T20:42:34.110000+00:00",
-                "ethnicity": "non_hispanic"
-            }
-        },
-        {
-            "responses": [],
-            "ratings": [],
-            "demographics": {
-                "age": "61",
-                "race": "white",
-                "gender": "female",
-                "prolificID": "5f529c8d81da7d58cd46cc29",
-                "timestamp": "2024-06-20T21:06:24.200000+00:00",
+                "age": "24",
+                "race": "black",
+                "gender": "male",
+                "prolificID": "65e3e36cf4f63b4723f76f46",
+                "timestamp": "2024-06-24T22:04:31.731000+00:00",
                 "ethnicity": "non_hispanic"
             }
         }
