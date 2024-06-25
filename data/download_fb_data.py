@@ -45,15 +45,23 @@ if __name__ == '__main__':
     collection_names = get_all_collections()
     raw_data = {}
     collection_names = [name for name in collection_names if name != 'k']
+    answer_map = {'True': 'sarcastic', 'False': 'not sarcastic'}
+    attention_check_str = "Please determine if the following statement is true or false"
 
     for subject_id in collection_names:
-        print(f"Downloading data from collection for subject: {subject_id}")
-        data = download_data_from_collection(subject_id)        
-        raw_data[subject_id] = data
-        # save data to json for each subject
-        with open(f'data/raw_data/{subject_id}.json', 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-
+        if subject_id != 'surveys':
+            print(f"Downloading data from collection for subject: {subject_id}")
+            data = download_data_from_collection(subject_id)        
+            raw_data[subject_id] = data
+            # save data to pandas dataframe and redo index
+            df = pd.DataFrame(data)
+            # filter rows with attention check
+            df = df[~df['question'].str.startswith(attention_check_str)].reset_index(drop=True)
+            df['Conversation'] = df['statement']        
+            df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
+            df['Answer'] = df['response'].map(answer_map)
+            df.to_csv(f'data/subjects/{subject_id}.csv', index=False)
+            
     # save raw data to json file
     with open('data/raw_data.json', 'w', encoding='utf-8') as f:
         json.dump(raw_data, f, ensure_ascii=False, indent=4)
