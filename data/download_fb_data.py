@@ -45,7 +45,7 @@ if __name__ == '__main__':
     collection_names = get_all_collections()
     raw_data = {}
     collection_names = [name for name in collection_names if name != 'k']
-    answer_map = {'True': 'sarcastic', 'False': 'not sarcastic'}
+    answer_map = {'True': 'sarcastic', 'False': 'not sarcastic', 'Ambiguous': 'ambiguous'}
     attention_check_str = "Please determine if the following statement is true or false"
 
     for subject_id in collection_names:
