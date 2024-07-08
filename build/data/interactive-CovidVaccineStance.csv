@@ -1,0 +1,152 @@
+conversation,original_data,original_label
+"Turn 1:
+A: It's been so long since we last met! How have you been holding up with everything going on?
+B: I've been doing okay, just trying to stay safe and follow the guidelines. How about you?
+
+Turn 2:
+A: Honestly, I'm really worried about the direction things are heading. 
+B: What do you mean? Are you talking about the pandemic?
+
+Turn 3:
+A: Yes, but more specifically about the vaccine and the current administration's policies.
+B: Oh, I see. What concerns you the most about the vaccine?
+
+Turn 4:
+A: There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people! 
+B: That's a strong statement. What makes you believe the vaccine is that dangerous?",There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people!,against
+"Turn 1:
+A: It's been quite a journey with this pandemic, hasn't it? So many changes and developments over the past couple of years.
+B: Absolutely. It's hard to keep up with all the news. What's the latest on the COVID-19 front?
+
+Turn 2:
+A: Well, there's a lot happening.  We have free instant testing. More vaccines than arms. Pfizer just got approval for an antiviral pill for Covid-19. U.S. Army announced near completion of a multi-variant vaccine. Trumps death toll was amassed in mostly lockdown conditions and failing economy.
+B: Wow, that's a lot to take in. It seems like there's some progress, but also a lot of challenges still.",We have free instant testing. More vaccines than arms. Pfizer just got approval for an antiviral pill for Covid-19. U.S. Army announced near completion of a multi-variant vaccine. Trumps death toll was amassed in mostly lockdown conditions and failing economy.,neutral
+"Turn 1:
+A: I just got my second dose of the COVID-19 vaccine yesterday. I feel relieved knowing I'm better protected now.
+B: But don't you think it's pointless? I mean, people are still getting COVID even after getting vaccinated.
+
+Turn 2:
+A: Well ofc it won't take away the virus but rather more have covid with the vaccine so i can be safe than getting covid and not having the vaccine having a huge chance to just fucking die .
+B: I see your point, but I still have my doubts about the long-term effects.",Well ofc it won't take away the virus but rather more have covid with the vaccine so i can be safe than getting covid and not having the vaccine having a huge chance to just fucking die,favoring
+"Turn 1:
+A: It's fascinating how differently people have reacted to the COVID-19 vaccine, don't you think?
+B: Absolutely. Some people were eager to get it, while others were really hesitant. It's like no matter what, there's always going to be a mix of opinions.
+
+Turn 2:
+A: Exactly. I mean, the government could've put out the most helpful and convincing vaccine program of all time and revolutionised world healthcare overnight and there would still be a white british dude in Scunthorpe saying ""look me mam told me never let another bloke near me with a needle"" .
+B: Haha, that's so true. People can be really stubborn about their beliefs, no matter how much evidence you present.","the government could've put out the most helpful and convincing vaccine program of all time and revolutionised world healthcare overnight and there would still be a white british dude in Scunthorpe saying ""look me mam told me never let another bloke near me with a needle""",neutral
+"Turn 1:
+A: I just don't trust these COVID vaccines. They were rushed, and we don't even know what's in them.
+B: But don't you think the scientists and doctors know what they're doing? They wouldn't release something unsafe.
+
+Turn 2:
+A: If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died. 
+B: That's really concerning. But are you sure those issues were directly caused by the vaccine?",If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died.,against
+"Turn 1:
+A: Look at this, B. The news is saying that hospitalizations are up again. How can they still push the vaccine when it's clearly not working?
+B: Well, A, the vaccine isn't perfect, but it does reduce the severity of the illness and the chances of hospitalization. It's not just about preventing the virus entirely.
+
+Turn 2:
+A:  Is again laughing my ass off it's a vaccine words why are there so many people in the hospitals today the vaccine does not work! Here's the man that you believe in.
+B: I understand your frustration, but the experts are saying that the majority of severe cases are among the unvaccinated. The vaccine is still our best tool to manage this pandemic.",Is again laughing my ass off it's a vaccine words why are there so many people in the hospitals today the vaccine does not work! Here's the man that you believe in,against
+"Turn 1:
+A: You know, it's been really tough working in the ICU these past few months. The number of young people we're seeing on ventilators is just heartbreaking.
+B: I get that it's serious, but I still think the media is blowing it out of proportion. Most people our age don't even get that sick.
+
+Turn 2:
+A: All these folks that are against the vaccine and the true effects of Covid, I would love to invite you on a shift with me in the ICU. So y'all can see, that folks YOUR AGE are on vents. 
+B: Wow, I didn't realize it was that bad. Maybe I need to rethink my stance on the vaccine.","All these folks that are against the vaccine and the true effects of Covid, I would love to invite you on a shift with me in the ICU. So y'all can see, that folks YOUR AGE are on vents.",favoring
+"Turn 1:
+A: I just don't get why everyone is so quick to trust this COVID-19 vaccine. It was developed so fast, and we don't know the long-term effects.
+B: But the technology behind it has been in development for years. Plus, the clinical trials were thorough. Look at how many lives it's saving.
+
+Turn 2:
+A: But people are still getting sick and dying even after being fully vaccinated. It's not like the polio vaccine where everyone trusted it right away.
+B: That's because the polio vaccine had a different kind of impact. It eradicated the disease almost completely.
+
+A:  It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.
+B: But the COVID-19 vaccine is reducing severe cases and hospitalizations. Isn't that a significant achievement?",It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.,against
+"Turn 1:
+A: I had to show my vaccine card when I went to Walgreens for my second dose.
+B: Really? I thought all vaccination records were in a central system that everyone could access.
+
+Turn 2:
+A: Not everyone can see all systems I got both of mines on a military base. That is why I had to show my vaccine card. So that is definitely not true so that I could get the vaccine at the Walgreens. 
+B: Oh, I didn't realize that. I guess it makes sense that different places have different requirements.",Not everyone can see all systems I got both of mines on a military base. That is why I had to show my vaccine card. So that is definitely not true so that I could get the vaccine at the Walgreens.,neutral
+"Turn 1:
+A: Have you noticed an increase in people coming in for COVID-19 tests lately?
+B: Yes, it's been quite noticeable. I think the holidays are making people more cautious.
+
+Turn 2:
+A: That's true. Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays. 
+B: Absolutely, and it's crucial that we provide them with accessible testing options to help ease their concerns.","Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays.",neutral
+"Turn 1:
+A: I was looking at the travel guidelines for Europe, and it seems like there are different rules for different countries.
+B: Yeah, I heard that too. Do we need to be vaccinated to enter, or is a negative test enough?
+
+Turn 2:
+A: That is confusing. It looked like you need the vaccine and a safe country. That said, it looks like there's a mandatory 10 day quarantine because the US is a very-high risk area without a variant of concern, and that kill the trip too. 
+B: Oh, that's a bummer. I guess we need to rethink our plans then.","That is confusing. It looked like you need the vaccine and a safe country. That said, it looks like there's a mandatory 10 day quarantine because the US is a very-high risk area without a variant of concern, and that kill the trip too.",neutral
+"Turn 1:
+A: Hey, did you catch the news this morning? There was a segment about vaccine hesitancy.
+B: Yeah, I saw that. It's interesting how many different reasons people have for being hesitant. What do you think about it?
+
+Turn 2:
+A: Actually, I spoke to someone today (in person) who said he wasn't anti vax but was genuinely scared of the vaccine. He has asthma himself and I fear if he gets covid it will hit him hard. My response, why don't you trust scientists who have dedicated their academic lives to virology? 
+B: That's a tough situation. It's hard to know what to say to someone who's genuinely scared.","I spoke to someone today (in person) who said he wasn't anti vax but was genuinely scared of the vaccine. He has asthma himself and I fear if he gets covid it will hit him hard. My response, why don't you trust scientists who have dedicated their academic lives to virology?",neutral
+"Turn 1:
+A: It's been a wild year, hasn't it? How have you been holding up with everything going on?
+B: It's been tough, but I'm managing. How about you? How has the pandemic affected you?
+
+Turn 2:
+A: Honestly, I have literally only made money from this pandemic lmao the vax was free, I got free rapid tests today, if they shut us down… they will have to PUA us again… whats the finesse??? 
+B: Wow, that's quite a perspective. I guess you've found a way to make the best out of a bad situation.","I have literally only made money from this pandemic lmao the vax was free, I got free rapid tests today, if they shut us down… they will have to PUA us again… whats the finesse???",neutral
+"Turn 1:
+A: You know, it's interesting how quickly people jump to social media to vent about problems these days.
+B: Yeah, I noticed that too. Sometimes it feels like people don't even try to resolve the issue directly first.
+
+Turn 2:
+A: Exactly. Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes. 
+B: That's impressive. It's good to hear that some places are still efficient and handle issues promptly.","Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes.",neutral
+"Turn 1:
+A: So, have you heard about the new policies some companies are implementing regarding the COVID-19 vaccine?
+B: Yeah, I saw that. Some places are starting to require employees to be vaccinated. What do you think about that?
+
+Turn 2:
+A: I don't mind people taking the vax out of their own choice and decision .. I just hope they don't make it mandatory and take our personal rights away. No one should be forced to do anything . Most people are vaxd anyway 
+B: I get what you're saying. It's a tough balance between public health and personal freedom.",I don't mind people taking the vax out of their own choice and decision .. I just hope they don't make it mandatory and take our personal rights away. No one should be forced to do anything . Most people are vaxd anyway,neutral
+"Turn 1:
+A: It's interesting how people have such different reactions to the COVID-19 vaccine. Some are really supportive, while others are quite skeptical.
+B: Yeah, I've noticed that too. I've heard some pretty wild theories. What about you? Have you come across any unusual opinions?
+
+Turn 2:
+A: Actually, yes. I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell. 
+B: Wow, that's quite a story. It's amazing how varied people's experiences and beliefs can be.","I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell.",neutral
+"Turn 1:
+A: Did you hear about the new booster programme they're rolling out? I think it's a great step to finally put an end to this pandemic.
+B: I'm not so sure. Do we really need more shots? I thought the initial vaccines were supposed to be enough.
+
+Turn 2:
+A: After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise. 
+B: I get your point, but I just worry about the long-term effects of so many doses.",After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise.,favoring
+"Turn 1:
+A: Have you seen the new government campaign encouraging people to get vaccinated?
+B: Yeah, I saw it. But I don't know if it's really necessary to push so hard. I mean, people should have the freedom to choose, right?
+
+Turn 2:
+A: Is a tough one for sure but has increased vaccination rates in Singapore. There is not a pandemic of smoking or not wearing seatbelts. In fact behaviour around both is improving. Vaccinating is not exactly hard. You hardly feel the prick on your arm. 
+B: I see your point. I guess the urgency with COVID-19 is different from those other issues.",Is a tough one for sure but has increased vaccination rates in Singapore. There is not a pandemic of smoking or not wearing seatbelts. In fact behaviour around both is improving. Vaccinating is not exactly hard. You hardly feel the prick on your arm.,favoring
+"Turn 1:
+A: It's fascinating how quickly the COVID-19 vaccines were developed and approved, don't you think?
+B: Yeah, it really is. I remember there was a lot of skepticism at first. Some people were worried about the speed of the process.
+
+Turn 2:
+A: True, but there were also people who were very confident in the science behind it.  Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine.
+B: Wow, that's quite a leap of faith. It must have been a tough decision to make at that time.","Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine.",neutral
+"Turn 1:
+A: I just can't bring myself to trust the COVID-19 vaccine. I've seen too many people close to me suffer from side effects.
+B: I understand your concern, but the majority of people who get vaccinated don't experience serious side effects. The benefits far outweigh the risks.
+
+Turn 2:
+A: You're entitled to your opinion, I respect that. 2 days ago I knew 5 vaccine injured people in a close circle, today I know 6, 3 of which have this injury for the rest of their lives. In my opinion this is not normal. Risks are even listed on FDA site. I stand by what I say. 
+B: I get that you're worried, but it's important to look at the bigger picture. Vaccines have saved countless lives and helped us get closer to ending the pandemic.","You're entitled to your opinion, I respect that. 2 days ago I knew 5 vaccine injured people in a close circle, today I know 6, 3 of which have this injury for the rest of their lives. In my opinion this is not normal. Risks are even listed on FDA site. I stand by what I say.",against

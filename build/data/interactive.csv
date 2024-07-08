@@ -1,152 +1,149 @@
-conversation,original_data,original_label
+generated_trajectory,original_data,original_label
 "Turn 1:
-A: It's been so long since we last met! How have you been holding up with everything going on?
-B: I've been doing okay, just trying to stay safe and follow the guidelines. How about you?
+A: Did you hear about that celebrity who opened up about their struggles and views on abortion?
+B: No, I didn't. Who was it?
 
 Turn 2:
-A: Honestly, I'm really worried about the direction things are heading. 
-B: What do you mean? Are you talking about the pandemic?
-
-Turn 3:
-A: Yes, but more specifically about the vaccine and the current administration's policies.
-B: Oh, I see. What concerns you the most about the vaccine?
-
-Turn 4:
-A: There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people! 
-B: That's a strong statement. What makes you believe the vaccine is that dangerous?",There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people!,against
+A: Do you mean Bristol? She was just being honest about her feelings - many can relate - hope they choose life too! 
+B: Oh, Bristol Palin? I didn't know she spoke out about that.",do you mean Bristol? She was just being honest about her feelings - many can relate - hope they choose life too!,against
 "Turn 1:
-A: It's been quite a journey with this pandemic, hasn't it? So many changes and developments over the past couple of years.
-B: Absolutely. It's hard to keep up with all the news. What's the latest on the COVID-19 front?
+A: We've been together for quite some time now, and I feel like we should talk about our future. How do you feel about starting a family someday?
+B: I think about it often. I do want to have children, but I believe it's important to discuss our values and beliefs first.
 
 Turn 2:
-A: Well, there's a lot happening.  We have free instant testing. More vaccines than arms. Pfizer just got approval for an antiviral pill for Covid-19. U.S. Army announced near completion of a multi-variant vaccine. Trumps death toll was amassed in mostly lockdown conditions and failing economy.
-B: Wow, that's a lot to take in. It seems like there's some progress, but also a lot of challenges still.",We have free instant testing. More vaccines than arms. Pfizer just got approval for an antiviral pill for Covid-19. U.S. Army announced near completion of a multi-variant vaccine. Trumps death toll was amassed in mostly lockdown conditions and failing economy.,neutral
+A: Absolutely. One thing that's very important to me is that I'm strongly against abortion. I want to make sure we're on the same page about that before we move forward.
+B: I understand, and I respect your views. I also believe in the sanctity of life.
+
+A: That means a lot to me. So, with that in mind, I have to ask,  Will you be my -unborn babiesyouthgen?
+B: Yes, I will. I'm committed to building a future with you and sharing those values.",Will you be my -unborn babiesyouthgen,against
 "Turn 1:
-A: I just got my second dose of the COVID-19 vaccine yesterday. I feel relieved knowing I'm better protected now.
-B: But don't you think it's pointless? I mean, people are still getting COVID even after getting vaccinated.
+A: Hey, B. Got any plans for the weekend?
+B: Not much, just catching up on some reading. How about you?
 
 Turn 2:
-A: Well ofc it won't take away the virus but rather more have covid with the vaccine so i can be safe than getting covid and not having the vaccine having a huge chance to just fucking die .
-B: I see your point, but I still have my doubts about the long-term effects.",Well ofc it won't take away the virus but rather more have covid with the vaccine so i can be safe than getting covid and not having the vaccine having a huge chance to just fucking die,favoring
+A: Looking forward to the protest today. I can't be there long but I hope my signs will. 
+B: Oh, right. The anti-abortion protest. You've been working hard on those signs, haven't you?",Looking forward to the protest today. I can't be there long but I hope my signs will.,against
 "Turn 1:
-A: It's fascinating how differently people have reacted to the COVID-19 vaccine, don't you think?
-B: Absolutely. Some people were eager to get it, while others were really hesitant. It's like no matter what, there's always going to be a mix of opinions.
+A: You know, I've been thinking a lot about the future lately. It would be so wonderful to have little ones running around the house again.
+B: Mom, we've talked about this. I'm really focused on my career right now. Starting a family isn't on my radar at the moment.
 
 Turn 2:
-A: Exactly. I mean, the government could've put out the most helpful and convincing vaccine program of all time and revolutionised world healthcare overnight and there would still be a white british dude in Scunthorpe saying ""look me mam told me never let another bloke near me with a needle"" .
-B: Haha, that's so true. People can be really stubborn about their beliefs, no matter how much evidence you present.","the government could've put out the most helpful and convincing vaccine program of all time and revolutionised world healthcare overnight and there would still be a white british dude in Scunthorpe saying ""look me mam told me never let another bloke near me with a needle""",neutral
+A: But don't you think it's important to think about the future? I mean, what if you wait too long and then it's too late?
+B: I understand your concern, but times have changed. People are having children later in life now. It's not like it used to be.
+
+A: I despair! I want grandchildren or are they a 'luxury item'! And you know how I feel about abortion; it's just not an option for me.",I despair! I want grandchildren or are they a 'luxury item',against
 "Turn 1:
-A: I just don't trust these COVID vaccines. They were rushed, and we don't even know what's in them.
-B: But don't you think the scientists and doctors know what they're doing? They wouldn't release something unsafe.
+A: Hey B, did you see that Jeanne Mathews retweeted my post about supporting pregnant women?
+B: Yeah, I saw that! It's amazing how influential people are recognizing your message. How do you feel about it?
 
 Turn 2:
-A: If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died. 
-B: That's really concerning. But are you sure those issues were directly caused by the vaccine?",If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died.,against
+A: I'm really grateful. I think it's so important to spread the message that every life matters, and her support means a lot. MathewsJeanne Thank you 4 your very RT. God Bless You matter .
+B: That's wonderful, A. It's great to see your efforts being acknowledged by someone so prominent in the pro-life community.",MathewsJeanne Thank you 4 your very RT. God Bless You matter,against
 "Turn 1:
-A: Look at this, B. The news is saying that hospitalizations are up again. How can they still push the vaccine when it's clearly not working?
-B: Well, A, the vaccine isn't perfect, but it does reduce the severity of the illness and the chances of hospitalization. It's not just about preventing the virus entirely.
+A: I can't believe they're trying to pass this restrictive abortion law. It's like they don't care about women's rights at all.
+B: I know, it's infuriating. But you seem really upset. Is everything okay?
 
 Turn 2:
-A:  Is again laughing my ass off it's a vaccine words why are there so many people in the hospitals today the vaccine does not work! Here's the man that you believe in.
-B: I understand your frustration, but the experts are saying that the majority of severe cases are among the unvaccinated. The vaccine is still our best tool to manage this pandemic.",Is again laughing my ass off it's a vaccine words why are there so many people in the hospitals today the vaccine does not work! Here's the man that you believe in,against
+A: I just want to sit in a corner and cry. I wish I was a thicker-skinned feminist but this shit is personal! 
+B: I'm so sorry you're feeling this way. Do you want to talk about what's making it so personal for you?",I just want to sit in a corner and cry. I wish I was a thicker-skinned feminist but this shit is personal!,favoring
 "Turn 1:
-A: You know, it's been really tough working in the ICU these past few months. The number of young people we're seeing on ventilators is just heartbreaking.
-B: I get that it's serious, but I still think the media is blowing it out of proportion. Most people our age don't even get that sick.
+A: I just don't understand why the government feels the need to control what a woman does with her own body. It's a personal choice.
+B: But don't you see it as taking a life? How can you justify that?
 
 Turn 2:
-A: All these folks that are against the vaccine and the true effects of Covid, I would love to invite you on a shift with me in the ICU. So y'all can see, that folks YOUR AGE are on vents. 
-B: Wow, I didn't realize it was that bad. Maybe I need to rethink my stance on the vaccine.","All these folks that are against the vaccine and the true effects of Covid, I would love to invite you on a shift with me in the ICU. So y'all can see, that folks YOUR AGE are on vents.",favoring
+A: No, I can't explain why you would consider a medical procedure that leaves the patient healthy & happy as killing. 
+B: But what about the unborn child? Doesn't it have rights too?","No, I can't explain why you would consider a medical procedure that leaves the patient healthy & happy as killing.",favoring
 "Turn 1:
-A: I just don't get why everyone is so quick to trust this COVID-19 vaccine. It was developed so fast, and we don't know the long-term effects.
-B: But the technology behind it has been in development for years. Plus, the clinical trials were thorough. Look at how many lives it's saving.
+A: You know, I was listening to this podcast called ""LIVE"" earlier today. The host was talking about some really intense stuff.
+B: Oh really? What kind of topics were they discussing?
 
 Turn 2:
-A: But people are still getting sick and dying even after being fully vaccinated. It's not like the polio vaccine where everyone trusted it right away.
-B: That's because the polio vaccine had a different kind of impact. It eradicated the disease almost completely.
-
-A:  It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.
-B: But the COVID-19 vaccine is reducing severe cases and hospitalizations. Isn't that a significant achievement?",It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.,against
+A: So mint! Listening to LIVE & he s talking about being total Evil. Even if you're pro-choice, he makes some compelling arguments against it. It's fascinating how he breaks down the moral implications.
+B: Wow, that sounds intense. I know you're against abortion, so what did you think about his points?",So mint! Listening to LIVE & he s talking about being total Evil. Even if you're pro-,against
 "Turn 1:
-A: I had to show my vaccine card when I went to Walgreens for my second dose.
-B: Really? I thought all vaccination records were in a central system that everyone could access.
+A: Did you read that article about the new abortion law? It's causing quite a stir.
+B: Yeah, I did. It's such a complex issue. I can see both sides, but I think women should have the right to choose.
 
 Turn 2:
-A: Not everyone can see all systems I got both of mines on a military base. That is why I had to show my vaccine card. So that is definitely not true so that I could get the vaccine at the Walgreens. 
-B: Oh, I didn't realize that. I guess it makes sense that different places have different requirements.",Not everyone can see all systems I got both of mines on a military base. That is why I had to show my vaccine card. So that is definitely not true so that I could get the vaccine at the Walgreens.,neutral
+A: I understand where you're coming from, but I have a different perspective. You see, I was an accidental baby and as far as I know, my parents were happy to have me. 
+B: Wow, that's really interesting. So, your personal experience shapes your views on this issue?","I was an accidental baby and as far as I know, my parents were happy to have me.",against
 "Turn 1:
-A: Have you noticed an increase in people coming in for COVID-19 tests lately?
-B: Yes, it's been quite noticeable. I think the holidays are making people more cautious.
+A: Alright, next question. What's something you absolutely hate?
+B: Hmm, that's a tough one. I guess I really hate when people are inconsiderate. What about you?
 
 Turn 2:
-A: That's true. Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays. 
-B: Absolutely, and it's crucial that we provide them with accessible testing options to help ease their concerns.","Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays.",neutral
+A: 12. something you hate. People who don't believe abortion should be kept safe and sterile. 
+B: Yeah, it's so important for it to be safe and accessible.",12. something you hate. People who don't believe abortion should be kept safe and sterile.,favoring
 "Turn 1:
-A: I was looking at the travel guidelines for Europe, and it seems like there are different rules for different countries.
-B: Yeah, I heard that too. Do we need to be vaccinated to enter, or is a negative test enough?
+A: Did you watch the debate last night? They were talking about making abortion illegal again.
+B: Yeah, I did. Honestly, I think it's a good idea. People should take responsibility for their actions.
 
 Turn 2:
-A: That is confusing. It looked like you need the vaccine and a safe country. That said, it looks like there's a mandatory 10 day quarantine because the US is a very-high risk area without a variant of concern, and that kill the trip too. 
-B: Oh, that's a bummer. I guess we need to rethink our plans then.","That is confusing. It looked like you need the vaccine and a safe country. That said, it looks like there's a mandatory 10 day quarantine because the US is a very-high risk area without a variant of concern, and that kill the trip too.",neutral
+A: I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense. 
+B: But what about the unborn child's right to life?",I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense.,favoring
 "Turn 1:
-A: Hey, did you catch the news this morning? There was a segment about vaccine hesitancy.
-B: Yeah, I saw that. It's interesting how many different reasons people have for being hesitant. What do you think about it?
+A: I understand that you support the right to choose, but I believe that life begins at conception and that we should protect it. However, I also think it's crucial to respect and support the pregnant person's autonomy throughout the pregnancy.
+B: But how can you support bodily autonomy if you're against abortion? Isn't that contradictory?
 
 Turn 2:
-A: Actually, I spoke to someone today (in person) who said he wasn't anti vax but was genuinely scared of the vaccine. He has asthma himself and I fear if he gets covid it will hit him hard. My response, why don't you trust scientists who have dedicated their academic lives to virology? 
-B: That's a tough situation. It's hard to know what to say to someone who's genuinely scared.","I spoke to someone today (in person) who said he wasn't anti vax but was genuinely scared of the vaccine. He has asthma himself and I fear if he gets covid it will hit him hard. My response, why don't you trust scientists who have dedicated their academic lives to virology?",neutral
+A: Not necessarily. I believe that we can support the pregnant person's right to make decisions about their body in other ways. For example, ensuring they have access to quality healthcare, emotional support, and the resources they need to make informed choices.  Never during a pregnancy does a pregnant person's body cease being their own. Support bodily autonomy. Be
+B: I see what you're saying. So, you're advocating for comprehensive support for pregnant individuals while still holding your pro-life stance.",Never during a pregnancy does a pregnant person's body cease being their own. Support bodily autonomy. Be,against
 "Turn 1:
-A: It's been a wild year, hasn't it? How have you been holding up with everything going on?
-B: It's been tough, but I'm managing. How about you? How has the pandemic affected you?
+A: Wow, this speaker is really hitting all the important points about women's rights.
+B: Absolutely. It's so empowering to hear someone advocate for our right to make choices about our own bodies.
 
 Turn 2:
-A: Honestly, I have literally only made money from this pandemic lmao the vax was free, I got free rapid tests today, if they shut us down… they will have to PUA us again… whats the finesse??? 
-B: Wow, that's quite a perspective. I guess you've found a way to make the best out of a bad situation.","I have literally only made money from this pandemic lmao the vax was free, I got free rapid tests today, if they shut us down… they will have to PUA us again… whats the finesse???",neutral
+A: Yes, and putting abortion in with choices for women just won my heart over. Yaaaaaas! 
+B: I couldn't agree more. It's about time we have the freedom to make decisions that are best for us.",putting abortion in with choices for women just won my heart over. Yaaaaaas!,favoring
 "Turn 1:
-A: You know, it's interesting how quickly people jump to social media to vent about problems these days.
-B: Yeah, I noticed that too. Sometimes it feels like people don't even try to resolve the issue directly first.
+A: Pastor B, I just wanted to say how much I appreciated your speech today. It's so important to remind everyone about the value of life.
+B: Thank you, A. It's always heartening to see people who share the same values. What part of the speech resonated with you the most?
 
 Turn 2:
-A: Exactly. Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes. 
-B: That's impressive. It's good to hear that some places are still efficient and handle issues promptly.","Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes.",neutral
+A: The part where you talked about the sanctity of life and how every child is a gift from God really touched me.  All babies are a blessing thank you for loving what you been preaching.
+B: I'm glad to hear that, A. It's crucial that we continue to support and cherish every life, especially in these challenging times.",All babies are a blessing thank you for loving what you been preaching,against
 "Turn 1:
-A: So, have you heard about the new policies some companies are implementing regarding the COVID-19 vaccine?
-B: Yeah, I saw that. Some places are starting to require employees to be vaccinated. What do you think about that?
+A: Did you see the news about that new abortion clinic opening downtown? It's like they're mocking us with this.
+B: Yeah, I saw it. It's frustrating, but we have to find a way to fight this legally and peacefully.
 
 Turn 2:
-A: I don't mind people taking the vax out of their own choice and decision .. I just hope they don't make it mandatory and take our personal rights away. No one should be forced to do anything . Most people are vaxd anyway 
-B: I get what you're saying. It's a tough balance between public health and personal freedom.",I don't mind people taking the vax out of their own choice and decision .. I just hope they don't make it mandatory and take our personal rights away. No one should be forced to do anything . Most people are vaxd anyway,neutral
+A: Legally and peacefully? Sometimes I feel like that's not enough. One day I'm gonna set an abortion clinic on fire. Anyone wanna join? 
+B: Whoa, A, that's way too extreme. We can't resort to violence. There are better ways to make our voices heard.",One day I'm gonna set an abortion clinic on fire. Anyone wanna join?,against
 "Turn 1:
-A: It's interesting how people have such different reactions to the COVID-19 vaccine. Some are really supportive, while others are quite skeptical.
-B: Yeah, I've noticed that too. I've heard some pretty wild theories. What about you? Have you come across any unusual opinions?
+A: I just don't understand how anyone can justify ending a potential life. It's a human being from the moment of conception.
+B: But what about situations where the woman isn't ready to be a mother? Or cases of rape or incest? Shouldn't she have the right to make that choice?
 
 Turn 2:
-A: Actually, yes. I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell. 
-B: Wow, that's quite a story. It's amazing how varied people's experiences and beliefs can be.","I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell.",neutral
+A: I get that those situations are incredibly difficult, but there are other options like adoption.  Then make sure Udon't get pregnant. And don't KILL your child if you do! You are the mom RESPONSIBLE 4child's life!
+B: But it's not always that simple. Life is complicated, and sometimes people make mistakes or find themselves in impossible situations.",Then make sure Udon't get pregnant. And don't KILL your child if you do! You are the mom RESPONSIBLE 4child's life!,against
 "Turn 1:
-A: Did you hear about the new booster programme they're rolling out? I think it's a great step to finally put an end to this pandemic.
-B: I'm not so sure. Do we really need more shots? I thought the initial vaccines were supposed to be enough.
+A: You know, I just can't support abortion. I believe every life is precious from the moment of conception.
+B: I understand where you're coming from, but I think women should have the right to make decisions about their own bodies. It's a deeply personal choice.
 
 Turn 2:
-A: After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise. 
-B: I get your point, but I just worry about the long-term effects of so many doses.",After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise.,favoring
+A: But don't you think that by allowing abortions, we're devaluing life itself?
+B: I don't see it that way. I think it's about giving women control over their own lives and futures.
+
+A: - I guess this means you're happy for me to be pro-life as I never aborted any of my own children? 
+B: Of course, I respect your choices. I just believe others should have the freedom to make their own decisions too.",- I guess this means you're happy for me to be pro-life as I never aborted any of my own children?,against
 "Turn 1:
-A: Have you seen the new government campaign encouraging people to get vaccinated?
-B: Yeah, I saw it. But I don't know if it's really necessary to push so hard. I mean, people should have the freedom to choose, right?
+A: I read that article you sent me about the new abortion laws. It's a really complex issue.
+B: Yeah, it is. I just think men should support women's rights to make decisions about their own bodies. What do you think?
 
 Turn 2:
-A: Is a tough one for sure but has increased vaccination rates in Singapore. There is not a pandemic of smoking or not wearing seatbelts. In fact behaviour around both is improving. Vaccinating is not exactly hard. You hardly feel the prick on your arm. 
-B: I see your point. I guess the urgency with COVID-19 is different from those other issues.",Is a tough one for sure but has increased vaccination rates in Singapore. There is not a pandemic of smoking or not wearing seatbelts. In fact behaviour around both is improving. Vaccinating is not exactly hard. You hardly feel the prick on your arm.,favoring
+A: I understand where you're coming from, but I believe that life begins at conception and that abortion is wrong. However, I also think that as a man, the only body I should have a say in is my own. 
+B: So, you're against abortion but you don't think men should be making laws about it?","As a man, the only body I should have a say in is my own.",against
 "Turn 1:
-A: It's fascinating how quickly the COVID-19 vaccines were developed and approved, don't you think?
-B: Yeah, it really is. I remember there was a lot of skepticism at first. Some people were worried about the speed of the process.
+A: You know, with my birthday coming up, I always get a bit reflective. I think about my life and the choices that led me here.
+B: That makes sense. Birthdays can be a time for deep thoughts. Do you ever think about your biological parents?
 
 Turn 2:
-A: True, but there were also people who were very confident in the science behind it.  Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine.
-B: Wow, that's quite a leap of faith. It must have been a tough decision to make at that time.","Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine.",neutral
+A: Absolutely. On my bday I'm always so grateful to my bio parents who gave me up for  adoption. I can't imagine what they went through, but I'm thankful they chose life for me.
+B: That's really touching, A. It's clear how much you value life and the choices that brought you here.",On my bday I'm always so grateful to my bio parents who gave me up for,against
 "Turn 1:
-A: I just can't bring myself to trust the COVID-19 vaccine. I've seen too many people close to me suffer from side effects.
-B: I understand your concern, but the majority of people who get vaccinated don't experience serious side effects. The benefits far outweigh the risks.
+A: I can see you're really struggling with this decision. It's a lot to take in, and I want you to know that I'm here for you no matter what.
+B: Thanks, A. It's just that everyone keeps telling me that abortion is the best option. They say it's the compassionate choice, but I feel so conflicted.
 
 Turn 2:
-A: You're entitled to your opinion, I respect that. 2 days ago I knew 5 vaccine injured people in a close circle, today I know 6, 3 of which have this injury for the rest of their lives. In my opinion this is not normal. Risks are even listed on FDA site. I stand by what I say. 
-B: I get that you're worried, but it's important to look at the bigger picture. Vaccines have saved countless lives and helped us get closer to ending the pandemic.","You're entitled to your opinion, I respect that. 2 days ago I knew 5 vaccine injured people in a close circle, today I know 6, 3 of which have this injury for the rest of their lives. In my opinion this is not normal. Risks are even listed on FDA site. I stand by what I say.",against
+A: I understand why you feel that way. But I want you to know that your life is worth a lot. Don't believe any ""compassionate"" politicians or doctors or friends who tell you otherwise. You matter. 
+B: Thank you, A. That means a lot to me. I really needed to hear that.","Your life is worth a lot. Don't believe any ""compassionate"" politicians or doctors or friends who tell you otherwise. You matter.",against
