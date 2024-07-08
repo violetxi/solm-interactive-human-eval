@@ -1,0 +1,271 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1:
+A: Remember those Monday nights back in college when we'd gather at my place to watch the game?
+B: Oh, absolutely! Those were some of the best times. The commentary always made it even more exciting.
+
+Turn 2:
+A: Exactly! Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football. 
+B: Totally! Their commentary was legendary. It really made the games unforgettable.",positive,2024-07-08T07:22:03.057000+00:00,"What was the person's sentiment when they said ""Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football"" during the conversation?","Turn 1:
+A: Remember those Monday nights back in college when we'd gather at my place to watch the game?
+B: Oh, absolutely! Those were some of the best times. The commentary always made it even more exciting.
+
+Turn 2:
+A: Exactly! Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football. 
+B: Totally! Their commentary was legendary. It really made the games unforgettable.",Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football,positive
+"Turn 1:
+A: You know, last night's match was incredible! I can't believe how intense it got.
+B: Absolutely! The energy was off the charts. Who do you think will win the next big event?
+
+Turn 2:
+A: Funny you ask, I had a dream that Brock Lesnar won the 3rd annual because he F5d everyone. I woke up hoping it wasn't a dream. 
+B: Wow, that sounds epic! Imagine if that actually happened. Lesnar is a beast!",positive,2024-07-08T07:24:12.916000+00:00,"What was the person's sentiment when they said ""I had a dream that Brock Lesnar won the 3rd annual because he F5d everyone. I woke up hoping it wasn't a dream."" during the conversation?","Turn 1:
+A: You know, last night's match was incredible! I can't believe how intense it got.
+B: Absolutely! The energy was off the charts. Who do you think will win the next big event?
+
+Turn 2:
+A: Funny you ask, I had a dream that Brock Lesnar won the 3rd annual because he F5d everyone. I woke up hoping it wasn't a dream. 
+B: Wow, that sounds epic! Imagine if that actually happened. Lesnar is a beast!",I had a dream that Brock Lesnar won the 3rd annual because he F5d everyone. I woke up hoping it wasn't a dream.,positive
+"Turn 1:
+A: Hey B! Did you check out the new Swift tutorials they posted for Swift Day? They're amazing!
+B: Yeah, I saw them! I can't wait to dive in. You seem really pumped about today.
+
+Turn 2:
+A: Happy Swift Day! lol That's probably the 10th time I said that! Haha have a great day everyone(: 
+B: Thanks, A! Your enthusiasm is contagious. Let's make the most of it!",positive,2024-07-08T07:23:55.558000+00:00,"What was the person's sentiment when they said ""Happy Swift Day! lol That's probably the 10th time I said that! Haha have a great day everyone(:"" during the conversation?","Turn 1:
+A: Hey B! Did you check out the new Swift tutorials they posted for Swift Day? They're amazing!
+B: Yeah, I saw them! I can't wait to dive in. You seem really pumped about today.
+
+Turn 2:
+A: Happy Swift Day! lol That's probably the 10th time I said that! Haha have a great day everyone(: 
+B: Thanks, A! Your enthusiasm is contagious. Let's make the most of it!",Happy Swift Day! lol That's probably the 10th time I said that! Haha have a great day everyone(:,positive
+"Turn 1:
+A: Man, this place is buzzing! I love the energy here.
+B: Yeah, it's great! Who are you rooting for in the fight tonight?
+
+Turn 2:
+A: Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! 
+B: Haha, you really are into this! Let's grab another round and enjoy the fight!",positive,2024-07-08T07:24:41.875000+00:00,"What was the person's sentiment when they said ""Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!"" during the conversation?","Turn 1:
+A: Man, this place is buzzing! I love the energy here.
+B: Yeah, it's great! Who are you rooting for in the fight tonight?
+
+Turn 2:
+A: Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! 
+B: Haha, you really are into this! Let's grab another round and enjoy the fight!","Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!",positive
+"Turn 1:
+A: I just got back from watching Magic Mike, and it was amazing! The choreography and the energy were off the charts.
+B: Really? I've been meaning to watch it. Was it better than you expected?
+
+Turn 2:
+A: Absolutely! So Magic Mike with was super great. Tomorrow I'm going to see Mission Impossible, but all I wanna do is watch Magic Mike XXL. 
+B: Wow, it must have been really good if you're already thinking about the sequel! Maybe we should watch it together.",positive,2024-07-08T07:21:33.131000+00:00,"What was the person's sentiment when they said ""So Magic Mike with was super great. Tomorrow I'm going to see Mission Impossible, but all I wanna do is watch Magic Mike XXL."" during the conversation?","Turn 1:
+A: I just got back from watching Magic Mike, and it was amazing! The choreography and the energy were off the charts.
+B: Really? I've been meaning to watch it. Was it better than you expected?
+
+Turn 2:
+A: Absolutely! So Magic Mike with was super great. Tomorrow I'm going to see Mission Impossible, but all I wanna do is watch Magic Mike XXL. 
+B: Wow, it must have been really good if you're already thinking about the sequel! Maybe we should watch it together.","So Magic Mike with was super great. Tomorrow I'm going to see Mission Impossible, but all I wanna do is watch Magic Mike XXL.",positive
+"Turn 1:
+A: Hey, B. You seem to be packing up early. Got any plans for the weekend?
+B: Yeah, I'm heading out for a quick getaway to the mountains. Need a break from all this work.
+
+Turn 2:
+A: Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious. 
+B: Oh man, that sounds rough. I hope you get through it quickly.",negative,2024-07-08T07:20:48.926000+00:00,"What was the person's sentiment when they said ""Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious"" during the conversation?","Turn 1:
+A: Hey, B. You seem to be packing up early. Got any plans for the weekend?
+B: Yeah, I'm heading out for a quick getaway to the mountains. Need a break from all this work.
+
+Turn 2:
+A: Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious. 
+B: Oh man, that sounds rough. I hope you get through it quickly.",Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious,negative
+"Turn 1:
+A: Hey, it's been a while! How have you been?
+B: I've been good, just busy with work. How about you? Did you do anything fun over the weekend?
+
+Turn 2:
+A: Oh, absolutely! Seeing Magic Mike XXL with my mains last Friday! 
+B: That sounds like a blast! How was it?",positive,2024-07-08T07:23:10.336000+00:00,"What was the person's sentiment when they said ""Seeing Magic Mike XXL with my mains last Friday!"" during the conversation?","Turn 1:
+A: Hey, it's been a while! How have you been?
+B: I've been good, just busy with work. How about you? Did you do anything fun over the weekend?
+
+Turn 2:
+A: Oh, absolutely! Seeing Magic Mike XXL with my mains last Friday! 
+B: That sounds like a blast! How was it?",Seeing Magic Mike XXL with my mains last Friday!,positive
+"Turn 1:
+A: That was an exciting game, wasn't it? What did you think of the new quarterback?
+B: Yeah, it was! I thought he did pretty well, especially for his first game. What about you?
+
+Turn 2:
+A: I was impressed with LaRussa. Defense dominant on 1st team. Bentley ok, better near end. Deep at RB. Punting needs some work. 
+B: I agree, LaRussa really stood out. And you're right about the punting; they definitely need to improve there.",positive,2024-07-08T07:21:19.858000+00:00,"What was the person's sentiment when they said ""I was impressed with LaRussa. Defense dominant on 1st team. Bentley ok, better near end. Deep at RB. Punting needs some work."" during the conversation?","Turn 1:
+A: That was an exciting game, wasn't it? What did you think of the new quarterback?
+B: Yeah, it was! I thought he did pretty well, especially for his first game. What about you?
+
+Turn 2:
+A: I was impressed with LaRussa. Defense dominant on 1st team. Bentley ok, better near end. Deep at RB. Punting needs some work. 
+B: I agree, LaRussa really stood out. And you're right about the punting; they definitely need to improve there.","I was impressed with LaRussa. Defense dominant on 1st team. Bentley ok, better near end. Deep at RB. Punting needs some work.",positive
+"Turn 1:
+A: Wow, that went really well! Did you see how engaged the audience was?
+B: Absolutely! But I did get a few comments about our slides. They said they looked a bit amateurish.
+
+Turn 2:
+A: Ha! Probably google. Get some pro ones done for the next time! Off to tomorrow! Can't wait 
+B: Great idea! I'll start working on that tonight. Tomorrow's going to be even better!",neutral,2024-07-08T07:26:20.634000+00:00,"What was the person's sentiment when they said ""ha! Probably google. Get some pro ones done for the next time! Off to tomorrow! Can't wait"" during the conversation?","Turn 1:
+A: Wow, that went really well! Did you see how engaged the audience was?
+B: Absolutely! But I did get a few comments about our slides. They said they looked a bit amateurish.
+
+Turn 2:
+A: Ha! Probably google. Get some pro ones done for the next time! Off to tomorrow! Can't wait 
+B: Great idea! I'll start working on that tonight. Tomorrow's going to be even better!",ha! Probably google. Get some pro ones done for the next time! Off to tomorrow! Can't wait,neutral
+"Turn 1:
+A: You know, I've been binge-watching ""The Vampire Diaries"" lately, and I can't believe how much I'm enjoying it!
+B: Really? That's awesome! What do you like most about it?
+
+Turn 2:
+A: The characters are so intriguing, and the plot twists keep me on the edge of my seat. I think I might have found a new favorite show.
+B: That sounds like a lot of fun! Have you thought about sharing your thoughts on it somewhere?
+
+A:  I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!",positive,2024-07-08T07:25:20.909000+00:00,"What was the person's sentiment when they said ""I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!"" during the conversation?","Turn 1:
+A: You know, I've been binge-watching ""The Vampire Diaries"" lately, and I can't believe how much I'm enjoying it!
+B: Really? That's awesome! What do you like most about it?
+
+Turn 2:
+A: The characters are so intriguing, and the plot twists keep me on the edge of my seat. I think I might have found a new favorite show.
+B: That sounds like a lot of fun! Have you thought about sharing your thoughts on it somewhere?
+
+A:  I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!",I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!,positive
+"Turn 1:
+A: Hey, guess what? I just got an email from the company.
+B: Oh? What's it about?
+
+Turn 2:
+A: Lovely- just received our complementary tickets to game v tomorrow.. Hoping or some goals.We go 0-3 Chelsea 
+B: That's awesome! I can't wait. Let's hope for a great match!",positive,2024-07-08T07:21:08.062000+00:00,"What was the person's sentiment when they said ""Lovely- just received our complementary tickets to game v tomorrow.. Hoping or some goals.We go 0-3 Chelsea"" during the conversation?","Turn 1:
+A: Hey, guess what? I just got an email from the company.
+B: Oh? What's it about?
+
+Turn 2:
+A: Lovely- just received our complementary tickets to game v tomorrow.. Hoping or some goals.We go 0-3 Chelsea 
+B: That's awesome! I can't wait. Let's hope for a great match!",Lovely- just received our complementary tickets to game v tomorrow.. Hoping or some goals.We go 0-3 Chelsea,positive
+"Turn 1:
+A: You know, it's really tough for people in the public eye, especially those who take on massive social causes.
+B: Absolutely. The pressure must be immense. Do you remember the KONY2012 campaign?
+
+Turn 2:
+A: Yes, I do. Actually, KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity .
+B: Wow, that's intense. It really shows how overwhelming it can be to carry such a heavy burden.",negative,2024-07-08T07:25:05.528000+00:00,"What was the person's sentiment when they said ""KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity"" during the conversation?","Turn 1:
+A: You know, it's really tough for people in the public eye, especially those who take on massive social causes.
+B: Absolutely. The pressure must be immense. Do you remember the KONY2012 campaign?
+
+Turn 2:
+A: Yes, I do. Actually, KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity .
+B: Wow, that's intense. It really shows how overwhelming it can be to carry such a heavy burden.",KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity,negative
+"Turn 1:
+A: So, what are you up to this weekend?
+B: Not much, just thinking of catching a movie. How about you?
+
+Turn 2:
+A: I could be going to digi tomorrow but I thought I was supposed to be seeing the girls but they cancelled lmao 
+B: Oh, that sucks. Well, at least you have a backup plan!",negative,2024-07-08T07:23:32.644000+00:00,"What was the person's sentiment when they said ""I could be going to digi tomorrow but I thought I was supposed to be seeing the girls but they cancelled lmao"" during the conversation?","Turn 1:
+A: So, what are you up to this weekend?
+B: Not much, just thinking of catching a movie. How about you?
+
+Turn 2:
+A: I could be going to digi tomorrow but I thought I was supposed to be seeing the girls but they cancelled lmao 
+B: Oh, that sucks. Well, at least you have a backup plan!",I could be going to digi tomorrow but I thought I was supposed to be seeing the girls but they cancelled lmao,negative
+"Turn 1:
+A: Hey, do you have any plans for the weekend?
+B: Not much, just thinking about doing some online shopping. I need to get a few things for my home.
+
+Turn 2:
+A: Oh, you should definitely check out Amazon Prime Day!  It's Amazon Prime Day using the Autism Sprinter link, it's a new as good as getting deals on a Black Friday!!...
+B: Really? That sounds amazing! I'll definitely look into it. Thanks for the tip!",positive,2024-07-08T07:25:46.485000+00:00,"What was the person's sentiment when they said ""It's Amazon Prime Day using the Autism Sprinter link, it's a new as good as getting deals on a Black Friday!!..."" during the conversation?","Turn 1:
+A: Hey, do you have any plans for the weekend?
+B: Not much, just thinking about doing some online shopping. I need to get a few things for my home.
+
+Turn 2:
+A: Oh, you should definitely check out Amazon Prime Day!  It's Amazon Prime Day using the Autism Sprinter link, it's a new as good as getting deals on a Black Friday!!...
+B: Really? That sounds amazing! I'll definitely look into it. Thanks for the tip!","It's Amazon Prime Day using the Autism Sprinter link, it's a new as good as getting deals on a Black Friday!!...",positive
+"Turn 1:
+A: You know, I was reading an article about digital security last night. It made me realize how much we depend on our online accounts.
+B: Yeah, it's crazy. I can't imagine losing access to my email or cloud storage. It would be a nightmare.
+
+Turn 2:
+A: What would happen if you lost access to your Google Account tomorrow? - I actually don't know. hahahaha! 
+B: Honestly, I'd probably panic. So much of my life is tied to that account.",negative,2024-07-08T07:22:57.790000+00:00,"What was the person's sentiment when they said ""What would happen if you lost access to your Google Account tomorrow? - I actually don't know. hahahaha!"" during the conversation?","Turn 1:
+A: You know, I was reading an article about digital security last night. It made me realize how much we depend on our online accounts.
+B: Yeah, it's crazy. I can't imagine losing access to my email or cloud storage. It would be a nightmare.
+
+Turn 2:
+A: What would happen if you lost access to your Google Account tomorrow? - I actually don't know. hahahaha! 
+B: Honestly, I'd probably panic. So much of my life is tied to that account.",What would happen if you lost access to your Google Account tomorrow? - I actually don't know. hahahaha!,negative
+"Turn 1:
+A: Hey, got any plans for the weekend?
+B: Not really, just thinking about catching a movie. Any recommendations?
+
+Turn 2:
+A: You just askin the wrong folks. Equalizer is a must tomorrow since I'm off. 
+B: Oh, that sounds great! I've heard good things about it. Thanks for the tip!",positive,2024-07-08T07:20:17.853000+00:00,"What was the person's sentiment when they said ""you just askin the wrong folks. Equalizer is a must tomorrow since I'm off"" during the conversation?","Turn 1:
+A: Hey, got any plans for the weekend?
+B: Not really, just thinking about catching a movie. Any recommendations?
+
+Turn 2:
+A: You just askin the wrong folks. Equalizer is a must tomorrow since I'm off. 
+B: Oh, that sounds great! I've heard good things about it. Thanks for the tip!",you just askin the wrong folks. Equalizer is a must tomorrow since I'm off,positive
+"Turn 1:
+A: Wow, did you see that catch by Kris Bryant? That was incredible!
+B: Yeah, he's been on fire this season. His versatility on the field is just amazing.
+
+Turn 2:
+A: Absolutely. You know, Kris Bryant may be one of my favorite ball players all-time when it's said and done. 
+B: I can see why. He's got the talent, the work ethic, and he's a great team player.",positive,2024-07-08T07:22:27.516000+00:00,"What was the person's sentiment when they said ""Kris Bryant may be one of my favorite ball players all-time when it's said and done."" during the conversation?","Turn 1:
+A: Wow, did you see that catch by Kris Bryant? That was incredible!
+B: Yeah, he's been on fire this season. His versatility on the field is just amazing.
+
+Turn 2:
+A: Absolutely. You know, Kris Bryant may be one of my favorite ball players all-time when it's said and done. 
+B: I can see why. He's got the talent, the work ethic, and he's a great team player.",Kris Bryant may be one of my favorite ball players all-time when it's said and done.,positive
+"Turn 1:
+A: I can't believe there's literally nothing to do here on a Sunday. We've been sitting in this café for hours.
+B: Yeah, it's pretty quiet. But maybe we can find something online? There has to be some event or activity happening.
+
+Turn 2:
+A: I've already checked. There's nothing. No events, no gatherings, not even a decent movie playing at the theater.
+B: Wow, that's rough. I guess small towns have their downsides.
+
+A:  Sundays in the Sag is like a Friday in Idaho.....boring as fuck!
+B: I get it, but maybe we just need to explore more. There has to be something interesting around here.",negative,2024-07-08T07:21:49.374000+00:00,"What was the person's sentiment when they said ""Sundays in the Sag is like a Friday in Idaho.....boring as fuck!"" during the conversation?","Turn 1:
+A: I can't believe there's literally nothing to do here on a Sunday. We've been sitting in this café for hours.
+B: Yeah, it's pretty quiet. But maybe we can find something online? There has to be some event or activity happening.
+
+Turn 2:
+A: I've already checked. There's nothing. No events, no gatherings, not even a decent movie playing at the theater.
+B: Wow, that's rough. I guess small towns have their downsides.
+
+A:  Sundays in the Sag is like a Friday in Idaho.....boring as fuck!
+B: I get it, but maybe we just need to explore more. There has to be something interesting around here.",Sundays in the Sag is like a Friday in Idaho.....boring as fuck!,negative
+"Turn 1:
+A: Hey, do you have any exciting plans for the weekend?
+B: Not much, just relaxing at home. How about you?
+
+Turn 2:
+A: One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend! 
+B: Wow, that sounds like an amazing weekend! I'm jealous!",positive,2024-07-08T07:22:18.184000+00:00,"What was the person's sentiment when they said ""One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend!"" during the conversation?","Turn 1:
+A: Hey, do you have any exciting plans for the weekend?
+B: Not much, just relaxing at home. How about you?
+
+Turn 2:
+A: One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend! 
+B: Wow, that sounds like an amazing weekend! I'm jealous!",One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend!,positive
+"Turn 1:
+A: Hey, it's so good to see you! How was your trip?
+B: It was amazing! I can't wait to tell you all about it. But first, what's new with you?
+
+Turn 2:
+A: Oh, there's so much to share! Roomie and I are moving into our new apartment tomorrow and then going to Disneyland in 3 days. 
+B: Wow, that sounds incredible! You must be so excited!",positive,2024-07-08T07:20:29.573000+00:00,"What was the person's sentiment when they said ""Roomie and I are moving into our new apartment tomorrow and then going to Disneyland in 3 days."" during the conversation?","Turn 1:
+A: Hey, it's so good to see you! How was your trip?
+B: It was amazing! I can't wait to tell you all about it. But first, what's new with you?
+
+Turn 2:
+A: Oh, there's so much to share! Roomie and I are moving into our new apartment tomorrow and then going to Disneyland in 3 days. 
+B: Wow, that sounds incredible! You must be so excited!",Roomie and I are moving into our new apartment tomorrow and then going to Disneyland in 3 days.,positive

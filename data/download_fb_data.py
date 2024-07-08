@@ -59,7 +59,7 @@ if __name__ == '__main__':
             df = df[~df['question'].str.startswith(attention_check_str)].reset_index(drop=True)
             df['Conversation'] = df['statement']        
             df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
-            df['Answer'] = df['response'].map(answer_map)
+            df['Answer'] = df['response'] #.map(answer_map)
             df.to_csv(f'data/subjects/{subject_id}.csv', index=False)
             
     # save raw data to json file
