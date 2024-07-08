@@ -133,8 +133,8 @@ const Instructions = ({ onComplete, setProlificID }) => {
           <p>Welcome to this intent recognition experiment!</p>
           <p>
             In this study, you will be presented a conversation containing a statement and your task is to 
-            judge if the statement is <span style={{color: 'blue'}}> in favor of </span>, 
-            <span style={{color: 'red'}}> against</span> or <span style={{color: 'green'}}> neutral</span> towards COVID19 Vaccine.
+            judge if the statement is <span style={{color: 'blue'}}> sarcastic </span> 
+            or <span style={{color: 'red'}}> not sarcastic</span> in the context of the conversation
           </p>
           <p> Our goal is to find out how well people can recognize the intent behind a statement in a conversation. </p>
           <p><strong>IMPORTANT NOTE:</strong> Please read all instructions carefully and thoroughly. At the end of the instructions, you will be asked comprehension questions to ensure you have fully understood the task and your role in this experiment.</p>
@@ -147,10 +147,9 @@ const Instructions = ({ onComplete, setProlificID }) => {
         <>
           <h2>Instructions 2/2: Choices</h2>
           <p>For each statement, you will choose from the following:</p>
-          <p><strong>In favor of COVID19 vaccination</strong></p>
-          <p><strong>Against COVID19 vaccination</strong></p>
-          <p><strong>Neutral</strong>: If the statement does not express a sentiment towards COVID19 vaccine.</p>
-          <p><strong>Ambiguous</strong>: If you cannot determine if the statement is in favor of or against COVID19 vaccine without more context, or if you do not understand the statement.</p>
+          <p><strong>True</strong>: If the statement is sarcastic given the conversation.</p>
+          <p><strong>False</strong>: If the statement is not sarcastic given the conversation.</p>
+          <p><strong>Ambiguous</strong>: If you cannot determine if the statement is sarcastic or not, or if you do not understand the statement given the conversation.</p>
         </>
       ) 
     },
@@ -172,7 +171,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               </div>
             </div>
             <div className="question">
-              <p>2. When you do not understand the statement, just select "against" as the answer.</p>
+              <p>2. When you do not understand the statement, just select "not sarcastic" as the answer.</p>
               <div className="form-check">
                 <input type="radio" id="comp-2-true" name="comprehension-2" value="true" className="form-check-input" />
                 <label htmlFor="comp-2-true" className="form-check-label">True</label>
@@ -183,7 +182,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               </div>
             </div>
             <div className="question">
-              <p>3. When you think the statement is ambiguous and can be either in favor of or against COVID19 vaccination, you should select "ambiguous". </p>
+              <p>3. When you think the statement is ambiguous and can be either sarcastic or not sarcastic, you should select "ambiguous". </p>
               <div className="form-check">
                 <input type="radio" id="comp-3-true" name="comprehension-3" value="true" className="form-check-input" />
                 <label htmlFor="comp-3-true" className="form-check-label">True</label>

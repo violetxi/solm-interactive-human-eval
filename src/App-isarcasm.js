@@ -57,7 +57,7 @@ function App() {
     loadCSV('data/interactive.csv')
       .then((data) => {
         const questionsData = data.map(item => ({
-          question: `What was the person's stance on COVID19 vaccine when they said "${item.original_data}" during the conversation?`,
+          question: `Was the person intended to be sarcastic when "${item.original_data}" was said during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -88,8 +88,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `CovidVaccineStance-${prolificID}`;
-      await addDoc(collection(db, updatedProlificID), newResponse);
+      await addDoc(collection(db, prolificID), newResponse);
       console.log('Response logged:', response);
 
       // Ensure this is called after logging the response
@@ -161,17 +160,14 @@ function App() {
               </>
             ) : (
               <>
-               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('favoring')}>
-                In favor of COVID19 vaccination
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
+                  True: the statement is sarcastic
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('against')}>
-                Against COVID19 vaccination
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
+                  False: the statement is not sarcastic
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                 Neutral
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                 Ambiguous
+                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
+                  Ambiguous: I am not sure if this is sarcastic or not
                 </button>
               </>
             )}
