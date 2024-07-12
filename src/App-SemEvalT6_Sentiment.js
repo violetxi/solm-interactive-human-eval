@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 import { collection, addDoc } from 'firebase/firestore';
-import { db } from './firebaseConfig'; // 导入Firebase配置
-import Instructions from './Instructions'; // 导入Instructions组件
-import Demographics from './Demographics'; // 导入Demographics组件
+import { db } from './firebaseConfig'; // Import Firebase config
+import Instructions from './Instructions'; // Import the Instructions component
+import Demographics from './Demographics'; // Import the Demographics component
 import './App.css';
 
-// 加载CSV文件的函数
+// Function to load the CSV file
 const loadCSV = (url) => {
   return new Promise((resolve, reject) => {
     Papa.parse(url, {
@@ -22,7 +22,7 @@ const loadCSV = (url) => {
   });
 };
 
-// 使用Fisher-Yates算法打乱数组的函数
+// Function to shuffle an array using Fisher-Yates algorithm
 const shuffleArray = (array) => {
   const shuffledArray = [...array];
   for (let i = shuffledArray.length - 1; i > 0; i--) {
@@ -33,19 +33,19 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "请确定以下陈述是正确还是错误。", statement: "1 + 1 = 2", note: "你不应该选择“模棱两可”。", correctAnswer: "True", isAttentionCheck: true },
-  { question: "请确定以下陈述是正确还是错误。", statement: "请选择“正确”。", note: "你不应该选择“模棱两可”。", correctAnswer: "True", isAttentionCheck: true },
-  { question: "请确定以下陈述是正确还是错误。", statement: "请选择“错误”。", note: "你不应该选择“模棱两可”。", correctAnswer: "False", isAttentionCheck: true }
+  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
 ];
 
 function App() {
-  // 说明内容
+  // instruction content
   const [showInstructions, setShowInstructions] = useState(true);
   const [prolificID, setProlificID] = useState('');
-  // 主研究内容
+  // main study content
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  // 人口统计内容
+  // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
 
@@ -57,7 +57,7 @@ function App() {
     loadCSV('data/interactive.csv')
       .then((data) => {
         const questionsData = data.map(item => ({
-          question: `当一个人在对话中说"${item.original_data}"时，他们的情感是什么？`,
+          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -66,7 +66,7 @@ function App() {
         setQuestions(allQuestions);
       })
       .catch((error) => {
-        console.error('加载CSV时出错:', error);
+        console.error('Error loading CSV:', error);
       });
   }, []);
 
@@ -79,7 +79,7 @@ function App() {
   };
 
   const logResponse = async (response) => {
-    console.log('记录响应:', response);
+    console.log('Logging response:', response);
     try {
       const currentQuestion = questions[currentQuestionIndex];
       const newResponse = {
@@ -88,41 +88,41 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `SIMS-ch-1-${prolificID}`;
+      let updatedProlificID = `SemEvalT6_Sentiment-1-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
-      console.log('响应已记录:', response);
+      console.log('Response logged:', response);
 
-      // 确保在记录响应后调用此函数
+      // Ensure this is called after logging the response
       handleNextQuestion();
     } catch (e) {
-      console.error('添加文档时出错: ', e);
+      console.error('Error adding document: ', e);
     }
   };
 
   const handleDemographicsComplete = async (demographicsData) => {
-    // 处理人口统计调查的完成
-    console.log('人口统计调查已完成');
+    // Handle completion of the demographics survey
+    console.log('Demographics survey completed');
   };
 
   const parseConversation = (conversation) => {
     return conversation.split('\n').map((line, index) => {
       const trimmedLine = line.trim();
-      if (trimmedLine.startsWith('A：')) {
+      if (trimmedLine.startsWith('A:')) {
         return { speaker: 'A', content: trimmedLine.substring(2).trim() };
-      } else if (trimmedLine.startsWith('B：')) {
+      } else if (trimmedLine.startsWith('B:')) {
         return { speaker: 'B', content: trimmedLine.substring(2).trim() };
       }
       return null;
-    }).filter(Boolean);    
+    }).filter(Boolean);
   };
 
-  const currentQuestion = questions[currentQuestionIndex]?.question || '加载中...';
+  const currentQuestion = questions[currentQuestionIndex]?.question || 'Loading...';
   const currentStatement = questions[currentQuestionIndex]?.statement || '';
   const currentNote = questions[currentQuestionIndex]?.note || '';
   const isAttentionCheck = questions[currentQuestionIndex]?.isAttentionCheck || false;
   const parsedConversation = parseConversation(currentStatement);
-  
-  return (    
+
+  return (
     <div className="App">
       {showInstructions ? (
         <Instructions onComplete={handleInstructionsComplete} setProlificID={setProlificID} />
@@ -130,48 +130,48 @@ function App() {
         <Demographics
           onComplete={handleDemographicsComplete}
           responses={responses}
-          ratings={[]} // 假设您有需要传递的评分
+          ratings={[]} // Assuming you have ratings to pass here
           prolificID={prolificID}
         />
       ) : (
         <header className="App-header">
-          {!isAttentionCheck && <p>请阅读下面的对话：</p>}
-          <div className="conversation">            
-            {!isAttentionCheck && parsedConversation.map((line, index) => (              
+          {!isAttentionCheck && <p>Please read the conversation below:</p>}
+          <div className="conversation">
+            {!isAttentionCheck && parsedConversation.map((line, index) => (
               <p key={index} style={{ color: line.speaker === 'A' ? 'red' : 'blue', margin: '0 0 10px 0' }}>
                 {line.speaker}: {line.content}
               </p>
-            ))}            
+            ))}
+            {isAttentionCheck && <p>{currentStatement}</p>}
           </div>          
           <p>{currentQuestion}</p>
-          {isAttentionCheck && <p>{currentStatement}</p>}
           {currentNote && <p>{currentNote}</p>}
           <div>
             {isAttentionCheck ? (
               <>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
-                  正确
+                  True
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
-                  错误
+                  False
                 </button>
                 <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  模棱两可
+                  Ambiguous
                 </button>
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
-                  积极的
+               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
+                Positive
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
-                  消极的
+                Negative
                 </button>               
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                  中立的
+                Neutral
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                  模棱两可
+                 Ambiguous
                 </button>
               </>
             )}
