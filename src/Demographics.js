@@ -1,18 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import './Demographics.css';
-import { db } from './firebaseConfig'; // 导入Firestore实例
-import { collection, addDoc } from 'firebase/firestore'; // 导入Firestore函数
+import { db } from './firebaseConfig'; // Import the Firestore instance
+import { collection, addDoc } from 'firebase/firestore'; // Import Firestore functions
 
 const Demographics = ({ onComplete, responses, ratings, prolificID }) => {
   const [age, setAge] = useState('');
   const [gender, setGender] = useState('');
+  const [race, setRace] = useState('');
+  const [ethnicity, setEthnicity] = useState('');
   const [submitted, setSubmitted] = useState(false);
   const [formValid, setFormValid] = useState(false);
 
   useEffect(() => {
-    const isValid = age && gender;
+    const isValid = age && gender && race && ethnicity;
     setFormValid(isValid);
-  }, [age, gender]);
+  }, [age, gender, race, ethnicity]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -20,6 +22,8 @@ const Demographics = ({ onComplete, responses, ratings, prolificID }) => {
     const demographics = {
       age,
       gender,
+      race,
+      ethnicity,
       prolificID,
       timestamp: new Date()
     };
@@ -31,15 +35,15 @@ const Demographics = ({ onComplete, responses, ratings, prolificID }) => {
     };
 
     try {
-      // 保存所有数据到Firestore
+      // Save all data to Firestore
       await addDoc(collection(db, "surveys"), data);
-      console.log("问卷成功提交！");
+      console.log("Survey successfully written!");
       setSubmitted(true);
       onComplete();
     } catch (error) {
-      console.error("提交问卷时出错: ", error);
-      // 将数据记录到控制台
-      console.log("问卷数据:", data);
+      console.error("Error writing survey: ", error);
+      // Log data to console instead
+      console.log("Survey data:", data);
       setSubmitted(true);
       onComplete();
     }
@@ -49,16 +53,16 @@ const Demographics = ({ onComplete, responses, ratings, prolificID }) => {
     <div className="container">
       {submitted ? (
         <div>
-          <h2>感谢您完成问卷！</h2>
-          {/* <p>您的完成代码是: <strong>ABCD</strong></p>
-          <p>您的完成URL是: <a href="https://completion.url">https://completion.url</a></p> */}
+          <h2>Thank you for completing the survey!</h2>
+          {/* <p>Your completion code is: <strong>ABCD</strong></p>
+          <p>Your completion URL is: <a href="https://completion.url">https://completion.url</a></p> */}
         </div>
       ) : (
         <>
-          <h2>人口统计问卷</h2>
+          <h2>Demographics Survey</h2>
           <form onSubmit={handleSubmit}>
             <div className="form-group">
-              <label htmlFor="age">年龄:</label>
+              <label htmlFor="age">Age:</label>
               <input
                 type="number"
                 id="age"
@@ -71,7 +75,7 @@ const Demographics = ({ onComplete, responses, ratings, prolificID }) => {
               />
             </div>
             <div className="form-group">
-              <label htmlFor="gender">性别:</label>
+              <label htmlFor="gender">Gender:</label>
               <select
                 id="gender"
                 className="form-control"
@@ -79,16 +83,49 @@ const Demographics = ({ onComplete, responses, ratings, prolificID }) => {
                 onChange={(e) => setGender(e.target.value)}
                 required
               >
-                <option value="" disabled>选择您的性别</option>
-                <option value="female">女性</option>
-                <option value="male">男性</option>
-                <option value="non-binary">非二元</option>
-                <option value="other">其他</option>
-                <option value="prefer not to say">不愿透露</option>
+                <option value="" disabled>Select your gender</option>
+                <option value="female">Female</option>
+                <option value="male">Male</option>
+                <option value="non-binary">Non-Binary</option>
+                <option value="other">Other</option>
+                <option value="prefer not to say">Prefer not to say</option>
+              </select>
+            </div>
+            <div className="form-group">
+              <label htmlFor="race">Race:</label>
+              <select
+                id="race"
+                className="form-control"
+                value={race}
+                onChange={(e) => setRace(e.target.value)}
+                required
+              >
+                <option value="" disabled>Select your race</option>
+                <option value="white">White</option>
+                <option value="black">Black/African American</option>
+                <option value="american_indian">American Indian/Alaska Native</option>
+                <option value="asian">Asian</option>
+                <option value="native_hawaiian">Native Hawaiian/Pacific Islander</option>
+                <option value="multiracial">Multiracial/Mixed</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+            <div className="form-group">
+              <label htmlFor="ethnicity">Ethnicity:</label>
+              <select
+                id="ethnicity"
+                className="form-control"
+                value={ethnicity}
+                onChange={(e) => setEthnicity(e.target.value)}
+                required
+              >
+                <option value="" disabled>Select your ethnicity</option>
+                <option value="hispanic">Hispanic</option>
+                <option value="non_hispanic">Non-Hispanic</option>
               </select>
             </div>
             <button type="submit" className={`btn ${!formValid ? 'btn-secondary' : 'btn-primary'}`} disabled={!formValid}>
-              提交
+              Submit
             </button>
           </form>
         </>

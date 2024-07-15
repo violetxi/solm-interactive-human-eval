@@ -33,9 +33,9 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
+  { question: "", statement: "Is 1 + 1 = 2 true? Select your answer below.", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "", statement: "Please select 'True'.", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true }
 ];
 
 function App() {
