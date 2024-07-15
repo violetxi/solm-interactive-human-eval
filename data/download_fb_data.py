@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import pandas as pd
 from google.cloud import firestore
 from google.api_core.datetime_helpers import DatetimeWithNanoseconds
@@ -29,8 +30,6 @@ def download_data_from_collection(collection_name):
     return data
 
 
-
-
 def convert_timestamps(data):    
     for key, value in data.items():
         if isinstance(value, DatetimeWithNanoseconds):
@@ -39,6 +38,11 @@ def convert_timestamps(data):
             data[key] = convert_timestamps(value)
 
     return data
+
+
+def extract_within_quotes(text):
+    matches = re.findall(r'[“"](.*?)[”"]', text)    
+    return matches[0] if matches else None
 
 
 if __name__ == '__main__':
@@ -57,8 +61,11 @@ if __name__ == '__main__':
             df = pd.DataFrame(data)
             # filter rows with attention check
             df = df[~df['question'].str.startswith(attention_check_str)].reset_index(drop=True)
-            df['Conversation'] = df['statement']        
-            df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
+            df['Conversation'] = df['statement']            
+            try:
+                df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
+            except Exception as e:                
+                df['Statement'] = df['question'].map(lambda x: extract_within_quotes(x))
             df['Answer'] = df['response'] #.map(answer_map)
             df.to_csv(f'data/subjects/{subject_id}.csv', index=False)
             
