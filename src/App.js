@@ -35,7 +35,7 @@ const shuffleArray = (array) => {
 const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
-  { question: "", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
@@ -57,7 +57,8 @@ function App() {
   useEffect(() => {
     loadCSV('data/set_1.csv')
       .then((data) => {
-        const questionsData = data.map(item => ({
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
+        map(item => ({
           question: `Was the person intended to be sarcastic when "${item.original_data}" was said during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
