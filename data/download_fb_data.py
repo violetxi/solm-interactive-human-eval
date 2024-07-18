@@ -64,12 +64,13 @@ if __name__ == '__main__':
 
     # current_data_prefix = 'iSarcasm-No-Amb'
     # current_data_prefix = 'SemEvalT6_Sentiment_No_Amb'
-    current_data_prefix = 'Full-iSarcasm'
+    # current_data_prefix = 'Full-iSarcasm-1'
+    current_data_prefix = 'Full-iSarcasm-2'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:
         if subject_id != 'surveys' and subject_id.startswith(current_data_prefix):
-            print(f"Downloading data from collection for subject: {subject_id}")
+            # print(f"Downloading data from collection for subject: {subject_id}")
             data = download_data_from_collection(subject_id)        
             raw_data[subject_id] = data
             # save data to pandas dataframe and redo index
@@ -78,11 +79,10 @@ if __name__ == '__main__':
             attention_check_df = df[df['statement'].isin(attention_check_strs)]
             # check if all attention check questions are answered correctly
             attention_check_df['passed'] = attention_check_df['statement'].map(ATTENTION_CHECK_QA) == attention_check_df['response']
-            # Only keep data if all attention check questions are answered correctly
-            # print(attention_check_df)
-            if attention_check_df['passed'].all():            
+            # Only keep data if all attention check questions are answered correctly            
+            # print(attention_check_df['passed'])
+            if not attention_check_df.empty and attention_check_df['passed'].all():
                 df = df[~df['statement'].isin(attention_check_strs)]
-
                 df['Conversation'] = df['statement']
                 try:
                     df['Statement'] = df['question'].map(lambda x: x.split('"')[1])

@@ -1,0 +1,265 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Hey B, do you have a moment to help me with this project? I'm stuck on a part and could really use your input.I am very sorry but I do not have time for this now.  I need o be somewhere.
+B: Oh, A, I wish I could help right now, but I'm swamped with a deadline and have an important meeting in 15 minutes. Can we catch up later today?
+
+Turn 2
+A: I understand, B. I didn't realize you were so pressed for time. How about we touch base after your meeting? Would that work for you?
+B: That sounds good. I'll be free around 3 PM. Let's connect then, and I'll be happy to assist you with the project.",Not sarcastic,2024-07-18T22:51:27.502000+00:00,"Was the person intended to be sarcastic when ""I am very sorry but I do not have time for this now.  I need o be somewhere."" was said during the conversation?","Turn 1
+A: Hey B, do you have a moment to help me with this project? I'm stuck on a part and could really use your input.I am very sorry but I do not have time for this now.  I need o be somewhere.
+B: Oh, A, I wish I could help right now, but I'm swamped with a deadline and have an important meeting in 15 minutes. Can we catch up later today?
+
+Turn 2
+A: I understand, B. I didn't realize you were so pressed for time. How about we touch base after your meeting? Would that work for you?
+B: That sounds good. I'll be free around 3 PM. Let's connect then, and I'll be happy to assist you with the project.",I am very sorry but I do not have time for this now.  I need o be somewhere.,Not sarcastic
+"Turn 1
+A: You know, it's a shame how some really talented artists never get the recognition they deserve. Like, they have all this amazing music, but they just don't get the spotlight. Im just gonna go out there and say it… Chas and Dave are underrated in my opinion.
+B: Absolutely. Take Chas and Dave, for instance. I feel like they're so underrated. Their music is so catchy and full of character, but you hardly hear people talking about them these days.
+
+Turn 2
+A: Oh, totally! Their blend of rock and roll with a bit of cockney charm is just unique. ""Ain't No Pleasing You"" is such a classic, but it seems like only a few people really appreciate it.
+B: Exactly! And their live performances were something else. They had this incredible energy and connection with the audience. It's a real shame they don't get more credit for their contribution to music.",Not sarcastic,2024-07-18T22:46:51.315000+00:00,"Was the person intended to be sarcastic when ""Im just gonna go out there and say it… Chas and Dave are underrated in my opinion."" was said during the conversation?","Turn 1
+A: You know, it's a shame how some really talented artists never get the recognition they deserve. Like, they have all this amazing music, but they just don't get the spotlight. Im just gonna go out there and say it… Chas and Dave are underrated in my opinion.
+B: Absolutely. Take Chas and Dave, for instance. I feel like they're so underrated. Their music is so catchy and full of character, but you hardly hear people talking about them these days.
+
+Turn 2
+A: Oh, totally! Their blend of rock and roll with a bit of cockney charm is just unique. ""Ain't No Pleasing You"" is such a classic, but it seems like only a few people really appreciate it.
+B: Exactly! And their live performances were something else. They had this incredible energy and connection with the audience. It's a real shame they don't get more credit for their contribution to music.",Im just gonna go out there and say it… Chas and Dave are underrated in my opinion.,Not sarcastic
+"Turn 1
+A: I can't believe how long we had to wait for our order. It's like they didn't even care that we were standing there.
+B: Yeah, it was ridiculous. And when we finally got our food, it was cold. I mean, how hard is it to serve hot fries?
+
+Turn 2
+A: Exactly! And the burger was a mess. The lettuce was wilted, and the bun was soggy. McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh. 20 minutes wait, cold food and my burger looks like its been in a fight with Mike Tyson It's like they just threw it together without any effort.
+B: I know, right? And don't even get me started on the drink. It was mostly ice with barely any soda. What a waste of money.",Sarcastic,2024-07-18T22:47:55.548000+00:00,"Was the person intended to be sarcastic when ""McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh. 20 minutes wait, cold food and my burger looks like its been in a fight with Mike Tyson"" was said during the conversation?","Turn 1
+A: I can't believe how long we had to wait for our order. It's like they didn't even care that we were standing there.
+B: Yeah, it was ridiculous. And when we finally got our food, it was cold. I mean, how hard is it to serve hot fries?
+
+Turn 2
+A: Exactly! And the burger was a mess. The lettuce was wilted, and the bun was soggy. McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh. 20 minutes wait, cold food and my burger looks like its been in a fight with Mike Tyson It's like they just threw it together without any effort.
+B: I know, right? And don't even get me started on the drink. It was mostly ice with barely any soda. What a waste of money.","McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh. 20 minutes wait, cold food and my burger looks like its been in a fight with Mike Tyson",Sarcastic
+"Turn 1
+A: Hey, how's your day been so far?
+B: Oh, it's been alright. I went to McDonald's earlier, but it was such a hassle. The line was ridiculously long, and when I finally got my food, it was pretty disappointing.
+
+Turn 2
+A: Ugh, that's the worst. Went to McDonalds today, unfortunately there was a long wait, which meant that my food was cold and not like the photo in the restaurant What did you order?
+B: Just a simple burger and fries, but the burger was cold and the fries were soggy. Not exactly what I was hoping for.",Not sarcastic,2024-07-18T22:51:37.751000+00:00,"Was the person intended to be sarcastic when ""Went to McDonalds today, unfortunately there was a long wait, which meant that my food was cold and not like the photo in the restaurant"" was said during the conversation?","Turn 1
+A: Hey, how's your day been so far?
+B: Oh, it's been alright. I went to McDonald's earlier, but it was such a hassle. The line was ridiculously long, and when I finally got my food, it was pretty disappointing.
+
+Turn 2
+A: Ugh, that's the worst. Went to McDonalds today, unfortunately there was a long wait, which meant that my food was cold and not like the photo in the restaurant What did you order?
+B: Just a simple burger and fries, but the burger was cold and the fries were soggy. Not exactly what I was hoping for.","Went to McDonalds today, unfortunately there was a long wait, which meant that my food was cold and not like the photo in the restaurant",Not sarcastic
+"Turn 1
+A: I wanted to show you this video from our family reunion last summer. this video is very special to me It was such a special day for all of us.
+B: Oh, I remember that day! It was so wonderful to see everyone together. Let's watch it.
+
+Turn 2
+A: Look, there's Grandma dancing with the kids. She was so happy that day.
+B: She looks so joyful. It's moments like these that remind us how important family is. Thank you for sharing this with me.",Not sarcastic,2024-07-18T22:50:51.601000+00:00,"Was the person intended to be sarcastic when ""this video is very special to me"" was said during the conversation?","Turn 1
+A: I wanted to show you this video from our family reunion last summer. this video is very special to me It was such a special day for all of us.
+B: Oh, I remember that day! It was so wonderful to see everyone together. Let's watch it.
+
+Turn 2
+A: Look, there's Grandma dancing with the kids. She was so happy that day.
+B: She looks so joyful. It's moments like these that remind us how important family is. Thank you for sharing this with me.",this video is very special to me,Not sarcastic
+"Turn 1
+A: Hey, I have my COVID-19 booster appointment coming up next week, but it's scheduled for right after school. Anyone know if I can take my kids with me while I get my covid booster? The appointments in my area are all after school. Do you know if it's okay to bring the kids along?
+
+B: Oh, I had the same issue last month. I ended up taking my kids with me, and it was totally fine. The clinic staff were really understanding and even had a little waiting area with some toys.
+
+Turn 2
+A: That's a relief to hear! I was worried they might not allow it or that the kids would get restless. Did you have to wait long?
+
+B: Not really, we were in and out in about 30 minutes. I brought some snacks and their tablets just in case, but they were pretty entertained with what was there. Just make sure to bring masks for everyone.",Not sarcastic,2024-07-18T22:51:01.036000+00:00,"Was the person intended to be sarcastic when ""Anyone know if I can take my kids with me while I get my covid booster? The appointments in my area are all after school."" was said during the conversation?","Turn 1
+A: Hey, I have my COVID-19 booster appointment coming up next week, but it's scheduled for right after school. Anyone know if I can take my kids with me while I get my covid booster? The appointments in my area are all after school. Do you know if it's okay to bring the kids along?
+
+B: Oh, I had the same issue last month. I ended up taking my kids with me, and it was totally fine. The clinic staff were really understanding and even had a little waiting area with some toys.
+
+Turn 2
+A: That's a relief to hear! I was worried they might not allow it or that the kids would get restless. Did you have to wait long?
+
+B: Not really, we were in and out in about 30 minutes. I brought some snacks and their tablets just in case, but they were pretty entertained with what was there. Just make sure to bring masks for everyone.",Anyone know if I can take my kids with me while I get my covid booster? The appointments in my area are all after school.,Not sarcastic
+"Turn 1
+A: I have an appointment to get vaccinated this afternoon. Off to get my jab to protect myself I'm a bit nervous about it.
+B: Oh, I totally understand. I was a bit anxious too, but it went really smoothly. The staff were very professional and made me feel comfortable.
+
+Turn 2
+A: That's good to hear. I know it's important, especially with the recent health advisory from work.
+B: Absolutely. It's a great step towards staying healthy and protecting everyone around us. Plus, it gives you peace of mind knowing you're doing your part.",Not sarcastic,2024-07-18T22:48:33.800000+00:00,"Was the person intended to be sarcastic when ""Off to get my jab to protect myself"" was said during the conversation?","Turn 1
+A: I have an appointment to get vaccinated this afternoon. Off to get my jab to protect myself I'm a bit nervous about it.
+B: Oh, I totally understand. I was a bit anxious too, but it went really smoothly. The staff were very professional and made me feel comfortable.
+
+Turn 2
+A: That's good to hear. I know it's important, especially with the recent health advisory from work.
+B: Absolutely. It's a great step towards staying healthy and protecting everyone around us. Plus, it gives you peace of mind knowing you're doing your part.",Off to get my jab to protect myself,Not sarcastic
+"Turn 1
+A: ""Well, isn't this project just the most 'rewarding' thing we've ever done?"" *rolls eyes* Wow, work is just so rewarding and fulfilling right now
+B: ""I know, right? It's like we're running a marathon with no finish line in sight.""
+
+Turn 2
+A: ""I can't even remember the last time I had a full night's sleep. This is brutal.""
+B: ""Same here. But hey, at least we're in this together. We'll get through it somehow.""",Sarcastic,2024-07-18T22:48:07.366000+00:00,"Was the person intended to be sarcastic when ""Wow, work is just so rewarding and fulfilling right now"" was said during the conversation?","Turn 1
+A: ""Well, isn't this project just the most 'rewarding' thing we've ever done?"" *rolls eyes* Wow, work is just so rewarding and fulfilling right now
+B: ""I know, right? It's like we're running a marathon with no finish line in sight.""
+
+Turn 2
+A: ""I can't even remember the last time I had a full night's sleep. This is brutal.""
+B: ""Same here. But hey, at least we're in this together. We'll get through it somehow.""","Wow, work is just so rewarding and fulfilling right now",Sarcastic
+"Turn 1
+A: Ugh, I can't believe how much there is to do before Christmas. I feel like I'm drowning in preparations, especially with the pressure to cook this huge meal for everyone. I'm soo excited to cook a three course Christmas dinner for my whole family this year!
+B: I hear you. It sounds overwhelming. Have you thought about simplifying the menu or maybe asking family members to bring a dish to share the load?
+
+Turn 2
+A: I did consider that, but I feel like everyone expects me to do it all. It's kind of become a tradition, you know?
+B: Traditions are important, but so is your sanity. Maybe you could start a new tradition this year—one where everyone pitches in. It could make the day more enjoyable for you and still be special for everyone.",Sarcastic,2024-07-18T22:49:58.518000+00:00,"Was the person intended to be sarcastic when ""I'm soo excited to cook a three course Christmas dinner for my whole family this year!"" was said during the conversation?","Turn 1
+A: Ugh, I can't believe how much there is to do before Christmas. I feel like I'm drowning in preparations, especially with the pressure to cook this huge meal for everyone. I'm soo excited to cook a three course Christmas dinner for my whole family this year!
+B: I hear you. It sounds overwhelming. Have you thought about simplifying the menu or maybe asking family members to bring a dish to share the load?
+
+Turn 2
+A: I did consider that, but I feel like everyone expects me to do it all. It's kind of become a tradition, you know?
+B: Traditions are important, but so is your sanity. Maybe you could start a new tradition this year—one where everyone pitches in. It could make the day more enjoyable for you and still be special for everyone.",I'm soo excited to cook a three course Christmas dinner for my whole family this year!,Sarcastic
+"Turn 1
+A: Well, isn't this just the perfect way to spend a lunch break? Nothing like a surprise shower to keep things interesting.
+B: Oh, absolutely. I was just thinking my day needed a little more excitement. Who needs dry clothes anyway?
+
+Turn 2
+A: Right? And the mud on my shoes? It's like a free spa treatment for my feet. I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.
+B: Totally! And the best part is, we get to sit in the office all afternoon feeling like we just swam through a swamp.",Sarcastic,2024-07-18T22:49:04.100000+00:00,"Was the person intended to be sarcastic when ""I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it."" was said during the conversation?","Turn 1
+A: Well, isn't this just the perfect way to spend a lunch break? Nothing like a surprise shower to keep things interesting.
+B: Oh, absolutely. I was just thinking my day needed a little more excitement. Who needs dry clothes anyway?
+
+Turn 2
+A: Right? And the mud on my shoes? It's like a free spa treatment for my feet. I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.
+B: Totally! And the best part is, we get to sit in the office all afternoon feeling like we just swam through a swamp.",I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.,Sarcastic
+"Turn 1
+A: ""Oh great, my first driving lesson. Can't wait to go for my first driving lesson today. The thought of getting into a metal death trap that kills thousands of people every year just fills me with joy! Can't wait to become a human bumper car.""
+B: ""Come on, you'll be fine! Remember, everyone starts somewhere. Plus, you have the reflexes of a cat... a slightly clumsy cat, but still!""
+
+Turn 2
+A: ""Yeah, a cat that's had too much catnip. I'm going to be a disaster.""
+B: ""If you can survive our late-night pizza runs, you can handle this. Just think of it as another adventure, but with fewer toppings and more traffic rules.""",Sarcastic,2024-07-18T22:49:14.300000+00:00,"Was the person intended to be sarcastic when ""Can't wait to go for my first driving lesson today. The thought of getting into a metal death trap that kills thousands of people every year just fills me with joy!"" was said during the conversation?","Turn 1
+A: ""Oh great, my first driving lesson. Can't wait to go for my first driving lesson today. The thought of getting into a metal death trap that kills thousands of people every year just fills me with joy! Can't wait to become a human bumper car.""
+B: ""Come on, you'll be fine! Remember, everyone starts somewhere. Plus, you have the reflexes of a cat... a slightly clumsy cat, but still!""
+
+Turn 2
+A: ""Yeah, a cat that's had too much catnip. I'm going to be a disaster.""
+B: ""If you can survive our late-night pizza runs, you can handle this. Just think of it as another adventure, but with fewer toppings and more traffic rules.""",Can't wait to go for my first driving lesson today. The thought of getting into a metal death trap that kills thousands of people every year just fills me with joy!,Sarcastic
+"Turn 1
+A: Ugh, I swear, if I have to stare at that spreadsheet for one more minute, my eyes might just fall out.
+B: I hear you. Mondays are the worst, especially after a weekend that felt way too short.
+
+Turn 2
+A: Seriously, it's like I didn't even get a break. Can't wait to sit at my desk for 7 and half hours. Back working harder than me... I spent most of Sunday catching up on chores and now I'm back here, chained to my desk.
+B: That sounds rough. Maybe we should plan a proper relaxing weekend soon, something to really recharge.",Sarcastic,2024-07-18T22:48:13.382000+00:00,"Was the person intended to be sarcastic when ""Can't wait to sit at my desk for 7 and half hours. Back working harder than me..."" was said during the conversation?","Turn 1
+A: Ugh, I swear, if I have to stare at that spreadsheet for one more minute, my eyes might just fall out.
+B: I hear you. Mondays are the worst, especially after a weekend that felt way too short.
+
+Turn 2
+A: Seriously, it's like I didn't even get a break. Can't wait to sit at my desk for 7 and half hours. Back working harder than me... I spent most of Sunday catching up on chores and now I'm back here, chained to my desk.
+B: That sounds rough. Maybe we should plan a proper relaxing weekend soon, something to really recharge.",Can't wait to sit at my desk for 7 and half hours. Back working harder than me...,Sarcastic
+"Turn 1
+A: Ugh, what a nightmare of a commute. I don't think I've ever been this soaked.
+B: Tell me about it. Nothing like a good old British downpour to start the day, right?
+
+Turn 2
+A: Seriously, it's like the weather has a personal vendetta against us. I live for the great British weather!
+B: Oh, absolutely. I just love how it waits until we're halfway to work to unleash its fury.",Sarcastic,2024-07-18T22:47:35.982000+00:00,"Was the person intended to be sarcastic when ""I live for the great British weather!"" was said during the conversation?","Turn 1
+A: Ugh, what a nightmare of a commute. I don't think I've ever been this soaked.
+B: Tell me about it. Nothing like a good old British downpour to start the day, right?
+
+Turn 2
+A: Seriously, it's like the weather has a personal vendetta against us. I live for the great British weather!
+B: Oh, absolutely. I just love how it waits until we're halfway to work to unleash its fury.",I live for the great British weather!,Sarcastic
+"Turn 1
+A: You know, I'm really frustrated with all the mixed messages we're getting from officials about the holidays. One day they say it's okay to gather in small groups, and the next day they're warning us to stay home. Really impressed with the clear and unified messages coming from the government re Omicron and socialising over xmas!!
+B: I know exactly what you mean. It's so confusing trying to figure out what's actually safe. I want to see my family, but I also don't want to put anyone at risk.
+
+Turn 2
+A: Exactly! I was thinking of having a small get-together, but now I'm second-guessing everything. It's hard to make plans when the guidelines keep changing.
+B: Same here. I was planning to visit my grandparents, but now I'm worried it might not be the best idea. Maybe we should just do a virtual celebration this year.",Sarcastic,2024-07-18T22:49:39.049000+00:00,"Was the person intended to be sarcastic when ""Really impressed with the clear and unified messages coming from the government re Omicron and socialising over xmas!!"" was said during the conversation?","Turn 1
+A: You know, I'm really frustrated with all the mixed messages we're getting from officials about the holidays. One day they say it's okay to gather in small groups, and the next day they're warning us to stay home. Really impressed with the clear and unified messages coming from the government re Omicron and socialising over xmas!!
+B: I know exactly what you mean. It's so confusing trying to figure out what's actually safe. I want to see my family, but I also don't want to put anyone at risk.
+
+Turn 2
+A: Exactly! I was thinking of having a small get-together, but now I'm second-guessing everything. It's hard to make plans when the guidelines keep changing.
+B: Same here. I was planning to visit my grandparents, but now I'm worried it might not be the best idea. Maybe we should just do a virtual celebration this year.",Really impressed with the clear and unified messages coming from the government re Omicron and socialising over xmas!!,Sarcastic
+"Turn 1
+A: ""Hey, B. I'm finally home. Today was brutal; I didn't get a single break in those 12 hours.just finished such a long, 12 hour shift with no breaks. Tired is an understatement""
+B: ""Oh no, you look exhausted! Come sit down. Do you want something to drink or eat?""
+
+Turn 2
+A: ""Thanks, I could really use a glass of water. I just need to sit for a minute. It was one thing after another at work today.""
+B: ""Here you go. Take your time. Dinner's almost ready, and you can just relax for the rest of the evening. You deserve it.""",Not sarcastic,2024-07-18T22:50:42.002000+00:00,"Was the person intended to be sarcastic when ""just finished such a long, 12 hour shift with no breaks. Tired is an understatement"" was said during the conversation?","Turn 1
+A: ""Hey, B. I'm finally home. Today was brutal; I didn't get a single break in those 12 hours.just finished such a long, 12 hour shift with no breaks. Tired is an understatement""
+B: ""Oh no, you look exhausted! Come sit down. Do you want something to drink or eat?""
+
+Turn 2
+A: ""Thanks, I could really use a glass of water. I just need to sit for a minute. It was one thing after another at work today.""
+B: ""Here you go. Take your time. Dinner's almost ready, and you can just relax for the rest of the evening. You deserve it.""","just finished such a long, 12 hour shift with no breaks. Tired is an understatement",Not sarcastic
+"Turn 1
+A: Can you believe those government officials attended a holiday party while we were all stuck at home? It's so frustrating to see such blatant double standards.So glad the christmas lockdown rules didnt apply to our poor hard working government
+B: I know, right? It's like they think the rules don't apply to them. I couldn't even visit my parents for Christmas, and they just go ahead and have a party.
+
+Turn 2
+A: Exactly! We made so many sacrifices to keep everyone safe, and then they just ignore the restrictions. It feels like a slap in the face.
+B: Totally. It makes you wonder if they even understand what we're going through. I mean, I haven't seen my grandparents in over a year because of this.",Sarcastic,2024-07-18T22:47:21.633000+00:00,"Was the person intended to be sarcastic when ""So glad the christmas lockdown rules didnt apply to our poor hard working government"" was said during the conversation?","Turn 1
+A: Can you believe those government officials attended a holiday party while we were all stuck at home? It's so frustrating to see such blatant double standards.So glad the christmas lockdown rules didnt apply to our poor hard working government
+B: I know, right? It's like they think the rules don't apply to them. I couldn't even visit my parents for Christmas, and they just go ahead and have a party.
+
+Turn 2
+A: Exactly! We made so many sacrifices to keep everyone safe, and then they just ignore the restrictions. It feels like a slap in the face.
+B: Totally. It makes you wonder if they even understand what we're going through. I mean, I haven't seen my grandparents in over a year because of this.",So glad the christmas lockdown rules didnt apply to our poor hard working government,Sarcastic
+"Turn 1
+A: I just can't believe we're here again. Another tragedy, and still no real action. It's like no one cares enough to actually do something about it.
+B: I know, it's heartbreaking. But at least people are sending their thoughts and prayers. It shows they care, right?
+
+Turn 2
+A: Thoughts and prayers? Seriously? That's all we ever get, and nothing changes. Thoughts and prayers will actually work this time. Trust me It's just a way for people to feel better without actually doing anything.
+B: I get your frustration, but maybe it's a start. Sometimes people need to process things before they can take action.",Sarcastic,2024-07-18T22:48:45.117000+00:00,"Was the person intended to be sarcastic when ""Thoughts and prayers will actually work this time. Trust me"" was said during the conversation?","Turn 1
+A: I just can't believe we're here again. Another tragedy, and still no real action. It's like no one cares enough to actually do something about it.
+B: I know, it's heartbreaking. But at least people are sending their thoughts and prayers. It shows they care, right?
+
+Turn 2
+A: Thoughts and prayers? Seriously? That's all we ever get, and nothing changes. Thoughts and prayers will actually work this time. Trust me It's just a way for people to feel better without actually doing anything.
+B: I get your frustration, but maybe it's a start. Sometimes people need to process things before they can take action.",Thoughts and prayers will actually work this time. Trust me,Sarcastic
+"Turn 1
+A: I can't believe it's almost the anniversary of the album! I'm so excited to see if they'll release any new merch. I've been checking their website every day.
+B: That's awesome! I know how much you love their stuff. Have you thought about setting aside a little bit each week to save up for it?
+
+Turn 2
+A: Yeah, I've been trying to, but things have been tight lately. Imagine you have absolutely NO money right now but you're STILL checking regularly for and Evermore anniversary merch drop :) Still, I can't help but get excited thinking about what they might come out with.
+B: I totally get it. Maybe we can brainstorm some ways to cut back on small expenses together. That way, you can still enjoy the new merch without stressing too much about money.",Ambiguous,2024-07-18T22:50:26.051000+00:00,"Was the person intended to be sarcastic when ""Imagine you have absolutely NO money right now but you're STILL checking regularly for and Evermore anniversary merch drop :)"" was said during the conversation?","Turn 1
+A: I can't believe it's almost the anniversary of the album! I'm so excited to see if they'll release any new merch. I've been checking their website every day.
+B: That's awesome! I know how much you love their stuff. Have you thought about setting aside a little bit each week to save up for it?
+
+Turn 2
+A: Yeah, I've been trying to, but things have been tight lately. Imagine you have absolutely NO money right now but you're STILL checking regularly for and Evermore anniversary merch drop :) Still, I can't help but get excited thinking about what they might come out with.
+B: I totally get it. Maybe we can brainstorm some ways to cut back on small expenses together. That way, you can still enjoy the new merch without stressing too much about money.",Imagine you have absolutely NO money right now but you're STILL checking regularly for and Evermore anniversary merch drop :),Ambiguous
+"Turn 1
+A: ""Ugh, I have to go shopping with my sister later. Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.  She's been on this whole 'the pandemic is a hoax' kick, and it's driving me insane.""
+B: ""Oh no, that sounds rough. I can imagine how frustrating that must be for you.""
+
+Turn 2
+A: ""Yeah, it's like every time we talk, she brings up some new conspiracy theory. I just want to get through the day without a headache.""
+B: ""Maybe you could try steering the conversation to safer topics? Or, if it gets too much, just take a break and step away for a bit.""",Sarcastic,2024-07-18T22:49:48.667000+00:00,"Was the person intended to be sarcastic when ""Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend."" was said during the conversation?","Turn 1
+A: ""Ugh, I have to go shopping with my sister later. Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.  She's been on this whole 'the pandemic is a hoax' kick, and it's driving me insane.""
+B: ""Oh no, that sounds rough. I can imagine how frustrating that must be for you.""
+
+Turn 2
+A: ""Yeah, it's like every time we talk, she brings up some new conspiracy theory. I just want to get through the day without a headache.""
+B: ""Maybe you could try steering the conversation to safer topics? Or, if it gets too much, just take a break and step away for a bit.""","Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.",Sarcastic
+"Turn 1
+A: Hey B, I just wanted to say I love your recent posts! Your travel photos are amazing, and that recipe you shared looked delicious.
+B: Thanks, A! I noticed you've been liking a lot of my stuff lately. It means a lot to me that you're so supportive.
+
+Turn 2
+A: Of course! Your content is always so interesting and fun. I especially enjoyed the video you posted from your hike last weekend. Clapped out the post twice now. It looked like such a great adventure.
+B: I'm glad you liked it! That hike was incredible. I was thinking of doing a blog post about it. Do you think people would be interested in reading more details?",Not sarcastic,2024-07-18T22:51:15.936000+00:00,"Was the person intended to be sarcastic when ""Clapped out the post twice now."" was said during the conversation?","Turn 1
+A: Hey B, I just wanted to say I love your recent posts! Your travel photos are amazing, and that recipe you shared looked delicious.
+B: Thanks, A! I noticed you've been liking a lot of my stuff lately. It means a lot to me that you're so supportive.
+
+Turn 2
+A: Of course! Your content is always so interesting and fun. I especially enjoyed the video you posted from your hike last weekend. Clapped out the post twice now. It looked like such a great adventure.
+B: I'm glad you liked it! That hike was incredible. I was thinking of doing a blog post about it. Do you think people would be interested in reading more details?",Clapped out the post twice now.,Not sarcastic
