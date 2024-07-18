@@ -1,0 +1,273 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Ugh, I spent hours trying to book a vaccination appointment online, and it kept crashing. It's so frustrating!
+B: Oh, come on, it's not like you're trying to solve a Rubik's Cube blindfolded. It's just a few clicks and some patience.
+
+Turn 2
+A: Easy for you to say, you already got yours. So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?I just don't get why it has to be so complicated.
+B: Trust me, once you get that shot, you'll forget all about the hassle. It's totally worth it for the peace of mind and protection.",Sarcastic,2024-07-18T21:36:19.538000+00:00,"Was the person intended to be sarcastic when ""So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?"" was said during the conversation?","Turn 1
+A: Ugh, I spent hours trying to book a vaccination appointment online, and it kept crashing. It's so frustrating!
+B: Oh, come on, it's not like you're trying to solve a Rubik's Cube blindfolded. It's just a few clicks and some patience.
+
+Turn 2
+A: Easy for you to say, you already got yours. So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?I just don't get why it has to be so complicated.
+B: Trust me, once you get that shot, you'll forget all about the hassle. It's totally worth it for the peace of mind and protection.","So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?",Sarcastic
+"Turn 1
+A: You know, I've been seeing someone new, and it's been amazing. I feel like they really understand me, and we just click on so many levels.
+B: That's wonderful to hear! Tell me more about them. What makes you feel so connected?
+
+Turn 2
+A: Well, for starters, they always make me feel heard and valued. We have these deep conversations that leave me feeling so inspired and understood. I am so in love with this woman Plus, they have this incredible sense of humor that just brightens my day.
+B: That sounds perfect! It's so important to feel both understood and uplifted in a relationship. I'm really happy for you. How has this new relationship impacted your life so far?
+
+[Continue for N turns]",Not sarcastic,2024-07-18T21:40:10.761000+00:00,"Was the person intended to be sarcastic when ""I am so in love with this woman"" was said during the conversation?","Turn 1
+A: You know, I've been seeing someone new, and it's been amazing. I feel like they really understand me, and we just click on so many levels.
+B: That's wonderful to hear! Tell me more about them. What makes you feel so connected?
+
+Turn 2
+A: Well, for starters, they always make me feel heard and valued. We have these deep conversations that leave me feeling so inspired and understood. I am so in love with this woman Plus, they have this incredible sense of humor that just brightens my day.
+B: That sounds perfect! It's so important to feel both understood and uplifted in a relationship. I'm really happy for you. How has this new relationship impacted your life so far?
+
+[Continue for N turns]",I am so in love with this woman,Not sarcastic
+"Turn 1
+A: ""So, this weekend, I have to spend time with my uncle again. You know, the one who thinks masks are a government plot to control us."" Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.
+B: ""Oh no, not him again. How do you even manage to keep a straight face?""
+
+Turn 2
+A: ""Honestly, I don't. I just nod and make jokes in my head to survive. Last time, I imagined him as a character in a sci-fi movie.""
+B: ""That's brilliant! Maybe this time, picture him as the villain in a superhero flick. It might make it more entertaining.""",Sarcastic,2024-07-18T21:37:45.837000+00:00,"Was the person intended to be sarcastic when ""Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend."" was said during the conversation?","Turn 1
+A: ""So, this weekend, I have to spend time with my uncle again. You know, the one who thinks masks are a government plot to control us."" Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.
+B: ""Oh no, not him again. How do you even manage to keep a straight face?""
+
+Turn 2
+A: ""Honestly, I don't. I just nod and make jokes in my head to survive. Last time, I imagined him as a character in a sci-fi movie.""
+B: ""That's brilliant! Maybe this time, picture him as the villain in a superhero flick. It might make it more entertaining.""","Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.",Sarcastic
+"Turn 1
+A: ""I can't believe how much it costs to fill up the tank these days. It's like I'm burning money every time I drive.""
+B: ""Yeah, it's ridiculous. It feels like the oil companies are the only ones making a killing off this.""
+
+Turn 2
+A: ""Oh, absolutely. I'm sure they're just swimming in their profits while we scrape by to afford gas. I LOVE paying so much for gas. Really feels good to help out big oil.""
+B: ""It's frustrating. You'd think there'd be some relief or regulation, but nope, just higher prices every time we turn around.""",Sarcastic,2024-07-18T21:40:26.665000+00:00,"Was the person intended to be sarcastic when ""I LOVE paying so much for gas. Really feels good to help out big oil."" was said during the conversation?","Turn 1
+A: ""I can't believe how much it costs to fill up the tank these days. It's like I'm burning money every time I drive.""
+B: ""Yeah, it's ridiculous. It feels like the oil companies are the only ones making a killing off this.""
+
+Turn 2
+A: ""Oh, absolutely. I'm sure they're just swimming in their profits while we scrape by to afford gas. I LOVE paying so much for gas. Really feels good to help out big oil.""
+B: ""It's frustrating. You'd think there'd be some relief or regulation, but nope, just higher prices every time we turn around.""",I LOVE paying so much for gas. Really feels good to help out big oil.,Sarcastic
+"Turn 1
+A: ""Hey, I just got a notification that I need to get another booster shot. Can you believe it?""
+B: ""Oh great, just what I needed—another chance to feel like a human pincushion.""
+
+Turn 2
+A: ""I know, right? It feels like we just got the last one. Another jab to protect myself? More pokes I get I'll pop But I guess it's important to stay protected.""
+B: ""Yeah, I get it. But at this rate, I'm going to start glowing in the dark from all these shots.""",Sarcastic,2024-07-18T21:38:33.705000+00:00,"Was the person intended to be sarcastic when ""Another jab to protect myself? More pokes I get I'll pop"" was said during the conversation?","Turn 1
+A: ""Hey, I just got a notification that I need to get another booster shot. Can you believe it?""
+B: ""Oh great, just what I needed—another chance to feel like a human pincushion.""
+
+Turn 2
+A: ""I know, right? It feels like we just got the last one. Another jab to protect myself? More pokes I get I'll pop But I guess it's important to stay protected.""
+B: ""Yeah, I get it. But at this rate, I'm going to start glowing in the dark from all these shots.""",Another jab to protect myself? More pokes I get I'll pop,Sarcastic
+"Turn 1
+A: Ugh, today was brutal. I don't think I sat down once during my entire shift.
+B: I know exactly what you mean. I barely had time to grab a sip of water between patients. It's like they just keep coming.
+
+Turn 2
+A: And that rush right before closing? I thought we'd never get out of here. Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this. My feet are killing me.
+B: Same here. I swear, if I have to deal with one more irate customer or emergency, I might just lose it. We really need more staff.",Sarcastic,2024-07-18T21:40:41.796000+00:00,"Was the person intended to be sarcastic when ""Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this."" was said during the conversation?","Turn 1
+A: Ugh, today was brutal. I don't think I sat down once during my entire shift.
+B: I know exactly what you mean. I barely had time to grab a sip of water between patients. It's like they just keep coming.
+
+Turn 2
+A: And that rush right before closing? I thought we'd never get out of here. Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this. My feet are killing me.
+B: Same here. I swear, if I have to deal with one more irate customer or emergency, I might just lose it. We really need more staff.","Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this.",Sarcastic
+"Turn 1
+A: Oh, the commute was just fantastic. I mean, who doesn't love spending an extra half hour behind a parade of drivers who seem to think the speed limit is a mere suggestion?My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.
+B: Sounds like quite the adventure. Did you get to see any new sights along the way?
+
+Turn 2
+A: Oh, absolutely. I got an up-close and personal view of every bumper sticker in the city. It's like a moving art gallery, really.
+B: Well, at least you got some culture before work. Maybe tomorrow you'll get to enjoy an impromptu concert of honking horns.",Sarcastic,2024-07-18T21:37:23.324000+00:00,"Was the person intended to be sarcastic when ""My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy."" was said during the conversation?","Turn 1
+A: Oh, the commute was just fantastic. I mean, who doesn't love spending an extra half hour behind a parade of drivers who seem to think the speed limit is a mere suggestion?My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.
+B: Sounds like quite the adventure. Did you get to see any new sights along the way?
+
+Turn 2
+A: Oh, absolutely. I got an up-close and personal view of every bumper sticker in the city. It's like a moving art gallery, really.
+B: Well, at least you got some culture before work. Maybe tomorrow you'll get to enjoy an impromptu concert of honking horns.","My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.",Sarcastic
+"Turn 1
+A: You know, I was thinking about our last game night. It was so much fun, and I really felt the support from everyone when I was having a tough time with that puzzle.
+B: Oh, absolutely! I remember that. It was great how everyone jumped in to help. Moments like those really show how close-knit our group is.
+
+Turn 2
+A: Exactly. It's amazing how we all come together, no matter what. I love my friends I really value these friendships; they bring so much positivity into my life.
+B: Same here. It's rare to find such a supportive and fun group of friends. I feel really lucky to be a part of it.",Not sarcastic,2024-07-18T21:39:41.299000+00:00,"Was the person intended to be sarcastic when ""I love my friends"" was said during the conversation?","Turn 1
+A: You know, I was thinking about our last game night. It was so much fun, and I really felt the support from everyone when I was having a tough time with that puzzle.
+B: Oh, absolutely! I remember that. It was great how everyone jumped in to help. Moments like those really show how close-knit our group is.
+
+Turn 2
+A: Exactly. It's amazing how we all come together, no matter what. I love my friends I really value these friendships; they bring so much positivity into my life.
+B: Same here. It's rare to find such a supportive and fun group of friends. I feel really lucky to be a part of it.",I love my friends,Not sarcastic
+"Turn 1
+A: I can't believe the concert is finally here! So stoked to see them tonight I've been counting down the days.
+B: Same here! It's going to be epic. Do you remember the last time we saw them live? It was unforgettable.
+
+Turn 2
+A: Absolutely! I still get chills thinking about it. What time do you want to meet up before the show?
+B: How about 6 PM at that café near the venue? We can grab a quick bite and then head over together.",Not sarcastic,2024-07-18T21:38:16.951000+00:00,"Was the person intended to be sarcastic when ""So stoked to see them tonight"" was said during the conversation?","Turn 1
+A: I can't believe the concert is finally here! So stoked to see them tonight I've been counting down the days.
+B: Same here! It's going to be epic. Do you remember the last time we saw them live? It was unforgettable.
+
+Turn 2
+A: Absolutely! I still get chills thinking about it. What time do you want to meet up before the show?
+B: How about 6 PM at that café near the venue? We can grab a quick bite and then head over together.",So stoked to see them tonight,Not sarcastic
+"Turn 1
+A: ""Did you see the latest policy they rolled out? It's like they're trying to win the 'Most Out of Touch' award.""
+B: ""Oh, absolutely. I mean, who even thought that cutting funding for public services was a good idea? It's like they live in a different universe.""
+
+Turn 2
+A: ""Right? And don't get me started on their supporters. It's like they think trickle-down economics is some kind of magic spell. It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.""
+B: ""Yeah, because clearly, if we just give the rich more money, it'll somehow rain gold coins on the rest of us. Makes perfect sense!""
+
+[Continue for N turns]",Sarcastic,2024-07-18T21:39:07.139000+00:00,"Was the person intended to be sarcastic when ""It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw."" was said during the conversation?","Turn 1
+A: ""Did you see the latest policy they rolled out? It's like they're trying to win the 'Most Out of Touch' award.""
+B: ""Oh, absolutely. I mean, who even thought that cutting funding for public services was a good idea? It's like they live in a different universe.""
+
+Turn 2
+A: ""Right? And don't get me started on their supporters. It's like they think trickle-down economics is some kind of magic spell. It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.""
+B: ""Yeah, because clearly, if we just give the rich more money, it'll somehow rain gold coins on the rest of us. Makes perfect sense!""
+
+[Continue for N turns]",It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.,Sarcastic
+"Turn 1
+A: Ugh, I can't believe we have that team meeting later. The atmosphere is always so negative, and no one seems motivated. I enjoy being at work and can't wait to come in everyday and see all my happy colleagues
+B: Oh, absolutely. I just love coming to work and seeing everyone so ""happy"" and ""enthusiastic.""
+
+Turn 2
+A: Right? It's like a black hole of energy in there. I wish we could just skip it.
+B: If only! Maybe we should start a petition for virtual meetings so we can at least mute the negativity.",Sarcastic,2024-07-18T21:42:23.400000+00:00,"Was the person intended to be sarcastic when ""I enjoy being at work and can't wait to come in everyday and see all my happy colleagues"" was said during the conversation?","Turn 1
+A: Ugh, I can't believe we have that team meeting later. The atmosphere is always so negative, and no one seems motivated. I enjoy being at work and can't wait to come in everyday and see all my happy colleagues
+B: Oh, absolutely. I just love coming to work and seeing everyone so ""happy"" and ""enthusiastic.""
+
+Turn 2
+A: Right? It's like a black hole of energy in there. I wish we could just skip it.
+B: If only! Maybe we should start a petition for virtual meetings so we can at least mute the negativity.",I enjoy being at work and can't wait to come in everyday and see all my happy colleagues,Sarcastic
+"Turn 1
+A: Honestly, work has been really tough lately. My employers have been piling on more tasks without any additional support, and it's starting to feel overwhelming. My employers take many opportunities to make me unhappy.
+B: That sounds really frustrating. Have you had a chance to talk to them about how you're feeling?
+
+Turn 2
+A: I tried bringing it up in our last meeting, but they just brushed it off and said everyone is under pressure right now. It feels like they don't care about how it's affecting me.
+B: I'm so sorry to hear that. It sounds like they're not valuing your well-being. Maybe it's time to start looking for other opportunities where you'll be appreciated more?",Ambiguous,2024-07-18T21:41:36.189000+00:00,"Was the person intended to be sarcastic when ""My employers take many opportunities to make me unhappy."" was said during the conversation?","Turn 1
+A: Honestly, work has been really tough lately. My employers have been piling on more tasks without any additional support, and it's starting to feel overwhelming. My employers take many opportunities to make me unhappy.
+B: That sounds really frustrating. Have you had a chance to talk to them about how you're feeling?
+
+Turn 2
+A: I tried bringing it up in our last meeting, but they just brushed it off and said everyone is under pressure right now. It feels like they don't care about how it's affecting me.
+B: I'm so sorry to hear that. It sounds like they're not valuing your well-being. Maybe it's time to start looking for other opportunities where you'll be appreciated more?",My employers take many opportunities to make me unhappy.,Ambiguous
+"Turn 1
+A: Hey, I found this awesome video about that new drone technology we've been talking about. Thought you might like it!
+B: Oh, nice! Let me check it out.
+
+Turn 2
+A: What did you think? Pretty cool, right? I simply love this clip. Thank you.
+B: That was amazing! Thanks for sharing it. I loved the part where they showed the drone's agility in the obstacle course. So impressive!",Not sarcastic,2024-07-18T21:34:56.195000+00:00,"Was the person intended to be sarcastic when ""I simply love this clip. Thank you."" was said during the conversation?","Turn 1
+A: Hey, I found this awesome video about that new drone technology we've been talking about. Thought you might like it!
+B: Oh, nice! Let me check it out.
+
+Turn 2
+A: What did you think? Pretty cool, right? I simply love this clip. Thank you.
+B: That was amazing! Thanks for sharing it. I loved the part where they showed the drone's agility in the obstacle course. So impressive!",I simply love this clip. Thank you.,Not sarcastic
+"Turn 1
+A: Hey, did you see all the likes and comments I've been leaving on your posts lately? Clapped out the post twice now.Your travel photos are amazing!
+B: Yeah, I noticed! Thanks so much for the support. It really means a lot to me. I'm glad you're enjoying them.
+
+Turn 2
+A: Absolutely! I love seeing all the places you've been visiting. It's like I'm traveling vicariously through you.
+B: That's awesome to hear. I've been trying to capture the best moments. Your feedback really keeps me motivated to share more.",Sarcastic,2024-07-18T21:41:06.667000+00:00,"Was the person intended to be sarcastic when ""Clapped out the post twice now."" was said during the conversation?","Turn 1
+A: Hey, did you see all the likes and comments I've been leaving on your posts lately? Clapped out the post twice now.Your travel photos are amazing!
+B: Yeah, I noticed! Thanks so much for the support. It really means a lot to me. I'm glad you're enjoying them.
+
+Turn 2
+A: Absolutely! I love seeing all the places you've been visiting. It's like I'm traveling vicariously through you.
+B: That's awesome to hear. I've been trying to capture the best moments. Your feedback really keeps me motivated to share more.",Clapped out the post twice now.,Sarcastic
+"Turn 1
+A: Hey B, I was thinking about that post I made yesterday. I realized it might have come off as sarcastic, but I actually love my job. Any ideas on how I can rephrase it to show that?
+
+B: Sure, A. How about starting with something like, ""I feel incredibly fortunate to work with such a talented team and on projects that truly inspire me""? That way, it sounds more genuine and positive.
+
+Turn 2
+A: That sounds great! Maybe I can add something about the support I get from the team too. I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way. Like, ""The support and collaboration here make every day rewarding.""
+
+B: Absolutely, that's perfect. It shows appreciation for your colleagues and highlights the positive work environment. I think that will definitely convey your true feelings better.",Ambiguous,2024-07-18T21:35:45.774000+00:00,"Was the person intended to be sarcastic when ""I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way."" was said during the conversation?","Turn 1
+A: Hey B, I was thinking about that post I made yesterday. I realized it might have come off as sarcastic, but I actually love my job. Any ideas on how I can rephrase it to show that?
+
+B: Sure, A. How about starting with something like, ""I feel incredibly fortunate to work with such a talented team and on projects that truly inspire me""? That way, it sounds more genuine and positive.
+
+Turn 2
+A: That sounds great! Maybe I can add something about the support I get from the team too. I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way. Like, ""The support and collaboration here make every day rewarding.""
+
+B: Absolutely, that's perfect. It shows appreciation for your colleagues and highlights the positive work environment. I think that will definitely convey your true feelings better.","I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way.",Ambiguous
+"Turn 1
+A: Ugh, I can't believe it's Monday already. I feel like the weekend just flew by.
+B: Oh, come on, A! Isn't it just fantastic to be back at work, bright and early, ready to tackle the week?
+
+Turn 2
+A: (groans) Yeah, right. If by fantastic you mean dragging myself out of bed and barely making it here on time. I love a Monday morning so glad the weekends over!
+B: (chuckles) Hey, at least we have coffee. It's the only thing keeping me from turning into a zombie right now.",Sarcastic,2024-07-18T21:42:05.887000+00:00,"Was the person intended to be sarcastic when ""I love a Monday morning so glad the weekends over!"" was said during the conversation?","Turn 1
+A: Ugh, I can't believe it's Monday already. I feel like the weekend just flew by.
+B: Oh, come on, A! Isn't it just fantastic to be back at work, bright and early, ready to tackle the week?
+
+Turn 2
+A: (groans) Yeah, right. If by fantastic you mean dragging myself out of bed and barely making it here on time. I love a Monday morning so glad the weekends over!
+B: (chuckles) Hey, at least we have coffee. It's the only thing keeping me from turning into a zombie right now.",I love a Monday morning so glad the weekends over!,Sarcastic
+"Turn 1
+A: Man, last night was wild! I can't believe we ended up at that karaoke bar. Do you remember when I tried to sing ""Bohemian Rhapsody""?
+B: Oh, I remember! You were really going for those high notes. It was hilarious. I think everyone in the bar was cheering you on.
+
+Turn 2
+A: Yeah, it was a blast. Drinks last night was a bit messy. May get some more beers tonight. Not sure though. I'm kind of tempted to do it all over again tonight. What do you think? Up for another round of chaos?
+B: Hmm, it does sound tempting. But maybe we should take it easy tonight? I don't know if my voice can handle another ""Bohemian Rhapsody"" performance so soon.",Sarcastic,2024-07-18T21:33:16.891000+00:00,"Was the person intended to be sarcastic when ""Drinks last night was a bit messy. May get some more beers tonight. Not sure though."" was said during the conversation?","Turn 1
+A: Man, last night was wild! I can't believe we ended up at that karaoke bar. Do you remember when I tried to sing ""Bohemian Rhapsody""?
+B: Oh, I remember! You were really going for those high notes. It was hilarious. I think everyone in the bar was cheering you on.
+
+Turn 2
+A: Yeah, it was a blast. Drinks last night was a bit messy. May get some more beers tonight. Not sure though. I'm kind of tempted to do it all over again tonight. What do you think? Up for another round of chaos?
+B: Hmm, it does sound tempting. But maybe we should take it easy tonight? I don't know if my voice can handle another ""Bohemian Rhapsody"" performance so soon.",Drinks last night was a bit messy. May get some more beers tonight. Not sure though.,Sarcastic
+"Turn 1
+A: Did you catch last night's episode of ""Strictly""? The performances were incredible!
+B: Absolutely! I was blown away by that Argentine tango. It was hands down the best I've ever seen on the show.
+
+Turn 2
+A: Oh, I know exactly which one you're talking about! Best argentine tango there's ever been on strictlyThe chemistry and precision were just off the charts.
+B: Right? And the way they executed those lifts and footwork was just mesmerizing. I couldn't take my eyes off the screen!",Not sarcastic,2024-07-18T21:33:50.645000+00:00,"Was the person intended to be sarcastic when ""Best argentine tango there's ever been on strictly"" was said during the conversation?","Turn 1
+A: Did you catch last night's episode of ""Strictly""? The performances were incredible!
+B: Absolutely! I was blown away by that Argentine tango. It was hands down the best I've ever seen on the show.
+
+Turn 2
+A: Oh, I know exactly which one you're talking about! Best argentine tango there's ever been on strictlyThe chemistry and precision were just off the charts.
+B: Right? And the way they executed those lifts and footwork was just mesmerizing. I couldn't take my eyes off the screen!",Best argentine tango there's ever been on strictly,Not sarcastic
+"Turn 1
+A: Ugh, I can't stand working in the office sometimes. The smell from Bob's desk is just unbearable. It's like he never showers or something.
+B: I know exactly what you mean. It's not just you; a lot of people have noticed it. I wish there was a polite way to address it without making things awkward.
+
+Turn 2
+A: Yeah, it's tricky. I don't want to hurt his feelings, but it's really affecting my concentration. I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too. And it's not just that; the whole office environment can be so frustrating.
+B: Totally. Between the constant noise and the outdated equipment, it's hard to stay productive. Sometimes I wonder if working from home would be better for everyone.",Sarcastic,2024-07-18T21:36:46.546000+00:00,"Was the person intended to be sarcastic when ""I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too."" was said during the conversation?","Turn 1
+A: Ugh, I can't stand working in the office sometimes. The smell from Bob's desk is just unbearable. It's like he never showers or something.
+B: I know exactly what you mean. It's not just you; a lot of people have noticed it. I wish there was a polite way to address it without making things awkward.
+
+Turn 2
+A: Yeah, it's tricky. I don't want to hurt his feelings, but it's really affecting my concentration. I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too. And it's not just that; the whole office environment can be so frustrating.
+B: Totally. Between the constant noise and the outdated equipment, it's hard to stay productive. Sometimes I wonder if working from home would be better for everyone.",I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too.,Sarcastic
+"Turn 1
+A: You know, B, I've been feeling really overwhelmed lately. Every time I try to talk to you about it, it seems like you just brush it off. I need you to understand how serious this is for me.
+B: I'm sorry if it seemed like I wasn't taking you seriously. I didn't realize how much it was affecting you. Can you tell me more about what's been going on?
+
+Turn 2
+A: It's just everything piling up—work stress, family issues, and my mental health. It's crazy how you can tell someone what you're going through 1000x and they just dismiss it I feel like I'm drowning, and when you change the subject or give me quick advice, it makes me feel even more alone.
+B: I had no idea you felt that way. I really want to be here for you. Let's sit down and talk about it properly. I promise to listen this time.",Sarcastic,2024-07-18T21:34:33.760000+00:00,"Was the person intended to be sarcastic when ""It's crazy how you can tell someone what you're going through 1000x and they just dismiss it"" was said during the conversation?","Turn 1
+A: You know, B, I've been feeling really overwhelmed lately. Every time I try to talk to you about it, it seems like you just brush it off. I need you to understand how serious this is for me.
+B: I'm sorry if it seemed like I wasn't taking you seriously. I didn't realize how much it was affecting you. Can you tell me more about what's been going on?
+
+Turn 2
+A: It's just everything piling up—work stress, family issues, and my mental health. It's crazy how you can tell someone what you're going through 1000x and they just dismiss it I feel like I'm drowning, and when you change the subject or give me quick advice, it makes me feel even more alone.
+B: I had no idea you felt that way. I really want to be here for you. Let's sit down and talk about it properly. I promise to listen this time.",It's crazy how you can tell someone what you're going through 1000x and they just dismiss it,Sarcastic
