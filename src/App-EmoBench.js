@@ -33,10 +33,9 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
-  { question: "", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
+  { question: "", statement: "Is 1 + 1 = 2 true? Select your answer below.", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "", statement: "Please select 'True'.", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true }
 ];
 
 function App() {
@@ -89,7 +88,8 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      await addDoc(collection(db, prolificID), newResponse);
+      let updatedProlificID = `iSarcasm-No-Amb-${prolificID}`;
+      await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
       // Ensure this is called after logging the response
@@ -116,7 +116,7 @@ function App() {
     }).filter(Boolean);
   };
 
-  const currentQuestion = questions[currentQuestionIndex]?.question || 'Loading...';
+  const currentQuestion = questions[currentQuestionIndex]?.question || ' ';
   const currentStatement = questions[currentQuestionIndex]?.statement || '';
   const currentNote = questions[currentQuestionIndex]?.note || '';
   const isAttentionCheck = questions[currentQuestionIndex]?.isAttentionCheck || false;
@@ -154,18 +154,15 @@ function App() {
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   False
-                </button>
+                </button>                
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('Sarcastic')}>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
                   True: the statement is sarcastic
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('Not sarcastic')}>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   False: the statement is not sarcastic
-                </button>
-                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  Ambiguous: I am not sure if this is sarcastic or not
                 </button>
               </>
             )}

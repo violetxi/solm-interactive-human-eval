@@ -147,8 +147,9 @@ const Instructions = ({ onComplete, setProlificID }) => {
         <>
           <h2>Instructions 2/2: Choices</h2>
           <p>For each statement, you will choose from the following:</p>
-          <p><strong>True</strong>: If the statement is sarcastic given the conversation.</p>
-          <p><strong>False</strong>: If the statement is not sarcastic given the conversation.</p>          
+          <p><strong>Sarcastic</strong>: If the statement is sarcastic given the conversation.</p>
+          <p><strong>Not sarcastic</strong>: If the statement is not sarcastic given the conversation.</p>
+          <p><strong>Ambiguous</strong>: If you cannot determine if the statement is sarcastic or not, or if you do not understand the statement given the conversation.</p>
         </>
       ) 
     },
@@ -181,7 +182,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               </div>
             </div>
             <div className="question">
-              <p>3. When you think the statement is ambiguous, you should still make a choice. </p>
+              <p>3. When you think the statement is ambiguous and can be either sarcastic or not sarcastic, you should select "ambiguous". </p>
               <div className="form-check">
                 <input type="radio" id="comp-3-true" name="comprehension-3" value="true" className="form-check-input" />
                 <label htmlFor="comp-3-true" className="form-check-label">True</label>
