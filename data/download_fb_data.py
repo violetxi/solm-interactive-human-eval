@@ -51,9 +51,11 @@ if __name__ == '__main__':
     collection_names = [name for name in collection_names if name != 'k']
     answer_map = {'True': 'sarcastic', 'False': 'not sarcastic', 'Ambiguous': 'ambiguous'}
     attention_check_str = "Please determine if the following statement is true or false"
+    current_data_prefix = 'iSarcasm-No-Amb'
+    # current_data_prefix = 'SemEvalT6_Sentiment_No_Amb'
 
     for subject_id in collection_names:
-        if subject_id != 'surveys':
+        if subject_id != 'surveys' and subject_id.startswith(current_data_prefix):
             print(f"Downloading data from collection for subject: {subject_id}")
             data = download_data_from_collection(subject_id)        
             raw_data[subject_id] = data
