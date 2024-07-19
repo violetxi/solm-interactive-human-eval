@@ -38,6 +38,7 @@ const attentionChecks = [
   { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
+
 function App() {
   // instruction content
   const [showInstructions, setShowInstructions] = useState(true);
@@ -54,11 +55,11 @@ function App() {
   };
 
   useEffect(() => {
-    loadCSV('data/set_3.csv')
+    loadCSV('data/set_1.csv')
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
         map(item => ({
-          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
+          question: `What was A's stance on COVID19 vaccine when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -89,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `Full-GoEmotions_Sentiment-3-${prolificID}`;
+      let updatedProlificID = `CovidVaccineStance-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
@@ -144,7 +145,7 @@ function App() {
               </p>
             ))}
             {isAttentionCheck && <p>{currentStatement}</p>}
-          </div>          
+          </div>
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
@@ -159,17 +160,17 @@ function App() {
               </>
             ) : (
               <>
-               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
-                Positive
+               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('favoring')}>
+                In favor of COVID19 vaccination
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
-                Negative
-                </button>               
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('against')}>
+                Against COVID19 vaccination
+                </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                Neutral
+                 Neutral: neither favoring nor against
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                 Ambiguous
+                 Ambiguous: not clear or mixed stance
                 </button>
               </>
             )}

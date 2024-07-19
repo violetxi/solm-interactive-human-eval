@@ -1,141 +1,153 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-60,"Turn 1
-A: Wow, B, that necklace is absolutely stunning! I've never seen anything like it. Where did you get it?
-B: Thanks, A! It's actually really special to me. I made it myself from my baby teeth. I know it sounds a bit unusual, but I love how it turned out. The craftsmanship was a fun challenge!
+206,"Turn 1
+A: It's really encouraging to see how the availability of vaccines and boosters has improved the situation with COVID-19. With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a whileI feel like we're finally seeing some light at the end of the tunnel.
+B: Absolutely, the advancements have been remarkable. But I still think it's important to keep up with preventive measures like wearing masks and practicing social distancing, especially in crowded or high-risk areas. We can't let our guard down just yet.
 
 Turn 2
-A: That's incredible! I love how personal and unique it is. That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work. You must be really proud of it.
-B: I am! It was a bit of a quirky idea, but I think it captures a part of my childhood in a creative way. Plus, it always makes for an interesting conversation piece!",That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work.,positive,2,"Yes, A was being positive. A complimented B's necklace, expressed admiration for its uniqueness, and shared a similar personal experience with baby teeth, indicating appreciation and understanding.",1,True,669
-53,"Turn 1
-A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
-B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
+A: I agree, especially with the new variants popping up. Even though the vaccines are effective, it's better to be cautious. Plus, it sets a good example for others.
+B: Exactly. And with the holidays coming up, people will be traveling and gathering more. A little extra caution can go a long way in keeping everyone safe.","With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while",favoring,1,"Yes, A was being favoring. A expressed optimism about the progress made with vaccines, boosters, and pills in combating COVID-19, indicating a positive outlook. However, A also emphasized the importance of continuing preventive measures like wearing masks and social distancing, showing a balanced and cautious approach.",1,True,945
+224,"Turn 1
+A: You know, I read this article the other day that said the COVID-19 vaccine might not be as effective as they claim. Plus, I've heard from a few friends who had some pretty bad side effects. It makes me wonder if we're getting the full story.
+B: I understand your concerns, but it's important to look at the broader picture. The majority of scientific studies and health organizations worldwide support the vaccine's safety and effectiveness. Anecdotes can be compelling, but they don't always represent the overall data.
 
 Turn 2
-A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
-B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",Lmao I hope I'm not the only one who gets this,positive,1,"Yes, A was being positive. The use of ""Lmao"" and the laughing emoji 😂 indicate that A found the meme funny and was sharing it in a light-hearted, humorous way.",1,True,521
+A: I get that, but it's hard to ignore when people you know are having these experiences. Oddly I just read about breakthrough death rates in my blue state. A lot.. dead. Fully vaxxed. Stop listening to the bs and do some research. Breakthrough cases and vaxx injuries account for an astonishing death count also. It's just not front page. And some of these articles seem pretty convincing, even if they're not from mainstream sources.
+B: It's true that personal stories can be powerful, but it's crucial to verify the credibility of the sources. Misinformation can spread easily, especially online. Trusting reputable health organizations and peer-reviewed studies can help us make more informed decisions about our health.",Oddly I just read about breakthrough death rates in my blue state. A lot.. dead. Fully vaxxed. Stop listening to the bs and do some research. Breakthrough cases and vaxx injuries account for an astonishing death count also. It's just not front page.,against,2,"Yes, A is expressing skepticism and concern about the effectiveness and safety of the COVID-19 vaccine, citing personal anecdotes and non-mainstream sources to support their viewpoint. This indicates that A is against the mainstream narrative regarding the vaccine.",1,True,1263
+144,"Turn 1
+A: You know, it's really frustrating to see how much misinformation about the COVID-19 vaccine is still out there. I mean, we've been working so hard to keep people safe, and yet some folks are still hesitant because of all the false information circulating.
+
+B: Absolutely, it's disheartening. And with the elections coming up, I'm worried that this misinformation could sway voter behavior. People might vote based on fear rather than facts, which could have serious consequences for public health policies.
+
+Turn 2
+A: Exactly. It's not just about the immediate impact on health; it's about the long-term trust in our healthcare system. If people don't believe in the vaccine, they might not trust other medical advice either. For every constituent that the GOP let die from COVID because they helped spread misinformation about the virus and the vaccine for so long, I hope it becomes more and more apparent to them the closer we get to Election Day 2022 and 2024, what poor choices they've made We need leaders who will address this head-on and promote science-based policies.
+
+B: I couldn't agree more. It's crucial that we elect officials who prioritize public health and are committed to combating misinformation. This election could really set the tone for how we handle future health crises. Let's hope the voters see the importance of this issue.","For every constituent that the GOP let die from COVID because they helped spread misinformation about the virus and the vaccine for so long, I hope it becomes more and more apparent to them the closer we get to Election Day 2022 and 2024, what poor choices they've made",against,2,"Yes, I agree. A is expressing frustration and criticism towards the GOP for spreading misinformation about COVID-19 and the vaccine, which they believe has led to unnecessary deaths. A hopes that voters will recognize these poor choices by the GOP as the elections approach.",1,True,1363
+55,"Turn 1
+A: I just don't get why some people are still hesitant about getting their booster shots. It's been proven to help, and we need everyone on board to finally get past this pandemic.
+B: I understand where you're coming from, but I'm not convinced that the booster is absolutely necessary for everyone. Some studies suggest that the initial doses provide sufficient protection for most people.
+
+Turn 2
+A: But the data shows that the booster significantly increases immunity, especially with these new variants. After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise.If we don't all do our part, we risk prolonging these disruptions even further.
+B: I get that, but I think we should also consider individual health situations and potential side effects. It's not a one-size-fits-all solution, and people should have the right to make their own informed decisions.",After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise.,favoring,2,"Yes, A was favoring the booster shots and strongly advocating for their necessity to end the pandemic. A's statements reflect a firm belief in the importance of widespread booster vaccination.",1,True,984
+225,"Turn 1
+A: I was reading on social media that some places are starting to require vaccine passports for entry. Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws? Do you think that could be considered medical discrimination?
+B: That's an interesting question. Generally, private establishments have the right to set their own entry requirements, but they must also comply with anti-discrimination laws. It can get complicated when balancing public health concerns with individual rights.
+
+Turn 2
+A: So, it sounds like there might be a legal gray area. Could someone potentially challenge these requirements in court?
+B: Absolutely, someone could challenge them, especially if they believe their rights are being infringed upon. However, courts often weigh public health benefits heavily, so the outcome would depend on the specifics of the case and the jurisdiction.","Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws?",neutral,1,"Yes, I agree. A's statement indicates that they are seeking information and understanding about the issue from both perspectives, without showing a bias towards either side.",1,True,975
 69,"Turn 1
-A: Wow, look at that! The college basketball game is on the main network. It seems like it's getting a lot of attention.
-B: Yeah, it's March Madness season. Everyone's really into it right now. But it's interesting how the UFC fight is on a less prominent channel. You'd think it would get more coverage too.
+A: I've been reading about these vaccine passports, but I'm still not quite sure what they're for. What exactly are vaccine  passports for? I have have been to the website but it is verbal garbage. I can't get the purpose of them. Please help me to understand. Can you explain it to me?
+B: Sure! Vaccine passports are basically digital or physical documents that show you've been vaccinated against COVID-19. They're intended to help people travel more freely and safely, and in some cases, they might be required to enter certain places like events or restaurants.
 
 Turn 2
-A: True, especially considering how popular UFC has become over the years. College basketball just big leagued the UFC. We've to wait for it to finish I think. I guess college basketball has that traditional appeal and a huge following during this time of year.
-B: Definitely. Plus, there's something about the unpredictability of March Madness that really draws people in. Every game feels like it could be an upset.",College basketball just big leagued the UFC. We've to wait for it to finish I think.,neutral,2,"A's statement ""College basketball just big leagued the UFC. We've to wait for it to finish I think."" is more of an observation rather than an expression of a strong opinion or bias. A is noting the fact that college basketball is receiving more attention and coverage at the moment, which is a neutral statement.",1,True,741
-80,"Turn 1
-A: Wait, so this is the big thing you've been hinting at for weeks?I didn't know this was a ""reveal"" he'd been talking about for awhile.
-B: Yep! I've been planning it for months, and it's finally happening this weekend.
+A: Oh, I see. So, it's like a way to prove you're vaccinated to reduce the risk of spreading the virus?
+B: Exactly. It helps ensure that people in certain settings are less likely to transmit COVID-19, which can be especially important in crowded or high-risk areas. Plus, it can give people more confidence to participate in activities and travel again.",What exactly are vaccine  passports for? I have have been to the website but it is verbal garbage. I can't get the purpose of them. Please help me to understand.,neutral,1,"A's statement indicates confusion and a need for clarification, but it does not express any strong positive or negative sentiment. It is a neutral request for information.",1,True,935
+237,"Turn 1
+A: I heard something on the news about monoclonal antibodies being used to treat COVID-19, but I don't really understand how they work. Sorry. I haven't heard of these monoclonal antibodies. What's the difference between them and the vaccine? How do we know they aren't dangerous too? Do you know much about them?
+B: Yeah, I've been keeping up with the updates. Monoclonal antibodies are lab-made molecules that can mimic the immune system's ability to fight off harmful pathogens like viruses. They target specific parts of the virus to neutralize it. It's different from vaccines, which train your immune system to recognize and fight the virus if you get exposed in the future.
 
 Turn 2
-A: Wow, I had no idea it was such a big deal. Can you give me a hint about what it is?
-B: Let's just say it involves a lot of people, some amazing decorations, and a surprise guest. You'll have to wait and see!","I didn't know this was a ""reveal"" he'd been talking about for awhile.",neutral,1,"A's statement ""I didn't know this was a 'reveal' he'd been talking about for awhile"" suggests a lack of prior knowledge and a neutral tone, as it doesn't express any strong positive or negative emotions.",1,True,445
-13,"Turn 1
-A: Hey, thanks for the link! That movie looks really interesting. I can't wait to check it out. Thanks, saved. Will watch it tomorrow morning :)
-B: No problem! I thought you'd like it. It's got that kind of twisty plot you enjoy.
+A: That makes sense. So, are monoclonal antibodies safe and effective?
+B: Generally, yes. They've been shown to reduce the severity of COVID-19 in high-risk patients if given early. The FDA has granted emergency use authorization for some of them. Like any treatment, they come with potential side effects, but the benefits often outweigh the risks, especially for those at higher risk of severe illness.",Sorry. I haven't heard of these monoclonal antibodies. What's the difference between them and the vaccine? How do we know they aren't dangerous too?,neutral,1,"A's statement shows a lack of knowledge and curiosity about monoclonal antibodies, but it does not convey any particular sentiment, positive or negative. Therefore, A is being neutral.",1,True,1100
+4,"Turn 1
+A: It's just frustrating, you know? One minute, discussing vaccine passports is labeled as misinformation, and the next, it's official policy. Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member How are we supposed to trust anything when the narrative keeps changing?
+B: I get what you're saying. It does seem like there's a lot of backtracking. I guess they're trying to adapt to new information, but it can be really confusing for everyone.
 
 Turn 2
-A: Awesome! I'll watch it first thing tomorrow morning. Thanks again for the recommendation!
-B: Great! Let me know what you think after you watch it. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""thanks,"" ""saved,"" and ""can't wait to check it out"" indicates enthusiasm and appreciation for the recommendation.",1,True,401
-113,"Turn 1
-A: I can't believe C missed that critical deadline. It's thrown the entire project off track.
-B: I know, it's really frustrating. We were already tight on time, and now we have to scramble to make up for it.
+A: Exactly! And the lack of transparency doesn't help. Politicians and social media companies should be more upfront about why they're making these decisions. It feels like they're just trying to control the conversation.
+B: True, more transparency would definitely help build trust. I think it's important to have open discussions about these policies, even if the situation is constantly evolving.","Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member",against,1,"Yes, I agree. A's statements express frustration and skepticism towards the actions of politicians and social media companies. The use of phrases like ""Keep bending the knee everyone"" and ""Remember when the politicians said they wouldn’t do that?"" indicates a critical stance against the perceived inconsistency and lack of transparency.",1,True,1040
+22,"Turn 1
+A: You know, I just don't feel comfortable with this mandatory vaccination policy. I mean, how can we trust these pharmaceutical companies when they aren't fully transparent about the side effects? I know a couple of people who had really bad reactions after getting the shot.
+B: I get where you're coming from. It's definitely a big decision, and transparency is important. But from what I've read, the benefits seem to outweigh the risks for most people. Have you looked into the data on how effective the vaccines are at preventing severe illness?
 
 Turn 2
-A: And the worst part is, this isn't the first time C has made a mistake like this. Yeah that was inexcusable It's starting to feel like a pattern.
-B: You're right. We need to address this with management before it affects any more of our work. The team can't keep picking up the slack.",Yeah that was inexcusable,negative,2,"Yes, A was being negative. A expressed frustration about C missing a critical deadline and mentioned that it feels like a pattern of mistakes, which indicates a negative sentiment.",1,True,509
-13,"Turn 1
-A: Hey, thanks for the recommendation! I'm swamped right now, but I'll definitely check it out first thing tomorrow morning. Thanks, saved. Will watch it tomorrow morning :)
-B: No worries! I think you'll really like it. It's right up your alley.
+A: I have, but it's hard to ignore the personal stories. If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died. My cousin ended up in the hospital with severe side effects, and it just makes me question the whole thing. Why should I take that risk?
+B: That's really tough, I'm sorry to hear about your cousin. It's definitely a personal decision, but maybe it would help to talk to a healthcare professional about your concerns? They might be able to provide more context and help you weigh the risks and benefits more clearly.",If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died.,against,2,"Yes, I agree. A is expressing strong skepticism and distrust towards the vaccines, citing personal anecdotes and concerns about transparency and accountability of pharmaceutical companies.",1,True,1280
+24,"Turn 1
+A: You know, I saw on the news that hospital admissions are still rising even though so many people are vaccinated. Makes you wonder if the vaccine is really effective, doesn't it?
+B: I get your concern, but there are a lot of factors at play. New variants can be more transmissible, and a significant number of those hospitalized are actually unvaccinated. The vaccine still reduces the severity of the illness for most people.
 
 Turn 2
-A: Awesome, I'm looking forward to it. I'll let you know what I think once I've watched it.
-B: Sounds good! Can't wait to hear your thoughts. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""Thanks,"" ""saved,"" and ""Will watch it tomorrow morning :)"" indicates that A is appreciative and looking forward to watching the recommendation.",1,True,409
-110,"Turn 1
-A: I just don't get it, you know? I put in so much effort into that project, and when it failed, everyone just pointed fingers at me. It's like they forgot all the late nights and weekends I sacrificed.
-B: That sounds incredibly frustrating, A. It's really unfair that you're being blamed for something that wasn't solely your responsibility. Have you had a chance to talk to your manager about how you're feeling?
+A: But if the vaccine was as effective as they claimed, shouldn't we see a more significant drop in hospitalizations? Is again laughing my ass off it's a vaccine words why are there so many people in the hospitals today the vaccine does not work! Here's the man that you believe in It feels like the health authorities aren't being completely transparent.
+B: It's not that simple. The vaccine is effective, but it's not a silver bullet. It helps prevent severe cases and deaths, which is crucial. Plus, the more people who get vaccinated, the harder it is for the virus to spread and mutate. Transparency is important, but so is understanding the complexity of the situation.",Is again laughing my ass off it's a vaccine words why are there so many people in the hospitals today the vaccine does not work! Here's the man that you believe in,against,2,"Yes, I agree. A's statement in turn 2 expresses skepticism and disbelief about the effectiveness of the vaccine, indicating a stance against the vaccine's efficacy.",1,True,1119
+208,"Turn 1
+A: ""I just pulled up the latest report on COVID-19 cases in Tokyo. It looks like there's been a noticeable decline in new cases over the past month. Do you think this could be attributed to the increased vaccination rates?""
+
+B: ""That's quite possible. The data shows that over 70% of the population has received at least one dose, and about 60% are fully vaccinated. It would be interesting to see if there's a correlation between the vaccination rates and the drop in cases.""
 
 Turn 2
-A: I tried, but it felt like they were just brushing me off. They said they'd ""look into it,"" but nothing's changed. This is exactly what it's been like. I feel personally victimised by it all I feel so unsupported and isolated.
-B: I'm really sorry you're going through this. Maybe it would help to document everything that's happened and request a formal meeting with your manager. That way, you can clearly present your side and hopefully get some resolution.",This is exactly what it's been like. I feel personally victimised by it all,negative,2,"Yes, I agree. A is expressing feelings of frustration, isolation, and a lack of support, which are negative emotions. They feel personally victimized and unsupported, indicating a negative sentiment.",1,True,891
-36,"Turn 1
-A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
-B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
+A: ""Absolutely. And with the booster shots being rolled out soon, we might see an even more significant impact. HT to  for the daily Tokyo coronavirus case count. Important to see how many cases were and were not vaccinated. Hoping we can get boosters soon based on the  number of breakthrough cases reported here. The preliminary studies suggest that boosters can enhance immunity, especially against the Delta variant.""
 
-Turn 2
-A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
-B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.","making us look like punks, disappointing",negative,1,"Yes, I agree. A's statement ""making us look like punks, disappointing"" reflects a negative sentiment. A is expressing frustration and disappointment about their performance, indicating a negative outlook on the situation.",1,True,698
-102,"Turn 1
-A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
-B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
-
-Turn 2
-A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
-B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",Sadly enough I was thinking the same.,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the situation, indicating that despite their hard work, they feel it hasn't paid off.",1,True,522
-8,"Turn 1
-A: ""Did you see that last-minute goal by Johnson in the game against the Warriors? That was incredible!""
-B: ""Absolutely! I was on the edge of my seat. Johnson has really stepped up his game this season. I can't wait to see him in action at the next game.""
-
-Turn 2
-A: ""Yeah, and how about the defense? They've been rock solid. I think that's what's really making the difference for the Kings this year. Can't wait to go to the Kings game. Especially if they bring this level of fire.""
-B: ""Totally agree. Their coordination and strategy have been spot on. It's going to be so exciting to watch them live. We should get there early to catch the warm-ups too.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming Kings game, highlighting the team's strong performance and the ""level of fire"" they bring.",1,True,663
+B: ""Yes, I read about that. It will be crucial to monitor the data closely over the next few months. If the boosters prove effective, it could really help in shaping our public health strategies moving forward.""",HT to  for the daily Tokyo coronavirus case count. Important to see how many cases were and were not vaccinated. Hoping we can get boosters soon based on the  number of breakthrough cases reported here.,neutral,2,"Yes, I agree. A's statement is factual and focuses on the importance of monitoring data and the potential impact of booster shots. There is no indication of a positive or negative sentiment; it is a neutral observation based on available information.",1,True,1126
 70,"Turn 1
-A: Ugh, I just saw that NISA might be handling the translation for the new game. After the mess they made with the last one, I'm really worried.
-B: I get where you're coming from, but I'm just excited that we're finally getting an English release. Maybe they'll do better this time?
+A: You know, I've been hearing a lot about potential side effects from the COVID-19 vaccine. It's kind of worrying, especially with all the different opinions out there.
+B: I get where you're coming from. When I was in the military, I had to get the anthrax vaccine, and there were definitely some side effects. But not everyone experienced them the same way. It's important to remember that side effects can vary from person to person.
 
 Turn 2
-A: I hope so, but their track record isn't great. Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it. Remember all those mistranslations and bugs? It really ruined the experience for me.
-B: True, but at least we'll be able to understand the story without having to rely on fan translations. Plus, we can always hope for patches if there are issues.","Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it.",negative,2,"Yes, A was being negative. A expressed concerns about NISA's past performance with translations, mentioning mistranslations and bugs that ruined their experience. Despite saying they don't care anymore as long as there's an English version, the overall tone remains worried and critical.",1,True,721
-15,"Turn 1
-A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
-B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
+A: That makes sense. I guess it's easy to get caught up in the negative stories. Haha you say that but guess what? I've gotten the anthrax vaccine for deployment and I experience side effects from it. Not saying everyone that's gotten it has but in my personal experience I have Did you have any major issues with the anthrax vaccine?
+B: I had some mild reactions, like soreness and fatigue, but nothing too serious. It helped me to talk to medical professionals and get accurate information. Maybe it would help to speak with your doctor about your concerns regarding the COVID-19 vaccine.",Haha you say that but guess what? I've gotten the anthrax vaccine for deployment and I experience side effects from it. Not saying everyone that's gotten it has but in my personal experience I have,neutral,2,"A's statement acknowledges their personal experience with side effects from the anthrax vaccine while also recognizing that not everyone has the same experience. This indicates a balanced and neutral stance, as A is not making a generalized negative claim but rather sharing their individual experience.",1,True,1042
+220,"Turn 1
+A: Did you hear about the international figure who got COVID-19 despite being fully vaccinated and boosted? UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week. They only had mild symptoms and followed the isolation protocol.
+
+B: Yes, I did. It's a good reminder that while vaccines might not completely prevent infection, they are crucial in reducing the severity of the disease. It really underscores the importance of getting vaccinated and boosted.
 
 Turn 2
-A: I double-checked the results. It's real. I feel like all that work was for nothing.
-B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",Holy shit bro,negative,1,"Yes, I agree. A's statement ""I can't believe it, I just found out I failed the exam. Holy shit bro I studied so hard for it."" clearly expresses disappointment and frustration, which are negative emotions.",1,True,384
-1,"Turn 1
-A: You know, I've been really struggling with the website design lately. It feels like no matter what I do, it just doesn't look right.
-B: Oh, I totally get that. I had a client last week who kept changing their mind about the layout. It was a nightmare trying to keep up with their demands.
+A: Absolutely. It also highlights the need for continued vigilance and public health measures, especially with new variants emerging. We can't let our guard down just because we're vaccinated.
+
+B: I agree. We need to keep promoting vaccination and also emphasize other preventive measures like masking and social distancing, especially in high-risk settings. It's all about a layered approach to protection.","UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week.",neutral,1,"Yes, I agree. A was providing factual information about Shahid's COVID-19 status, vaccination history, and current condition without expressing any personal opinion or bias. The tone was neutral and informative.",1,True,1038
+202,"Turn 1
+A: You know, B, I just can't shake off the fear of getting the COVID-19 vaccine. My uncle had a severe reaction to a treatment a few years ago, and it was really traumatic for our family. I keep thinking, what if something similar happens to me?
+
+B: I understand, A. That sounds really tough. It's completely natural to feel hesitant after such an experience. Can you tell me more about what happened with your uncle? Maybe we can figure out if there's any connection to the vaccine.
 
 Turn 2
-A: That sounds rough. I'm dealing with something similar. Every time I think I've nailed the design, I find something else that needs tweaking. This just reminded me to continue designing that bloody website. It's so frustrating.
-B: Yeah, it can be really challenging. Maybe we can brainstorm some ideas together after lunch? Sometimes a fresh perspective can make a big difference.",This just reminded me to continue designing that bloody website.,negative,2,"Yes, I agree that A was being negative. The use of the word ""bloody"" in ""that bloody website"" indicates frustration and negativity towards the task of designing the website.",1,True,689
-65,"Turn 1
-A: Hey B, got any exciting plans for the weekend?
-B: Oh, absolutely! I'm really looking forward to indulging in my weekend tradition of enjoying various chocolate treats. It's something I find incredibly delightful and relaxing.
+A: He had a rare reaction to a medication that was supposed to help with his condition, but instead, it made things worse. Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental."" Ever since then, I've been wary of any medical treatments. The idea of the vaccine just brings all those memories back.
+
+B: That makes a lot of sense, A. It's important to acknowledge those feelings. Have you had a chance to talk to a healthcare professional about your concerns? They might be able to provide some reassurance or information specific to your situation.","Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""",against,2,"Yes, I agree. A is expressing concerns and fears about the COVID-19 vaccine due to past traumatic experiences with medical treatments in their family. This indicates a stance against getting the vaccine, at least for now.",1,True,1142
+146,"Turn 1
+A: Thank you for taking the time to speak with me today. I'm particularly interested in how the COVID-19 vaccination strategies are being implemented in Indigenous communities. Could you explain how these communities are being prioritized and protected during the vaccine rollout?
+
+B: Absolutely, it's a crucial topic. Our strategy focuses on vaccinating everyone in or near Indigenous communities to create a protective buffer. This approach helps to minimize the risk of outbreaks and ensures that these vulnerable populations are safeguarded. We also work closely with community leaders to address specific needs and concerns, ensuring the process is culturally sensitive and effective.
 
 Turn 2
-A: That sounds amazing! Mmm... chocolate weekends are my favorite. Do you have a favorite type of chocolate you like to treat yourself with?
-B: Definitely! I have a soft spot for dark chocolate with sea salt. But I also love trying out new flavors and combinations. It's like a little adventure every weekend.",Mmm... chocolate weekends are my favorite.,positive,2,"Yes, A was being positive. A expressed enthusiasm and agreement with B's weekend plans by saying ""That sounds amazing!"" and ""Mmm... chocolate weekends are my favorite.""",1,True,553
-48,"Turn 1
-A: I don't get why erectile dysfunction is such a big deal. I mean, it doesn't stop someone from having an orgasm, right?
-B: Actually, that's not true. Erectile dysfunction can definitely affect the ability to orgasm. It's not just about getting an erection; it's about the whole sexual experience. 
+A: That makes sense. I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe. Can you provide some examples of how you've collaborated with Indigenous leaders to tailor the vaccination efforts to their communities?
+
+B: Certainly. For instance, we've held several virtual town halls with Indigenous leaders to discuss the vaccine's safety and efficacy, addressing any misinformation directly. Additionally, we've set up mobile vaccination clinics to reach remote areas and provided materials in Indigenous languages to ensure clear communication. These efforts have been instrumental in building trust and encouraging higher vaccination rates within these communities.",I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe.,neutral,2,"Yes, A was being neutral. A was simply stating a fact about the vaccination strategy mentioned by the FNHA without expressing any personal opinion or emotion.",1,True,1491
+108,"Turn 1
+A: I've been looking at the latest data on the new COVID-19 variant, and it seems like it's more transmissible than the previous ones. The infection rates are climbing again, even in areas with high vaccination coverage.
+
+B: That's concerning. If the variant is spreading that quickly, we might need to reconsider our current public health policies. Have you seen any data on how effective the vaccines are against this new variant?
 
 Turn 2
-A: Oh, I didn't realize that. Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about? I thought it was just about not being able to get it up.
-B: It's more complicated than that. It can be really frustrating and emotionally challenging for those who experience it. It's important to understand the full impact it can have on someone's life.",Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?,negative,2,"Yes, I agree. A's use of strong language (""What the fuck are you talking about?"") and the dismissive tone suggest a negative attitude towards the topic and B's explanation.",1,True,709
-8,"Turn 1
-A: ""That game was insane! Did you see that last-minute goal? I was on the edge of my seat!""
-B: ""I know, right? The energy was off the charts. I can't believe how well they played. We definitely need to catch the next game live.""
+A: Yes, I have. The vaccines still offer strong protection against severe illness and hospitalization, but their efficacy in preventing infection has dropped a bit. This variant is penetrating the vaccine and there is no stopping it. It's milder but it's not going away. At some point a decision will have to be made. Shut down forever or learn to live with it. Booster shots might be necessary to maintain high levels of immunity.
+
+B: That makes sense. We should probably start planning a campaign to encourage booster shots, especially for vulnerable populations. We also need to think about how to communicate this to the public without causing panic.",This variant is penetrating the vaccine and there is no stopping it. It's milder but it's not going away. At some point a decision will have to be made. Shut down forever or learn to live with it.,neutral,2,"A's statement in turn 2 reflects a realistic and pragmatic view of the situation, acknowledging the challenges posed by the new variant and the need for a decision on how to proceed. The tone is factual and does not express strong emotions or bias, indicating a neutral stance.",1,True,1102
+197,"Turn 1
+A: ""Hey B, can you believe it's almost my work anniversary? Time flies! January 5 is my five year anniversary working as a spin instructor at LA fitness.  I just received notice that LA fitness is requiring vaccination or weekly testing. By the way, have you heard about the new company policy on vaccinations or testing?""
+B: ""Oh wow, congrats on the anniversary! Yeah, I heard a bit about the policy. How's it going to affect us? Do we need to get tested regularly if we're not vaccinated?""
 
 Turn 2
-A: ""Absolutely! I was thinking we could get tickets for next Saturday's game. Can't wait to go to the Kings game. Especially if they bring this level of fire.The team's on fire, and I don't want to miss it.""
-B: ""Great idea! Let's check the ticket availability tonight. It'll be awesome to be there in person and soak up the atmosphere.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming game, highlighting the team's impressive performance and eagerness to experience it live.",1,True,580
-26,"Turn 1
-A: ""I just feel like I'm drowning in work and personal stuff. It's like there's no end in sight.""
-B: ""I totally get it. It's been a tough week for me too. But remember, it's okay to feel overwhelmed sometimes. You're doing your best.""
+A: ""Thanks! So, from what I understand, if you're not vaccinated, you'll need to get tested weekly. They're setting up a testing station in the gym, so it should be pretty convenient.""
+B: ""Got it. That makes sense. I guess it's good they're making it easy for us. I'll have to figure out what works best for me. Thanks for the heads-up!""",January 5 is my five year anniversary working as a spin instructor at LA fitness.  I just received notice that LA fitness is requiring vaccination or weekly testing.,neutral,1,"A's statement about the work anniversary and the new company policy is factual and straightforward, without any indication of strong emotions or bias. Therefore, A's tone can be considered neutral.",1,True,844
+156,"Turn 1
+A: I just got my COVID-19 booster shot last weekend. The vaccination site was pretty organized, but there was a bit of a wait.
+B: Oh, really? I'm thinking about getting mine soon. How long did you have to wait?
 
 Turn 2
-A: ""Thanks, B. It really helps to hear that. At some point, we all hate it. Hey it feels good to be real sometimes.  Sometimes I just need to vent and know that someone understands.""
-B: ""Absolutely. Anytime you need to talk, I'm here. We all need a break and some support now and then.""","At some point, we all hate it. Hey it feels good to be real sometimes.",positive,2,"A's statement ""At some point, we all hate it. Hey it feels good to be real sometimes."" acknowledges the shared experience of feeling overwhelmed and the relief that comes from being honest about it. This indicates a positive shift towards acceptance and the value of authenticity.",1,True,536
-27,"Turn 1
-A: Wow, B, these slides look amazing! I can't believe you did all this for me.
-B: Of course, A! I know how important this presentation is for you. I just wanted to help ease some of your stress.
+A: It took about 30 minutes from start to finish. There were quite a few families with kids getting their first shots, which was nice to see. So got my booster today...had to wait an extra 25 minutes but it was worth it given there was a family ahead of me with 5 kids getting their 1st shot. With Indiana's low vaccination rate, it was a nice thing to see. The community's really stepping up.
+B: That's good to hear. I don't mind a bit of a wait if it means more people are getting vaccinated. Thanks for the heads-up!","So got my booster today...had to wait an extra 25 minutes but it was worth it given there was a family ahead of me with 5 kids getting their 1st shot. With Indiana's low vaccination rate, it was a nice thing to see.",favoring,2,"Yes, I agree. A is expressing a positive sentiment about the situation, noting that despite the extra wait time, it was worth it because a family with five kids was getting their first shots. A also mentions the low vaccination rate in Indiana and appreciates the community's effort to step up.",1,True,745
+179,"Turn 1
+A: The data on this new pill is promising. It shows a significant reduction in severe cases among those who take it early in their infection. This could be a game-changer for our treatment protocols.
+B: That's great to hear, but we need to think about the bigger picture. If we prioritize unvaccinated individuals for this treatment, we should also ensure they commit to getting vaccinated. Otherwise, we might just be treating symptoms without addressing the root cause.
 
 Turn 2
-A: You have no idea how much this means to me. Omg, thank you! I was really struggling with how to make everything look professional.
-B: I'm glad I could help. You've got the content down perfectly; now you just need to focus on delivering it confidently. You've got this!","Omg, thank you!",positive,2,"Yes, A was being positive. A expressed gratitude and appreciation for B's help, indicating a positive sentiment.",1,True,482
-51,"Turn 1
-A: Hey, did you see that article I sent you about the accident? Just reading this makes me sick It's so heartbreaking.
-B: Yeah, I just read it. I can't believe something like that happened. It's really upsetting to think about all those people affected.
+A: I agree, B. We need a strategy that not only treats the immediate cases but also encourages long-term immunity. The pill may treat COVID-19, but there isn't much about the lasting benifits. I believe, the unvaccinated should be prioritized (because they are the problem) but can't take the pill without a scheduled vaccination appointment. Perhaps we could implement a policy where access to the pill is contingent on scheduling a vaccination appointment.
+B: That sounds like a balanced approach. It addresses the urgent need for treatment while also promoting vaccination. We should present this idea to the team and see how we can integrate it into our current protocols.","The pill may treat COVID-19, but there isn't much about the lasting benifits. I believe, the unvaccinated should be prioritized (because they are the problem) but can't take the pill without a scheduled vaccination appointment.",favoring,2,"Yes, A was favoring the unvaccinated individuals by suggesting they should be prioritized for the new pill treatment. A also emphasized that these individuals should not receive the pill without scheduling a vaccination appointment, indicating a preference for a strategy that addresses both immediate treatment and long-term immunity.",1,True,1163
+84,"Turn 1
+A: You know, since I got vaccinated, I feel a lot more at ease. Even if I do catch COVID, the symptoms are supposed to be much milder and the illness doesn't last as long.
+B: Yeah, I've heard that, but I'm still not sure. I mean, what if there are long-term side effects we don't know about yet?
 
 Turn 2
-A: I know, right? It's hard to wrap my head around it. I keep thinking about the families and how they're coping.
-B: Same here. It's just so tragic. I wish there was something we could do to help or make a difference somehow.",Just reading this makes me sick,negative,1,"Yes, I agree. A's statement ""Just reading this makes me sick"" indicates a negative reaction to the heartbreaking news about the accident.",1,True,494
+A: I get your concern, and it's totally valid to think about the long-term. For me, the immediate benefits, like not getting seriously ill and protecting those around me, outweighed the unknowns. Honestly you should get the Vax because it can turn being really sick for a week into being a little sick for like 2 days. But its your call ultimately. Plus, the data so far has been pretty reassuring.
+B: That's true. I guess I just need more time to think it over. It's a big decision, after all.",Honestly you should get the Vax because it can turn being really sick for a week into being a little sick for like 2 days. But its your call ultimately.,favoring,2,"Yes, A was favoring getting the vaccine. A expressed personal benefits from being vaccinated and emphasized the reduced severity and duration of illness as a strong point in favor of vaccination. However, A also acknowledged that the decision is ultimately up to B.",1,True,805

@@ -1,149 +1,151 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-96,"Turn 1
-A: The test results are in, and the algorithm is performing even better than we anticipated. Oh, it's definitely working and that worries me a lot.  But, honestly, I'm starting to feel uneasy about this. What if this technology gets into the wrong hands? The potential for misuse is huge.
-
-B: I get where you're coming from. It's a powerful tool, and with great power comes great responsibility. But isn't it our job to ensure that we put the right safeguards in place? We can work on ethical guidelines and usage policies to mitigate those risks.
-
-Turn 2
-A: True, but even with guidelines, there's no guarantee that everyone will follow them. The societal impact could be significant, especially if it starts influencing decisions in ways we can't control. We need to think about the long-term consequences.
-
-B: You're right, the long-term implications are crucial. Maybe we should bring this up in our next team meeting and discuss it with the broader group. We could also consult with an ethics board to get a more comprehensive perspective on how to handle this responsibly.","Oh, it's definitely working and that worries me a lot.",negative,1,"Yes, I agree. A expresses concern and unease about the potential misuse of the technology, indicating a negative sentiment despite acknowledging the algorithm's success.",1,True,1085
-112,"Turn 1
-A: I can't believe how badly the refs botched those calls in overtime. This almost certainly should not have gone to OT. SEC refs are bad CBB refs are bad It's like they were blind to all the fouls!
-B: Yeah, it was pretty frustrating to watch. The officiating in the SEC has been terrible this season. It's like they don't even care about getting it right.
+134,"Turn 1
+A: You know, I had COVID last year and it was just like a mild flu for me. I really think if you keep up with good health practices, the vaccine might not be necessary.
+B: I get that, but with the cases rising again, I'm worried about the potential for severe illness. Plus, I've read that the vaccine can help reduce the spread to others.
 
 Turn 2
-A: Exactly! And it's not just this game. It feels like every week there's some controversy because of the refs. It's ruining the sport for me.
-B: I hear you. They really need to do something about it. Maybe bring in some new officials or improve their training. College basketball deserves better.",This almost certainly should not have gone to OT. SEC refs are bad CBB refs are bad,negative,1,"Yes, A was being negative. A expressed frustration and dissatisfaction with the referees' performance, indicating that the game should not have gone to overtime and criticizing the quality of SEC and college basketball referees.",1,True,669
-66,"Turn 1
-A: Wow, it sounds like your date went really well. They must be really attractive.
-B: Yeah, it was great! But honestly, you shouldn't compare yourself. You're amazing just the way you are.
+A: That's a fair point. I guess it depends on personal circumstances and how much risk you're willing to take. I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about For me, I feel confident in my immune system and the precautions I take.
+B: Yeah, I understand. It's definitely a personal choice. I'm just leaning towards getting it for that extra peace of mind, especially with the new variants going around.",I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about,against,2,"Yes, I agree. In Turn 2, A expresses a strong opinion against getting the vaccine, stating that they believe taking care of oneself is sufficient and that the vaccine is unnecessary. This indicates a stance against vaccination.",1,True,914
+25,"Turn 1
+A: You know, B, working in the ICU has been really eye-opening. I've seen so many young, healthy people come in with severe COVID-19 symptoms. It's heartbreaking to see them struggle to breathe and end up on ventilators.
+B: I get that it's serious, A, but I still have my doubts about the vaccine. There's so much conflicting information out there, and I'm not sure if it's really necessary for everyone, especially if you're healthy.
 
 Turn 2
-A: I don't know, sometimes I just feel like I don't measure up, you know?Same...except that I'm not good looking :
-B: Trust me, you have so many wonderful qualities. Anyone would be lucky to have you. Don't be so hard on yourself.",Same...except that I'm not good looking :,negative,2,"Yes, A was being negative. They expressed self-doubt and a lack of confidence in their appearance by saying ""I'm not good looking.""",1,True,434
-37,"Turn 1
-A: Hey! I'm out shopping right now, and it's such a beautiful sunny day. -9 and I'm out shopping. Sun is out feels great. I'm having a great time!
-B: That sounds awesome! I know how much you love these sunny shopping days. Found anything interesting yet?
+A: I understand your concerns, but the reality is that the virus doesn't discriminate. I've seen firsthand how quickly things can go downhill, even for those who seemed perfectly healthy. All these folks that are against the vaccine and the true effects of Covid, I would love to invite you on a shift with me in the ICU. So y'all can see, that folks YOUR AGE are on vents. The vaccine is our best tool to prevent that from happening.
+B: I hear you, and I appreciate your perspective. Maybe I need to do more research and talk to my doctor about it. It's just hard to know what to believe sometimes.","All these folks that are against the vaccine and the true effects of Covid, I would love to invite you on a shift with me in the ICU. So y'all can see, that folks YOUR AGE are on vents.",favoring,2,"Yes, I agree. A is favoring the vaccine and is trying to emphasize the severity of COVID-19 by sharing their firsthand experiences in the ICU. A is advocating for the vaccine as a necessary tool to prevent severe illness, especially for young and healthy individuals.",1,True,1049
+132,"Turn 1
+A: You know, the new vaccine mandate at work was the final straw for me. I just couldn't reconcile it with my personal beliefs, so I decided to resign.
+B: Wow, that's a big decision. I've been hearing about similar policies at our company too. What specifically made you feel like you had to leave?
 
 Turn 2
-A: Yes! I found this cute little boutique with some unique accessories. Thinking of getting a new pair of sunglasses. What do you think?
-B: That sounds perfect for a sunny day like today! Go for it. Any other plans for the rest of the day?",-9 and I'm out shopping. Sun is out feels great.,positive,1,"Yes, I agree. Despite the mention of ""-9,"" which likely refers to the temperature, A is expressing enjoyment of the sunny day and the shopping experience, indicating a positive sentiment.",1,True,509
-5,"Turn 1
-A: ""I can't believe they just did that! How could they mess up such an easy play? Fuuuuuck. That's the worst I've seen.""
-B: ""Yeah, that was really disappointing. I thought they had it under control.""
+A: It was a combination of things. I felt like my autonomy was being compromised, and I wasn't comfortable with the lack of flexibility in the policy. My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th. It just didn't sit right with me.
+B: I get that. It's such a tough situation. I'm still trying to figure out where I stand. It's hard to balance personal beliefs with professional obligations.","My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th.",against,2,"Yes, I agree. A was expressing opposition to the vaccine mandate policy at their workplace. They felt that their autonomy was being compromised and were uncomfortable with the lack of flexibility in the policy, which led them to resign.",1,True,921
+219,"Turn 1
+A: ""Hey, I got my COVID-19 vaccine last week. It was pretty straightforward, just a sore arm for a day.""
+B: ""That's good to hear. I'm still on the fence about it, though. I'm worried about the side effects and all the pressure to get it.""
 
 Turn 2
-A: ""We've been waiting for this game for weeks, and they blow it like this? Unbelievable.""
-B: ""I know, it's frustrating. But hey, there's still some time left. Maybe they can turn it around.""",Fuuuuuck. That's the worst I've seen.,negative,1,"Yes, A was being negative. The use of strong language and the expression of disbelief and frustration indicate a negative sentiment towards the situation.",1,True,406
-55,"Turn 1
-A: I can't believe I got banned from that forum. Somehow I got banned for replying to a troll. The mods over there have itchy trigger fingers.I was just trying to defend myself against this troll, and the moderators came down on me so hard.
-B: That sounds really frustrating. Some forums have such strict rules, and it feels like they don't always apply them fairly. I've had my own run-ins with overzealous mods before.
-
-Turn 2
-A: Exactly! It's like they don't even care about the context. I was just trying to explain my side, but they said I was being ""disruptive.""
-B: It's so unfair when they don't take the time to understand the whole situation. Maybe it's time to find a new community where the moderation is more balanced. There are plenty out there that value open discussion without being so heavy-handed.",Somehow I got banned for replying to a troll. The mods over there have itchy trigger fingers.,negative,1,"Yes, A was being negative. A expressed frustration and dissatisfaction with the moderators' actions, describing them as having ""itchy trigger fingers"" and feeling unfairly treated for simply replying to a troll.",1,True,822
-45,"Turn 1
-A: I saw that new community policing initiative in the news. I think it's a great step forward for our neighborhood. Recently Retired cop here. I love to see this. This is what he's fighting to stop. Back when I was on the force, we always emphasized the importance of building trust with the community.
-B: Yeah, I read about it too. It sounds promising. Do you think it will really make a difference, though?
-
-Turn 2
-A: Absolutely. When officers are more engaged with the community, it creates a sense of partnership. People are more likely to report crimes and cooperate with the police. I've seen it work firsthand.
-B: That makes sense. I guess it's all about building those relationships. Hopefully, this initiative will bring some positive changes around here.",Recently Retired cop here. I love to see this. This is what he's fighting to stop.,positive,1,"Yes, I agree. A was being positive about the new community policing initiative, expressing approval and support for it. The statement ""I love to see this"" indicates a positive sentiment towards the initiative.",1,True,772
-24,"Turn 1
-A: You know, I still remember how it felt to be bullied in school. It was like every day I walked into that building, I was just waiting for the next insult or prank. I was teased for being a virgin when I was a 6th grader- in 2005 It really messed with my self-esteem for a long time.
-B: I totally get that. In middle school, I was teased a lot for my weight. It was so personal and hurtful. I felt like I couldn't escape it, and it made me so self-conscious. Even now, I sometimes hear those voices in my head.
-
-Turn 2
-A: It's crazy how those experiences stick with us, isn't it? I mean, logically, I know those bullies were just projecting their own insecurities, but emotionally, it's a different story. It took me years to start believing in myself again.
-B: Absolutely. It's like those moments become a part of us. But talking about it now, with you, makes me feel less alone. It's comforting to know that someone else understands what it was like and how it still affects us today.",I was teased for being a virgin when I was a 6th grader- in 2005,negative,1,"Yes, I agree that A was being negative. A was sharing a painful and hurtful experience from their past, which had a long-lasting impact on their self-esteem. The tone of the conversation reflects the emotional distress and negativity associated with being bullied.",1,True,995
-109,"Turn 1
-A: I recently flew out of a different airport for the first time. It was such a refreshing change from the usual hustle and bustle.
-B: Oh, I can imagine! Speaking of airports, remember how chaotic LAX used to be? The traffic was always a nightmare.
-
-Turn 2
-A: Absolutely, I remember getting stuck in traffic for hours just trying to get to the terminal. Ah, good old single level LAX. I barely remember it except traffic was a nightmare. It was so frustrating.
-B: Yeah, and the parking situation was a mess too. I once missed a flight because I couldn't find a spot in time. Those were some stressful times!","Ah, good old single level LAX. I barely remember it except traffic was a nightmare.",negative,2,"Yes, A was being negative. The statement reflects frustration and a negative experience with the traffic at LAX.",1,True,614
-12,"Turn 1
-A: Hey, check out this meme I found! 😂 *sends meme*
-B: OMG, this is hilarious! I'm saving this one for sure. Thanks for the laugh, A! 😂
-
-Turn 2
-A: Haha, glad you liked it! Added to my meme folder. Thanks!I knew it would crack you up.
-B: You always find the best ones. My meme collection is getting better thanks to you! 😆",Added to my meme folder. Thanks!,positive,2,"Yes, A was being positive. A expressed happiness that B liked the meme and mentioned adding it to their meme folder, which indicates enjoyment and appreciation.",1,True,328
-50,"Turn 1
-A: Hey B, I just finished this new piece. What do you think?
-B: Wow, A! This is incredible! The colors and details are just stunning. You really outdid yourself this time.
-
-Turn 2
-A: Thanks, B! I was experimenting with some new techniques, and I wasn't sure how it would turn out. I love this. you get a favorite.
-B: Well, it definitely paid off. You have such a unique style, and it keeps getting better. I can't wait to see what you come up with next!",I love this. you get a favorite.,positive,2,"Yes, A was being positive. A expressed gratitude for B's compliment and shared excitement about the new techniques used. The phrase ""I love this"" indicates A's satisfaction with the outcome.",1,True,460
-18,"Turn 1
-A: I was going through the project requirements and noticed something about the data validation rules. Can you clarify if there's a specific format we need to follow for the input data?
-B: Yes, actually, all input data needs to be in JSON format, and each entry must include a timestamp in ISO 8601 format. This ensures consistency and makes it easier to track changes.
-
-Turn 2
-A: Got it, that makes a lot of sense. I didn't know that, thanks for the clarification.I wasn't aware of the timestamp requirement before. Thanks for pointing that out, it will definitely help us avoid issues later on.
-B: No problem at all! I'm glad I could help. If you have any other questions, feel free to ask. We're in this together.","I didn't know that, thanks for the clarification.",positive,2,"Yes, A was being positive. A expressed gratitude for the clarification and acknowledged that the information would help avoid issues later on.",1,True,723
-18,"Turn 1
-A: I was looking over the project requirements, and I noticed something about the data integration process. Can you clarify if we need to use the new API for this?
-
-B: Yes, we do. The new API is mandatory for all data integrations moving forward. It ensures better security and compatibility with our updated systems.
-
-Turn 2
-A: Got it, that makes sense. I didn't know that, thanks for the clarification. I wasn't aware of that change. Thanks for explaining it, B. I'll make sure to update our plan accordingly.
-
-B: No problem at all, A. If you need any help with the API or have more questions, just let me know. We're in this together.","I didn't know that, thanks for the clarification.",positive,2,"Yes, A was being positive. A acknowledged the new information, expressed gratitude for the clarification, and indicated a willingness to update the plan accordingly. This shows a positive and cooperative attitude.",1,True,644
-12,"Turn 1
-A: Hey, check out this meme I just found! 😂 *sends meme*Added to my meme folder. Thanks!
-B: LOL! This is gold! 🤣 I'm definitely saving this one to my favorites.
-
-Turn 2
-A: Glad you liked it! I knew it would crack you up.
-B: You always find the best ones. Thanks for the laugh, I needed that today!",Added to my meme folder. Thanks!,positive,1,"Yes, A was being positive. A shared a meme and expressed enjoyment by adding it to their meme folder, which indicates a positive reaction.",1,True,304
-40,"Turn 1
-A: Ugh, this cold weather is really messing with my car. It took me forever to get it started this morning. cars don't start, sometimes car doors are frozen shut. that's the worst of what i've experienced.
-B: I hear you. My car's battery died last week because of the cold. I had to wait for roadside assistance for almost an hour.
-
-Turn 2
-A: That's the worst. And then there's the ice on the windshield. I feel like I'm scraping it off every morning.
-B: Same here. I actually bought one of those windshield covers, and it's been a lifesaver. You should try it out.","cars don't start, sometimes car doors are frozen shut. that's the worst of what i've experienced.",negative,1,"Yes, I agree. A was expressing frustration about the cold weather affecting their car, mentioning issues like difficulty starting the car and frozen car doors, which are negative experiences.",1,True,572
-20,"Turn 1
-A: ""I know this change might seem sudden, but I believe it will streamline our process and improve the final outcome. I should have discussed it with you first, and I apologize for that oversight.""
-B: ""I appreciate the apology, but I'm really struggling to understand why this change was necessary. It feels like it disregards the work we've already put in. Can you explain the rationale behind it?""
-
-Turn 2
-A: ""Absolutely, I can see why you're frustrated. What the fuck is this about?The main reason for the change is that we received new data that suggests our initial approach might not be as effective as we thought. I wanted to pivot quickly to avoid wasting more time and resources.""
-B: ""I get that new data can change things, but it would have been helpful to have a discussion about it first. We could have brainstormed together and come up with a solution that incorporates both our efforts.""",What the fuck is this about?,negative,2,"The phrase ""What the fuck is this about?"" is indeed negative and inappropriate in the context of a professional conversation. It indicates frustration or anger, which contrasts with the otherwise constructive tone of the discussion.",1,True,908
-99,"Turn 1
-A: I'm curious about how the grading system works here. Can you explain how you assess the students' performance?
-
-B: Of course! We use a combination of formative and summative assessments. Formative assessments include quizzes, class participation, and homework, which help us gauge ongoing understanding. Summative assessments, like end-of-term exams and projects, evaluate the students' overall grasp of the material.
-
-Turn 2
-A: That makes sense. Right. The mantra at my school is that we don't give grades, kids earn them. How do you ensure that the grades reflect both the students' efforts and their actual performance?
-
-B: We have a balanced approach. Effort is recognized through participation and homework grades, while performance is measured through tests and projects. Additionally, we provide feedback throughout the term to help students improve continuously, ensuring their grades reflect both their hard work and their mastery of the subject.","Right. The mantra at my school is that we don't give grades, kids earn them.",neutral,2,"Yes, A was being neutral. A's statement about the mantra at their school does not express a positive or negative sentiment but rather shares a philosophy or approach to grading.",1,True,965
-22,"Turn 1
-A: You wouldn't believe how tough the recovery was, B. The pain was intense, especially during the first few weeks. Resetting a dislocated knee hurts like hell but it feels a lot better immediately after. But the doctors and physiotherapists were amazing.
-B: Oh wow, that sounds awful. I'm really sorry you had to go through that. How are you feeling now?
-
-Turn 2
-A: Honestly, I'm feeling so much better now. The pain has subsided, and I can move around almost like before. It's such a relief.
-B: That's great to hear! I'm glad you're on the mend. Just take it easy and don't push yourself too hard, okay?",Resetting a dislocated knee hurts like hell but it feels a lot better immediately after.,positive,1,"A's statement ""Resetting a dislocated knee hurts like hell but it feels a lot better immediately after."" acknowledges the intense pain but also highlights the immediate relief that follows the procedure. This indicates a mix of acknowledging the difficulty while also recognizing a positive outcome.",1,True,612
-22,"Turn 1
-A: You know, middle school was really tough for me. I remember this one time when a group of kids made fun of my clothes every single day. I was teased for being a virgin when I was a 6th grader- in 2005 It made me feel so small and worthless.
-B: I can relate to that. In high school, I was constantly picked on for my weight. It felt like no matter what I did, I couldn't escape their cruel comments. It really messed with my self-esteem.
-
-Turn 2
-A: It's heartbreaking how those experiences stick with us, even years later. I still get anxious in social situations, worried that people are judging me.
-B: Same here. It's like those voices never fully go away. But talking about it with you helps. It reminds me that I'm not alone and that we can support each other through it.",I was teased for being a virgin when I was a 6th grader- in 2005,negative,1,"Yes, I agree that A was being negative. A was sharing a painful and humiliating experience from middle school where they were teased and made to feel small and worthless. This indicates a negative sentiment as A is recounting a distressing memory.",1,True,784
+A: ""I totally get that. Everyone's situation is different. For me, it was worth it for the peace of mind, but I respect that it's a personal decision. Sorry, I am a American. And I have vaccinated. I take the vaccine but I also respect those people who choose not to. This is the American spirit that I am talking about. The spirit of Freedom! It's important to weigh all the information and make the choice that's right for you.""
+B: ""Thanks, I appreciate that. It's nice to hear someone acknowledge that it's okay to take your time and decide for yourself.""","Sorry, I am a American. And I have vaccinated. I take the vaccine but I also respect those people who choose not to. This is the American spirit that I am talking about. The spirit of Freedom!",neutral,2,"Yes, I agree. A acknowledges B's concerns and emphasizes the importance of personal choice and freedom, which indicates a neutral stance. A respects both the decision to get vaccinated and the decision not to, highlighting the value of individual choice.",1,True,812
 105,"Turn 1
-A: Hey B, I couldn't help but notice you seem pretty calm despite all the pressure we're under. How do you manage to stay so composed?
-
-B: Oh, thanks for noticing, A. It's not always easy, but I have this technique that really helps me. I focus on my breathing and take a few deep breaths whenever I start feeling overwhelmed. It helps me clear my mind and stay focused.
+A: You know, I got my COVID-19 vaccine last month. It was a bit of a relief, honestly.
+B: Really? I've been on the fence about it. There's so much conflicting information out there, it's hard to know what to believe.
 
 Turn 2
-A: That sounds interesting. Taking deep, measured breaths usually helps me regain my composure  Do you have any specific breathing exercises you follow, or is it just about taking deep breaths?
+A: I get that. I did a lot of research before deciding. For me, the benefits outweighed the risks, and I just want things to get back to normal. I mean I don't have strong feelings over the mandate I just want the pandemic to be over. All I know is the vaccine is safe and effective. I recommend taking it Plus, it feels good knowing I'm doing my part to help end the pandemic.
+B: That's a good point. Maybe I should look into it more seriously. It would be nice to feel a bit more secure about everything.",I mean I don't have strong feelings over the mandate I just want the pandemic to be over. All I know is the vaccine is safe and effective. I recommend taking it,favoring,2,"Yes, A was favoring the vaccine. A mentioned doing a lot of research, finding the benefits outweighing the risks, and feeling good about contributing to ending the pandemic. A also explicitly recommended taking the vaccine.",1,True,738
+85,"Turn 1
+A: You know, I got the J&J vaccine a while back and I feel pretty good about it. I think it's done its job well enough for me.
+B: That's interesting. I've been thinking about getting a booster shot because of all these new variants popping up. Do you think it's necessary?
 
-B: I usually follow a simple pattern: inhale for four seconds, hold for four, and then exhale for four. It's called box breathing. It's really effective in calming my nerves and keeping me grounded, especially during crunch times like this.","Taking deep, measured breaths usually helps me regain my composure",neutral,2,"A's statement ""Taking deep, measured breaths usually helps me regain my composure"" is a neutral observation about their own experience with breathing exercises. It neither expresses a strong positive nor negative sentiment.",1,True,821
+Turn 2
+A: Personally, I don't feel the need for a booster right now. I trust the initial vaccine and I'm generally healthy, so I think I'm at a low risk. I've said since getting JNJ in April I was one-n-done. I'm 40, fit and not at meaningful risk. Vax reduced the vanishingly small chance I'd get severely ill. No boost needed as I was happy to get it in the RW.   Now Delta will be Omicron and I'm supposed to fret my good fortune? But I can see why you'd consider it, especially with the new variants.
+B: Yeah, I get that. I guess it's just about weighing the risks and benefits for each of us. Thanks for sharing your perspective!","I've said since getting JNJ in April I was one-n-done. I'm 40, fit and not at meaningful risk. Vax reduced the vanishingly small chance I'd get severely ill. No boost needed as I was happy to get it in the RW.   Now Delta will be Omicron and I'm supposed to fret my good fortune?",favoring,2,"Yes, A was favoring their decision to not get a booster shot. They expressed confidence in the initial J&J vaccine and their own health status, indicating they feel no need for additional doses despite the emergence of new variants.",1,True,915
+190,"Turn 1
+A: You know, I just can't believe they're pushing this vaccine mandate at your work. It's like they're trying to control every aspect of our lives. I mean, have you seen the stuff coming out about the side effects? It's dangerous!
+
+B: I get where you're coming from, but I think they're just trying to keep everyone safe. We've had a few outbreaks at the office, and it's been a real mess. Plus, the data I've seen suggests the benefits outweigh the risks.
+
+Turn 2
+A: But don't you think it's a slippery slope? First, it's the vaccine, then what? They're going to start dictating everything we do. It's about personal freedom, and I feel like we need to stand up against this kind of overreach. College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous.
+
+B: I hear you, and I value my freedom too. But I also think there's a balance. If getting vaccinated means we can get back to normal faster and protect those who can't get the shot, maybe it's worth considering. It's a tough situation for sure.",College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous.,against,2,"Yes, I agree. A is clearly expressing strong opposition to the vaccine mandate, emphasizing personal freedom and distrust in the authorities pushing for vaccination. A's language and tone indicate a firm stance against the vaccine.",1,True,1127
+67,"Turn 1
+A: You know, I've been thinking a lot about whether I should get the COVID-19 vaccine now that I've recovered. I mean, I've already had the virus, so I'm wondering if it's really necessary.
+B: That's a good question, A. Even though you've had COVID-19, getting vaccinated can still provide you with stronger and longer-lasting immunity. Plus, it can help protect those around you who might be more vulnerable.
+
+Turn 2
+A: That makes sense. I guess I was also worried about potential side effects. So i can still get covid and pass it on to others with the vaccine.  I'm supposed  to get the vaccine becasue I won't get as sick and maybe won't get hospitalized.  Do you have any other arguments for me to get the shot considering I already had covid? Are they really that common?
+B: Most people experience mild side effects like a sore arm, fatigue, or a slight fever, which are just signs that your body is building protection. Serious side effects are very rare. Overall, the benefits of getting vaccinated far outweigh the risks, especially when it comes to preventing severe illness.",So i can still get covid and pass it on to others with the vaccine.  I'm supposed  to get the vaccine becasue I won't get as sick and maybe won't get hospitalized.  Do you have any other arguments for me to get the shot considering I already had covid?,neutral,2,A's statement in Turn 2 shows a mix of understanding and concern. They acknowledge the benefits of the vaccine in terms of reducing severity and hospitalization but also express worries about side effects and the possibility of still transmitting the virus. This indicates a neutral stance as they are weighing both pros and cons without a strong bias towards either side.,1,True,1092
+126,"Turn 1
+A: I was reading an article this morning about the spike in COVID-19 hospitalizations. It mentioned that most of the severe cases are among the unvaccinated.
+B: Yeah, I saw something similar. I really hope this surge makes people realize how important it is to get vaccinated. It's frustrating to see so many preventable cases.
+
+Turn 2
+A: Absolutely. It's not just about protecting ourselves but also about safeguarding our community. I'm trying to say is that for the unvaccinated people they might learn there lesson because the cases that are mostly going up are because of the unvaccinated and the hospitalizations are mostly unvaccinated hopefully they see a difference and get vax The more people get vaccinated, the better off we'll all be.
+B: Exactly. I just wish more people understood that. Hopefully, seeing the numbers rise will be the wake-up call some need to finally get their shots.",I'm trying to say is that for the unvaccinated people they might learn there lesson because the cases that are mostly going up are because of the unvaccinated and the hospitalizations are mostly unvaccinated hopefully they see a difference and get vax,favoring,2,"Yes, I agree. A is expressing a hopeful sentiment that the unvaccinated people will learn their lesson and decide to get vaccinated after seeing the rise in COVID-19 cases and hospitalizations among the unvaccinated. This indicates a favorable attitude towards vaccination.",1,True,905
+185,"Turn 1
+A: I've been really cautious about going out, especially to places like movie theatres. I got my second vaccine dose a few months ago, and I'm scheduled for a booster next week. Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week. Do you think it's safe for me to go to the movies now?
+
+B: It's great that you're fully vaccinated and getting your booster soon. Current guidelines suggest that fully vaccinated individuals have a lower risk of severe illness, but it's still important to consider factors like local case rates, the theatre's safety measures, and your own comfort level. If the theatre requires masks and has good ventilation, it could be relatively safe, but there's always some risk.
+
+Turn 2
+A: That makes sense. I know some theatres have implemented social distancing and enhanced cleaning protocols. Do you think those measures, along with my vaccination status, would make it safer?
+
+B: Yes, those measures definitely help reduce the risk. If the theatre is following strict protocols and you're fully vaccinated, it should be safer. Just make sure to wear a mask, avoid crowded showtimes, and maybe even bring some hand sanitizer. Ultimately, it's about balancing the benefits of enjoying the movie with the potential risks.",Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week.,neutral,1,"Yes, I agree. A was being neutral in their request for advice. They were simply stating their situation and asking for information without expressing a strong positive or negative sentiment.",1,True,1406
+242,"Turn 1
+A: It's just so overwhelming right now. We're stretched so thin, and having to decide who gets a bed and who doesn't is heartbreaking. I can't help but think that those who chose to get vaccinated should be prioritized. They took steps to protect themselves and others.
+B: I understand your frustration, A. It's a tough call. But we also have to consider the ethical implications. Every patient deserves care, regardless of their vaccination status. Maybe we should focus on the severity of the cases and the likelihood of recovery instead.
+
+Turn 2
+A: I get that, B, but it's hard not to feel resentful when we see so many unvaccinated patients taking up resources. I would love to be that person who shows empathy for all. I'm not. Empathy drained. People have made choices. If that choice was to refuse vaccination you go to the bottom of the list. Those who chose to live by getting vaccinated deserve preferential treatment. It's like they didn't do their part, and now we're all paying the price.
+B: I hear you. It's definitely frustrating. But our duty is to provide the best care possible to everyone. Maybe we can advocate for more public health campaigns to encourage vaccination, so we don't end up in this situation again.",I would love to be that person who shows empathy for all. I'm not. Empathy drained. People have made choices. If that choice was to refuse vaccination you go to the bottom of the list. Those who chose to live by getting vaccinated deserve preferential treatment.,favoring,2,"Yes, A was favoring vaccinated individuals over unvaccinated ones. A expressed a clear preference for prioritizing those who chose to get vaccinated, indicating that they believe vaccinated individuals deserve preferential treatment.",1,True,1240
+233,"Turn 1
+A: You know, I've always made sure the kids get their standard vaccinations, but I'm really hesitant about the COVID-19 vaccine. My children and myself have had all the normal vaccines. Is the covid vaccine have a problem with. Main thing is. You can't get answers to questions. Too much hiding everything. Fauci lies. You still get covid. There's just so much uncertainty and it feels like there's a lot of secrecy around it.
+B: I get where you're coming from. It can be overwhelming with all the information out there. But from what I've read, the vaccine has gone through rigorous testing, and the transparency has actually been better than with many other vaccines.
+
+Turn 2
+A: I hear you, but it's hard to shake off the distrust, especially when public health figures seem to contradict each other sometimes. It makes me wonder if we're getting the full story.
+B: That's a valid concern. Maybe it would help to talk to a healthcare professional you trust? They might be able to provide clearer answers and help you feel more confident about the decision.",My children and myself have had all the normal vaccines. Is the covid vaccine have a problem with. Main thing is. You can't get answers to questions. Too much hiding everything. Fauci lies. You still get covid.,against,1,"Yes, A is expressing skepticism and distrust towards the COVID-19 vaccine, citing concerns about transparency, conflicting information, and the effectiveness of the vaccine.",1,True,1065
+116,"Turn 1
+A: You know, I had a bit of a scare last week. I was in close contact with someone who tested positive for COVID-19, but thankfully, I didn't catch it.
+B: Really? That's lucky. Do you think the vaccine had anything to do with it?
+
+Turn 2
+A: Absolutely. I think being vaccinated played a big role in my negative test result. around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine It gave me peace of mind knowing I had that extra layer of protection.
+B: Hmm, that's interesting. I've been on the fence about getting vaccinated, but hearing your experience makes me think it might be worth considering.","around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine",favoring,2,"Yes, I agree. A is expressing a positive sentiment towards the vaccine, attributing their negative COVID-19 test result to being vaccinated and feeling grateful for the protection it provided.",1,True,774
+177,"Turn 1
+A: You know, it's been really tough navigating conversations about the COVID-19 vaccine lately. It feels like everyone has such strong opinions, and it can get pretty divisive.
+B: Yeah, I get what you mean. I think it's important to respect everyone's personal choices, but at the same time, we need to ensure safety. That's why I appreciate the company's policy on regular testing.
+
+Turn 2
+A: Absolutely. I think the regular testing is a good middle ground. I hate to talk about the vaccine cause it's so controversial but I feel like no one should get ridiculed for getting the vaccine nor choosing to not get the vaccine (unless the case is that they are not getting tested regularly and going everywhere) It helps keep everyone safe without forcing anyone into a decision they're not comfortable with.
+B: Exactly. It allows us to maintain a safe work environment while respecting individual preferences. It's all about finding that balance, right?",I hate to talk about the vaccine cause it's so controversial but I feel like no one should get ridiculed for getting the vaccine nor choosing to not get the vaccine (unless the case is that they are not getting tested regularly and going everywhere),neutral,2,"Yes, A was being neutral. A expressed understanding of both sides of the vaccine debate and emphasized the importance of not ridiculing anyone for their personal choice, while also highlighting the importance of regular testing for safety.",1,True,958
+142,"Turn 1
+A: Ugh, Twitter is a mess today. Everyone's arguing about the COVID-19 vaccine again.
+B: I know, right? It's so frustrating. These debates never seem to go anywhere. People just end up more entrenched in their views.
+
+Turn 2
+A: Exactly. I feel like instead of trying to convince others on social media, people should just focus on making informed decisions for themselves. Like can y'all please stfuuuuuu lol. Your Twitter posts ain't changing nobody mind. I promise it is falling on deaf ears. Both sides. Just DO WHAT WORKS FOR YOU.
+B: Totally agree. It's more productive to do your own research and talk to healthcare professionals rather than getting caught up in online drama.",Like can y'all please stfuuuuuu lol. Your Twitter posts ain't changing nobody mind. I promise it is falling on deaf ears. Both sides. Just DO WHAT WORKS FOR YOU.,neutral,2,"A's statement suggests frustration with both sides of the argument and emphasizes the importance of making personal, informed decisions rather than engaging in futile debates on social media. This indicates a neutral stance, as A is not favoring one side over the other but rather criticizing the nature of the debate itself.",1,True,688
+249,"Turn 1
+A: I just got back from the conference, and I had a fascinating conversation with Japan's former vaccination leader. . and I spoke with Japan's former vax czar on the rollout of Covid booster shots. ""Why wait for eight months?"" he said re: the interval between 2nd and 3rd doses. They shared some compelling insights about the timing of booster shots. Apparently, there's emerging data suggesting that the current eight-month interval might not be optimal for everyone.
+
+B: That's interesting. Did they mention any specific factors that could influence the timing? I know there's been some debate about whether certain populations might benefit from a shorter interval.
+
+Turn 2
+A: Yes, they did. They pointed out that age and underlying health conditions could play a significant role. For instance, older adults and those with compromised immune systems might need boosters sooner than the general population. They also mentioned that the type of vaccine initially received could impact the ideal timing for a booster.
+
+B: That makes sense. It sounds like we might need to consider a more tailored approach rather than a one-size-fits-all strategy. We should definitely look into the latest data and possibly adjust our recommendations accordingly.",". and I spoke with Japan's former vax czar on the rollout of Covid booster shots. ""Why wait for eight months?"" he said re: the interval between 2nd and 3rd doses.",neutral,1,"I agree. A was being neutral in their statement, simply relaying information from their conversation with Japan's former vaccination leader without expressing a personal opinion or bias.",1,True,1256
+174,"Turn 1
+A: I just got my third COVID-19 vaccine dose last week. I feel so relieved now.
+B: Really? I've been on the fence about getting vaccinated. How was your experience?
+
+Turn 2
+A: It was pretty straightforward, just like the first two doses. My Xmas gift to myself and my family and my community. A dose of Moderna for my 3rd Covid shot... Please get your vaccination 1st 2nd or 3rd when you're eligible. Stay safe. I decided to get it because I want to protect myself, my family, and everyone around me. Plus, it gives me peace of mind knowing I'm doing my part to help the community.
+B: That makes sense. I guess I should seriously consider it, especially with everything going on. Thanks for sharing your experience.",My Xmas gift to myself and my family and my community. A dose of Moderna for my 3rd Covid shot... Please get your vaccination 1st 2nd or 3rd when you're eligible. Stay safe.,favoring,2,"Yes, A was favoring getting vaccinated. A expressed relief and peace of mind after receiving the third dose and encouraged B to get vaccinated as well, emphasizing the importance of protecting oneself, family, and the community.",1,True,722
+186,"Turn 1
+A: You know, looking at the latest data, it seems like the infection rates have finally stabilized. It's a relief, but I wonder how much of this can be attributed to the vaccination efforts.
+
+B: That's a good point. It's crucial that we communicate this effectively to the public. People need to understand that the vaccines are playing a significant role in controlling the spread. Clear and accurate information can help combat misinformation and encourage more people to get vaccinated.
+
+Turn 2
+A: Absolutely. We should highlight the correlation between vaccination rates and the stabilization of infection numbers. I'm also not sure its increasing again, the graph seems to have leveled. That may even be as a result of new vax, or new restrictions. The more reasonable people have facts the better they can convince others. Maybe we can create some infographics that show this trend clearly.
+
+B: I like that idea. Visual aids can be very powerful. We should also include testimonials from people who have been vaccinated and how it has impacted their lives. Personal stories can resonate well with the public and help build trust in the vaccines.","I'm also not sure its increasing again, the graph seems to have leveled. That may even be as a result of new vax, or new restrictions. The more reasonable people have facts the better they can convince others.",neutral,2,"Yes, A was being neutral. A is simply stating observations about the data and suggesting possible reasons for the stabilization of infection rates, without expressing a strong opinion or emotion.",1,True,1158
+161,"Turn 1
+A: I've been thinking about whether to get the COVID-19 vaccine booster shot. I'm not sure if it's necessary for me.
+B: I totally get your hesitation. I just recovered from my second bout of COVID-19, and it was pretty rough. Honestly, I believe the vaccine played a huge role in keeping my symptoms from being even worse. It gave me some peace of mind knowing I was vaccinated.
+
+Turn 2
+A: That makes sense. I guess I just needed to hear a personal experience to put things into perspective. As someone suffering through Covid for a second time I'm a firm believer in the vaccine. I found out that I tested positive for Covid on NYE 2020. I was down bad for a solid two weeks. How long did it take for you to recover?
+B: It took about two weeks to feel like myself again. The first few days were the hardest, but I kept thinking about how much worse it could have been without the vaccine. It really reinforced for me how important it is to stay up-to-date with the boosters.",As someone suffering through Covid for a second time I'm a firm believer in the vaccine. I found out that I tested positive for Covid on NYE 2020. I was down bad for a solid two weeks.,favoring,2,"Yes, I agree. A is expressing a positive sentiment towards the vaccine by sharing their personal experience of suffering through COVID-19 and acknowledging the importance of the vaccine in potentially mitigating the severity of the illness.",1,True,982
+71,"Turn 1
+A: I've been thinking about getting a booster shot, but I'm a bit hesitant. I've heard so many mixed things about the side effects and how effective it really is. What do you think?
+
+B: I totally get where you're coming from. I had similar concerns before I got mine. I've had both doses and a booster, and while I did experience some side effects like a sore arm and mild fatigue, it wasn't too bad. Plus, I feel more protected, especially with the new variants going around.
+
+Turn 2
+A: That makes sense. I guess I'm just worried about the potential for more severe side effects. ive had double shot vax, covid (pre vaxx) and now covid again starting last saturday.   Original covid far far worse, followed by my reaction to second vaxx, and this was between a cold and mild flu.   Anecdotal I realize but FYI from Ansley guy ... Did you notice any difference in how you felt after the booster compared to the initial doses?
+
+B: Actually, the side effects were pretty similar for me, maybe a bit milder with the booster. But everyone's different. I think the peace of mind it gives me, knowing I'm better protected, outweighs the temporary discomfort. Plus, it helps protect those around us too.","ive had double shot vax, covid (pre vaxx) and now covid again starting last saturday.   Original covid far far worse, followed by my reaction to second vaxx, and this was between a cold and mild flu.   Anecdotal I realize but FYI from Ansley guy ...",neutral,2,A's statement in turn 2 provides a factual recount of their experiences with COVID-19 and the vaccines. They describe the severity of their symptoms and reactions without expressing a strong positive or negative sentiment. This indicates a neutral stance.,1,True,1203
