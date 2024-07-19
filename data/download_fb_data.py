@@ -66,7 +66,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'SemEvalT6_Sentiment_No_Amb'
     # current_data_prefix = 'Full-iSarcasm-1'
     # current_data_prefix = 'Full-iSarcasm-2'
-    current_data_prefix = 'Full-iSarcasm-3'
+    # current_data_prefix = 'Full-iSarcasm-3'
+    current_data_prefix = 'Full-GoEmotions_Sentiment-1'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:

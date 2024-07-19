@@ -1,0 +1,261 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Ugh, I just saw that NISA might be handling the translation for the new game. After the mess they made with the last one, I'm really worried.
+B: I get where you're coming from, but I'm just excited that we're finally getting an English release. Maybe they'll do better this time?
+
+Turn 2
+A: I hope so, but their track record isn't great. Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it. Remember all those mistranslations and bugs? It really ruined the experience for me.
+B: True, but at least we'll be able to understand the story without having to rely on fan translations. Plus, we can always hope for patches if there are issues.",negative,2024-07-19T01:50:10.779000+00:00,"What was the person's sentiment when they said ""Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it."" during the conversation?","Turn 1
+A: Ugh, I just saw that NISA might be handling the translation for the new game. After the mess they made with the last one, I'm really worried.
+B: I get where you're coming from, but I'm just excited that we're finally getting an English release. Maybe they'll do better this time?
+
+Turn 2
+A: I hope so, but their track record isn't great. Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it. Remember all those mistranslations and bugs? It really ruined the experience for me.
+B: True, but at least we'll be able to understand the story without having to rely on fan translations. Plus, we can always hope for patches if there are issues.","Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it.",negative
+"Turn 1
+A: ""That game was insane! Did you see that last-minute goal? I was on the edge of my seat!""
+B: ""I know, right? The energy was off the charts. I can't believe how well they played. We definitely need to catch the next game live.""
+
+Turn 2
+A: ""Absolutely! I was thinking we could get tickets for next Saturday's game. Can't wait to go to the Kings game. Especially if they bring this level of fire.The team's on fire, and I don't want to miss it.""
+B: ""Great idea! Let's check the ticket availability tonight. It'll be awesome to be there in person and soak up the atmosphere.""",positive,2024-07-19T01:49:40.676000+00:00,"What was the person's sentiment when they said ""Can't wait to go to the Kings game. Especially if they bring this level of fire."" during the conversation?","Turn 1
+A: ""That game was insane! Did you see that last-minute goal? I was on the edge of my seat!""
+B: ""I know, right? The energy was off the charts. I can't believe how well they played. We definitely need to catch the next game live.""
+
+Turn 2
+A: ""Absolutely! I was thinking we could get tickets for next Saturday's game. Can't wait to go to the Kings game. Especially if they bring this level of fire.The team's on fire, and I don't want to miss it.""
+B: ""Great idea! Let's check the ticket availability tonight. It'll be awesome to be there in person and soak up the atmosphere.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive
+"Turn 1
+A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
+B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
+
+Turn 2
+A: I double-checked the results. It's real. I feel like all that work was for nothing.
+B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",negative,2024-07-19T01:48:35.402000+00:00,"What was the person's sentiment when they said ""Holy shit bro"" during the conversation?","Turn 1
+A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
+B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
+
+Turn 2
+A: I double-checked the results. It's real. I feel like all that work was for nothing.
+B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",Holy shit bro,negative
+"Turn 1
+A: Wow, look at that! The college basketball game is on the main network. It seems like it's getting a lot of attention.
+B: Yeah, it's March Madness season. Everyone's really into it right now. But it's interesting how the UFC fight is on a less prominent channel. You'd think it would get more coverage too.
+
+Turn 2
+A: True, especially considering how popular UFC has become over the years. College basketball just big leagued the UFC. We've to wait for it to finish I think. I guess college basketball has that traditional appeal and a huge following during this time of year.
+B: Definitely. Plus, there's something about the unpredictability of March Madness that really draws people in. Every game feels like it could be an upset.",negative,2024-07-19T01:49:07.045000+00:00,"What was the person's sentiment when they said ""College basketball just big leagued the UFC. We've to wait for it to finish I think."" during the conversation?","Turn 1
+A: Wow, look at that! The college basketball game is on the main network. It seems like it's getting a lot of attention.
+B: Yeah, it's March Madness season. Everyone's really into it right now. But it's interesting how the UFC fight is on a less prominent channel. You'd think it would get more coverage too.
+
+Turn 2
+A: True, especially considering how popular UFC has become over the years. College basketball just big leagued the UFC. We've to wait for it to finish I think. I guess college basketball has that traditional appeal and a huge following during this time of year.
+B: Definitely. Plus, there's something about the unpredictability of March Madness that really draws people in. Every game feels like it could be an upset.",College basketball just big leagued the UFC. We've to wait for it to finish I think.,negative
+"Turn 1
+A: Wait, so this is the big thing you've been hinting at for weeks?I didn't know this was a ""reveal"" he'd been talking about for awhile.
+B: Yep! I've been planning it for months, and it's finally happening this weekend.
+
+Turn 2
+A: Wow, I had no idea it was such a big deal. Can you give me a hint about what it is?
+B: Let's just say it involves a lot of people, some amazing decorations, and a surprise guest. You'll have to wait and see!",neutral,2024-07-19T01:52:37.503000+00:00,"What was the person's sentiment when they said ""I didn't know this was a ""reveal"" he'd been talking about for awhile."" during the conversation?","Turn 1
+A: Wait, so this is the big thing you've been hinting at for weeks?I didn't know this was a ""reveal"" he'd been talking about for awhile.
+B: Yep! I've been planning it for months, and it's finally happening this weekend.
+
+Turn 2
+A: Wow, I had no idea it was such a big deal. Can you give me a hint about what it is?
+B: Let's just say it involves a lot of people, some amazing decorations, and a surprise guest. You'll have to wait and see!",I didn't know this was a ,neutral
+"Turn 1
+A: You know, I've been really struggling with the website design lately. It feels like no matter what I do, it just doesn't look right.
+B: Oh, I totally get that. I had a client last week who kept changing their mind about the layout. It was a nightmare trying to keep up with their demands.
+
+Turn 2
+A: That sounds rough. I'm dealing with something similar. Every time I think I've nailed the design, I find something else that needs tweaking. This just reminded me to continue designing that bloody website. It's so frustrating.
+B: Yeah, it can be really challenging. Maybe we can brainstorm some ideas together after lunch? Sometimes a fresh perspective can make a big difference.",negative,2024-07-19T01:48:07.594000+00:00,"What was the person's sentiment when they said ""This just reminded me to continue designing that bloody website."" during the conversation?","Turn 1
+A: You know, I've been really struggling with the website design lately. It feels like no matter what I do, it just doesn't look right.
+B: Oh, I totally get that. I had a client last week who kept changing their mind about the layout. It was a nightmare trying to keep up with their demands.
+
+Turn 2
+A: That sounds rough. I'm dealing with something similar. Every time I think I've nailed the design, I find something else that needs tweaking. This just reminded me to continue designing that bloody website. It's so frustrating.
+B: Yeah, it can be really challenging. Maybe we can brainstorm some ideas together after lunch? Sometimes a fresh perspective can make a big difference.",This just reminded me to continue designing that bloody website.,negative
+"Turn 1
+A: I can't believe C missed that critical deadline. It's thrown the entire project off track.
+B: I know, it's really frustrating. We were already tight on time, and now we have to scramble to make up for it.
+
+Turn 2
+A: And the worst part is, this isn't the first time C has made a mistake like this. Yeah that was inexcusable It's starting to feel like a pattern.
+B: You're right. We need to address this with management before it affects any more of our work. The team can't keep picking up the slack.",negative,2024-07-19T01:53:01.163000+00:00,"What was the person's sentiment when they said ""Yeah that was inexcusable"" during the conversation?","Turn 1
+A: I can't believe C missed that critical deadline. It's thrown the entire project off track.
+B: I know, it's really frustrating. We were already tight on time, and now we have to scramble to make up for it.
+
+Turn 2
+A: And the worst part is, this isn't the first time C has made a mistake like this. Yeah that was inexcusable It's starting to feel like a pattern.
+B: You're right. We need to address this with management before it affects any more of our work. The team can't keep picking up the slack.",Yeah that was inexcusable,negative
+"Turn 1
+A: Hey, did you see that article I sent you about the accident? Just reading this makes me sick It's so heartbreaking.
+B: Yeah, I just read it. I can't believe something like that happened. It's really upsetting to think about all those people affected.
+
+Turn 2
+A: I know, right? It's hard to wrap my head around it. I keep thinking about the families and how they're coping.
+B: Same here. It's just so tragic. I wish there was something we could do to help or make a difference somehow.",negative,2024-07-19T01:51:28.325000+00:00,"What was the person's sentiment when they said ""Just reading this makes me sick"" during the conversation?","Turn 1
+A: Hey, did you see that article I sent you about the accident? Just reading this makes me sick It's so heartbreaking.
+B: Yeah, I just read it. I can't believe something like that happened. It's really upsetting to think about all those people affected.
+
+Turn 2
+A: I know, right? It's hard to wrap my head around it. I keep thinking about the families and how they're coping.
+B: Same here. It's just so tragic. I wish there was something we could do to help or make a difference somehow.",Just reading this makes me sick,negative
+"Turn 1
+A: I just don't get it, you know? I put in so much effort into that project, and when it failed, everyone just pointed fingers at me. It's like they forgot all the late nights and weekends I sacrificed.
+B: That sounds incredibly frustrating, A. It's really unfair that you're being blamed for something that wasn't solely your responsibility. Have you had a chance to talk to your manager about how you're feeling?
+
+Turn 2
+A: I tried, but it felt like they were just brushing me off. They said they'd ""look into it,"" but nothing's changed. This is exactly what it's been like. I feel personally victimised by it all I feel so unsupported and isolated.
+B: I'm really sorry you're going through this. Maybe it would help to document everything that's happened and request a formal meeting with your manager. That way, you can clearly present your side and hopefully get some resolution.",negative,2024-07-19T01:50:42.293000+00:00,"What was the person's sentiment when they said ""This is exactly what it's been like. I feel personally victimised by it all"" during the conversation?","Turn 1
+A: I just don't get it, you know? I put in so much effort into that project, and when it failed, everyone just pointed fingers at me. It's like they forgot all the late nights and weekends I sacrificed.
+B: That sounds incredibly frustrating, A. It's really unfair that you're being blamed for something that wasn't solely your responsibility. Have you had a chance to talk to your manager about how you're feeling?
+
+Turn 2
+A: I tried, but it felt like they were just brushing me off. They said they'd ""look into it,"" but nothing's changed. This is exactly what it's been like. I feel personally victimised by it all I feel so unsupported and isolated.
+B: I'm really sorry you're going through this. Maybe it would help to document everything that's happened and request a formal meeting with your manager. That way, you can clearly present your side and hopefully get some resolution.",This is exactly what it's been like. I feel personally victimised by it all,negative
+"Turn 1
+A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
+B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
+
+Turn 2
+A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
+B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",positive,2024-07-19T01:52:11.877000+00:00,"What was the person's sentiment when they said ""Lmao I hope I'm not the only one who gets this"" during the conversation?","Turn 1
+A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
+B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
+
+Turn 2
+A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
+B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",Lmao I hope I'm not the only one who gets this,positive
+"Turn 1
+A: Hey, thanks for the link! That movie looks really interesting. I can't wait to check it out. Thanks, saved. Will watch it tomorrow morning :)
+B: No problem! I thought you'd like it. It's got that kind of twisty plot you enjoy.
+
+Turn 2
+A: Awesome! I'll watch it first thing tomorrow morning. Thanks again for the recommendation!
+B: Great! Let me know what you think after you watch it. Enjoy!",positive,2024-07-19T01:53:18.427000+00:00,"What was the person's sentiment when they said ""Thanks, saved. Will watch it tomorrow morning :)"" during the conversation?","Turn 1
+A: Hey, thanks for the link! That movie looks really interesting. I can't wait to check it out. Thanks, saved. Will watch it tomorrow morning :)
+B: No problem! I thought you'd like it. It's got that kind of twisty plot you enjoy.
+
+Turn 2
+A: Awesome! I'll watch it first thing tomorrow morning. Thanks again for the recommendation!
+B: Great! Let me know what you think after you watch it. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive
+"Turn 1
+A: ""I just feel like I'm drowning in work and personal stuff. It's like there's no end in sight.""
+B: ""I totally get it. It's been a tough week for me too. But remember, it's okay to feel overwhelmed sometimes. You're doing your best.""
+
+Turn 2
+A: ""Thanks, B. It really helps to hear that. At some point, we all hate it. Hey it feels good to be real sometimes.  Sometimes I just need to vent and know that someone understands.""
+B: ""Absolutely. Anytime you need to talk, I'm here. We all need a break and some support now and then.""",positive,2024-07-19T01:51:21.754000+00:00,"What was the person's sentiment when they said ""At some point, we all hate it. Hey it feels good to be real sometimes."" during the conversation?","Turn 1
+A: ""I just feel like I'm drowning in work and personal stuff. It's like there's no end in sight.""
+B: ""I totally get it. It's been a tough week for me too. But remember, it's okay to feel overwhelmed sometimes. You're doing your best.""
+
+Turn 2
+A: ""Thanks, B. It really helps to hear that. At some point, we all hate it. Hey it feels good to be real sometimes.  Sometimes I just need to vent and know that someone understands.""
+B: ""Absolutely. Anytime you need to talk, I'm here. We all need a break and some support now and then.""","At some point, we all hate it. Hey it feels good to be real sometimes.",positive
+"Turn 1
+A: Hey, thanks for the recommendation! I'm swamped right now, but I'll definitely check it out first thing tomorrow morning. Thanks, saved. Will watch it tomorrow morning :)
+B: No worries! I think you'll really like it. It's right up your alley.
+
+Turn 2
+A: Awesome, I'm looking forward to it. I'll let you know what I think once I've watched it.
+B: Sounds good! Can't wait to hear your thoughts. Enjoy!",positive,2024-07-19T01:50:30.312000+00:00,"What was the person's sentiment when they said ""Thanks, saved. Will watch it tomorrow morning :)"" during the conversation?","Turn 1
+A: Hey, thanks for the recommendation! I'm swamped right now, but I'll definitely check it out first thing tomorrow morning. Thanks, saved. Will watch it tomorrow morning :)
+B: No worries! I think you'll really like it. It's right up your alley.
+
+Turn 2
+A: Awesome, I'm looking forward to it. I'll let you know what I think once I've watched it.
+B: Sounds good! Can't wait to hear your thoughts. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive
+"Turn 1
+A: I don't get why erectile dysfunction is such a big deal. I mean, it doesn't stop someone from having an orgasm, right?
+B: Actually, that's not true. Erectile dysfunction can definitely affect the ability to orgasm. It's not just about getting an erection; it's about the whole sexual experience. 
+
+Turn 2
+A: Oh, I didn't realize that. Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about? I thought it was just about not being able to get it up.
+B: It's more complicated than that. It can be really frustrating and emotionally challenging for those who experience it. It's important to understand the full impact it can have on someone's life.",negative,2024-07-19T01:53:14.824000+00:00,"What was the person's sentiment when they said ""Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?"" during the conversation?","Turn 1
+A: I don't get why erectile dysfunction is such a big deal. I mean, it doesn't stop someone from having an orgasm, right?
+B: Actually, that's not true. Erectile dysfunction can definitely affect the ability to orgasm. It's not just about getting an erection; it's about the whole sexual experience. 
+
+Turn 2
+A: Oh, I didn't realize that. Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about? I thought it was just about not being able to get it up.
+B: It's more complicated than that. It can be really frustrating and emotionally challenging for those who experience it. It's important to understand the full impact it can have on someone's life.",Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?,negative
+"Turn 1
+A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
+B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
+
+Turn 2
+A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
+B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.",negative,2024-07-19T01:49:55.828000+00:00,"What was the person's sentiment when they said ""making us look like punks, disappointing"" during the conversation?","Turn 1
+A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
+B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
+
+Turn 2
+A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
+B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.","making us look like punks, disappointing",negative
+"Turn 1
+A: Hey B, got any exciting plans for the weekend?
+B: Oh, absolutely! I'm really looking forward to indulging in my weekend tradition of enjoying various chocolate treats. It's something I find incredibly delightful and relaxing.
+
+Turn 2
+A: That sounds amazing! Mmm... chocolate weekends are my favorite. Do you have a favorite type of chocolate you like to treat yourself with?
+B: Definitely! I have a soft spot for dark chocolate with sea salt. But I also love trying out new flavors and combinations. It's like a little adventure every weekend.",positive,2024-07-19T01:52:48.611000+00:00,"What was the person's sentiment when they said ""Mmm... chocolate weekends are my favorite."" during the conversation?","Turn 1
+A: Hey B, got any exciting plans for the weekend?
+B: Oh, absolutely! I'm really looking forward to indulging in my weekend tradition of enjoying various chocolate treats. It's something I find incredibly delightful and relaxing.
+
+Turn 2
+A: That sounds amazing! Mmm... chocolate weekends are my favorite. Do you have a favorite type of chocolate you like to treat yourself with?
+B: Definitely! I have a soft spot for dark chocolate with sea salt. But I also love trying out new flavors and combinations. It's like a little adventure every weekend.",Mmm... chocolate weekends are my favorite.,positive
+"Turn 1
+A: Wow, B, these slides look amazing! I can't believe you did all this for me.
+B: Of course, A! I know how important this presentation is for you. I just wanted to help ease some of your stress.
+
+Turn 2
+A: You have no idea how much this means to me. Omg, thank you! I was really struggling with how to make everything look professional.
+B: I'm glad I could help. You've got the content down perfectly; now you just need to focus on delivering it confidently. You've got this!",positive,2024-07-19T01:48:49.095000+00:00,"What was the person's sentiment when they said ""Omg, thank you!"" during the conversation?","Turn 1
+A: Wow, B, these slides look amazing! I can't believe you did all this for me.
+B: Of course, A! I know how important this presentation is for you. I just wanted to help ease some of your stress.
+
+Turn 2
+A: You have no idea how much this means to me. Omg, thank you! I was really struggling with how to make everything look professional.
+B: I'm glad I could help. You've got the content down perfectly; now you just need to focus on delivering it confidently. You've got this!","Omg, thank you!",positive
+"Turn 1
+A: Wow, B, that necklace is absolutely stunning! I've never seen anything like it. Where did you get it?
+B: Thanks, A! It's actually really special to me. I made it myself from my baby teeth. I know it sounds a bit unusual, but I love how it turned out. The craftsmanship was a fun challenge!
+
+Turn 2
+A: That's incredible! I love how personal and unique it is. That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work. You must be really proud of it.
+B: I am! It was a bit of a quirky idea, but I think it captures a part of my childhood in a creative way. Plus, it always makes for an interesting conversation piece!",positive,2024-07-19T01:51:05.256000+00:00,"What was the person's sentiment when they said ""That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work."" during the conversation?","Turn 1
+A: Wow, B, that necklace is absolutely stunning! I've never seen anything like it. Where did you get it?
+B: Thanks, A! It's actually really special to me. I made it myself from my baby teeth. I know it sounds a bit unusual, but I love how it turned out. The craftsmanship was a fun challenge!
+
+Turn 2
+A: That's incredible! I love how personal and unique it is. That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work. You must be really proud of it.
+B: I am! It was a bit of a quirky idea, but I think it captures a part of my childhood in a creative way. Plus, it always makes for an interesting conversation piece!",That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work.,positive
+"Turn 1
+A: ""Did you see that last-minute goal by Johnson in the game against the Warriors? That was incredible!""
+B: ""Absolutely! I was on the edge of my seat. Johnson has really stepped up his game this season. I can't wait to see him in action at the next game.""
+
+Turn 2
+A: ""Yeah, and how about the defense? They've been rock solid. I think that's what's really making the difference for the Kings this year. Can't wait to go to the Kings game. Especially if they bring this level of fire.""
+B: ""Totally agree. Their coordination and strategy have been spot on. It's going to be so exciting to watch them live. We should get there early to catch the warm-ups too.""",positive,2024-07-19T01:50:58.520000+00:00,"What was the person's sentiment when they said ""Can't wait to go to the Kings game. Especially if they bring this level of fire."" during the conversation?","Turn 1
+A: ""Did you see that last-minute goal by Johnson in the game against the Warriors? That was incredible!""
+B: ""Absolutely! I was on the edge of my seat. Johnson has really stepped up his game this season. I can't wait to see him in action at the next game.""
+
+Turn 2
+A: ""Yeah, and how about the defense? They've been rock solid. I think that's what's really making the difference for the Kings this year. Can't wait to go to the Kings game. Especially if they bring this level of fire.""
+B: ""Totally agree. Their coordination and strategy have been spot on. It's going to be so exciting to watch them live. We should get there early to catch the warm-ups too.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive
+"Turn 1
+A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
+B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
+
+Turn 2
+A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
+B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",negative,2024-07-19T01:51:52.680000+00:00,"What was the person's sentiment when they said ""Sadly enough I was thinking the same."" during the conversation?","Turn 1
+A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
+B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
+
+Turn 2
+A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
+B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",Sadly enough I was thinking the same.,negative
