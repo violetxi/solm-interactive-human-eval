@@ -90,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `CovidVaccineStance-${prolificID}`;
+      let updatedProlificID = `Full-CovidVaccineStance-1-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
