@@ -68,7 +68,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-iSarcasm-2'
     # current_data_prefix = 'Full-iSarcasm-3'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-1'
-    current_data_prefix = 'Full-GoEmotions_Sentiment-2'
+    # current_data_prefix = 'Full-GoEmotions_Sentiment-2'
+    current_data_prefix = 'Full-GoEmotions_Sentiment-3'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:
@@ -84,17 +85,21 @@ if __name__ == '__main__':
             attention_check_df['passed'] = attention_check_df['statement'].map(ATTENTION_CHECK_QA) == attention_check_df['response']
             # Only keep data if all attention check questions are answered correctly            
             # print(attention_check_df['passed'])
-            if not attention_check_df.empty and attention_check_df['passed'].all():
-                df = df[~df['statement'].isin(attention_check_strs)]
-                df['Conversation'] = df['statement']
-                try:
-                    df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
-                except Exception as e:                
-                    df['Statement'] = df['question'].map(lambda x: extract_within_quotes(x))
-                df['Answer'] = df['response'] #.map(answer_map)
-                df.to_csv(f'data/subjects/{subject_id}.csv', index=False)
+            if len(attention_check_df) == 4 and len(df) == 24:
+                if not attention_check_df.empty and attention_check_df['passed'].all():
+                    df = df[~df['statement'].isin(attention_check_strs)]
+                    df['Conversation'] = df['statement']
+                    try:
+                        df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
+                    except Exception as e:                
+                        df['Statement'] = df['question'].map(lambda x: extract_within_quotes(x))
+                    df['Answer'] = df['response'] #.map(answer_map)
+                    df.to_csv(f'data/subjects/{subject_id}.csv', index=False)
+                else:
+                    print(f"Subject {subject_id} failed attention check questions. Skipping")
             else:
-                print(f"Subject {subject_id} failed attention check questions. Skipping")
+                print(f"Subject {subject_id} did not complete all questions. Skipping")
+
 
     # save raw data to json file
     with open('data/raw_data.json', 'w', encoding='utf-8') as f:

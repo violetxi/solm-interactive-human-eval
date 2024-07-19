@@ -1,0 +1,273 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Remember that time we tried to bake a cake for your birthday, and it ended up looking like a science experiment gone wrong?
+B: Oh my gosh, yes! I still can't believe we thought adding extra baking powder would make it rise faster. It was like a volcano in the oven!
+
+Turn 2
+A: And then we tried to salvage it by covering the whole thing in frosting, but it just made it look like a frosted disaster. lmao I love this, I love speaking nonsense to myself as well
+B: Hey, at least it tasted good! Well, sort of. But the best part was when we just gave up and ordered pizza instead. That was a fun night.",positive,2024-07-19T20:21:25.987000+00:00,"What was the person's sentiment when they said ""lmao I love this, I love speaking nonsense to myself as well"" during the conversation?","Turn 1
+A: Remember that time we tried to bake a cake for your birthday, and it ended up looking like a science experiment gone wrong?
+B: Oh my gosh, yes! I still can't believe we thought adding extra baking powder would make it rise faster. It was like a volcano in the oven!
+
+Turn 2
+A: And then we tried to salvage it by covering the whole thing in frosting, but it just made it look like a frosted disaster. lmao I love this, I love speaking nonsense to myself as well
+B: Hey, at least it tasted good! Well, sort of. But the best part was when we just gave up and ordered pizza instead. That was a fun night.","lmao I love this, I love speaking nonsense to myself as well",positive
+"Turn 1
+A: Hey, I know it's been a few days, but I really need to talk. I can't stop thinking about what happened between us. Why did you decide to end things so suddenly?
+B: Hi A, I understand this is hard for you. It wasn't an easy decision for me either. I felt like we were growing apart and I didn't want to hurt you more by dragging it out.
+
+Turn 2
+A: I just feel so lost without you. It feels like everything was fine one moment and then it all fell apart. it's hurting my heart :( why did you leave me Was there something specific that I did wrong?
+B: It's not about you doing something wrong. Sometimes people just grow in different directions. I still care about you a lot, but I felt like we weren't on the same page anymore. I hope you can understand that.",negative,2024-07-19T20:22:53.409000+00:00,"What was the person's sentiment when they said ""it's hurting my heart :( why did you leave me"" during the conversation?","Turn 1
+A: Hey, I know it's been a few days, but I really need to talk. I can't stop thinking about what happened between us. Why did you decide to end things so suddenly?
+B: Hi A, I understand this is hard for you. It wasn't an easy decision for me either. I felt like we were growing apart and I didn't want to hurt you more by dragging it out.
+
+Turn 2
+A: I just feel so lost without you. It feels like everything was fine one moment and then it all fell apart. it's hurting my heart :( why did you leave me Was there something specific that I did wrong?
+B: It's not about you doing something wrong. Sometimes people just grow in different directions. I still care about you a lot, but I felt like we weren't on the same page anymore. I hope you can understand that.",it's hurting my heart :( why did you leave me,negative
+"Turn 1
+A: ""So, looking at the survey results, it's clear that there are some areas where the team feels we could improve. But I think it's important to view this feedback collectively rather than focusing on individual comments. Again, overall, not just for me.  It gives us a better sense of the overall team sentiment.""
+
+B: ""I see what you mean. If we focus too much on specific comments, we might miss the bigger picture. But how do we address the more critical feedback without singling anyone out?""
+
+Turn 2
+A: ""Good point. I think we can address the critical feedback by identifying common themes. For example, if multiple people mention communication issues, we can work on improving our communication strategies as a team. This way, we address the concerns without making it about any one person.""
+
+B: ""That makes sense. We can highlight those themes when we present to the manager and propose some actionable steps. It shows that we're taking the feedback seriously and looking for solutions that benefit everyone.""",positive,2024-07-19T20:19:43.740000+00:00,"What was the person's sentiment when they said ""Again, overall, not just for me."" during the conversation?","Turn 1
+A: ""So, looking at the survey results, it's clear that there are some areas where the team feels we could improve. But I think it's important to view this feedback collectively rather than focusing on individual comments. Again, overall, not just for me.  It gives us a better sense of the overall team sentiment.""
+
+B: ""I see what you mean. If we focus too much on specific comments, we might miss the bigger picture. But how do we address the more critical feedback without singling anyone out?""
+
+Turn 2
+A: ""Good point. I think we can address the critical feedback by identifying common themes. For example, if multiple people mention communication issues, we can work on improving our communication strategies as a team. This way, we address the concerns without making it about any one person.""
+
+B: ""That makes sense. We can highlight those themes when we present to the manager and propose some actionable steps. It shows that we're taking the feedback seriously and looking for solutions that benefit everyone.""","Again, overall, not just for me.",positive
+"Turn 1
+A: Hey, check out that jacket on the mannequin! It looks cool, i want it now. looks really cool.
+B: Oh wow, I've been searching for a jacket like that! I need to try it on right now.
+
+Turn 2
+A: Go for it! I bet it'll look great on you.
+B: Thanks! Let's find my size and see how it fits.",positive,2024-07-19T20:24:51.146000+00:00,"What was the person's sentiment when they said ""looks cool, i want it now."" during the conversation?","Turn 1
+A: Hey, check out that jacket on the mannequin! It looks cool, i want it now. looks really cool.
+B: Oh wow, I've been searching for a jacket like that! I need to try it on right now.
+
+Turn 2
+A: Go for it! I bet it'll look great on you.
+B: Thanks! Let's find my size and see how it fits.","looks cool, i want it now.",positive
+"Turn 1
+A: Ugh, I can't believe I missed that concert ticket sale! I was so excited to go, but by the time I found out, they were all sold out.
+B: Oh no, that's so frustrating! I know how much you were looking forward to it. Maybe there's still a chance to get tickets from resellers?
+
+Turn 2
+A: I checked, but the prices are insanely high now. It's just my luck, you know? Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late This keeps happening to me. I missed that flash sale on those shoes I wanted last week too.
+B: I get it, it feels like everything is slipping through your fingers. Maybe you could set up alerts or reminders for these things? It might help you catch them in time next time.",negative,2024-07-19T20:20:21.267000+00:00,"What was the person's sentiment when they said ""Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late"" during the conversation?","Turn 1
+A: Ugh, I can't believe I missed that concert ticket sale! I was so excited to go, but by the time I found out, they were all sold out.
+B: Oh no, that's so frustrating! I know how much you were looking forward to it. Maybe there's still a chance to get tickets from resellers?
+
+Turn 2
+A: I checked, but the prices are insanely high now. It's just my luck, you know? Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late This keeps happening to me. I missed that flash sale on those shoes I wanted last week too.
+B: I get it, it feels like everything is slipping through your fingers. Maybe you could set up alerts or reminders for these things? It might help you catch them in time next time.",Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late,negative
+"Turn 1
+A: I've been really worried lately. My memory seems to be getting worse, and I can't help but think it's because of all those late nights and stress from work. I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time.
+B: I hear you, that sounds tough. It's good that you're aware of it, though. Have you thought about trying some memory exercises or maybe even talking to a professional about it?
+
+Turn 2
+A: Yeah, I've considered it, but I'm not sure where to start. I just feel so overwhelmed sometimes.
+B: I get that. Maybe start small, like with some brain games or puzzles. And don't forget to take breaks and relax. Sometimes just reducing stress can make a big difference.",negative,2024-07-19T20:19:08.225000+00:00,"What was the person's sentiment when they said ""I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time."" during the conversation?","Turn 1
+A: I've been really worried lately. My memory seems to be getting worse, and I can't help but think it's because of all those late nights and stress from work. I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time.
+B: I hear you, that sounds tough. It's good that you're aware of it, though. Have you thought about trying some memory exercises or maybe even talking to a professional about it?
+
+Turn 2
+A: Yeah, I've considered it, but I'm not sure where to start. I just feel so overwhelmed sometimes.
+B: I get that. Maybe start small, like with some brain games or puzzles. And don't forget to take breaks and relax. Sometimes just reducing stress can make a big difference.",I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time.,negative
+"Turn 1
+A: Did you see the photo I posted of the new park renovation? They added a whole new section with a fountain and some benches.I didn't realise this was happening! Thank you! It was hard to tell from OPs photo what the changes were
+B: Oh wow, I saw the photo but didn't realize those were new additions! Thanks for pointing that out, I totally missed it.
+
+Turn 2
+A: Yeah, it's pretty subtle unless you know what to look for. The fountain is really beautiful, especially at night with the lights.
+B: That sounds amazing! I'll have to check it out in person. Thanks for explaining, I wouldn't have appreciated it as much otherwise.",positive,2024-07-19T20:23:54.136000+00:00,"What was the person's sentiment when they said ""I didn't realise this was happening! Thank you! It was hard to tell from OPs photo what the changes were"" during the conversation?","Turn 1
+A: Did you see the photo I posted of the new park renovation? They added a whole new section with a fountain and some benches.I didn't realise this was happening! Thank you! It was hard to tell from OPs photo what the changes were
+B: Oh wow, I saw the photo but didn't realize those were new additions! Thanks for pointing that out, I totally missed it.
+
+Turn 2
+A: Yeah, it's pretty subtle unless you know what to look for. The fountain is really beautiful, especially at night with the lights.
+B: That sounds amazing! I'll have to check it out in person. Thanks for explaining, I wouldn't have appreciated it as much otherwise.",I didn't realise this was happening! Thank you! It was hard to tell from OPs photo what the changes were,positive
+"Turn 1
+A: Hey B, I just wanted to say thanks again for your help with that software issue. Your troubleshooting tips really did the trick!
+B: No problem at all, A! I'm glad to hear it worked out. What was the exact issue in the end?
+
+Turn 2
+A: It turned out to be a configuration error in the settings. Thank you so much. I fixed it Once I adjusted it based on your advice, everything started running smoothly.
+B: That's great to hear! Those configuration issues can be tricky sometimes. If you run into any more problems, feel free to reach out.",positive,2024-07-19T20:21:08.559000+00:00,"What was the person's sentiment when they said ""Thank you so much. I fixed it"" during the conversation?","Turn 1
+A: Hey B, I just wanted to say thanks again for your help with that software issue. Your troubleshooting tips really did the trick!
+B: No problem at all, A! I'm glad to hear it worked out. What was the exact issue in the end?
+
+Turn 2
+A: It turned out to be a configuration error in the settings. Thank you so much. I fixed it Once I adjusted it based on your advice, everything started running smoothly.
+B: That's great to hear! Those configuration issues can be tricky sometimes. If you run into any more problems, feel free to reach out.",Thank you so much. I fixed it,positive
+"Turn 1
+A: You know, B, I've been thinking a lot lately about how much your friendship means to me. You've been so supportive and kind, especially these past few weeks. I just wanted to say thank you.
+
+B: Oh, A, that means a lot to me. I'm really glad to hear that. You've been a great friend to me too, and I'm always here for you.
+
+Turn 2
+A: I really appreciate that. It's just... sometimes I feel like I don't say it enough. I like you. You've made such a positive impact on my life, and I wanted to make sure you knew how grateful I am.
+
+B: That's so sweet of you to say. Honestly, I feel the same way. Our friendship is really special to me, and I'm grateful for all the moments we've shared. Here's to many more.",positive,2024-07-19T20:20:36.743000+00:00,"What was the person's sentiment when they said ""I like you."" during the conversation?","Turn 1
+A: You know, B, I've been thinking a lot lately about how much your friendship means to me. You've been so supportive and kind, especially these past few weeks. I just wanted to say thank you.
+
+B: Oh, A, that means a lot to me. I'm really glad to hear that. You've been a great friend to me too, and I'm always here for you.
+
+Turn 2
+A: I really appreciate that. It's just... sometimes I feel like I don't say it enough. I like you. You've made such a positive impact on my life, and I wanted to make sure you knew how grateful I am.
+
+B: That's so sweet of you to say. Honestly, I feel the same way. Our friendship is really special to me, and I'm grateful for all the moments we've shared. Here's to many more.",I like you.,positive
+"Turn 1
+A: ""You know, if coffee were a person, it would definitely be the life of the party.""
+B: *laughs* ""Oh, absolutely! And probably the one keeping everyone awake till 3 AM with endless stories.""
+
+Turn 2
+A: ""Yeah, and then blaming everyone else for being tired the next day. Lmao. Fuck, you got me good.""
+B: *still chuckling* ""Sounds like someone we know... Oh wait, that's you after our last movie marathon!""",positive,2024-07-19T20:20:55.273000+00:00,"What was the person's sentiment when they said ""Lmao. Fuck, you got me good."" during the conversation?","Turn 1
+A: ""You know, if coffee were a person, it would definitely be the life of the party.""
+B: *laughs* ""Oh, absolutely! And probably the one keeping everyone awake till 3 AM with endless stories.""
+
+Turn 2
+A: ""Yeah, and then blaming everyone else for being tired the next day. Lmao. Fuck, you got me good.""
+B: *still chuckling* ""Sounds like someone we know... Oh wait, that's you after our last movie marathon!""","Lmao. Fuck, you got me good.",positive
+"Turn 1
+A: This one looks interesting. It has a lot of features.
+B: Yeah, but look at this one! It has a ""wash, dry, fold"" setting. That would save me so much time.
+
+Turn 2
+A: Wow, that's pretty cool. I'd buy this and use the ""wash, dry, fold"" setting exclusively. Sounds great to me.  Imagine not having to move clothes between machines or fold them yourself.
+B: Exactly! I could just set it and forget it. This might be the one.",positive,2024-07-19T20:22:33.985000+00:00,"What was the person's sentiment when they said ""I'd buy this and use the ""wash, dry, fold"" setting exclusively. Sounds great to me."" during the conversation?","Turn 1
+A: This one looks interesting. It has a lot of features.
+B: Yeah, but look at this one! It has a ""wash, dry, fold"" setting. That would save me so much time.
+
+Turn 2
+A: Wow, that's pretty cool. I'd buy this and use the ""wash, dry, fold"" setting exclusively. Sounds great to me.  Imagine not having to move clothes between machines or fold them yourself.
+B: Exactly! I could just set it and forget it. This might be the one.",I'd buy this and use the ,positive
+"Turn 1
+A: ""B, I have to be honest, your idea seems quite far-fetched. I doubt the higher-ups will even entertain it, given how unconventional it is.""
+B: ""I understand your concerns, A, but I believe this approach could really set us apart from our competitors. Sometimes, innovation requires stepping out of our comfort zone.""
+
+Turn 2
+A: ""Innovation is one thing, but we need to be realistic. We have limited resources and can't afford to gamble on something that might not get any support. Unfortunately for you, no one of importance cares about your absurd views. ""
+B: ""I hear you, but I think it's worth presenting all options. If we can back it up with solid data and a clear plan, we might just convince them to take a chance on it.""",negative,2024-07-19T20:23:10.530000+00:00,"What was the person's sentiment when they said ""Unfortunately for you, no one of importance cares about your absurd views."" during the conversation?","Turn 1
+A: ""B, I have to be honest, your idea seems quite far-fetched. I doubt the higher-ups will even entertain it, given how unconventional it is.""
+B: ""I understand your concerns, A, but I believe this approach could really set us apart from our competitors. Sometimes, innovation requires stepping out of our comfort zone.""
+
+Turn 2
+A: ""Innovation is one thing, but we need to be realistic. We have limited resources and can't afford to gamble on something that might not get any support. Unfortunately for you, no one of importance cares about your absurd views. ""
+B: ""I hear you, but I think it's worth presenting all options. If we can back it up with solid data and a clear plan, we might just convince them to take a chance on it.""","Unfortunately for you, no one of importance cares about your absurd views.",negative
+"Turn 1
+A: Have you seen the new oversized blazer trend? It's everywhere on Instagram lately. I like this new trend
+B: Oh, absolutely! I love how it combines a professional look with a casual vibe. It's so versatile.
+
+Turn 2
+A: Totally! I even saw a few influencers pairing them with bike shorts. It sounds odd, but it actually looks pretty cool.
+B: Yes, I saw that too! It's such a bold choice, but it really works. I might try it out myself. What about you?
+
+[Continue for N turns]",positive,2024-07-19T20:18:37.321000+00:00,"What was the person's sentiment when they said ""I like this new trend"" during the conversation?","Turn 1
+A: Have you seen the new oversized blazer trend? It's everywhere on Instagram lately. I like this new trend
+B: Oh, absolutely! I love how it combines a professional look with a casual vibe. It's so versatile.
+
+Turn 2
+A: Totally! I even saw a few influencers pairing them with bike shorts. It sounds odd, but it actually looks pretty cool.
+B: Yes, I saw that too! It's such a bold choice, but it really works. I might try it out myself. What about you?
+
+[Continue for N turns]",I like this new trend,positive
+"Turn 1
+A: Remember that website we used to visit all the time in college? The one run by that quirky guy, what was his name again?
+B: Oh, you mean ""Crazy Carl's Corner""? How could I forget! That site was a riot. Carl had the most bizarre sense of humor.
+
+Turn 2
+A: Yes, that's the one! I still laugh thinking about his ""Daily Wacky Wisdom"" posts. They were so random but somehow always made my day. Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair.
+B: Absolutely! And his homemade GIFs were legendary. It's amazing how much the internet has changed since then. Those were such simpler times.",ambiguous,2024-07-19T20:24:33.345000+00:00,"What was the person's sentiment when they said ""Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair."" during the conversation?","Turn 1
+A: Remember that website we used to visit all the time in college? The one run by that quirky guy, what was his name again?
+B: Oh, you mean ""Crazy Carl's Corner""? How could I forget! That site was a riot. Carl had the most bizarre sense of humor.
+
+Turn 2
+A: Yes, that's the one! I still laugh thinking about his ""Daily Wacky Wisdom"" posts. They were so random but somehow always made my day. Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair.
+B: Absolutely! And his homemade GIFs were legendary. It's amazing how much the internet has changed since then. Those were such simpler times.","Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair.",ambiguous
+"Turn 1
+A: ""So, you remember how Mark always insists he's a terrible dancer? Well, at the party, he suddenly jumped up and started doing this wild, interpretive dance in the middle of the living room!""
+B: ""No way! Mark? The guy who claims he has two left feet? That's hilarious! I bet everyone was in stitches.""
+
+Turn 2
+A: ""Oh, absolutely! And the best part was when he tried to incorporate some kind of dramatic twirl and nearly knocked over the punch bowl. What a nutbar lol It was like watching a comedy sketch.""
+B: ""I can totally picture that! Mark always manages to surprise us. I love how he just goes for it, no matter how goofy it might seem.""",positive,2024-07-19T20:19:59.332000+00:00,"What was the person's sentiment when they said ""What a nutbar lol"" during the conversation?","Turn 1
+A: ""So, you remember how Mark always insists he's a terrible dancer? Well, at the party, he suddenly jumped up and started doing this wild, interpretive dance in the middle of the living room!""
+B: ""No way! Mark? The guy who claims he has two left feet? That's hilarious! I bet everyone was in stitches.""
+
+Turn 2
+A: ""Oh, absolutely! And the best part was when he tried to incorporate some kind of dramatic twirl and nearly knocked over the punch bowl. What a nutbar lol It was like watching a comedy sketch.""
+B: ""I can totally picture that! Mark always manages to surprise us. I love how he just goes for it, no matter how goofy it might seem.""",What a nutbar lol,positive
+"Turn 1
+A: ""So, as you can see, the plan outlines a comprehensive strategy to achieve our targets within the next quarter. What do you think?""
+B: ""The goals are clear, but I'm curious about the methods you've chosen. Do you believe they're as crucial as the objectives themselves?""
+
+Turn 2
+A: ""Absolutely. The methods are meticulously designed to ensure we not only meet but exceed our goals. Nope, my current response is that both the means and the ends are independently justified on their own accords. Each step is backed by data and best practices, making the project robust from every angle.""
+B: ""That sounds reassuring. If the approach is as solid as you say, then I have confidence in moving forward with this proposal.""",neutral,2024-07-19T20:21:56.877000+00:00,"What was the person's sentiment when they said ""Nope, my current response is that both the means and the ends are independently justified on their own accords."" during the conversation?","Turn 1
+A: ""So, as you can see, the plan outlines a comprehensive strategy to achieve our targets within the next quarter. What do you think?""
+B: ""The goals are clear, but I'm curious about the methods you've chosen. Do you believe they're as crucial as the objectives themselves?""
+
+Turn 2
+A: ""Absolutely. The methods are meticulously designed to ensure we not only meet but exceed our goals. Nope, my current response is that both the means and the ends are independently justified on their own accords. Each step is backed by data and best practices, making the project robust from every angle.""
+B: ""That sounds reassuring. If the approach is as solid as you say, then I have confidence in moving forward with this proposal.""","Nope, my current response is that both the means and the ends are independently justified on their own accords.",neutral
+"Turn 1
+A: You know, my dog Max has this hilarious habit of bringing me one of my socks every morning. It's like his way of saying good morning!
+B: That's so cute! My cat Luna does something similar. She always brings me one of her toys and drops it at my feet when she wants to play. It's like she's saying, ""Hey, it's playtime!""
+
+Turn 2
+A: Oh, that's adorable! It's amazing how they find their own little ways to communicate with us. Max also loves to nudge me with his nose when he wants attention. Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist It's hard to ignore him when he does that.
+B: I know what you mean! Luna has this way of staring at me with those big eyes until I give in and start playing with her. Pets really do have a special way of making us feel loved, don't they?",positive,2024-07-19T20:22:21.369000+00:00,"What was the person's sentiment when they said ""Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist"" during the conversation?","Turn 1
+A: You know, my dog Max has this hilarious habit of bringing me one of my socks every morning. It's like his way of saying good morning!
+B: That's so cute! My cat Luna does something similar. She always brings me one of her toys and drops it at my feet when she wants to play. It's like she's saying, ""Hey, it's playtime!""
+
+Turn 2
+A: Oh, that's adorable! It's amazing how they find their own little ways to communicate with us. Max also loves to nudge me with his nose when he wants attention. Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist It's hard to ignore him when he does that.
+B: I know what you mean! Luna has this way of staring at me with those big eyes until I give in and start playing with her. Pets really do have a special way of making us feel loved, don't they?",Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist,positive
+"Turn 1
+A: You know, I've been thinking about that party last night. I felt bad for laughing I feel really bad about laughing when Sarah spilled her drink. It was so insensitive of me.
+B: Oh, I remember that. Honestly, it was an awkward moment, but I don't think anyone took it too seriously. Sarah seemed to brush it off pretty quickly.
+
+Turn 2
+A: Yeah, but still, I should have been more considerate. She was already having a tough time with everything going on in her life. I just feel like I added to her stress.
+B: I get that. It's good that you're reflecting on it. Maybe you could reach out to her and apologize? I'm sure she'd appreciate knowing you care.",positive,2024-07-19T20:25:14.562000+00:00,"What was the person's sentiment when they said ""I felt bad for laughing"" during the conversation?","Turn 1
+A: You know, I've been thinking about that party last night. I felt bad for laughing I feel really bad about laughing when Sarah spilled her drink. It was so insensitive of me.
+B: Oh, I remember that. Honestly, it was an awkward moment, but I don't think anyone took it too seriously. Sarah seemed to brush it off pretty quickly.
+
+Turn 2
+A: Yeah, but still, I should have been more considerate. She was already having a tough time with everything going on in her life. I just feel like I added to her stress.
+B: I get that. It's good that you're reflecting on it. Maybe you could reach out to her and apologize? I'm sure she'd appreciate knowing you care.",I felt bad for laughing,positive
+"Turn 1
+A: I can't believe this. We put so much effort into this project, and the results are just... terrible. Fuuuuuck. That's the worst I've seen. What went wrong?
+B: I know, it's really disappointing. But let's take a step back and figure out where things might have gone off track. Maybe we missed something in our initial analysis or there was an unexpected variable we didn't account for.
+
+Turn 2
+A: It's just so frustrating. We double-checked everything, and it still didn't work out. I feel like we let everyone down.
+B: I get it, I feel the same way. But beating ourselves up won't help. Let's focus on identifying the issues and coming up with a plan to address them. We can still turn this around if we learn from our mistakes and make the necessary adjustments.",negative,2024-07-19T20:21:35.148000+00:00,"What was the person's sentiment when they said ""Fuuuuuck. That's the worst I've seen."" during the conversation?","Turn 1
+A: I can't believe this. We put so much effort into this project, and the results are just... terrible. Fuuuuuck. That's the worst I've seen. What went wrong?
+B: I know, it's really disappointing. But let's take a step back and figure out where things might have gone off track. Maybe we missed something in our initial analysis or there was an unexpected variable we didn't account for.
+
+Turn 2
+A: It's just so frustrating. We double-checked everything, and it still didn't work out. I feel like we let everyone down.
+B: I get it, I feel the same way. But beating ourselves up won't help. Let's focus on identifying the issues and coming up with a plan to address them. We can still turn this around if we learn from our mistakes and make the necessary adjustments.",Fuuuuuck. That's the worst I've seen.,negative
+"Turn 1
+A: ""You know, if procrastination were an Olympic sport, I'd probably start training for it tomorrow.""
+B: *bursts into laughter* ""Oh, absolutely! And I'd be right there with you, cheering you on from the couch!""
+
+Turn 2
+A: ""We'd make quite the team. Our motto could be 'Why do today what you can put off until the last possible minute?'Lmao, your joke did not go unnoticed to me!""
+B: *grinning* ""Exactly! And our team uniform would be pajamas, because who needs real clothes when you're a professional procrastinator?""",positive,2024-07-19T20:23:26.141000+00:00,"What was the person's sentiment when they said ""Lmao, your joke did not go unnoticed to me!"" during the conversation?","Turn 1
+A: ""You know, if procrastination were an Olympic sport, I'd probably start training for it tomorrow.""
+B: *bursts into laughter* ""Oh, absolutely! And I'd be right there with you, cheering you on from the couch!""
+
+Turn 2
+A: ""We'd make quite the team. Our motto could be 'Why do today what you can put off until the last possible minute?'Lmao, your joke did not go unnoticed to me!""
+B: *grinning* ""Exactly! And our team uniform would be pajamas, because who needs real clothes when you're a professional procrastinator?""","Lmao, your joke did not go unnoticed to me!",positive
