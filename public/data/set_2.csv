@@ -1,143 +1,149 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-83,"Turn 1
-A: Ugh, I can't believe how much there is to do before Christmas. I feel like I'm drowning in preparations, especially with the pressure to cook this huge meal for everyone. I'm soo excited to cook a three course Christmas dinner for my whole family this year!
-B: I hear you. It sounds overwhelming. Have you thought about simplifying the menu or maybe asking family members to bring a dish to share the load?
-
-Turn 2
-A: I did consider that, but I feel like everyone expects me to do it all. It's kind of become a tradition, you know?
-B: Traditions are important, but so is your sanity. Maybe you could start a new tradition this year—one where everyone pitches in. It could make the day more enjoyable for you and still be special for everyone.",I'm soo excited to cook a three course Christmas dinner for my whole family this year!,sarcastic,1,"Yes, I agree that A was being sarcastic. The initial part of A's statement expresses frustration and feeling overwhelmed with the preparations, which contrasts with the overly enthusiastic tone of ""I’m soo excited to cook a three course Christmas dinner for my whole family this year!"" This suggests that A is not genuinely excited but rather sarcastically expressing their stress.",1,True,752
-97,"Turn 1
-A: Can you believe those government officials attended a holiday party while we were all stuck at home? It's so frustrating to see such blatant double standards.So glad the christmas lockdown rules didnt apply to our poor hard working government
-B: I know, right? It's like they think the rules don't apply to them. I couldn't even visit my parents for Christmas, and they just go ahead and have a party.
-
-Turn 2
-A: Exactly! We made so many sacrifices to keep everyone safe, and then they just ignore the restrictions. It feels like a slap in the face.
-B: Totally. It makes you wonder if they even understand what we're going through. I mean, I haven't seen my grandparents in over a year because of this.",So glad the christmas lockdown rules didnt apply to our poor hard working government,sarcastic,1,"Yes, A was being sarcastic. The phrase ""So glad the christmas lockdown rules didnt apply to our poor hard working government"" is clearly meant to highlight the unfairness and double standards, implying the opposite of what is literally stated.",1,True,712
-4,"Turn 1
-A: Hey B, I just wanted to say I love your recent posts! Your travel photos are amazing, and that recipe you shared looked delicious.
-B: Thanks, A! I noticed you've been liking a lot of my stuff lately. It means a lot to me that you're so supportive.
-
-Turn 2
-A: Of course! Your content is always so interesting and fun. I especially enjoyed the video you posted from your hike last weekend. Clapped out the post twice now. It looked like such a great adventure.
-B: I'm glad you liked it! That hike was incredible. I was thinking of doing a blog post about it. Do you think people would be interested in reading more details?",Clapped out the post twice now.,not sarcastic,2,"Yes, I agree. A's comment ""Clapped out the post twice now."" is consistent with the positive and supportive tone of the conversation. A is expressing genuine enthusiasm and appreciation for B's content.",1,True,631
-100,"Turn 1
-A: You know, I'm really frustrated with all the mixed messages we're getting from officials about the holidays. One day they say it's okay to gather in small groups, and the next day they're warning us to stay home. Really impressed with the clear and unified messages coming from the government re Omicron and socialising over xmas!!
-B: I know exactly what you mean. It's so confusing trying to figure out what's actually safe. I want to see my family, but I also don't want to put anyone at risk.
-
-Turn 2
-A: Exactly! I was thinking of having a small get-together, but now I'm second-guessing everything. It's hard to make plans when the guidelines keep changing.
-B: Same here. I was planning to visit my grandparents, but now I'm worried it might not be the best idea. Maybe we should just do a virtual celebration this year.",Really impressed with the clear and unified messages coming from the government re Omicron and socialising over xmas!!,sarcastic,1,"Given the context of the conversation, where A expresses frustration about the mixed messages from officials, it is clear that A's statement about being ""really impressed with the clear and unified messages"" is sarcastic. A is actually highlighting the lack of clear and consistent guidance.",1,True,834
-11,"Turn 1
-A: ""Ugh, I have to go shopping with my sister later. Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.  She's been on this whole 'the pandemic is a hoax' kick, and it's driving me insane.""
-B: ""Oh no, that sounds rough. I can imagine how frustrating that must be for you.""
-
-Turn 2
-A: ""Yeah, it's like every time we talk, she brings up some new conspiracy theory. I just want to get through the day without a headache.""
-B: ""Maybe you could try steering the conversation to safer topics? Or, if it gets too much, just take a break and step away for a bit.""","Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.",sarcastic,1,"A's statement ""Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend."" is likely sarcastic because it follows a complaint about having to go shopping with their sister, who holds views that A finds frustrating and difficult to deal with.",1,True,639
-51,"Turn 1
-A: Hey, how's your day been so far?
-B: Oh, it's been alright. I went to McDonald's earlier, but it was such a hassle. The line was ridiculously long, and when I finally got my food, it was pretty disappointing.
-
-Turn 2
-A: Ugh, that's the worst. Went to McDonalds today, unfortunately there was a long wait, which meant that my food was cold and not like the photo in the restaurant What did you order?
-B: Just a simple burger and fries, but the burger was cold and the fries were soggy. Not exactly what I was hoping for.","Went to McDonalds today, unfortunately there was a long wait, which meant that my food was cold and not like the photo in the restaurant",not sarcastic,2,A's statement in Turn 2 seems to be empathetic and sharing a similar experience rather than sarcastic. A is commiserating with B by sharing their own negative experience at McDonald's.,1,True,528
-56,"Turn 1
-A: You know, it's a shame how some really talented artists never get the recognition they deserve. Like, they have all this amazing music, but they just don't get the spotlight. Im just gonna go out there and say it… Chas and Dave are underrated in my opinion.
-B: Absolutely. Take Chas and Dave, for instance. I feel like they're so underrated. Their music is so catchy and full of character, but you hardly hear people talking about them these days.
-
-Turn 2
-A: Oh, totally! Their blend of rock and roll with a bit of cockney charm is just unique. ""Ain't No Pleasing You"" is such a classic, but it seems like only a few people really appreciate it.
-B: Exactly! And their live performances were something else. They had this incredible energy and connection with the audience. It's a real shame they don't get more credit for their contribution to music.",Im just gonna go out there and say it… Chas and Dave are underrated in my opinion.,not sarcastic,1,"A's statement about Chas and Dave being underrated is consistent with the context of the conversation, where both A and B are discussing how talented artists often don't get the recognition they deserve. A's comment appears to be a genuine expression of their opinion.",1,True,860
-64,"Turn 1
-A: I wanted to show you this video from our family reunion last summer. this video is very special to me It was such a special day for all of us.
-B: Oh, I remember that day! It was so wonderful to see everyone together. Let's watch it.
-
-Turn 2
-A: Look, there's Grandma dancing with the kids. She was so happy that day.
-B: She looks so joyful. It's moments like these that remind us how important family is. Thank you for sharing this with me.",this video is very special to me,not sarcastic,1,"A's statement about the video being very special to them is consistent with the context of sharing a meaningful family memory. The tone of the conversation is warm and nostalgic, indicating sincerity rather than sarcasm.",1,True,449
-21,"Turn 1
-A: Hey B, do you have a moment to help me with this project? I'm stuck on a part and could really use your input.I am very sorry but I do not have time for this now.  I need o be somewhere.
-B: Oh, A, I wish I could help right now, but I'm swamped with a deadline and have an important meeting in 15 minutes. Can we catch up later today?
-
-Turn 2
-A: I understand, B. I didn't realize you were so pressed for time. How about we touch base after your meeting? Would that work for you?
-B: That sounds good. I'll be free around 3 PM. Let's connect then, and I'll be happy to assist you with the project.",I am very sorry but I do not have time for this now.  I need o be somewhere.,not sarcastic,1,"The statement ""I am very sorry but I do not have time for this now. I need o be somewhere."" was actually made by B, not A. B's response was straightforward and sincere, explaining their current situation and offering to help later. There is no indication of sarcasm in B's response.",1,True,604
-87,"Turn 1
-A: ""Oh great, my first driving lesson. Can't wait to go for my first driving lesson today. The thought of getting into a metal death trap that kills thousands of people every year just fills me with joy! Can't wait to become a human bumper car.""
-B: ""Come on, you'll be fine! Remember, everyone starts somewhere. Plus, you have the reflexes of a cat... a slightly clumsy cat, but still!""
-
-Turn 2
-A: ""Yeah, a cat that's had too much catnip. I'm going to be a disaster.""
-B: ""If you can survive our late-night pizza runs, you can handle this. Just think of it as another adventure, but with fewer toppings and more traffic rules.""",Can't wait to go for my first driving lesson today. The thought of getting into a metal death trap that kills thousands of people every year just fills me with joy!,sarcastic,1,"Yes, A was being sarcastic. The exaggerated negative description of a car as a ""metal death trap that kills thousands of people every year"" and the phrase ""just fills me with joy"" are clear indicators of sarcasm.",1,True,633
-106,"Turn 1
-A: Ugh, what a nightmare of a commute. I don't think I've ever been this soaked.
-B: Tell me about it. Nothing like a good old British downpour to start the day, right?
-
-Turn 2
-A: Seriously, it's like the weather has a personal vendetta against us. I live for the great British weather!
-B: Oh, absolutely. I just love how it waits until we're halfway to work to unleash its fury.",I live for the great British weather!,sarcastic,2,"Given the context of the conversation, where both A and B are complaining about the heavy rain during their commute, A's statement ""I live for the great British weather!"" is clearly sarcastic. They are expressing frustration rather than genuine appreciation.",1,True,385
-86,"Turn 1
-A: Ugh, I swear, if I have to stare at that spreadsheet for one more minute, my eyes might just fall out.
-B: I hear you. Mondays are the worst, especially after a weekend that felt way too short.
-
-Turn 2
-A: Seriously, it's like I didn't even get a break. Can't wait to sit at my desk for 7 and half hours. Back working harder than me... I spent most of Sunday catching up on chores and now I'm back here, chained to my desk.
-B: That sounds rough. Maybe we should plan a proper relaxing weekend soon, something to really recharge.",Can't wait to sit at my desk for 7 and half hours. Back working harder than me...,sarcastic,2,"Yes, A was being sarcastic. The phrase ""Can't wait to sit at my desk for 7 and half hours"" is clearly not something someone would genuinely look forward to, especially after expressing frustration about their current situation.",1,True,536
-114,"Turn 1
-A: Well, isn't this just the perfect way to spend a lunch break? Nothing like a surprise shower to keep things interesting.
-B: Oh, absolutely. I was just thinking my day needed a little more excitement. Who needs dry clothes anyway?
-
-Turn 2
-A: Right? And the mud on my shoes? It's like a free spa treatment for my feet. I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.
-B: Totally! And the best part is, we get to sit in the office all afternoon feeling like we just swam through a swamp.",I just love going out in the rain. It is so nice going to the park when it is pouring with rain. It is so cool to get mud in your hair and your socks drenched. I love it.,sarcastic,2,"Yes, I agree that A was being sarcastic. The exaggerated enthusiasm for getting drenched and muddy, combined with the context of a surprise shower during a lunch break, suggests that A is not genuinely enjoying the situation but is instead using sarcasm to express their frustration or discomfort.",1,True,616
-17,"Turn 1
-A: I can't believe it's almost the anniversary of the album! I'm so excited to see if they'll release any new merch. I've been checking their website every day.
-B: That's awesome! I know how much you love their stuff. Have you thought about setting aside a little bit each week to save up for it?
-
-Turn 2
-A: Yeah, I've been trying to, but things have been tight lately. Imagine you have absolutely NO money right now but you're STILL checking regularly for and Evermore anniversary merch drop :) Still, I can't help but get excited thinking about what they might come out with.
-B: I totally get it. Maybe we can brainstorm some ways to cut back on small expenses together. That way, you can still enjoy the new merch without stressing too much about money.",Imagine you have absolutely NO money right now but you're STILL checking regularly for and Evermore anniversary merch drop :),not sarcastic,2,"A's statement seems to be a mix of humor and genuine excitement rather than sarcasm. They are expressing their enthusiasm for the potential merch drop despite their financial situation, which indicates a positive sentiment.",1,True,763
-98,"Turn 1
-A: I just can't believe we're here again. Another tragedy, and still no real action. It's like no one cares enough to actually do something about it.
-B: I know, it's heartbreaking. But at least people are sending their thoughts and prayers. It shows they care, right?
-
-Turn 2
-A: Thoughts and prayers? Seriously? That's all we ever get, and nothing changes. Thoughts and prayers will actually work this time. Trust me It's just a way for people to feel better without actually doing anything.
-B: I get your frustration, but maybe it's a start. Sometimes people need to process things before they can take action.",Thoughts and prayers will actually work this time. Trust me,sarcastic,2,"Yes, A was being sarcastic. The context shows A's frustration with the lack of real action and the repeated use of ""thoughts and prayers"" as a superficial response. The phrase ""Thoughts and prayers will actually work this time. Trust me"" is likely meant to highlight the ineffectiveness of such responses.",1,True,618
-29,"Turn 1
-A: I have an appointment to get vaccinated this afternoon. Off to get my jab to protect myself I'm a bit nervous about it.
-B: Oh, I totally understand. I was a bit anxious too, but it went really smoothly. The staff were very professional and made me feel comfortable.
-
-Turn 2
-A: That's good to hear. I know it's important, especially with the recent health advisory from work.
-B: Absolutely. It's a great step towards staying healthy and protecting everyone around us. Plus, it gives you peace of mind knowing you're doing your part.",Off to get my jab to protect myself,not sarcastic,1,"A's statement ""Off to get my jab to protect myself"" appears sincere and straightforward, indicating a genuine intention to get vaccinated for self-protection. There is no indication of sarcasm in the context provided.",1,True,541
-33,"Turn 1
-A: Hey, I have my COVID-19 booster appointment coming up next week, but it's scheduled for right after school. Anyone know if I can take my kids with me while I get my covid booster? The appointments in my area are all after school. Do you know if it's okay to bring the kids along?
-
-B: Oh, I had the same issue last month. I ended up taking my kids with me, and it was totally fine. The clinic staff were really understanding and even had a little waiting area with some toys.
-
-Turn 2
-A: That's a relief to hear! I was worried they might not allow it or that the kids would get restless. Did you have to wait long?
-
-B: Not really, we were in and out in about 30 minutes. I brought some snacks and their tablets just in case, but they were pretty entertained with what was there. Just make sure to bring masks for everyone.",Anyone know if I can take my kids with me while I get my covid booster? The appointments in my area are all after school.,not sarcastic,1,"Yes, I agree. A's question appears to be a genuine inquiry about the logistics of taking their kids to the COVID-19 booster appointment. There is no indication of sarcasm in the context provided.",1,True,830
-42,"Turn 1
-A: ""Hey, B. I'm finally home. Today was brutal; I didn't get a single break in those 12 hours.just finished such a long, 12 hour shift with no breaks. Tired is an understatement""
-B: ""Oh no, you look exhausted! Come sit down. Do you want something to drink or eat?""
-
-Turn 2
-A: ""Thanks, I could really use a glass of water. I just need to sit for a minute. It was one thing after another at work today.""
-B: ""Here you go. Take your time. Dinner's almost ready, and you can just relax for the rest of the evening. You deserve it.""","just finished such a long, 12 hour shift with no breaks. Tired is an understatement",not sarcastic,1,"A's statement about finishing a long, 12-hour shift with no breaks and being extremely tired appears to be a straightforward expression of exhaustion and not sarcasm. The context provided by A's detailed description of their day supports this interpretation.",1,True,533
 96,"Turn 1
-A: ""Well, isn't this project just the most 'rewarding' thing we've ever done?"" *rolls eyes* Wow, work is just so rewarding and fulfilling right now
-B: ""I know, right? It's like we're running a marathon with no finish line in sight.""
+A: The test results are in, and the algorithm is performing even better than we anticipated. Oh, it's definitely working and that worries me a lot.  But, honestly, I'm starting to feel uneasy about this. What if this technology gets into the wrong hands? The potential for misuse is huge.
+
+B: I get where you're coming from. It's a powerful tool, and with great power comes great responsibility. But isn't it our job to ensure that we put the right safeguards in place? We can work on ethical guidelines and usage policies to mitigate those risks.
 
 Turn 2
-A: ""I can't even remember the last time I had a full night's sleep. This is brutal.""
-B: ""Same here. But hey, at least we're in this together. We'll get through it somehow.""","Wow, work is just so rewarding and fulfilling right now",sarcastic,1,"A's use of the phrase ""just the most 'rewarding' thing"" followed by rolling their eyes indicates sarcasm. They are implying the opposite of what the words literally mean, suggesting that the project is not rewarding or fulfilling at all.",1,True,420
-115,"Turn 1
-A: I can't believe how long we had to wait for our order. It's like they didn't even care that we were standing there.
-B: Yeah, it was ridiculous. And when we finally got our food, it was cold. I mean, how hard is it to serve hot fries?
+A: True, but even with guidelines, there's no guarantee that everyone will follow them. The societal impact could be significant, especially if it starts influencing decisions in ways we can't control. We need to think about the long-term consequences.
+
+B: You're right, the long-term implications are crucial. Maybe we should bring this up in our next team meeting and discuss it with the broader group. We could also consult with an ethics board to get a more comprehensive perspective on how to handle this responsibly.","Oh, it's definitely working and that worries me a lot.",negative,1,"Yes, I agree. A expresses concern and unease about the potential misuse of the technology, indicating a negative sentiment despite acknowledging the algorithm's success.",1,True,1085
+112,"Turn 1
+A: I can't believe how badly the refs botched those calls in overtime. This almost certainly should not have gone to OT. SEC refs are bad CBB refs are bad It's like they were blind to all the fouls!
+B: Yeah, it was pretty frustrating to watch. The officiating in the SEC has been terrible this season. It's like they don't even care about getting it right.
 
 Turn 2
-A: Exactly! And the burger was a mess. The lettuce was wilted, and the bun was soggy. McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh. 20 minutes wait, cold food and my burger looks like its been in a fight with Mike Tyson It's like they just threw it together without any effort.
-B: I know, right? And don't even get me started on the drink. It was mostly ice with barely any soda. What a waste of money.","McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh. 20 minutes wait, cold food and my burger looks like its been in a fight with Mike Tyson",sarcastic,2,"Yes, A was being sarcastic. The statement ""McDonalds should be rebranded Fast Food & I'm lovin it?!? You having a laugh"" is clearly sarcastic because A is expressing frustration and disbelief at the poor service and quality of the food, which contradicts McDonald's slogan ""I'm lovin' it."" The exaggerated comparison of the burger looking like it ""has been in a fight with Mike Tyson"" further emphasizes the sarcasm.",1,True,686
+A: Exactly! And it's not just this game. It feels like every week there's some controversy because of the refs. It's ruining the sport for me.
+B: I hear you. They really need to do something about it. Maybe bring in some new officials or improve their training. College basketball deserves better.",This almost certainly should not have gone to OT. SEC refs are bad CBB refs are bad,negative,1,"Yes, A was being negative. A expressed frustration and dissatisfaction with the referees' performance, indicating that the game should not have gone to overtime and criticizing the quality of SEC and college basketball referees.",1,True,669
+66,"Turn 1
+A: Wow, it sounds like your date went really well. They must be really attractive.
+B: Yeah, it was great! But honestly, you shouldn't compare yourself. You're amazing just the way you are.
+
+Turn 2
+A: I don't know, sometimes I just feel like I don't measure up, you know?Same...except that I'm not good looking :
+B: Trust me, you have so many wonderful qualities. Anyone would be lucky to have you. Don't be so hard on yourself.",Same...except that I'm not good looking :,negative,2,"Yes, A was being negative. They expressed self-doubt and a lack of confidence in their appearance by saying ""I'm not good looking.""",1,True,434
+37,"Turn 1
+A: Hey! I'm out shopping right now, and it's such a beautiful sunny day. -9 and I'm out shopping. Sun is out feels great. I'm having a great time!
+B: That sounds awesome! I know how much you love these sunny shopping days. Found anything interesting yet?
+
+Turn 2
+A: Yes! I found this cute little boutique with some unique accessories. Thinking of getting a new pair of sunglasses. What do you think?
+B: That sounds perfect for a sunny day like today! Go for it. Any other plans for the rest of the day?",-9 and I'm out shopping. Sun is out feels great.,positive,1,"Yes, I agree. Despite the mention of ""-9,"" which likely refers to the temperature, A is expressing enjoyment of the sunny day and the shopping experience, indicating a positive sentiment.",1,True,509
+5,"Turn 1
+A: ""I can't believe they just did that! How could they mess up such an easy play? Fuuuuuck. That's the worst I've seen.""
+B: ""Yeah, that was really disappointing. I thought they had it under control.""
+
+Turn 2
+A: ""We've been waiting for this game for weeks, and they blow it like this? Unbelievable.""
+B: ""I know, it's frustrating. But hey, there's still some time left. Maybe they can turn it around.""",Fuuuuuck. That's the worst I've seen.,negative,1,"Yes, A was being negative. The use of strong language and the expression of disbelief and frustration indicate a negative sentiment towards the situation.",1,True,406
+55,"Turn 1
+A: I can't believe I got banned from that forum. Somehow I got banned for replying to a troll. The mods over there have itchy trigger fingers.I was just trying to defend myself against this troll, and the moderators came down on me so hard.
+B: That sounds really frustrating. Some forums have such strict rules, and it feels like they don't always apply them fairly. I've had my own run-ins with overzealous mods before.
+
+Turn 2
+A: Exactly! It's like they don't even care about the context. I was just trying to explain my side, but they said I was being ""disruptive.""
+B: It's so unfair when they don't take the time to understand the whole situation. Maybe it's time to find a new community where the moderation is more balanced. There are plenty out there that value open discussion without being so heavy-handed.",Somehow I got banned for replying to a troll. The mods over there have itchy trigger fingers.,negative,1,"Yes, A was being negative. A expressed frustration and dissatisfaction with the moderators' actions, describing them as having ""itchy trigger fingers"" and feeling unfairly treated for simply replying to a troll.",1,True,822
+45,"Turn 1
+A: I saw that new community policing initiative in the news. I think it's a great step forward for our neighborhood. Recently Retired cop here. I love to see this. This is what he's fighting to stop. Back when I was on the force, we always emphasized the importance of building trust with the community.
+B: Yeah, I read about it too. It sounds promising. Do you think it will really make a difference, though?
+
+Turn 2
+A: Absolutely. When officers are more engaged with the community, it creates a sense of partnership. People are more likely to report crimes and cooperate with the police. I've seen it work firsthand.
+B: That makes sense. I guess it's all about building those relationships. Hopefully, this initiative will bring some positive changes around here.",Recently Retired cop here. I love to see this. This is what he's fighting to stop.,positive,1,"Yes, I agree. A was being positive about the new community policing initiative, expressing approval and support for it. The statement ""I love to see this"" indicates a positive sentiment towards the initiative.",1,True,772
+24,"Turn 1
+A: You know, I still remember how it felt to be bullied in school. It was like every day I walked into that building, I was just waiting for the next insult or prank. I was teased for being a virgin when I was a 6th grader- in 2005 It really messed with my self-esteem for a long time.
+B: I totally get that. In middle school, I was teased a lot for my weight. It was so personal and hurtful. I felt like I couldn't escape it, and it made me so self-conscious. Even now, I sometimes hear those voices in my head.
+
+Turn 2
+A: It's crazy how those experiences stick with us, isn't it? I mean, logically, I know those bullies were just projecting their own insecurities, but emotionally, it's a different story. It took me years to start believing in myself again.
+B: Absolutely. It's like those moments become a part of us. But talking about it now, with you, makes me feel less alone. It's comforting to know that someone else understands what it was like and how it still affects us today.",I was teased for being a virgin when I was a 6th grader- in 2005,negative,1,"Yes, I agree that A was being negative. A was sharing a painful and hurtful experience from their past, which had a long-lasting impact on their self-esteem. The tone of the conversation reflects the emotional distress and negativity associated with being bullied.",1,True,995
+109,"Turn 1
+A: I recently flew out of a different airport for the first time. It was such a refreshing change from the usual hustle and bustle.
+B: Oh, I can imagine! Speaking of airports, remember how chaotic LAX used to be? The traffic was always a nightmare.
+
+Turn 2
+A: Absolutely, I remember getting stuck in traffic for hours just trying to get to the terminal. Ah, good old single level LAX. I barely remember it except traffic was a nightmare. It was so frustrating.
+B: Yeah, and the parking situation was a mess too. I once missed a flight because I couldn't find a spot in time. Those were some stressful times!","Ah, good old single level LAX. I barely remember it except traffic was a nightmare.",negative,2,"Yes, A was being negative. The statement reflects frustration and a negative experience with the traffic at LAX.",1,True,614
+12,"Turn 1
+A: Hey, check out this meme I found! 😂 *sends meme*
+B: OMG, this is hilarious! I'm saving this one for sure. Thanks for the laugh, A! 😂
+
+Turn 2
+A: Haha, glad you liked it! Added to my meme folder. Thanks!I knew it would crack you up.
+B: You always find the best ones. My meme collection is getting better thanks to you! 😆",Added to my meme folder. Thanks!,positive,2,"Yes, A was being positive. A expressed happiness that B liked the meme and mentioned adding it to their meme folder, which indicates enjoyment and appreciation.",1,True,328
+50,"Turn 1
+A: Hey B, I just finished this new piece. What do you think?
+B: Wow, A! This is incredible! The colors and details are just stunning. You really outdid yourself this time.
+
+Turn 2
+A: Thanks, B! I was experimenting with some new techniques, and I wasn't sure how it would turn out. I love this. you get a favorite.
+B: Well, it definitely paid off. You have such a unique style, and it keeps getting better. I can't wait to see what you come up with next!",I love this. you get a favorite.,positive,2,"Yes, A was being positive. A expressed gratitude for B's compliment and shared excitement about the new techniques used. The phrase ""I love this"" indicates A's satisfaction with the outcome.",1,True,460
+18,"Turn 1
+A: I was going through the project requirements and noticed something about the data validation rules. Can you clarify if there's a specific format we need to follow for the input data?
+B: Yes, actually, all input data needs to be in JSON format, and each entry must include a timestamp in ISO 8601 format. This ensures consistency and makes it easier to track changes.
+
+Turn 2
+A: Got it, that makes a lot of sense. I didn't know that, thanks for the clarification.I wasn't aware of the timestamp requirement before. Thanks for pointing that out, it will definitely help us avoid issues later on.
+B: No problem at all! I'm glad I could help. If you have any other questions, feel free to ask. We're in this together.","I didn't know that, thanks for the clarification.",positive,2,"Yes, A was being positive. A expressed gratitude for the clarification and acknowledged that the information would help avoid issues later on.",1,True,723
+18,"Turn 1
+A: I was looking over the project requirements, and I noticed something about the data integration process. Can you clarify if we need to use the new API for this?
+
+B: Yes, we do. The new API is mandatory for all data integrations moving forward. It ensures better security and compatibility with our updated systems.
+
+Turn 2
+A: Got it, that makes sense. I didn't know that, thanks for the clarification. I wasn't aware of that change. Thanks for explaining it, B. I'll make sure to update our plan accordingly.
+
+B: No problem at all, A. If you need any help with the API or have more questions, just let me know. We're in this together.","I didn't know that, thanks for the clarification.",positive,2,"Yes, A was being positive. A acknowledged the new information, expressed gratitude for the clarification, and indicated a willingness to update the plan accordingly. This shows a positive and cooperative attitude.",1,True,644
+12,"Turn 1
+A: Hey, check out this meme I just found! 😂 *sends meme*Added to my meme folder. Thanks!
+B: LOL! This is gold! 🤣 I'm definitely saving this one to my favorites.
+
+Turn 2
+A: Glad you liked it! I knew it would crack you up.
+B: You always find the best ones. Thanks for the laugh, I needed that today!",Added to my meme folder. Thanks!,positive,1,"Yes, A was being positive. A shared a meme and expressed enjoyment by adding it to their meme folder, which indicates a positive reaction.",1,True,304
+40,"Turn 1
+A: Ugh, this cold weather is really messing with my car. It took me forever to get it started this morning. cars don't start, sometimes car doors are frozen shut. that's the worst of what i've experienced.
+B: I hear you. My car's battery died last week because of the cold. I had to wait for roadside assistance for almost an hour.
+
+Turn 2
+A: That's the worst. And then there's the ice on the windshield. I feel like I'm scraping it off every morning.
+B: Same here. I actually bought one of those windshield covers, and it's been a lifesaver. You should try it out.","cars don't start, sometimes car doors are frozen shut. that's the worst of what i've experienced.",negative,1,"Yes, I agree. A was expressing frustration about the cold weather affecting their car, mentioning issues like difficulty starting the car and frozen car doors, which are negative experiences.",1,True,572
+20,"Turn 1
+A: ""I know this change might seem sudden, but I believe it will streamline our process and improve the final outcome. I should have discussed it with you first, and I apologize for that oversight.""
+B: ""I appreciate the apology, but I'm really struggling to understand why this change was necessary. It feels like it disregards the work we've already put in. Can you explain the rationale behind it?""
+
+Turn 2
+A: ""Absolutely, I can see why you're frustrated. What the fuck is this about?The main reason for the change is that we received new data that suggests our initial approach might not be as effective as we thought. I wanted to pivot quickly to avoid wasting more time and resources.""
+B: ""I get that new data can change things, but it would have been helpful to have a discussion about it first. We could have brainstormed together and come up with a solution that incorporates both our efforts.""",What the fuck is this about?,negative,2,"The phrase ""What the fuck is this about?"" is indeed negative and inappropriate in the context of a professional conversation. It indicates frustration or anger, which contrasts with the otherwise constructive tone of the discussion.",1,True,908
+99,"Turn 1
+A: I'm curious about how the grading system works here. Can you explain how you assess the students' performance?
+
+B: Of course! We use a combination of formative and summative assessments. Formative assessments include quizzes, class participation, and homework, which help us gauge ongoing understanding. Summative assessments, like end-of-term exams and projects, evaluate the students' overall grasp of the material.
+
+Turn 2
+A: That makes sense. Right. The mantra at my school is that we don't give grades, kids earn them. How do you ensure that the grades reflect both the students' efforts and their actual performance?
+
+B: We have a balanced approach. Effort is recognized through participation and homework grades, while performance is measured through tests and projects. Additionally, we provide feedback throughout the term to help students improve continuously, ensuring their grades reflect both their hard work and their mastery of the subject.","Right. The mantra at my school is that we don't give grades, kids earn them.",neutral,2,"Yes, A was being neutral. A's statement about the mantra at their school does not express a positive or negative sentiment but rather shares a philosophy or approach to grading.",1,True,965
+22,"Turn 1
+A: You wouldn't believe how tough the recovery was, B. The pain was intense, especially during the first few weeks. Resetting a dislocated knee hurts like hell but it feels a lot better immediately after. But the doctors and physiotherapists were amazing.
+B: Oh wow, that sounds awful. I'm really sorry you had to go through that. How are you feeling now?
+
+Turn 2
+A: Honestly, I'm feeling so much better now. The pain has subsided, and I can move around almost like before. It's such a relief.
+B: That's great to hear! I'm glad you're on the mend. Just take it easy and don't push yourself too hard, okay?",Resetting a dislocated knee hurts like hell but it feels a lot better immediately after.,positive,1,"A's statement ""Resetting a dislocated knee hurts like hell but it feels a lot better immediately after."" acknowledges the intense pain but also highlights the immediate relief that follows the procedure. This indicates a mix of acknowledging the difficulty while also recognizing a positive outcome.",1,True,612
+22,"Turn 1
+A: You know, middle school was really tough for me. I remember this one time when a group of kids made fun of my clothes every single day. I was teased for being a virgin when I was a 6th grader- in 2005 It made me feel so small and worthless.
+B: I can relate to that. In high school, I was constantly picked on for my weight. It felt like no matter what I did, I couldn't escape their cruel comments. It really messed with my self-esteem.
+
+Turn 2
+A: It's heartbreaking how those experiences stick with us, even years later. I still get anxious in social situations, worried that people are judging me.
+B: Same here. It's like those voices never fully go away. But talking about it with you helps. It reminds me that I'm not alone and that we can support each other through it.",I was teased for being a virgin when I was a 6th grader- in 2005,negative,1,"Yes, I agree that A was being negative. A was sharing a painful and humiliating experience from middle school where they were teased and made to feel small and worthless. This indicates a negative sentiment as A is recounting a distressing memory.",1,True,784
+105,"Turn 1
+A: Hey B, I couldn't help but notice you seem pretty calm despite all the pressure we're under. How do you manage to stay so composed?
+
+B: Oh, thanks for noticing, A. It's not always easy, but I have this technique that really helps me. I focus on my breathing and take a few deep breaths whenever I start feeling overwhelmed. It helps me clear my mind and stay focused.
+
+Turn 2
+A: That sounds interesting. Taking deep, measured breaths usually helps me regain my composure  Do you have any specific breathing exercises you follow, or is it just about taking deep breaths?
+
+B: I usually follow a simple pattern: inhale for four seconds, hold for four, and then exhale for four. It's called box breathing. It's really effective in calming my nerves and keeping me grounded, especially during crunch times like this.","Taking deep, measured breaths usually helps me regain my composure",neutral,2,"A's statement ""Taking deep, measured breaths usually helps me regain my composure"" is a neutral observation about their own experience with breathing exercises. It neither expresses a strong positive nor negative sentiment.",1,True,821
