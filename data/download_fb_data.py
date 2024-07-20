@@ -69,7 +69,9 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-iSarcasm-3'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-1'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-2'
-    current_data_prefix = 'Full-GoEmotions_Sentiment-3'
+    # current_data_prefix = 'Full-GoEmotions_Sentiment-3'
+    # current_data_prefix = 'Full-CovidVaccineStance-1'
+    current_data_prefix = 'Full-CovidVaccineStance-2'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:
