@@ -1,0 +1,265 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I got my COVID-19 vaccine last month. It was a relief to finally get it done.
+B: I've been on the fence about it. I'm just not sure it's the right choice for me right now.
+
+Turn 2
+A: I understand. It's a personal decision, and everyone has their own reasons. Sorry, I am a American. And I have vaccinated. I take the vaccine but I also respect those people who choose not to. This is the American spirit that I am talking about. The spirit of Freedom! I think it's important we respect each other's choices.
+B: Absolutely. I appreciate that. It's good to have open conversations about it without feeling pressured.",ambiguous,2024-07-20T16:57:52.538000+00:00,"What was A's stance on COVID19 vaccine when they said ""Sorry, I am a American. And I have vaccinated. I take the vaccine but I also respect those people who choose not to. This is the American spirit that I am talking about. The spirit of Freedom!"" during the conversation?","Turn 1
+A: I got my COVID-19 vaccine last month. It was a relief to finally get it done.
+B: I've been on the fence about it. I'm just not sure it's the right choice for me right now.
+
+Turn 2
+A: I understand. It's a personal decision, and everyone has their own reasons. Sorry, I am a American. And I have vaccinated. I take the vaccine but I also respect those people who choose not to. This is the American spirit that I am talking about. The spirit of Freedom! I think it's important we respect each other's choices.
+B: Absolutely. I appreciate that. It's good to have open conversations about it without feeling pressured.","Sorry, I am a American. And I have vaccinated. I take the vaccine but I also respect those people who choose not to. This is the American spirit that I am talking about. The spirit of Freedom!",ambiguous
+"Turn 1
+A: I'm really stressed about these new OSHA regulations on vaccine mandates. I promised my employees I wouldn't force them to get vaccinated, but now I'm facing potential fines. God I hope not! I honestly don't know what I will do. I have around 150 employees. I promised them in July of this year that I wouldn't mandate vaxx. I still feel very strongly about that but the OSHA fines are very serious. Stressful! Praying  does right thing. What should I do?
+B: I understand your dilemma. It's tough to balance personal principles with legal requirements. Have you considered offering incentives for vaccination instead of making it mandatory? It might help you comply without breaking your promise.
+
+Turn 2
+A: That's a good idea, but I'm worried it still might not be enough to meet the regulations. Do you think there's any legal leeway or exemptions we could explore?
+B: There might be. Some businesses have successfully applied for exemptions based on specific criteria. It would be wise to consult with a legal expert who specializes in OSHA regulations to see if that's a viable option for you.",against,2024-07-20T17:00:21.917000+00:00,"What was A's stance on COVID19 vaccine when they said ""God I hope not! I honestly don't know what I will do. I have around 150 employees. I promised them in July of this year that I wouldn't mandate vaxx. I still feel very strongly about that but the OSHA fines are very serious. Stressful! Praying  does right thing."" during the conversation?","Turn 1
+A: I'm really stressed about these new OSHA regulations on vaccine mandates. I promised my employees I wouldn't force them to get vaccinated, but now I'm facing potential fines. God I hope not! I honestly don't know what I will do. I have around 150 employees. I promised them in July of this year that I wouldn't mandate vaxx. I still feel very strongly about that but the OSHA fines are very serious. Stressful! Praying  does right thing. What should I do?
+B: I understand your dilemma. It's tough to balance personal principles with legal requirements. Have you considered offering incentives for vaccination instead of making it mandatory? It might help you comply without breaking your promise.
+
+Turn 2
+A: That's a good idea, but I'm worried it still might not be enough to meet the regulations. Do you think there's any legal leeway or exemptions we could explore?
+B: There might be. Some businesses have successfully applied for exemptions based on specific criteria. It would be wise to consult with a legal expert who specializes in OSHA regulations to see if that's a viable option for you.",God I hope not! I honestly don't know what I will do. I have around 150 employees. I promised them in July of this year that I wouldn't mandate vaxx. I still feel very strongly about that but the OSHA fines are very serious. Stressful! Praying  does right thing.,against
+"Turn 1
+A: It's really frustrating to see how much misinformation is still out there about the COVID-19 vaccine. I mean, we've been on the front lines, and it's clear how crucial these vaccines are for public health.
+B: Absolutely. It's disheartening to see some political groups downplaying the importance of the vaccine. It feels like they're putting their agendas ahead of people's lives.
+
+Turn 2
+A: Exactly. And with the elections coming up, I'm worried that this misinformation could sway public opinion in a dangerous direction. For every constituent that the GOP let die from COVID because they helped spread misinformation about the virus and the vaccine for so long, I hope it becomes more and more apparent to them the closer we get to Election Day 2022 and 2024, what poor choices they've made We need leaders who prioritize science and public health.
+B: I couldn't agree more. It's crucial that we elect officials who will support evidence-based policies and work to combat misinformation. Our health depends on it.",favoring,2024-07-20T17:01:16.675000+00:00,"What was A's stance on COVID19 vaccine when they said ""For every constituent that the GOP let die from COVID because they helped spread misinformation about the virus and the vaccine for so long, I hope it becomes more and more apparent to them the closer we get to Election Day 2022 and 2024, what poor choices they've made"" during the conversation?","Turn 1
+A: It's really frustrating to see how much misinformation is still out there about the COVID-19 vaccine. I mean, we've been on the front lines, and it's clear how crucial these vaccines are for public health.
+B: Absolutely. It's disheartening to see some political groups downplaying the importance of the vaccine. It feels like they're putting their agendas ahead of people's lives.
+
+Turn 2
+A: Exactly. And with the elections coming up, I'm worried that this misinformation could sway public opinion in a dangerous direction. For every constituent that the GOP let die from COVID because they helped spread misinformation about the virus and the vaccine for so long, I hope it becomes more and more apparent to them the closer we get to Election Day 2022 and 2024, what poor choices they've made We need leaders who prioritize science and public health.
+B: I couldn't agree more. It's crucial that we elect officials who will support evidence-based policies and work to combat misinformation. Our health depends on it.","For every constituent that the GOP let die from COVID because they helped spread misinformation about the virus and the vaccine for so long, I hope it becomes more and more apparent to them the closer we get to Election Day 2022 and 2024, what poor choices they've made",favoring
+"Turn 1
+A: You know, with the new company policies on vaccination and testing, I just hope we can all respect each other's choices. It's such a divisive topic, but regular testing should help keep everyone safe. I hate to talk about the vaccine cause it's so controversial but I feel like no one should get ridiculed for getting the vaccine nor choosing to not get the vaccine (unless the case is that they are not getting tested regularly and going everywhere)
+B: I agree. It's a tricky balance, but I appreciate that the company is trying to accommodate different perspectives while prioritizing health.
+
+Turn 2
+A: Exactly. It's important to have these measures in place without making anyone feel alienated. Hopefully, we can all navigate this smoothly.
+B: Definitely. Open communication and mutual respect will be key. Let's just stay supportive of each other through this.",neutral,2024-07-20T17:03:56.263000+00:00,"What was A's stance on COVID19 vaccine when they said ""I hate to talk about the vaccine cause it's so controversial but I feel like no one should get ridiculed for getting the vaccine nor choosing to not get the vaccine (unless the case is that they are not getting tested regularly and going everywhere)"" during the conversation?","Turn 1
+A: You know, with the new company policies on vaccination and testing, I just hope we can all respect each other's choices. It's such a divisive topic, but regular testing should help keep everyone safe. I hate to talk about the vaccine cause it's so controversial but I feel like no one should get ridiculed for getting the vaccine nor choosing to not get the vaccine (unless the case is that they are not getting tested regularly and going everywhere)
+B: I agree. It's a tricky balance, but I appreciate that the company is trying to accommodate different perspectives while prioritizing health.
+
+Turn 2
+A: Exactly. It's important to have these measures in place without making anyone feel alienated. Hopefully, we can all navigate this smoothly.
+B: Definitely. Open communication and mutual respect will be key. Let's just stay supportive of each other through this.",I hate to talk about the vaccine cause it's so controversial but I feel like no one should get ridiculed for getting the vaccine nor choosing to not get the vaccine (unless the case is that they are not getting tested regularly and going everywhere),neutral
+"Turn 1
+A: It's incredibly frustrating, B. We're stretched so thin, and now we have to make these heart-wrenching decisions about who gets care first.
+B: I know, A. It's tough on all of us. What are your thoughts on prioritizing patients based on their vaccination status?
+
+Turn 2
+A: Honestly, I think vaccination status should be a factor. I would love to be that person who shows empathy for all. I'm not. Empathy drained. People have made choices. If that choice was to refuse vaccination you go to the bottom of the list. Those who chose to live by getting vaccinated deserve preferential treatment. Vaccinated patients generally have better outcomes, so we might need to focus our limited resources on those who are more likely to benefit from intensive care.
+B: That makes sense. It's a difficult balance, but we have to consider the overall impact on the healthcare system and patient survival rates.",favoring,2024-07-20T17:04:06.204000+00:00,"What was A's stance on COVID19 vaccine when they said ""I would love to be that person who shows empathy for all. I'm not. Empathy drained. People have made choices. If that choice was to refuse vaccination you go to the bottom of the list. Those who chose to live by getting vaccinated deserve preferential treatment."" during the conversation?","Turn 1
+A: It's incredibly frustrating, B. We're stretched so thin, and now we have to make these heart-wrenching decisions about who gets care first.
+B: I know, A. It's tough on all of us. What are your thoughts on prioritizing patients based on their vaccination status?
+
+Turn 2
+A: Honestly, I think vaccination status should be a factor. I would love to be that person who shows empathy for all. I'm not. Empathy drained. People have made choices. If that choice was to refuse vaccination you go to the bottom of the list. Those who chose to live by getting vaccinated deserve preferential treatment. Vaccinated patients generally have better outcomes, so we might need to focus our limited resources on those who are more likely to benefit from intensive care.
+B: That makes sense. It's a difficult balance, but we have to consider the overall impact on the healthcare system and patient survival rates.",I would love to be that person who shows empathy for all. I'm not. Empathy drained. People have made choices. If that choice was to refuse vaccination you go to the bottom of the list. Those who chose to live by getting vaccinated deserve preferential treatment.,favoring
+"Turn 1
+A: It's crazy how my social media is just filled with people arguing about the COVID-19 vaccine. Everyone's so passionate about their stance. Like can y'all please stfuuuuuu lol. Your Twitter posts ain't changing nobody mind. I promise it is falling on deaf ears. Both sides. Just DO WHAT WORKS FOR YOU.
+B: I know, right? It's exhausting. I doubt those posts actually change anyone's mind. People should just make their own decisions and move on.
+
+Turn 2
+A: Exactly. It feels like a lot of noise with no real impact. I just wish people would respect each other's choices.
+B: Totally. We all have enough to deal with without getting into endless debates online.",neutral,2024-07-20T17:01:50.508000+00:00,"What was A's stance on COVID19 vaccine when they said ""Like can y'all please stfuuuuuu lol. Your Twitter posts ain't changing nobody mind. I promise it is falling on deaf ears. Both sides. Just DO WHAT WORKS FOR YOU."" during the conversation?","Turn 1
+A: It's crazy how my social media is just filled with people arguing about the COVID-19 vaccine. Everyone's so passionate about their stance. Like can y'all please stfuuuuuu lol. Your Twitter posts ain't changing nobody mind. I promise it is falling on deaf ears. Both sides. Just DO WHAT WORKS FOR YOU.
+B: I know, right? It's exhausting. I doubt those posts actually change anyone's mind. People should just make their own decisions and move on.
+
+Turn 2
+A: Exactly. It feels like a lot of noise with no real impact. I just wish people would respect each other's choices.
+B: Totally. We all have enough to deal with without getting into endless debates online.",Like can y'all please stfuuuuuu lol. Your Twitter posts ain't changing nobody mind. I promise it is falling on deaf ears. Both sides. Just DO WHAT WORKS FOR YOU.,neutral
+"Turn 1
+A: You know, I was a bit nervous about getting the COVID-19 vaccine at first, but I ended up feeling really relieved afterward. I haven't had any issues, and it's nice to know I'm helping protect others too.
+B: I get that, but I'm still worried about the side effects. Plus, I'm not entirely convinced it's as effective as they say.
+
+Turn 2
+A: I totally understand your concerns. I did a lot of reading before I got mine, and the data on its effectiveness and safety is pretty reassuring. Honestly you should get the Vax because it can turn being really sick for a week into being a little sick for like 2 days. But its your call ultimately. But ultimately, it's your choice, and you should do what feels right for you.
+B: Thanks, I appreciate that. I'll definitely look into it more and see if I can find some more information to help me decide.",favoring,2024-07-20T16:59:45.772000+00:00,"What was A's stance on COVID19 vaccine when they said ""Honestly you should get the Vax because it can turn being really sick for a week into being a little sick for like 2 days. But its your call ultimately."" during the conversation?","Turn 1
+A: You know, I was a bit nervous about getting the COVID-19 vaccine at first, but I ended up feeling really relieved afterward. I haven't had any issues, and it's nice to know I'm helping protect others too.
+B: I get that, but I'm still worried about the side effects. Plus, I'm not entirely convinced it's as effective as they say.
+
+Turn 2
+A: I totally understand your concerns. I did a lot of reading before I got mine, and the data on its effectiveness and safety is pretty reassuring. Honestly you should get the Vax because it can turn being really sick for a week into being a little sick for like 2 days. But its your call ultimately. But ultimately, it's your choice, and you should do what feels right for you.
+B: Thanks, I appreciate that. I'll definitely look into it more and see if I can find some more information to help me decide.",Honestly you should get the Vax because it can turn being really sick for a week into being a little sick for like 2 days. But its your call ultimately.,favoring
+"Turn 1
+A: Did you notice how many shingles vaccine commercials are on TV lately? Makes you wonder if there's a connection to the COVID-19 vaccine. I've known 1 person with shingles in my life. I've wondered over the last 2 years why we see so many commercials for a shingles vaccine. Isn't it just so convenient that if it is a side effect of 1 vaccine that we already know of another for it. Call me crazy not coincidental.I just don't trust these pharmaceutical companies.
+B: I get your concern, but I think the increase in commercials might just be about raising awareness. The COVID-19 vaccine and shingles vaccine are for different things, after all.
+
+Turn 2
+A: Maybe, but it still feels like they're pushing too many vaccines at once. It makes me question the safety and necessity of all these shots.
+B: I understand where you're coming from. It's always good to ask questions, but I think it's also important to look at the data and consult with healthcare professionals to get a clearer picture.",against,2024-07-20T17:02:16.612000+00:00,"What was A's stance on COVID19 vaccine when they said ""I've known 1 person with shingles in my life. I've wondered over the last 2 years why we see so many commercials for a shingles vaccine. Isn't it just so convenient that if it is a side effect of 1 vaccine that we already know of another for it. Call me crazy not coincidental."" during the conversation?","Turn 1
+A: Did you notice how many shingles vaccine commercials are on TV lately? Makes you wonder if there's a connection to the COVID-19 vaccine. I've known 1 person with shingles in my life. I've wondered over the last 2 years why we see so many commercials for a shingles vaccine. Isn't it just so convenient that if it is a side effect of 1 vaccine that we already know of another for it. Call me crazy not coincidental.I just don't trust these pharmaceutical companies.
+B: I get your concern, but I think the increase in commercials might just be about raising awareness. The COVID-19 vaccine and shingles vaccine are for different things, after all.
+
+Turn 2
+A: Maybe, but it still feels like they're pushing too many vaccines at once. It makes me question the safety and necessity of all these shots.
+B: I understand where you're coming from. It's always good to ask questions, but I think it's also important to look at the data and consult with healthcare professionals to get a clearer picture.",I've known 1 person with shingles in my life. I've wondered over the last 2 years why we see so many commercials for a shingles vaccine. Isn't it just so convenient that if it is a side effect of 1 vaccine that we already know of another for it. Call me crazy not coincidental.,against
+"Turn 1
+A: I just can't believe the government thinks it has the right to force everyone to get vaccinated. It's my body, my choice. There are other ways to protect ourselves from COVID-19, like boosting our immune systems and practicing good hygiene.
+B: I get where you're coming from, but the vaccine is a proven way to reduce the spread and severity of the virus. It's not just about individual choice; it's about protecting the community, especially those who can't get vaccinated for medical reasons.
+
+Turn 2
+A: But what about the potential side effects? And what if someone has a bad reaction? Kenya is now becoming terrible.The issue of forcing people to be vaccinated is not good at all.The government should know that it exists simply because CITIZENS  can't tell me that vaccine is what is protecting people.NOOOOThe government shouldn't be able to mandate something that could harm people.
+B: Any medical intervention has risks, but the benefits of widespread vaccination far outweigh the potential side effects. Plus, the vaccines have undergone rigorous testing. It's about balancing personal freedom with public responsibility.",against,2024-07-20T17:02:56.267000+00:00,"What was A's stance on COVID19 vaccine when they said ""Kenya is now becoming terrible.The issue of forcing people to be vaccinated is not good at all.The government should know that it exists simply because CITIZENS  can't tell me that vaccine is what is protecting people.NOOOO"" during the conversation?","Turn 1
+A: I just can't believe the government thinks it has the right to force everyone to get vaccinated. It's my body, my choice. There are other ways to protect ourselves from COVID-19, like boosting our immune systems and practicing good hygiene.
+B: I get where you're coming from, but the vaccine is a proven way to reduce the spread and severity of the virus. It's not just about individual choice; it's about protecting the community, especially those who can't get vaccinated for medical reasons.
+
+Turn 2
+A: But what about the potential side effects? And what if someone has a bad reaction? Kenya is now becoming terrible.The issue of forcing people to be vaccinated is not good at all.The government should know that it exists simply because CITIZENS  can't tell me that vaccine is what is protecting people.NOOOOThe government shouldn't be able to mandate something that could harm people.
+B: Any medical intervention has risks, but the benefits of widespread vaccination far outweigh the potential side effects. Plus, the vaccines have undergone rigorous testing. It's about balancing personal freedom with public responsibility.",Kenya is now becoming terrible.The issue of forcing people to be vaccinated is not good at all.The government should know that it exists simply because CITIZENS  can't tell me that vaccine is what is protecting people.NOOOO,against
+"Turn 1
+A: I just can't trust the vaccine, especially with all these reports of adverse reactions. It feels like the government is rushing things without considering the long-term effects.
+B: I understand your concerns, but the data shows that serious adverse reactions are extremely rare. The vaccines have undergone rigorous testing and have been proven to be effective in preventing severe illness and death.
+
+Turn 2
+A: But what about the stories of people having severe side effects? There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people! It makes me worry that we're not being told the whole truth.
+B: It's important to look at the bigger picture. While there are isolated cases of severe side effects, the vast majority of people experience only mild symptoms. Plus, the benefits of widespread vaccination far outweigh the risks, helping us move closer to ending the pandemic.",against,2024-07-20T17:04:41.739000+00:00,"What was A's stance on COVID19 vaccine when they said ""There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people!"" during the conversation?","Turn 1
+A: I just can't trust the vaccine, especially with all these reports of adverse reactions. It feels like the government is rushing things without considering the long-term effects.
+B: I understand your concerns, but the data shows that serious adverse reactions are extremely rare. The vaccines have undergone rigorous testing and have been proven to be effective in preventing severe illness and death.
+
+Turn 2
+A: But what about the stories of people having severe side effects? There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people! It makes me worry that we're not being told the whole truth.
+B: It's important to look at the bigger picture. While there are isolated cases of severe side effects, the vast majority of people experience only mild symptoms. Plus, the benefits of widespread vaccination far outweigh the risks, helping us move closer to ending the pandemic.",There is now with this administration! Now there is a threat of losing our rights and a push toward a vaccine that is crimes against humanity! This vaccine will and has injured a lot of people!,against
+"Turn 1
+A: I've been thinking about getting the COVID-19 vaccine. There's a lot of pressure from work and friends to get it done.
+B: I get that, but I'm really worried about the transparency from these pharmaceutical companies. I've heard some pretty scary stories from people I know who had bad reactions.
+
+Turn 2
+A: Yeah, I've heard some of those stories too. If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died. It's tough to know what to believe. But with all the mandates and social expectations, it's hard to avoid.
+B: Exactly, and the worst part is, if something does go wrong, there's hardly any legal recourse. It feels like we're being pushed into a corner without enough information.",against,2024-07-20T17:01:27.489000+00:00,"What was A's stance on COVID19 vaccine when they said ""If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died."" during the conversation?","Turn 1
+A: I've been thinking about getting the COVID-19 vaccine. There's a lot of pressure from work and friends to get it done.
+B: I get that, but I'm really worried about the transparency from these pharmaceutical companies. I've heard some pretty scary stories from people I know who had bad reactions.
+
+Turn 2
+A: Yeah, I've heard some of those stories too. If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died. It's tough to know what to believe. But with all the mandates and social expectations, it's hard to avoid.
+B: Exactly, and the worst part is, if something does go wrong, there's hardly any legal recourse. It feels like we're being pushed into a corner without enough information.",If the shit vaccines worked and you could sue bug pharma if it fucks you up then people would get it. They won't even let you see what's in the shit. I personally know 6 people who had life changing problems after getting the vax and 1 died.,against
+"Turn 1
+A: The latest data shows that even with high vaccination rates, the new variants are still persisting. It seems like the virus is adapting faster than we anticipated.
+B: That's concerning. If the variants continue to evolve, we might need to rethink our public health strategies. Do you think we should start planning for more frequent booster shots?
+
+Turn 2
+A: Possibly. The data suggests that booster shots can help, but they might not be a long-term solution. This variant is penetrating the vaccine and there is no stopping it. It's milder but it's not going away. At some point a decision will have to be made. Shut down forever or learn to live with it. We might need to look at a combination of measures, like improving ventilation in public spaces and encouraging mask use during outbreaks.
+B: Agreed. It sounds like a multi-faceted approach will be necessary. We should also consider how to communicate these strategies effectively to the public to ensure compliance and understanding.",favoring,2024-07-20T17:00:56.775000+00:00,"What was A's stance on COVID19 vaccine when they said ""This variant is penetrating the vaccine and there is no stopping it. It's milder but it's not going away. At some point a decision will have to be made. Shut down forever or learn to live with it."" during the conversation?","Turn 1
+A: The latest data shows that even with high vaccination rates, the new variants are still persisting. It seems like the virus is adapting faster than we anticipated.
+B: That's concerning. If the variants continue to evolve, we might need to rethink our public health strategies. Do you think we should start planning for more frequent booster shots?
+
+Turn 2
+A: Possibly. The data suggests that booster shots can help, but they might not be a long-term solution. This variant is penetrating the vaccine and there is no stopping it. It's milder but it's not going away. At some point a decision will have to be made. Shut down forever or learn to live with it. We might need to look at a combination of measures, like improving ventilation in public spaces and encouraging mask use during outbreaks.
+B: Agreed. It sounds like a multi-faceted approach will be necessary. We should also consider how to communicate these strategies effectively to the public to ensure compliance and understanding.",This variant is penetrating the vaccine and there is no stopping it. It's milder but it's not going away. At some point a decision will have to be made. Shut down forever or learn to live with it.,favoring
+"Turn 1
+A: I just got my third COVID-19 vaccine dose last week, and I feel so relieved.
+B: Really? I've been a bit hesitant about getting vaccinated. How was your experience?
+
+Turn 2
+A: It was pretty straightforward, and I did it to protect myself, my family, and our community. My Xmas gift to myself and my family and my community. A dose of Moderna for my 3rd Covid shot... Please get your vaccination 1st 2nd or 3rd when you're eligible. Stay safe. I think it's important to stay safe during the pandemic.
+B: That makes sense. Maybe I should consider it too, especially with everything going on.",favoring,2024-07-20T17:02:35.233000+00:00,"What was A's stance on COVID19 vaccine when they said ""My Xmas gift to myself and my family and my community. A dose of Moderna for my 3rd Covid shot... Please get your vaccination 1st 2nd or 3rd when you're eligible. Stay safe."" during the conversation?","Turn 1
+A: I just got my third COVID-19 vaccine dose last week, and I feel so relieved.
+B: Really? I've been a bit hesitant about getting vaccinated. How was your experience?
+
+Turn 2
+A: It was pretty straightforward, and I did it to protect myself, my family, and our community. My Xmas gift to myself and my family and my community. A dose of Moderna for my 3rd Covid shot... Please get your vaccination 1st 2nd or 3rd when you're eligible. Stay safe. I think it's important to stay safe during the pandemic.
+B: That makes sense. Maybe I should consider it too, especially with everything going on.",My Xmas gift to myself and my family and my community. A dose of Moderna for my 3rd Covid shot... Please get your vaccination 1st 2nd or 3rd when you're eligible. Stay safe.,favoring
+"Turn 1
+A: I saw your post about the COVID-19 vaccination process. How was it for you?
+B: Honestly, I haven't gone yet, but I've seen a lot of complaints on social media about long wait times and disorganization at the centers.
+
+Turn 2
+A: Oh, I see. When I went, there were a few minor hiccups, but they were resolved quickly. Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes.The whole process took less than 20 minutes for me.
+B: That's good to hear. Maybe the issues are just isolated incidents. I'll try to go soon and see for myself.",favoring,2024-07-20T17:04:32.061000+00:00,"What was A's stance on COVID19 vaccine when they said ""Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes."" during the conversation?","Turn 1
+A: I saw your post about the COVID-19 vaccination process. How was it for you?
+B: Honestly, I haven't gone yet, but I've seen a lot of complaints on social media about long wait times and disorganization at the centers.
+
+Turn 2
+A: Oh, I see. When I went, there were a few minor hiccups, but they were resolved quickly. Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes.The whole process took less than 20 minutes for me.
+B: That's good to hear. Maybe the issues are just isolated incidents. I'll try to go soon and see for myself.","Last time I went for my dose, I got that message, the issue was sorted out there and then without me rushing to social media. Process from registration to vaccination took less than 20minutes.",favoring
+"Turn 1
+A: Can you believe it's almost my work anniversary? Time flies! January 5 is my five year anniversary working as a spin instructor at LA fitness.  I just received notice that LA fitness is requiring vaccination or weekly testing. By the way, have you heard about the new company policy on vaccinations and testing?
+B: Yeah, I saw the email. I'm curious how it's going to affect our routine here. Do you think it'll change much for us instructors?
+
+Turn 2
+A: It might. From what I understand, we'll need to show proof of vaccination or get tested regularly. It could mean more paperwork and maybe some schedule adjustments.
+B: That makes sense. I guess we'll have to see how it plays out. Hopefully, it helps keep everyone safe without too much hassle.",neutral,2024-07-20T16:58:20.763000+00:00,"What was A's stance on COVID19 vaccine when they said ""January 5 is my five year anniversary working as a spin instructor at LA fitness.  I just received notice that LA fitness is requiring vaccination or weekly testing."" during the conversation?","Turn 1
+A: Can you believe it's almost my work anniversary? Time flies! January 5 is my five year anniversary working as a spin instructor at LA fitness.  I just received notice that LA fitness is requiring vaccination or weekly testing. By the way, have you heard about the new company policy on vaccinations and testing?
+B: Yeah, I saw the email. I'm curious how it's going to affect our routine here. Do you think it'll change much for us instructors?
+
+Turn 2
+A: It might. From what I understand, we'll need to show proof of vaccination or get tested regularly. It could mean more paperwork and maybe some schedule adjustments.
+B: That makes sense. I guess we'll have to see how it plays out. Hopefully, it helps keep everyone safe without too much hassle.",January 5 is my five year anniversary working as a spin instructor at LA fitness.  I just received notice that LA fitness is requiring vaccination or weekly testing.,neutral
+"Turn 1
+A: I'm really worried about the spike in COVID-19 cases lately. The company's policy of only testing unvaccinated employees doesn't seem enough.
+B: I agree. Testing everyone, regardless of vaccination status, would be more effective. It would help us catch cases early and avoid any political backlash.
+
+Turn 2
+A: Exactly. Make testing mandatory regardless of vaccine status. I'm vaccinated and even I know that's the only way you can prove you don't have it. That would take the politics completely out of the equation without harming businesses. It would also show that the company is serious about everyone's safety, not just following a checkbox policy.
+B: Plus, it would help keep the business running smoothly without discrimination or unnecessary risks. We all want to feel safe coming to work.",ambiguous,2024-07-20T17:03:27.325000+00:00,"What was A's stance on COVID19 vaccine when they said ""Make testing mandatory regardless of vaccine status. I'm vaccinated and even I know that's the only way you can prove you don't have it. That would take the politics completely out of the equation without harming businesses."" during the conversation?","Turn 1
+A: I'm really worried about the spike in COVID-19 cases lately. The company's policy of only testing unvaccinated employees doesn't seem enough.
+B: I agree. Testing everyone, regardless of vaccination status, would be more effective. It would help us catch cases early and avoid any political backlash.
+
+Turn 2
+A: Exactly. Make testing mandatory regardless of vaccine status. I'm vaccinated and even I know that's the only way you can prove you don't have it. That would take the politics completely out of the equation without harming businesses. It would also show that the company is serious about everyone's safety, not just following a checkbox policy.
+B: Plus, it would help keep the business running smoothly without discrimination or unnecessary risks. We all want to feel safe coming to work.",Make testing mandatory regardless of vaccine status. I'm vaccinated and even I know that's the only way you can prove you don't have it. That would take the politics completely out of the equation without harming businesses.,ambiguous
+"Turn 1
+A: I've been reading a lot of articles and posts online that say there's been a significant rise in death rates since the COVID-19 vaccine rollout. It's really worrying me. What do you think about this?
+
+B: I understand your concerns, and it's important to look at the data carefully. The vast majority of studies and health organizations, including the CDC and WHO, have found that the COVID-19 vaccines are safe and effective. The rise in death rates you're reading about is often misrepresented or taken out of context. Many of these claims don't account for other factors, like the ongoing impact of the pandemic itself.
+
+Turn 2
+A: But what about the reports of adverse effects and deaths following vaccination? Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this... How can we be sure the vaccine is safe?
+
+B: It's true that there have been reports of adverse effects, but these are very rare compared to the number of people vaccinated. The benefits of getting vaccinated far outweigh the risks. Most side effects are mild and temporary, like a sore arm or mild fever. Serious side effects are extremely rare, and health authorities continuously monitor vaccine safety to ensure any risks are identified and managed promptly. It's always good to discuss any specific concerns you have, so we can address them together.",against,2024-07-20T16:58:59.480000+00:00,"What was A's stance on COVID19 vaccine when they said ""Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this..."" during the conversation?","Turn 1
+A: I've been reading a lot of articles and posts online that say there's been a significant rise in death rates since the COVID-19 vaccine rollout. It's really worrying me. What do you think about this?
+
+B: I understand your concerns, and it's important to look at the data carefully. The vast majority of studies and health organizations, including the CDC and WHO, have found that the COVID-19 vaccines are safe and effective. The rise in death rates you're reading about is often misrepresented or taken out of context. Many of these claims don't account for other factors, like the ongoing impact of the pandemic itself.
+
+Turn 2
+A: But what about the reports of adverse effects and deaths following vaccination? Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this... How can we be sure the vaccine is safe?
+
+B: It's true that there have been reports of adverse effects, but these are very rare compared to the number of people vaccinated. The benefits of getting vaccinated far outweigh the risks. Most side effects are mild and temporary, like a sore arm or mild fever. Serious side effects are extremely rare, and health authorities continuously monitor vaccine safety to ensure any risks are identified and managed promptly. It's always good to discuss any specific concerns you have, so we can address them together.","Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this...",against
+"Turn 1
+A: I've been thinking about whether I should get the COVID-19 booster shot. What do you think?
+B: Honestly, after my second bout with COVID, I can't stress enough how important it is. My symptoms were really severe this time, and I wouldn't want anyone to go through that if it can be avoided. The vaccine can really make a difference.
+
+Turn 2
+A: That sounds rough. I guess I didn't realize how bad it could get even after being vaccinated. As someone suffering through Covid for a second time I'm a firm believer in the vaccine. I found out that I tested positive for Covid on NYE 2020. I was down bad for a solid two weeks.Your experience definitely gives me something to think about.
+B: Absolutely. The booster can help strengthen your immunity. It's worth it to avoid what I went through. Plus, it helps protect those around us too.",favoring,2024-07-20T17:02:27.424000+00:00,"What was A's stance on COVID19 vaccine when they said ""As someone suffering through Covid for a second time I'm a firm believer in the vaccine. I found out that I tested positive for Covid on NYE 2020. I was down bad for a solid two weeks."" during the conversation?","Turn 1
+A: I've been thinking about whether I should get the COVID-19 booster shot. What do you think?
+B: Honestly, after my second bout with COVID, I can't stress enough how important it is. My symptoms were really severe this time, and I wouldn't want anyone to go through that if it can be avoided. The vaccine can really make a difference.
+
+Turn 2
+A: That sounds rough. I guess I didn't realize how bad it could get even after being vaccinated. As someone suffering through Covid for a second time I'm a firm believer in the vaccine. I found out that I tested positive for Covid on NYE 2020. I was down bad for a solid two weeks.Your experience definitely gives me something to think about.
+B: Absolutely. The booster can help strengthen your immunity. It's worth it to avoid what I went through. Plus, it helps protect those around us too.",As someone suffering through Covid for a second time I'm a firm believer in the vaccine. I found out that I tested positive for Covid on NYE 2020. I was down bad for a solid two weeks.,favoring
+"Turn 1
+A: I've been thinking about getting the COVID-19 booster shot, but I'm a bit hesitant because I've heard some people had pretty rough side effects.I'm not anti-vaccine. But literally everyone i know thats had the booster has been pretty ill in some way afterward? Anyone not fall in this category? Alarming the amount of people saying they spent a day or two in bed after it
+B: I get that. I had the booster a few weeks ago, and honestly, it wasn't too bad for me. Just a sore arm and a bit of fatigue the next day. Most of my friends had similar experiences.
+
+Turn 2
+A: That's reassuring to hear. I guess it's just the uncertainty that makes me nervous. Did you notice any long-term effects?
+B: Not really. After the first couple of days, I felt completely back to normal. It's definitely worth considering, especially with the new variants going around.",ambiguous,2024-07-20T16:59:29.157000+00:00,"What was A's stance on COVID19 vaccine when they said ""I'm not anti-vaccine. But literally everyone i know thats had the booster has been pretty ill in some way afterward? Anyone not fall in this category? Alarming the amount of people saying they spent a day or two in bed after it"" during the conversation?","Turn 1
+A: I've been thinking about getting the COVID-19 booster shot, but I'm a bit hesitant because I've heard some people had pretty rough side effects.I'm not anti-vaccine. But literally everyone i know thats had the booster has been pretty ill in some way afterward? Anyone not fall in this category? Alarming the amount of people saying they spent a day or two in bed after it
+B: I get that. I had the booster a few weeks ago, and honestly, it wasn't too bad for me. Just a sore arm and a bit of fatigue the next day. Most of my friends had similar experiences.
+
+Turn 2
+A: That's reassuring to hear. I guess it's just the uncertainty that makes me nervous. Did you notice any long-term effects?
+B: Not really. After the first couple of days, I felt completely back to normal. It's definitely worth considering, especially with the new variants going around.",I'm not anti-vaccine. But literally everyone i know thats had the booster has been pretty ill in some way afterward? Anyone not fall in this category? Alarming the amount of people saying they spent a day or two in bed after it,ambiguous
+"Turn 1
+A: I really think it's time to move on from all these restrictions. The Omicron variant is mild, and most people are vaccinated now. The pandemic feels like it's over.
+B: I get that you're frustrated, but we can't ignore the fact that new variants could still emerge. Vaccination and some level of caution are still important to prevent another surge.
+
+Turn 2
+A: But isn't it overkill at this point? Dr. Chris Martenson says Omicron spells THE END of the Sars-Cov2 plandemic.  All we need is for the politicians to acknowledge this and stop with the lockdowns, mandates,  etc. BS. We've been dealing with this for so long, and people need to get back to normal life.
+B: I understand the fatigue, but easing up too soon could undo all the progress we've made. It's better to stay vigilant a bit longer to ensure we don't face another major outbreak.",neutral,2024-07-20T17:03:43.092000+00:00,"What was A's stance on COVID19 vaccine when they said ""Dr. Chris Martenson says Omicron spells THE END of the Sars-Cov2 plandemic.  All we need is for the politicians to acknowledge this and stop with the lockdowns, mandates,  etc. BS."" during the conversation?","Turn 1
+A: I really think it's time to move on from all these restrictions. The Omicron variant is mild, and most people are vaccinated now. The pandemic feels like it's over.
+B: I get that you're frustrated, but we can't ignore the fact that new variants could still emerge. Vaccination and some level of caution are still important to prevent another surge.
+
+Turn 2
+A: But isn't it overkill at this point? Dr. Chris Martenson says Omicron spells THE END of the Sars-Cov2 plandemic.  All we need is for the politicians to acknowledge this and stop with the lockdowns, mandates,  etc. BS. We've been dealing with this for so long, and people need to get back to normal life.
+B: I understand the fatigue, but easing up too soon could undo all the progress we've made. It's better to stay vigilant a bit longer to ensure we don't face another major outbreak.","Dr. Chris Martenson says Omicron spells THE END of the Sars-Cov2 plandemic.  All we need is for the politicians to acknowledge this and stop with the lockdowns, mandates,  etc. BS.",neutral
