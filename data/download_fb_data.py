@@ -76,7 +76,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-SemT6_Abortion-1'
     # current_data_prefix = 'Full-SemT6_Abortion-2'
     # current_data_prefix = 'Full-SemT6_Abortion-3'
-    current_data_prefix = 'Full-SemT6_Sentiment-1'
+    # current_data_prefix = 'Full-SemT6_Sentiment-1'
+    current_data_prefix = 'Full-SemT6_Sentiment-2'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:
