@@ -55,7 +55,7 @@ function App() {
   };
 
   useEffect(() => {
-    loadCSV('data/set_2.csv')
+    loadCSV('data/set_3.csv')
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
         map(item => ({
@@ -90,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `Full-SemT6_Sentiment-2-${prolificID}`;
+      let updatedProlificID = `Full-SemT6_Sentiment-3-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 

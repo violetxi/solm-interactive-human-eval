@@ -1,0 +1,263 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: You know, I really admire how figures like Gandhi and Martin Luther King Jr. managed to drive change through peaceful protests. Their commitment to non-violence was truly inspiring.
+B: Yeah, it's hard not to respect that. But looking at today's protests, it feels like we've lost that sense of peaceful advocacy. There's so much violence and looting; it's really disheartening.
+
+Turn 2
+A: I get what you mean. It does seem like the message gets overshadowed by the chaos sometimes. RT Gandhi protested for years never one resorting to violence or theft. People today make me sick But I think there are still many who strive for peaceful change, even if they don't always make the headlines.
+B: True, I suppose the media tends to focus on the more sensational aspects. I just wish we could see more of those peaceful efforts being highlighted and making a real impact.",negative,2024-07-22T17:30:01.687000+00:00,"What was the person's sentiment when they said ""RT Gandhi protested for years never one resorting to violence or theft. People today make me sick"" during the conversation?","Turn 1
+A: You know, I really admire how figures like Gandhi and Martin Luther King Jr. managed to drive change through peaceful protests. Their commitment to non-violence was truly inspiring.
+B: Yeah, it's hard not to respect that. But looking at today's protests, it feels like we've lost that sense of peaceful advocacy. There's so much violence and looting; it's really disheartening.
+
+Turn 2
+A: I get what you mean. It does seem like the message gets overshadowed by the chaos sometimes. RT Gandhi protested for years never one resorting to violence or theft. People today make me sick But I think there are still many who strive for peaceful change, even if they don't always make the headlines.
+B: True, I suppose the media tends to focus on the more sensational aspects. I just wish we could see more of those peaceful efforts being highlighted and making a real impact.",RT Gandhi protested for years never one resorting to violence or theft. People today make me sick,negative
+"Turn 1
+A: Hey B, you got a minute? I'm drowning in these application preps for the system upgrade. It's like a never-ending nightmare. Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious
+B: Oh no, that sounds rough! I'm actually on leave today, but I can definitely lend an ear. What's the most frustrating part?
+
+Turn 2
+A: Thanks, B. It's just the sheer volume and the repetitive nature of it all. I feel like a robot. Any tips on how to stay sane?
+B: I hear you. When I had a similar task, I broke it down into smaller chunks and took short breaks in between. Also, some good music or a podcast can make it less monotonous. Hang in there!",positive,2024-07-22T17:28:20.140000+00:00,"What was the person's sentiment when they said ""Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious"" during the conversation?","Turn 1
+A: Hey B, you got a minute? I'm drowning in these application preps for the system upgrade. It's like a never-ending nightmare. Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious
+B: Oh no, that sounds rough! I'm actually on leave today, but I can definitely lend an ear. What's the most frustrating part?
+
+Turn 2
+A: Thanks, B. It's just the sheer volume and the repetitive nature of it all. I feel like a robot. Any tips on how to stay sane?
+B: I hear you. When I had a similar task, I broke it down into smaller chunks and took short breaks in between. Also, some good music or a podcast can make it less monotonous. Hang in there!",Are you off somewhere nice? I'm bored today. Got a list of 395 applications I need to get ready for Windows 7. Tedious,positive
+"Turn 1
+A: I recently watched this comedy special that totally blew me away. I wasn't expecting much, but it was hilarious and surprisingly deep.""I think I may have just fell in love with after watching """"Amy Schumer: Live...Extended Cut"""" on
+B: Really? That sounds interesting. Who's the comedian?
+B: Really? That sounds interesting. Who's the comedian?
+
+Turn 2
+A: It's by Hannah Gadsby. The special is called ""Nanette."" She mixes humor with some really powerful storytelling.
+B: I've heard of her! I'll definitely check it out. Thanks for the recommendation!",positive,2024-07-22T17:32:26.940000+00:00,"What was the person's sentiment when they said """"I think I may have just fell in love with after watching """"Amy Schumer: Live...Extended Cut"""" on"" during the conversation?","Turn 1
+A: I recently watched this comedy special that totally blew me away. I wasn't expecting much, but it was hilarious and surprisingly deep.""I think I may have just fell in love with after watching """"Amy Schumer: Live...Extended Cut"""" on
+B: Really? That sounds interesting. Who's the comedian?
+B: Really? That sounds interesting. Who's the comedian?
+
+Turn 2
+A: It's by Hannah Gadsby. The special is called ""Nanette."" She mixes humor with some really powerful storytelling.
+B: I've heard of her! I'll definitely check it out. Thanks for the recommendation!","""I think I may have just fell in love with after watching """"Amy Schumer: Live...Extended Cut"""" on",positive
+"Turn 1
+A: You know, I recently got my daughter to watch ""Blade Runner."" She was so into those ""Twilight"" movies before, but now she's starting to appreciate more complex stories.
+B: That's awesome! ""Blade Runner"" is such a classic. How did she react to it?
+
+Turn 2
+A: At first, she was a bit skeptical, but by the end, she was totally hooked. Sat my daughter down and we watched 12 Monkeys. Changed her mind about what a really good movie is (NOT Twilight) Now she's asking for more recommendations in the same genre.
+B: That's great to hear! It's always rewarding when they start to see the depth in those older films. Maybe you can introduce her to ""The Matrix"" next.",positive,2024-07-22T17:31:46.971000+00:00,"What was the person's sentiment when they said ""Sat my daughter down and we watched 12 Monkeys. Changed her mind about what a really good movie is (NOT Twilight)"" during the conversation?","Turn 1
+A: You know, I recently got my daughter to watch ""Blade Runner."" She was so into those ""Twilight"" movies before, but now she's starting to appreciate more complex stories.
+B: That's awesome! ""Blade Runner"" is such a classic. How did she react to it?
+
+Turn 2
+A: At first, she was a bit skeptical, but by the end, she was totally hooked. Sat my daughter down and we watched 12 Monkeys. Changed her mind about what a really good movie is (NOT Twilight) Now she's asking for more recommendations in the same genre.
+B: That's great to hear! It's always rewarding when they start to see the depth in those older films. Maybe you can introduce her to ""The Matrix"" next.",Sat my daughter down and we watched 12 Monkeys. Changed her mind about what a really good movie is (NOT Twilight),positive
+"Turn 1
+A: Did you hear about Zayn leaving One Direction? It's so sad.
+B: Yeah, I did. But you know, I still support him. His solo stuff is amazing, and I think he's doing what's best for him.
+
+Turn 2
+A: True, his new songs are pretty good. Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will It's just weird not seeing him with the rest of the guys.
+B: I get that. But the band's still great, and Zayn's journey is just another chapter. We can enjoy both, right?",positive,2024-07-22T17:33:12.148000+00:00,"What was the person's sentiment when they said ""Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will"" during the conversation?","Turn 1
+A: Did you hear about Zayn leaving One Direction? It's so sad.
+B: Yeah, I did. But you know, I still support him. His solo stuff is amazing, and I think he's doing what's best for him.
+
+Turn 2
+A: True, his new songs are pretty good. Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will It's just weird not seeing him with the rest of the guys.
+B: I get that. But the band's still great, and Zayn's journey is just another chapter. We can enjoy both, right?",Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will,positive
+"Turn 1
+A: Ugh, I can't believe we couldn't get the groceries today. Okay so change of plans startin the Sydney dalton diet tomorrow because we couldnt get to the store yesterdayI was really looking forward to starting the diet.
+B: Yeah, it's frustrating. But at least we can start fresh tomorrow. We'll just have to make sure we get everything we need first thing in the morning.
+
+Turn 2
+A: You're right. I guess one more day won't hurt. Let's make a list tonight so we don't forget anything.
+B: Good idea. We'll be more prepared this way. And hey, maybe we can use tonight to plan out our meals for the week.",positive,2024-07-22T17:28:38.333000+00:00,"What was the person's sentiment when they said ""Okay so change of plans startin the Sydney dalton diet tomorrow because we couldnt get to the store yesterday"" during the conversation?","Turn 1
+A: Ugh, I can't believe we couldn't get the groceries today. Okay so change of plans startin the Sydney dalton diet tomorrow because we couldnt get to the store yesterdayI was really looking forward to starting the diet.
+B: Yeah, it's frustrating. But at least we can start fresh tomorrow. We'll just have to make sure we get everything we need first thing in the morning.
+
+Turn 2
+A: You're right. I guess one more day won't hurt. Let's make a list tonight so we don't forget anything.
+B: Good idea. We'll be more prepared this way. And hey, maybe we can use tonight to plan out our meals for the week.",Okay so change of plans startin the Sydney dalton diet tomorrow because we couldnt get to the store yesterday,positive
+"Turn 1
+A: ""I can't believe how many chances we blew last season. It's so frustrating to think about all those missed opportunities.""
+B: ""I know, right? It felt like we were always just one step away from sealing the deal. But hey, tomorrow's a new game. We have to stay positive.""
+
+Turn 2
+A: ""You're right. This could be our chance to turn things around. We always mess up when we get the chance to go up the table when Atleti or Barca mess up. PLEASE WIN TOMORROW :)The team has been looking sharp in practice.""
+B: ""Absolutely. If they play like they have been, we might finally see the performance we've been waiting for. Fingers crossed!""",negative,2024-07-22T17:33:40.747000+00:00,"What was the person's sentiment when they said ""We always mess up when we get the chance to go up the table when Atleti or Barca mess up. PLEASE WIN TOMORROW :)"" during the conversation?","Turn 1
+A: ""I can't believe how many chances we blew last season. It's so frustrating to think about all those missed opportunities.""
+B: ""I know, right? It felt like we were always just one step away from sealing the deal. But hey, tomorrow's a new game. We have to stay positive.""
+
+Turn 2
+A: ""You're right. This could be our chance to turn things around. We always mess up when we get the chance to go up the table when Atleti or Barca mess up. PLEASE WIN TOMORROW :)The team has been looking sharp in practice.""
+B: ""Absolutely. If they play like they have been, we might finally see the performance we've been waiting for. Fingers crossed!""",We always mess up when we get the chance to go up the table when Atleti or Barca mess up. PLEASE WIN TOMORROW :),negative
+"Turn 1
+A: That descent was incredible! I haven't felt such an adrenaline rush in ages. And the views of the lake were just breathtaking. thank Chris! Great to meet you both too. The descent today was unbelievable! Now in Lugano ahead of tomorrow's ride to Milan.
+B: Absolutely! Lugano is stunning. I'm really glad we got to experience it together. So, are you ready for the ride to Milan tomorrow?
+
+Turn 2
+A: Definitely. I hear the route is quite scenic, with some challenging climbs. Should be fun! How about you? Any particular part you're looking forward to?
+B: I'm excited for the stretch through the countryside. It's always refreshing to ride through those open fields. Plus, I've heard the food stops along the way are fantastic!",positive,2024-07-22T17:33:04.865000+00:00,"What was the person's sentiment when they said ""thank Chris! Great to meet you both too. The descent today was unbelievable! Now in Lugano ahead of tomorrow's ride to Milan."" during the conversation?","Turn 1
+A: That descent was incredible! I haven't felt such an adrenaline rush in ages. And the views of the lake were just breathtaking. thank Chris! Great to meet you both too. The descent today was unbelievable! Now in Lugano ahead of tomorrow's ride to Milan.
+B: Absolutely! Lugano is stunning. I'm really glad we got to experience it together. So, are you ready for the ride to Milan tomorrow?
+
+Turn 2
+A: Definitely. I hear the route is quite scenic, with some challenging climbs. Should be fun! How about you? Any particular part you're looking forward to?
+B: I'm excited for the stretch through the countryside. It's always refreshing to ride through those open fields. Plus, I've heard the food stops along the way are fantastic!",thank Chris! Great to meet you both too. The descent today was unbelievable! Now in Lugano ahead of tomorrow's ride to Milan.,positive
+"Turn 1
+A: I'm really excited about the Foo Fighters' concert in Milton Keynes this weekend, but I'm dreading the traffic. It's going to be a nightmare getting there.
+B: Yeah, I can imagine. Have you thought about leaving a bit earlier to avoid the worst of it?
+
+Turn 2
+A: I did, but even then, I'm worried about parking and the crowds. ""Judging by the traffic and complaining, I think I might be best setting for Foo Fighters' Milton Keynes gig tomorrow right now"" It just feels like it's going to be a hassle.
+B: Maybe you could look into public transport options? Sometimes they have special services for big events like this.",negative,2024-07-22T17:32:52.605000+00:00,"What was the person's sentiment when they said """"Judging by the traffic and complaining, I think I might be best setting for Foo Fighters' Milton Keynes gig tomorrow right now"""" during the conversation?","Turn 1
+A: I'm really excited about the Foo Fighters' concert in Milton Keynes this weekend, but I'm dreading the traffic. It's going to be a nightmare getting there.
+B: Yeah, I can imagine. Have you thought about leaving a bit earlier to avoid the worst of it?
+
+Turn 2
+A: I did, but even then, I'm worried about parking and the crowds. ""Judging by the traffic and complaining, I think I might be best setting for Foo Fighters' Milton Keynes gig tomorrow right now"" It just feels like it's going to be a hassle.
+B: Maybe you could look into public transport options? Sometimes they have special services for big events like this.","""Judging by the traffic and complaining, I think I might be best setting for Foo Fighters' Milton Keynes gig tomorrow right now""",negative
+"Turn 1
+A: Ugh, I can't believe I have to cram for this test tomorrow. Totally forgot about TVD bc I was too busy studying for my fucking test tomorrowI haven't had a moment to relax and watch our favorite show.
+B: I get it, that sounds really stressful. Maybe you can take a short break and watch an episode to clear your mind?
+
+Turn 2
+A: I wish I could, but I'm worried I won't have enough time to study everything.
+B: How about setting a timer? Study for an hour, then reward yourself with a quick episode. It might help you feel less overwhelmed.",positive,2024-07-22T17:29:39.410000+00:00,"What was the person's sentiment when they said ""Totally forgot about TVD bc I was too busy studying for my fucking test tomorrow"" during the conversation?","Turn 1
+A: Ugh, I can't believe I have to cram for this test tomorrow. Totally forgot about TVD bc I was too busy studying for my fucking test tomorrowI haven't had a moment to relax and watch our favorite show.
+B: I get it, that sounds really stressful. Maybe you can take a short break and watch an episode to clear your mind?
+
+Turn 2
+A: I wish I could, but I'm worried I won't have enough time to study everything.
+B: How about setting a timer? Study for an hour, then reward yourself with a quick episode. It might help you feel less overwhelmed.",Totally forgot about TVD bc I was too busy studying for my fucking test tomorrow,positive
+"Turn 1
+A: You won't believe how excited Jake was about his birthday gift! We got him a signed Seth Rollins action figure, and he was over the moon.
+B: That's awesome! I can imagine how thrilled he must have been. He's such a big fan of Seth Rollins.
+
+Turn 2
+A: Absolutely! It made his day. My son's braden 8th birthday got money in the bank briefcase due to Seth Rollins. Can you say happy birthday seth rollins to my son? Hey, could you do me a favor and wish him a happy birthday? He'd be so happy to hear it from you.
+B: Of course! I'd love to. Happy Birthday, Jake! I hope you had an amazing day with your new action figure!",positive,2024-07-22T17:27:17.094000+00:00,"What was the person's sentiment when they said ""My son's braden 8th birthday got money in the bank briefcase due to Seth Rollins. Can you say happy birthday seth rollins to my son?"" during the conversation?","Turn 1
+A: You won't believe how excited Jake was about his birthday gift! We got him a signed Seth Rollins action figure, and he was over the moon.
+B: That's awesome! I can imagine how thrilled he must have been. He's such a big fan of Seth Rollins.
+
+Turn 2
+A: Absolutely! It made his day. My son's braden 8th birthday got money in the bank briefcase due to Seth Rollins. Can you say happy birthday seth rollins to my son? Hey, could you do me a favor and wish him a happy birthday? He'd be so happy to hear it from you.
+B: Of course! I'd love to. Happy Birthday, Jake! I hope you had an amazing day with your new action figure!",My son's braden 8th birthday got money in the bank briefcase due to Seth Rollins. Can you say happy birthday seth rollins to my son?,positive
+"Turn 1
+A: ""You know, I was thinking about taking the family on a spontaneous road trip this weekend. Just pack up and go somewhere new. What do you think?""
+B: ""That sounds amazing! Sometimes the best trips are the unplanned ones. Do you have any place in mind?""
+
+Turn 2
+A: ""I was thinking maybe the coast. The kids would love the beach, and we could find a nice little spot to relax. Plus, it's not too far. I seriously might just take the fam to Disneyland right now and come back in time for work tomorrow. Got a stack, why not?""
+B: ""The coast is perfect! I remember doing something similar last year, and it was such a refreshing break. You should definitely go for it!""",positive,2024-07-22T17:33:49.159000+00:00,"What was the person's sentiment when they said ""I seriously might just take the fam to Disneyland right now and come back in time for work tomorrow. Got a stack, why not?"" during the conversation?","Turn 1
+A: ""You know, I was thinking about taking the family on a spontaneous road trip this weekend. Just pack up and go somewhere new. What do you think?""
+B: ""That sounds amazing! Sometimes the best trips are the unplanned ones. Do you have any place in mind?""
+
+Turn 2
+A: ""I was thinking maybe the coast. The kids would love the beach, and we could find a nice little spot to relax. Plus, it's not too far. I seriously might just take the fam to Disneyland right now and come back in time for work tomorrow. Got a stack, why not?""
+B: ""The coast is perfect! I remember doing something similar last year, and it was such a refreshing break. You should definitely go for it!""","I seriously might just take the fam to Disneyland right now and come back in time for work tomorrow. Got a stack, why not?",positive
+"Turn 1
+A: Man, Kendrick's ""Black Friday"" freestyle is fire! His wordplay and flow are just on another level.""I'm still not over Kendrick's """"Black Friday"""" freestyle. Lyrically up there with the """"Control"""" verse. I said it.""
+B: Absolutely, but I still think his ""Control"" verse is untouchable. The way he called out all those rappers was legendary.
+
+Turn 2
+A: True, ""Control"" shook the whole industry. But the way he rides the beat on ""Black Friday"" is insane. It's like he's constantly evolving.
+B: No doubt. Kendrick's versatility is what makes him one of the greatest. He can drop a verse that makes you think and another that just makes you vibe.",positive,2024-07-22T17:29:00.936000+00:00,"What was the person's sentiment when they said """"I'm still not over Kendrick's """"Black Friday"""" freestyle. Lyrically up there with the """"Control"""" verse. I said it."""" during the conversation?","Turn 1
+A: Man, Kendrick's ""Black Friday"" freestyle is fire! His wordplay and flow are just on another level.""I'm still not over Kendrick's """"Black Friday"""" freestyle. Lyrically up there with the """"Control"""" verse. I said it.""
+B: Absolutely, but I still think his ""Control"" verse is untouchable. The way he called out all those rappers was legendary.
+
+Turn 2
+A: True, ""Control"" shook the whole industry. But the way he rides the beat on ""Black Friday"" is insane. It's like he's constantly evolving.
+B: No doubt. Kendrick's versatility is what makes him one of the greatest. He can drop a verse that makes you think and another that just makes you vibe.","""I'm still not over Kendrick's """"Black Friday"""" freestyle. Lyrically up there with the """"Control"""" verse. I said it.""",positive
+"Turn 1
+A: I can't believe Zayn left One Direction. It feels like the end of an era. Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will
+B: I know, right? But honestly, I still support him and the rest of the guys. They've all grown so much since then.
+
+Turn 2
+A: Remember when we went to their concert back in 2014? That was such an unforgettable night.
+B: Absolutely! The energy was incredible, and we sang our hearts out. Those memories will always be special, no matter what happens with the band.",positive,2024-07-22T17:29:20.036000+00:00,"What was the person's sentiment when they said ""Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will"" during the conversation?","Turn 1
+A: I can't believe Zayn left One Direction. It feels like the end of an era. Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will
+B: I know, right? But honestly, I still support him and the rest of the guys. They've all grown so much since then.
+
+Turn 2
+A: Remember when we went to their concert back in 2014? That was such an unforgettable night.
+B: Absolutely! The energy was incredible, and we sang our hearts out. Those memories will always be special, no matter what happens with the band.",Zayn may have left the band but i will still support him no matter what cs hes still the 1D zayn i love and i always will,positive
+"Turn 1
+A: I'm really fed up with Mayweather's recent opponents. They're just not challenging enough. It's like he's picking easy fights to keep his record clean.
+B: I get what you're saying, but isn't he still one of the best? People love watching him, even if the fights aren't always competitive.
+
+Turn 2
+A: True, but if we keep paying for these lackluster matches, he'll never feel the need to step up his game. Stop Paying For Floyd Mayweather's PayPer Views this Berto Fight is a joke Don't Buy the Fight then he may fight Top guys We should send a message by not buying the next fight.
+B: Hmm, I see your point. Maybe I'll skip this one and see if it makes a difference. Plus, I could use the extra cash for something else.",negative,2024-07-22T17:31:13.543000+00:00,"What was the person's sentiment when they said ""Stop Paying For Floyd Mayweather's PayPer Views this Berto Fight is a joke Don't Buy the Fight then he may fight Top guys"" during the conversation?","Turn 1
+A: I'm really fed up with Mayweather's recent opponents. They're just not challenging enough. It's like he's picking easy fights to keep his record clean.
+B: I get what you're saying, but isn't he still one of the best? People love watching him, even if the fights aren't always competitive.
+
+Turn 2
+A: True, but if we keep paying for these lackluster matches, he'll never feel the need to step up his game. Stop Paying For Floyd Mayweather's PayPer Views this Berto Fight is a joke Don't Buy the Fight then he may fight Top guys We should send a message by not buying the next fight.
+B: Hmm, I see your point. Maybe I'll skip this one and see if it makes a difference. Plus, I could use the extra cash for something else.",Stop Paying For Floyd Mayweather's PayPer Views this Berto Fight is a joke Don't Buy the Fight then he may fight Top guys,negative
+"Turn 1
+A: I'm really looking forward to the Colts' game tonight. I think they've got a good chance to win.
+B: Yeah, me too! Their offense has been on fire lately. Do you think they'll keep up the momentum?
+
+Turn 2
+A: Definitely. If they can keep their defense solid, I think they'll pull through. Woot! So excited that I get to watch tonight's game. Go Colts!! What about you? Any plans to watch it?
+B: Absolutely, I'm having a few friends over to catch the game. Should be a good time. Go Colts!",positive,2024-07-22T17:30:10.541000+00:00,"What was the person's sentiment when they said ""Woot! So excited that I get to watch tonight's game. Go Colts!!"" during the conversation?","Turn 1
+A: I'm really looking forward to the Colts' game tonight. I think they've got a good chance to win.
+B: Yeah, me too! Their offense has been on fire lately. Do you think they'll keep up the momentum?
+
+Turn 2
+A: Definitely. If they can keep their defense solid, I think they'll pull through. Woot! So excited that I get to watch tonight's game. Go Colts!! What about you? Any plans to watch it?
+B: Absolutely, I'm having a few friends over to catch the game. Should be a good time. Go Colts!",Woot! So excited that I get to watch tonight's game. Go Colts!!,positive
+"Turn 1
+A: I can't wait for the pay-per-view this weekend! If Seth Rollins retains his title, it's going to be epic. As long as Seth Rollins leaves with his title Sunday night then I'll be happy
+B: Yeah, he's been on fire lately. But I'm really hoping for a surprise win from Kevin Owens. That would shake things up!
+
+Turn 2
+A: True, Owens is always unpredictable. But Rollins has been such a strong champion, I just can't see him losing.
+B: We'll see! Either way, it's going to be a great show. I'm also looking forward to the tag team match. Should be a blast!",positive,2024-07-22T17:33:29.336000+00:00,"What was the person's sentiment when they said ""As long as Seth Rollins leaves with his title Sunday night then I'll be happy"" during the conversation?","Turn 1
+A: I can't wait for the pay-per-view this weekend! If Seth Rollins retains his title, it's going to be epic. As long as Seth Rollins leaves with his title Sunday night then I'll be happy
+B: Yeah, he's been on fire lately. But I'm really hoping for a surprise win from Kevin Owens. That would shake things up!
+
+Turn 2
+A: True, Owens is always unpredictable. But Rollins has been such a strong champion, I just can't see him losing.
+B: We'll see! Either way, it's going to be a great show. I'm also looking forward to the tag team match. Should be a blast!",As long as Seth Rollins leaves with his title Sunday night then I'll be happy,positive
+"Turn 1
+A: You know, B, I think it's important to remember that not all Muslims share the same beliefs or practices. may b there is some confusion about Muslims in ur mind set It's a very diverse community.
+B: Oh, really? I guess I hadn't thought about it that way. I just assumed most of them followed the same customs.
+
+Turn 2
+A: Yeah, it's a common misconception. Just like any other group, there's a wide range of traditions and interpretations within Islam.
+B: That makes sense. Thanks for pointing that out, A. I should definitely read more about it to get a better understanding.",neutral,2024-07-22T17:30:47.489000+00:00,"What was the person's sentiment when they said ""may b there is some confusion about Muslims in ur mind set"" during the conversation?","Turn 1
+A: You know, B, I think it's important to remember that not all Muslims share the same beliefs or practices. may b there is some confusion about Muslims in ur mind set It's a very diverse community.
+B: Oh, really? I guess I hadn't thought about it that way. I just assumed most of them followed the same customs.
+
+Turn 2
+A: Yeah, it's a common misconception. Just like any other group, there's a wide range of traditions and interpretations within Islam.
+B: That makes sense. Thanks for pointing that out, A. I should definitely read more about it to get a better understanding.",may b there is some confusion about Muslims in ur mind set,neutral
+"Turn 1
+A: Ugh, I stayed up way too late watching that new TV show. Why oh why did I drink three cups of coffee to stay up binge watching Gilmore Girls when I have to be at the gym tomorrow at 10:30 Now I'm paying for it with this awful sleep deprivation.
+B: Oh no, that sounds rough! Which show was it? Maybe I can help you strategize a nap before the gym.
+
+Turn 2
+A: It was that new thriller everyone's talking about. I couldn't stop at just one episode. A nap sounds good, but I'm worried I'll just feel groggy.
+B: I get that. Maybe just a quick 20-minute power nap? It might help you feel a bit more refreshed without the grogginess.",positive,2024-07-22T17:27:50.804000+00:00,"What was the person's sentiment when they said ""Why oh why did I drink three cups of coffee to stay up binge watching Gilmore Girls when I have to be at the gym tomorrow at 10:30"" during the conversation?","Turn 1
+A: Ugh, I stayed up way too late watching that new TV show. Why oh why did I drink three cups of coffee to stay up binge watching Gilmore Girls when I have to be at the gym tomorrow at 10:30 Now I'm paying for it with this awful sleep deprivation.
+B: Oh no, that sounds rough! Which show was it? Maybe I can help you strategize a nap before the gym.
+
+Turn 2
+A: It was that new thriller everyone's talking about. I couldn't stop at just one episode. A nap sounds good, but I'm worried I'll just feel groggy.
+B: I get that. Maybe just a quick 20-minute power nap? It might help you feel a bit more refreshed without the grogginess.",Why oh why did I drink three cups of coffee to stay up binge watching Gilmore Girls when I have to be at the gym tomorrow at 10:30,positive
+"Turn 1
+A: It's been such a long week. I really need to unwind tonight.
+B: I hear you. How about a cozy night in with our favorite TV show and some snacks?
+
+Turn 2
+A: That sounds perfect! Popcorn and Seinfeld sounds like the perfect friday night...I could really go for some popcorn and a good binge-watch session.
+B: Great! I'll bring the popcorn, and we can start with that new season we've been waiting for.",positive,2024-07-22T17:32:36.031000+00:00,"What was the person's sentiment when they said ""Popcorn and Seinfeld sounds like the perfect friday night..."" during the conversation?","Turn 1
+A: It's been such a long week. I really need to unwind tonight.
+B: I hear you. How about a cozy night in with our favorite TV show and some snacks?
+
+Turn 2
+A: That sounds perfect! Popcorn and Seinfeld sounds like the perfect friday night...I could really go for some popcorn and a good binge-watch session.
+B: Great! I'll bring the popcorn, and we can start with that new season we've been waiting for.",Popcorn and Seinfeld sounds like the perfect friday night...,positive
