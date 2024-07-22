@@ -33,9 +33,10 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
+  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
 function App() {
@@ -54,10 +55,11 @@ function App() {
   };
 
   useEffect(() => {
-    loadCSV('data/interactive.csv')
+    loadCSV('data/set_3.csv')
       .then((data) => {
-        const questionsData = data.map(item => ({
-          question: `What was the person's stance on abortion when they said "${item.original_data}" during the conversation?`,
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
+        map(item => ({
+          question: `What was A's stance on COVID19 vaccine when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -88,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `SemEvalT6_Sentiment-${prolificID}`;    // this is actually abortion.. need to be careful with the keys
+      let updatedProlificID = `Full-CovidVaccineStance-3-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
@@ -155,20 +157,20 @@ function App() {
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   False
                 </button>
-                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  Ambiguous
-                </button>
               </>
             ) : (
               <>
                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('favoring')}>
-                In favor of abortion
+                In favor of COVID19 vaccination
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('against')}>
-                Against abortion
-                </button>               
+                Against COVID19 vaccination
+                </button>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
+                 Neutral: neither favoring nor against
+                </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                 Ambiguous
+                 Ambiguous: not clear or mixed stance
                 </button>
               </>
             )}

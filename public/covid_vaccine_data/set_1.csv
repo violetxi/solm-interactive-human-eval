@@ -1,0 +1,145 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+14,"Turn 1
+A: Hey B, I was reading about the latest COVID-19 treatment protocols. What is the current approved early outpatient treatment protocol? It's been 2years surely upon positive diagnosis there must be some meds being recommended to reduce the viral replication in the nose, throat and mouth to reduce the risk of hospitalization regardless of vax status Do you know what the current recommendations are for early outpatient treatment, especially for those who test positive but aren't vaccinated?
+
+B: Yes, the guidelines have been updated recently. For early outpatient treatment, the focus is on antiviral medications like Paxlovid and monoclonal antibodies, depending on the patient's risk factors and availability. It's crucial to start these treatments as soon as possible after a positive test to reduce the risk of severe illness.
+
+Turn 2
+A: That makes sense. Are there any specific criteria for prescribing these treatments, or is it more of a case-by-case basis?
+
+B: There are specific criteria, mainly based on the patient's age, underlying health conditions, and the severity of symptoms. For instance, older adults and those with chronic conditions are prioritized. It's always best to assess each patient's situation individually, but having a clear understanding of the guidelines helps us make informed decisions quickly.","What is the current approved early outpatient treatment protocol? It's been 2years surely upon positive diagnosis there must be some meds being recommended to reduce the viral replication in the nose, throat and mouth to reduce the risk of hospitalization regardless of vax status",neutral,1,"Yes, A was being neutral. A was simply inquiring about the current approved early outpatient treatment protocols for COVID-19 without expressing any strong emotions or biases. The question was straightforward and focused on obtaining information.",1,True,1340
+185,"Turn 1
+A: I'm thinking about going to the movie theater this weekend, but I'm a bit worried about the COVID situation. Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week. I'm double vaccinated and have a booster shot scheduled soon. Do you think it would be safe if I wear a KN95 mask?
+B: Given that you're double vaccinated and planning to wear a KN95 mask, it should be relatively safe. Just make sure the theater has good ventilation and isn't too crowded. I've been to a few places recently, and sticking to these precautions has worked well for me.
+
+Turn 2
+A: That makes sense. I'll check the theater's safety measures and maybe go during a less busy time. Thanks for the advice!
+B: No problem! Enjoy the movie and stay safe. If you have any doubts, you can always opt for streaming at home.",Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week.,neutral,1,"Yes, I agree. A was being neutral in their inquiry about the safety of going to a movie theater. They were simply seeking advice and providing relevant information about their vaccination status and precautions.",1,True,951
+194,"Turn 1
+A: I really think we need to push harder on getting everyone vaccinated. The current protocols are good, but with the playoffs coming up, we can't afford any lapses.
+B: I agree, A. We've been following the NCAA guidelines closely, but I understand your concerns. We can definitely look into additional measures to encourage vaccination and ensure compliance.
+
+Turn 2
+A: It's just frustrating, you know? The NCAA has a history of not prioritizing player safety, and now more than ever, we need to be proactive. A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront... Maybe we can set up another vaccine clinic on campus?
+B: That's a great idea. I'll coordinate with the health services to arrange it. We can also increase our communication efforts to emphasize the importance of the vaccine to the team and their families.",A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront...,favoring,2,"Yes, A was favoring the idea of pushing harder on getting everyone vaccinated and setting up another vaccine clinic on campus. A expressed a strong belief in the vaccine and the importance of player safety, while also criticizing the NCAA for not prioritizing these aspects.",1,True,1050
+92,"Turn 1
+A: I just got my COVID-19 booster shot last week. I think it's really important to follow public health guidelines to protect ourselves and others.
+B: I get that, but I prefer to rely on vitamins and natural remedies. I just don't trust the vaccines or the information we're being fed about them.
+
+Turn 2
+A: I understand your perspective, but the data shows that vaccines significantly reduce the risk of severe illness. We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof. It's about community protection too.
+B: I hear you, but I believe in boosting my immune system naturally. I think there's too much fear-mongering around the virus and the vaccines.","We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof.",against,2,"No, I do not agree. The statement ""We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof."" appears to be sarcastic and critical of the other person's stance on vaccines and public health measures. It suggests that A is actually against the measures and is mocking the idea of getting multiple boosters.",1,True,855
+42,"Turn 1
+A: You know, when I was in the city last week, I barely saw any enforcement of health measures. It was surprising given how strict things were before. My family and I were in the city today.   Nobody asked to see Vaccine IDs.  Nobody was enforcing masks.   What precautions are being taken? Because I didn't see any.
+B: Yeah, it seems like a lot of places are easing up. I guess with more people getting vaccinated, they feel it's safer to relax some of the rules.
+
+Turn 2
+A: True, the vaccination rates have definitely made a difference. Have you gotten your booster yet?
+B: I did last month. It's reassuring to know that we have that extra layer of protection, especially with all the variants going around.",My family and I were in the city today.   Nobody asked to see Vaccine IDs.  Nobody was enforcing masks.   What precautions are being taken? Because I didn't see any.,neutral,1,A's statement about not seeing any enforcement of health measures and asking about the precautions being taken does not convey a strong positive or negative sentiment. It appears to be a neutral observation and a genuine inquiry about the current situation.,1,True,716
+220,"Turn 1
+A: It's interesting how even high-profile figures who are fully vaccinated and boosted are still testing positive for COVID-19. UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week. It makes you wonder about the effectiveness of the vaccines in preventing transmission.
+B: True, but we have to remember that the primary goal of the vaccines is to prevent severe illness and hospitalization. Breakthrough cases are expected, but the data still shows that vaccinated individuals have much milder symptoms compared to those who are unvaccinated.
+
+Turn 2
+A: That's a good point. It does highlight the importance of continuing to promote vaccination, especially with new variants emerging. But how do we address public concerns about these breakthrough cases in our messaging?
+B: We need to emphasize that while no vaccine is 100% effective at preventing infection, the benefits in terms of reducing severe outcomes are significant. Clear communication about the role of vaccines in managing the pandemic is crucial to maintaining public trust.","UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week.",neutral,1,"A's statement is factual and does not express a strong opinion or bias. A simply reports the situation regarding Shahid's COVID-19 status and vaccination history, without making any subjective judgments.",1,True,1208
+225,"Turn 1
+A: I've been seeing a lot of mixed opinions about these vaccine passports on social media. Some people are saying they could be discriminatory. Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws? What do you think about that from a legal perspective?
+B: It's a complex issue. Legally, governments can implement measures to protect public health, but they have to balance that with individual rights. Vaccine passports could be seen as discriminatory if they disproportionately affect certain groups, but if they're implemented fairly and with exemptions for valid medical reasons, they might hold up in court.
+
+Turn 2
+A: That makes sense. I guess the key is in how they're implemented. Do you think there could be any legal challenges to these passports?
+B: Definitely. There are already some lawsuits being filed. The arguments usually focus on privacy concerns and potential violations of civil liberties. Courts will have to weigh the public health benefits against these individual rights, so it will be interesting to see how it all plays out.","Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws?",neutral,1,"Yes, A appears to be neutral. A is simply asking a question about the legality of vaccine passports in private restaurants without expressing a personal opinion or bias. A is seeking information and clarification on the issue.",1,True,1165
+240,"Turn 1
+A: I had to think about which arm to get the shot in because I usually sleep on my left side. I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet. Didn't want to wake up sore and uncomfortable!
+B: Oh, I didn't even consider that! I got mine in my dominant arm, thinking it would help with the soreness since I use it more. Ended up being a bit of a mistake.
+
+Turn 2
+A: Yeah, it's funny how these little details matter. Did you have any side effects?
+B: Just a sore arm and a bit of fatigue the next day. I found that moving my arm around a lot helped with the soreness, though.","I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet.",neutral,1,A was sharing a personal experience and a practical consideration regarding vaccination without expressing any strong emotions or opinions. This indicates a neutral tone.,1,True,693
+103,"Turn 1
+A: I've been really worried about the pandemic lately. I keep hearing about the rising number of cases and deaths.
+B: I understand your concern. It's really alarming. But you know, a lot of the severe cases and fatalities are among those who haven't been vaccinated. The vaccine has been shown to significantly reduce the risk of severe illness and death.
+
+Turn 2
+A: That makes sense. Hey buddy there's a virus going around killing millions of people across the planet and VAST majority of them haven't taken a single dose of the vaccineI haven't gotten vaccinated yet, but I've been thinking about it.
+B: I really encourage you to do it. It's one of the best ways to protect yourself and others. Plus, it helps in controlling the spread of the virus and saving lives.",Hey buddy there's a virus going around killing millions of people across the planet and VAST majority of them haven't taken a single dose of the vaccine,favoring,2,"Based on the context, A seems to be acknowledging the severity of the pandemic and the importance of vaccination. This suggests that A is favoring the idea of getting vaccinated.",1,True,775
+212,"Turn 1
+A: I just can't believe how much pressure there is to get vaccinated. It feels like everyone is so quick to judge if you have any doubts or concerns.
+B: I get what you're saying. It's definitely a lot to take in, and the social pressure can be overwhelming. But I think people are just really scared and trying to protect themselves and others.
+
+Turn 2
+A: Yeah, I understand that, but it feels like society has become so performative about it. Donuts.  A disagree with people trying to force the ""vaccine"" (if you can call it that) but fuck me when did the world get so soft,   Total plebs, trying to get 5 mins of fame.   Can somebody stop the world I want to get off now Like, if you're not posting your vaccine card on social media, you're somehow the bad guy.
+B: True, the performative aspect can be annoying. But maybe it's their way of coping and showing solidarity. Everyone's just trying to navigate this mess in their own way.","Donuts.  A disagree with people trying to force the ""vaccine"" (if you can call it that) but fuck me when did the world get so soft,   Total plebs, trying to get 5 mins of fame.   Can somebody stop the world I want to get off now",against,2,"Yes, A was expressing a strong negative sentiment against the pressure to get vaccinated and the performative nature of it. The use of phrases like ""force the 'vaccine'"", ""fuck me when did the world get so soft"", and ""Total plebs, trying to get 5 mins of fame"" clearly indicate A's opposition and frustration.",1,True,942
+188,"Turn 1
+A: I just realized I might have a scheduling conflict with my COVID-19 vaccination appointment next week. If you can no longer attend your covid-19 vaccination appointment, you can cancel the same way you booked.   Either respond to the booking text from your GP, use the national booking system   or call 119 Do you know how I can cancel it?
+B: Yeah, I had to reschedule mine too. You can either call the hotline or go online to the portal where you booked it. Both options are pretty straightforward.
+
+Turn 2
+A: Thanks, I'll try the online portal first. Hopefully, I can find a new slot that fits better with my schedule.
+B: No problem! If you run into any issues, just let me know. I found the hotline staff really helpful when I had questions.","If you can no longer attend your covid-19 vaccination appointment, you can cancel the same way you booked.   Either respond to the booking text from your GP, use the national booking system   or call 119",neutral,1,"Yes, I agree. A was providing factual information about how to cancel a COVID-19 vaccination appointment without expressing any personal feelings or opinions.",1,True,754
+4,"Turn 1
+A: It's frustrating how politicians swore up and down that vaccine passports would never happen, and now here we are. It feels like they just say whatever's convenient at the time.
+B: I get where you're coming from, but don't you think the situation has evolved? Maybe they had to adapt their stance as new information came in.
+
+Turn 2
+A: Sure, but it still feels like a bait-and-switch. Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member And then there's social media, clamping down on any dissenting opinions. How are we supposed to trust anything when the narrative is so tightly controlled?
+B: That's a fair point. But isn't it also important to prevent the spread of harmful misinformation? It's a tough balance to strike between free speech and public safety.","Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member",against,2,"Yes, A was expressing frustration and skepticism about politicians and social media platforms, indicating a stance against the actions and decisions being discussed.",1,True,956
+202,"Turn 1
+A: You know, I'm really worried about the COVID-19 vaccine. My dad got really sick from a vaccine when I was a kid, and I can't shake that memory. Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""
+B: I understand, that sounds really tough. But I've been reading a lot about the COVID-19 vaccines, and they seem to be quite safe. What specifically worries you about them?
+
+Turn 2
+A: I guess it's the fear of the unknown and the possibility of severe side effects. I just don't want to go through what my family did again.
+B: That's completely valid. Maybe we could look at some more information together? It might help to see the data and hear from people who've had positive experiences.","Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""",against,1,"Yes, I agree. A is expressing concerns and fears about the COVID-19 vaccine, referencing a past traumatic experience with a vaccine that led to severe side effects for a family member. This indicates a stance against the vaccine due to fear of similar outcomes.",1,True,795
+162,"Turn 1
+A: It's been really tough managing my child's CKD with the COVID-19 vaccine delays. I'm constantly worried about their exposure and how it might affect their already fragile health.
+B: I can imagine how stressful that must be. My child has a compromised immune system too, and we're in the same boat. How are you handling the precautions in the meantime?
+
+Turn 2
+A: We're doing everything we can—strict isolation, sanitizing everything, and virtual schooling. How (?) are you immunocompromised? My son has CKD, so we have to treat life like he is. 4 yrs and 8 months and they just pushed back the vaccine. We are devastated. But it's hard to keep up, and the uncertainty is exhausting.
+B: We're doing similar things. It helps to connect with other parents in the same situation. Have you found any particular strategies or resources that have been especially helpful?","How (?) are you immunocompromised? My son has CKD, so we have to treat life like he is. 4 yrs and 8 months and they just pushed back the vaccine. We are devastated.",neutral,2,"A's statement ""How (?) are you immunocompromised?"" is a neutral inquiry seeking more information about B's situation. The rest of the message shares personal experiences and concerns without expressing strong positive or negative emotions.",1,True,874
+227,"Turn 1
+A: I'm really worried about traveling to see my family this holiday. With the pandemic still going on, it feels risky.
+B: I know what you mean. It's so hard to get a COVID test now, and the authorities haven't reopened the drive-thru testing sites. It's frustrating.
+
+Turn 2
+A: Yeah, and it seems like they're just relying on vaccines to solve everything. These states should have reopened all the drive thru sites they had before the vax dropped. It's the holidays and people are gonna travel and they've made it damn near impossible to make sure they're doing so safely. Vaccine or bust is not working. We need more comprehensive measures to feel safe traveling.
+B: Exactly. Vaccines are important, but they shouldn't be the only solution. We need better testing and other safety protocols in place.",These states should have reopened all the drive thru sites they had before the vax dropped. It's the holidays and people are gonna travel and they've made it damn near impossible to make sure they're doing so safely. Vaccine or bust is not working.,against,2,"Yes, I agree. A is expressing frustration and criticism towards the authorities for not reopening the drive-thru testing sites and relying solely on vaccines. A believes that more comprehensive measures, including better testing, are necessary to ensure safe travel during the holidays.",1,True,808
+46,"Turn 1
+A: I just realized I need to get a Polio booster shot before my trip next month. It's a bit of a hassle, but better safe than sorry, right?
+B: Absolutely. I make sure to stay on top of all my vaccinations, especially with everything going on with COVID-19. I've already scheduled my next booster shot.
+
+Turn 2
+A: That's smart. I think I'll do the same for the COVID-19 booster. It is recommended that a fully vaccinated adult (4 doses as a child) get a Polio vaccine booster before traveling to certain countries.   I'll take a COVID booster as many times as it takes. It's important to stay protected, especially when traveling.
+B: Definitely. It's not just about our own health, but also about protecting those around us. Plus, it gives me peace of mind knowing I'm doing my part.",It is recommended that a fully vaccinated adult (4 doses as a child) get a Polio vaccine booster before traveling to certain countries.   I'll take a COVID booster as many times as it takes.,favoring,2,"Yes, I agree. A is expressing a positive attitude towards getting the necessary vaccinations, including the Polio booster and COVID-19 booster, to stay protected while traveling. This shows that A is in favor of taking these health precautions.",1,True,789
+187,"Turn 1
+A: Hey B, I'm finalizing our travel plans to Goa and want to make sure we're following all the health and safety protocols, especially since we have kids with us. Do you know what the current requirements are for crossing state borders?Dear Sir, Want to know if a fully vaccinated person travelling to Goa via Belgaum from Pune without any stay in Karnataka, Do he need to carry RTPCR negative report? Also is there any specific requirement for kids as still no vaccine for kids in India.
+
+B: Yes, I traveled recently, so I can help with that. For adults, you'll need to show proof of vaccination or a negative RT-PCR test taken within 72 hours. For children, especially those who are unvaccinated, it's a bit different. They usually don't need to show a test result, but it's best to carry their ID and any medical documents just in case.
+
+Turn 2
+A: Got it, thanks. So, for the kids, no test is required, but having their ID and medical documents is a good precaution. Anything else we should be aware of?
+
+B: Just make sure everyone wears masks and follows social distancing guidelines. Also, check if there are any specific local regulations in Goa that might affect us once we arrive. Better to be over-prepared than caught off guard.","Dear Sir, Want to know if a fully vaccinated person travelling to Goa via Belgaum from Pune without any stay in Karnataka, Do he need to carry RTPCR negative report? Also is there any specific requirement for kids as still no vaccine for kids in India.",neutral,1,"Yes, I agree. A was being neutral in their inquiry about the travel requirements. They were simply asking for information without expressing any particular emotion or bias.",1,True,1245
+68,"Turn 1
+A: I've been invited to this big outdoor party on Saturday, but I'm a bit hesitant because of COVID-19. What do you think?
+B: I get that. Do you know if they're requiring proof of vaccination or a recent negative test?
+
+Turn 2
+A: Yeah, they are asking for either proof of vaccination or a negative test within 48 hours. Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test? It sounds pretty safe, but I'm still on the fence.
+B: That does sound reassuring. Maybe you could also check if they have any other safety measures in place, like social distancing or mask requirements, just to be sure.",Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test?,neutral,2,"Yes, I agree. A is presenting the facts about the safety measures in place and is seeking B's opinion on whether it is safe to attend the party. A's tone is neutral as they are weighing the information and looking for additional input.",1,True,711
+176,"Turn 1
+A: Did you see the news from Switzerland? Their hospitals are overwhelmed because of low vaccination rates, and now they're having to postpone critical surgeries and treatments. I have been thinking about that a bit because in Switzerland much lower vaccination rates means they now had to cancel 'elective' surgeries, which includes surgeries I would not call elective ie joint replacements for people unable to function, or even cancer treatment,
+B: It's so frustrating. This is exactly why we need higher vaccination rates. It's not just about COVID-19; it's about keeping the entire healthcare system functional.
+
+Turn 2
+A: Absolutely. It's heartbreaking to think about patients who need urgent care being turned away because of something preventable.
+B: I know. We need to keep pushing for better public awareness and vaccination efforts. It's the only way to prevent these kinds of disruptions.","I have been thinking about that a bit because in Switzerland much lower vaccination rates means they now had to cancel 'elective' surgeries, which includes surgeries I would not call elective ie joint replacements for people unable to function, or even cancer treatment,",favoring,1,"Yes, I agree. A is favoring higher vaccination rates and expressing concern over the consequences of low vaccination rates, such as the postponement of critical surgeries and treatments. This indicates a supportive stance towards vaccination efforts.",1,True,907
+206,"Turn 1
+A: The latest data shows that the current vaccines and boosters are still highly effective at preventing severe illness, even with the new variants.
+B: That's reassuring to hear. How about the antiviral pills? Are they making a significant impact?
+
+Turn 2
+A: Yes, they are. The antiviral pills have been crucial in reducing hospitalizations, especially for high-risk patients. With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while But we still need to emphasize the importance of vaccination and boosters to keep the virus under control.
+B: Absolutely. It's a multi-layered approach. We need to keep pushing for preventive measures while ensuring access to treatments.","With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while",favoring,2,"Yes, A was being favoring. A expressed optimism about the combined effectiveness of vaccines, boosters, and antiviral pills in combating COVID-19, while also acknowledging the continued importance of masks and social distancing.",1,True,782
