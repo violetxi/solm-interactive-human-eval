@@ -1,0 +1,151 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+117,"Turn 1
+A: You know, I really struggle with the idea of abortion. I just can't get past the belief that it's morally wrong, even though I understand it's a complex issue.""I'm personally opposed to but..."" Abortion is WRONG. Period. youth
+B: I get that. It's definitely a tough topic with a lot of layers. I think it's important to consider the circumstances and the woman's choice, though.
+
+Turn 2
+A: Absolutely, and I do try to see it from different perspectives. But for me, the potential life of the fetus is something I can't ignore. It feels like a moral responsibility.
+B: I respect that viewpoint. It's important to have these conversations and understand where each other is coming from, even if we don't fully agree.","""I'm personally opposed to but..."" Abortion is WRONG. Period. youth",against,1,"Yes, I agree. In Turn 1, A clearly expresses a strong opposition to abortion by stating ""Abortion is WRONG. Period."" This indicates that A is against abortion.",1,True,724
+14,"Turn 1
+A: I understand where you're coming from, but I believe that access to safe and legal abortions is crucial for the well-being and autonomy of women. It allows them to make decisions about their own bodies and futures.
+B: But how can you support something that ends a potential life? To me, it feels like we're disregarding the moral implications and the value of that life.
+
+Turn 2
+A: I see it differently. I think it's about balancing the rights and health of the woman with the potential life. No, I can't explain why you would consider a medical procedure that leaves the patient healthy & happy as killing. Many women face serious health, financial, or personal challenges that make carrying a pregnancy to term incredibly difficult.
+B: I get that there are tough situations, but I still struggle with the idea of ending a life. I wish there were more support for women so they wouldn't feel like abortion is their only option.","No, I can't explain why you would consider a medical procedure that leaves the patient healthy & happy as killing.",favoring,2,"Yes, A was favoring the perspective that access to safe and legal abortions is crucial for the well-being and autonomy of women. A's statement reflects a belief that the procedure can leave the patient healthy and happy, indicating support for the availability of abortion.",1,True,938
+67,"Turn 1
+A: I just can't believe how many people are supporting abortion rights these days. This shit! How people support it I'll never understand. It's like they don't even consider the moral implications of ending a potential life.
+B: I understand your concerns, A. But don't you think it's important to consider the circumstances some women face? For some, it might be the only viable option.
+
+Turn 2
+A: But there are so many alternatives, like adoption. Why should ending a life be the first choice?
+B: I get that adoption is an option, but it's not always that simple. There are emotional, financial, and health factors that can make carrying a pregnancy to term incredibly challenging for some women.",This shit! How people support it I'll never understand.,against,1,"Yes, A was expressing a strong opposition to abortion rights, indicating disbelief and frustration towards those who support it.",1,True,704
+43,"Turn 1
+A: You know, I watched this documentary the other day about abortion, and it really opened my eyes. I watched and it gave me a whole new perspective on a woman's right to choose. Hearing those personal stories and seeing the complexities involved made me realize how important it is for women to have the right to choose.
+
+B: I'm so glad you watched it and that it resonated with you. It's such a multifaceted issue, and personal stories can really highlight the human aspect that often gets lost in the debate.
+
+Turn 2
+A: Absolutely. I used to think it was a straightforward issue, but now I see how many factors come into play. It's not just about the act itself but the circumstances and the impact on the woman's life.
+
+B: Exactly. It's about autonomy and respecting each individual's situation. I'm really happy to see you engaging with this perspective. It makes such a difference when people are open to understanding the deeper layers.",I watched and it gave me a whole new perspective on a woman's right to choose.,favoring,1,"Yes, I agree. A's statement indicates that watching the documentary gave them a new perspective that supports a woman's right to choose, which suggests a favorable view towards the issue of abortion rights.",1,True,950
+93,"Turn 1
+A: Wow, I can't believe she's handling all that on her own. It must be so overwhelming.
+B: Yeah, it's tough to watch. Honestly, it's situations like these that make me so adamant about the importance of having the option of abortion. Not everyone is ready for this kind of responsibility.
+
+Turn 2
+A: I get what you mean. It's such a personal decision, and everyone has different circumstances. Watching teen mom and watching Farrah be a bitch makes me believe in abortion that much more. I remember my cousin went through something similar, and it was really hard for her.
+B: Exactly. It's about having the choice and the support to make the best decision for your own life. No one should be forced into a situation they're not prepared for.",Watching teen mom and watching Farrah be a bitch makes me believe in abortion that much more.,favoring,2,"Yes, A was favoring the option of abortion. A's statement about watching ""Teen Mom"" and specifically mentioning Farrah's behavior reinforces their belief in the importance of having the option of abortion. This indicates that A supports the idea of having the choice available.",1,True,748
+59,"Turn 1
+A: I believe that life begins at conception, and therefore, abortion is morally wrong because it ends an innocent human life. Every life has intrinsic value and deserves protection.
+
+B: I understand your perspective, but the definition of when life begins is complex and varies among different scientific, philosophical, and religious viewpoints. Moreover, women should have the right to make decisions about their own bodies, including whether or not to continue a pregnancy.
+
+Turn 2
+A: While I respect the importance of bodily autonomy, I think we need to consider the rights of the unborn child as well. You were alive for up to 9 months before you were bornKillsIf we acknowledge that life begins at conception, then the fetus also has rights that need to be protected.
+
+B: It's crucial to balance those considerations, but we must also recognize the significant impact that forced pregnancy can have on a woman's health, future, and autonomy. Ensuring women have the freedom to choose is essential for their well-being and equality.",You were alive for up to 9 months before you were bornKills,against,2,"Yes, I agree. In the context of the conversation, A is arguing against abortion by emphasizing the belief that life begins at conception and that the unborn child has rights that need to be protected.",1,True,1044
+47,"Turn 1
+A: So, you're saying we should rescue every single embryo from fertility clinics? Do you have any idea how impractical that is?
+B: It's not impractical if we value every potential life. We should be doing everything we can to protect them.
+
+Turn 2
+A: And where exactly are we supposed to put all these embryos? . perhaps you want to go to the fertility clinics & rescue them all. How many can you fit in your womb. Are you going to adopt them all yourself?
+B: If it means giving them a chance at life, then yes, I'd support finding ways to make that happen. We can't just discard them like they're nothing.",. perhaps you want to go to the fertility clinics & rescue them all. How many can you fit in your womb.,against,2,"Yes, A was being against the idea of rescuing every single embryo from fertility clinics. A's tone and rhetorical questions suggest skepticism and highlight the impracticality of B's proposal.",1,True,613
+70,"Turn 1
+A: I've been feeling so overwhelmed, B. The thought of bringing a child into my current situation just seems impossible. I don't know if I can handle it financially or emotionally.
+B: I understand, A. It's such a tough decision. You know how much I've wanted to have a child, and it's been heartbreaking not being able to. I can't help but think about how much I would cherish the chance you're considering giving up.
+
+Turn 2
+A: I know, and that's why it's so hard for me to talk about this with you. I respect your feelings so much, and I wish things were different for both of us. I'm a woman who cannot conceive, and I proudly beg you to reconsider killing what I'd die for. But right now, I have to think about what's best for my life and my future.
+B: I appreciate you sharing this with me, A. Whatever you decide, I'm here for you. I just hope you know that you're not alone in this, and I'll support you no matter what.","I'm a woman who cannot conceive, and I proudly beg you to reconsider killing what I'd die for.",against,2,"Yes, I agree. A's statement ""I'm a woman who cannot conceive, and I proudly beg you to reconsider killing what I'd die for."" indicates that A is against the idea of terminating the pregnancy. A is expressing a strong emotional plea for reconsideration based on her own inability to conceive and the value she places on the opportunity to have a child.",1,True,933
+99,"Turn 1
+A: It's just infuriating that this new law restricts access to abortion services. It's like they're completely ignoring the importance of personal autonomy.
+B: I get that you're upset, but can you explain why you feel so strongly about it? I mean, why is personal autonomy such a big deal in this context?
+
+Turn 2
+A: Because it's about having control over one's own body and life decisions. Imagine politicians making intimate decisions for you—it's absurd and invasive. Why would I want to make choices about my own body, when a congressman could do it for me? Plus, it sets a dangerous precedent for governmental overreach into personal freedoms.
+B: I see what you mean. It does sound like it could have broader implications beyond just this one issue.","Why would I want to make choices about my own body, when a congressman could do it for me?",against,2,"Yes, I agree. A is clearly against the new law restricting access to abortion services. A's statement is sarcastic, emphasizing the absurdity of politicians making intimate decisions for individuals, which underscores their opposition to the law.",1,True,761
+62,"Turn 1
+A: It's really frustrating to see these proposed laws trying to restrict abortion rights. Today I am grateful to have the right to control my body without govt influence. leaders want to stop this. I just can't understand why politicians think they have the right to control what we do with our own bodies.
+B: I know, it's so concerning. It feels like a step backward for women's health and freedom. The impact on those who need access to safe and legal abortions could be devastating.
+
+Turn 2
+A: Exactly. And it's not just about the right to choose; it's about ensuring that everyone has access to the healthcare they need without unnecessary barriers.
+B: Absolutely. We need to keep advocating for reproductive rights and make sure our voices are heard. It's crucial for the well-being of so many people.",Today I am grateful to have the right to control my body without govt influence. leaders want to stop this.,favoring,1,"Yes, I agree. A is expressing gratitude for having the right to control their body without government influence, which indicates a favorable stance towards maintaining abortion rights and opposing the proposed laws that seek to restrict them.",1,True,813
+94,"Turn 1
+A: I just don't know what to do, B. This pregnancy has thrown my life into chaos, and I'm scared about what the future holds.
+B: I understand it's overwhelming, A. But I truly believe that every life, even at its earliest stages, has immense value. This child could bring so much joy and purpose to your life.
+
+Turn 2
+A: I hear you, and I do want to make the right decision. It's just hard to see past my fears and uncertainties right now. HOW COULD I DIE BEFORE EVEN I BORN,TO YOU I AM JUST TINY LITTLE THING THAT DOESN'T MATTER
+B: It's completely natural to feel that way. Just remember, you're not alone in this. There are resources and people who can support you through this journey. The potential life inside you deserves a chance, and you might find strength you never knew you had.","HOW COULD I DIE BEFORE EVEN I BORN,TO YOU I AM JUST TINY LITTLE THING THAT DOESN'T MATTER",against,2,"Yes, I agree. A's statement ""HOW COULD I DIE BEFORE EVEN I BORN,TO YOU I AM JUST TINY LITTLE THING THAT DOESN'T MATTER"" indicates a strong emotional reaction and suggests that A is feeling conflicted and possibly against the idea of continuing the pregnancy. This statement reflects A's fears and uncertainties about the situation.",1,True,796
+104,"Turn 1
+A: The weekend was really intense. I was at that protest against abortion, and it was emotionally draining. But being back here with you is such a relief.
+B: I can imagine how tough that must have been for you. I'm glad you're here now. How are you feeling after everything?
+
+Turn 2
+A: Honestly, it was hard, but spending time with friends afterward really helped me decompress. A much needed 3 days with these guys missed but what a weekend It reminded me why I care so much about this issue.
+B: I'm glad you had that support. It's important to have people around who understand and care about you.",A much needed 3 days with these guys missed but what a weekend,against,2,"The context of the conversation indicates that A participated in a protest against abortion, which suggests that A is against abortion. The phrase ""A much needed 3 days with these guys missed but what a weekend"" reflects on the emotional intensity and the importance of the issue to A, reinforcing their stance.",1,True,606
+17,"Turn 1
+A: I read this article about new legislation that could severely restrict access to safe abortion services. It's so frustrating because it puts so many people at risk.
+B: I know, it's really concerning. People don't realize that restricting access doesn't stop abortions; it just makes them unsafe. 
+
+Turn 2
+A: Exactly. It's crucial that we ensure these procedures remain safe and sterile. 12. something you hate. People who don't believe abortion should be kept safe and sterile.The consequences of unsafe abortions are just too severe to ignore.
+B: Absolutely. We need to focus on protecting health and safety, not making it harder for people to get the care they need.",12. something you hate. People who don't believe abortion should be kept safe and sterile.,favoring,2,"Yes, I agree. A is clearly favoring the idea that abortion services should be kept safe and sterile. They express frustration with legislation that restricts access to safe abortion services and emphasize the importance of ensuring these procedures remain safe.",1,True,678
+113,"Turn 1
+A: I can't believe how these ads are portraying abortion services. They make it seem like it's just a simple, carefree decision, and that really bothers me. Every year I see ads & think 'that sounds great!' Stop tricking me into thinking you want sth positive! It's so misleading and doesn't reflect the gravity of the situation at all.
+B: I get where you're coming from, but I think the ads are trying to provide information and options for people who might not know where to turn. It's important for them to know that there are safe and legal services available.
+
+Turn 2
+A: But don't you think they should also acknowledge the emotional and ethical complexities involved? It's not just about access; it's about making an informed decision, and these ads seem to gloss over that.
+B: True, they could definitely do a better job of presenting the full picture. Maybe a more balanced approach would help people understand both the options and the weight of the decision.",Every year I see ads & think 'that sounds great!' Stop tricking me into thinking you want sth positive!,against,1,"Yes, I agree. A is expressing frustration and disagreement with how the ads portray abortion services, indicating that they feel misled by the positive portrayal and believe it doesn't reflect the seriousness of the decision.",1,True,975
+78,"Turn 1
+A: It's just so frustrating to see these new laws restricting access to abortion services. It feels like they're stripping away the rights of pregnant individuals to make decisions about their own bodies.
+B: I completely agree. It's crucial that people have the autonomy to make such personal and significant decisions without government interference.
+
+Turn 2
+A: Exactly. It's not just about the right to choose; it's about respecting the individual's ability to determine what's best for their own life and health. Only one can have bodily autonomy
+B: Absolutely. Everyone deserves the right to make informed choices about their own bodies and futures. It's a fundamental aspect of personal freedom.",Only one can have bodily autonomy,favoring,2,"Based on the context of the conversation, A is clearly advocating for the right of pregnant individuals to have bodily autonomy and make decisions about their own bodies. The statement ""Only one can have bodily autonomy"" seems to emphasize that the pregnant individual should have the primary right to make decisions regarding their own body, rather than the government or any other entity. Therefore, A is favoring the perspective of individual autonomy.",1,True,707
+79,"Turn 1
+A: I saw that article about the changes in abortion laws. As someone who is deeply religious, I believe that abortion is morally wrong and equivalent to taking a life.
+B: I understand where you're coming from, but I think our views on such issues should evolve with societal changes. People should have the right to make decisions about their own bodies.
+
+Turn 2
+A: My faith teaches me that life is sacred from the moment of conception, so I can't support something that goes against that belief. Here's one Christian whose religion views will never ""adapt"" to include abortion. Abortion is murder.
+B: I respect your faith, but I think it's important to consider the complexities of individual circumstances. Not everyone shares the same beliefs, and laws should reflect that diversity.","Here's one Christian whose religion views will never ""adapt"" to include abortion. Abortion is murder.",against,2,"Yes, I agree. A is clearly expressing a strong opposition to abortion based on their religious beliefs, stating that they view abortion as morally wrong and equivalent to murder.",1,True,793
+40,"Turn 1
+A: You know, when I think about abortion, I can't help but see those unborn babies as individuals with their own potential lives. It's like, what if we could imagine their point of view? They might have dreams, aspirations, and a future ahead of them.
+
+B: I get what you're saying, A. It's a really complex issue, though. I mean, there are so many factors to consider, like the mother's situation and her rights. It's hard to balance everything.
+
+Turn 2
+A: Absolutely, B. I don't want to dismiss the challenges and rights of the mother. Pretend I'm a and me. -babies everywhereyouthgen It's just that, for me, the idea of those potential lives being cut short feels deeply troubling. I think it's important to at least consider their perspective in the conversation.
+
+B: I see where you're coming from. It's definitely something worth thinking about more deeply. Maybe understanding both sides better can help us find a more compassionate approach to the issue.",Pretend I'm a and me. -babies everywhereyouthgen,against,2,"Yes, I agree. A's statements in Turn 1 and Turn 2 express concern for the potential lives of unborn babies, indicating a stance against abortion. The phrase ""Pretend I'm a and me. -babies everywhereyouthgen"" seems to be a typo or garbled text, but the overall sentiment of A's previous statements suggests they are against abortion.",1,True,968
+102,"Turn 1
+A: You know, B, I really respect how your faith shapes your views on abortion. For me, though, my opposition isn't rooted in religion. It's more about my personal values and the belief in the potential of every life.
+
+B: I appreciate that, A. It's interesting to see how different perspectives can lead to similar conclusions. For me, it's about following what I believe to be God's will, but I understand that people can arrive at the same stance through different paths.
+
+Turn 2
+A: Exactly. I think it's important to recognize that you don't have to be religious to value life and have strong convictions about it. Not sure where I stand on God and religion. Still, don't need to be a Christian or religious to be against abortion. It's about finding common ground and understanding where each of us is coming from.
+
+B: Absolutely. It's these kinds of conversations that help us grow and understand each other better. I'm glad we can talk about this openly and respectfully.","Not sure where I stand on God and religion. Still, don't need to be a Christian or religious to be against abortion.",against,2,"Yes, I agree. A explicitly states that their opposition to abortion isn't rooted in religion but rather in personal values and the belief in the potential of every life. This indicates that A is against abortion.",1,True,983
+118,"Turn 1
+A: The prayer vigil outside the clinic was incredibly moving. Seeing so many people come together for a cause we deeply believe in was powerful. I refuse to stop praying for an end to abortion. It really reinforced my commitment to advocating for the unborn.
+
+B: I can see how much this means to you, A. Your dedication is truly inspiring. Even though I'm not as involved, I really admire your passion and the way you stand up for what you believe in.
+
+Turn 2
+A: Thank you, B. It means a lot to have your support. Sometimes it feels like an uphill battle, but knowing I have friends like you who understand and encourage me makes a big difference.
+
+B: I'm always here for you, A. Your courage and conviction are remarkable, and I'm proud to be your friend. Keep doing what you believe is right, and know that I'll be cheering you on every step of the way.",I refuse to stop praying for an end to abortion.,against,1,"Yes, based on the context of the conversation, A is expressing a strong stance against abortion. A's commitment to praying for an end to abortion and advocating for the unborn clearly indicates their opposition to it.",1,True,862
+28,"Turn 1
+A: You know, I feel incredibly lucky that my biological parents chose adoption. On my bday I'm always so grateful to my bio parents who gave me up for It gave me a chance at a life I might not have had otherwise. That's why I'm so against abortion; I feel like every potential life deserves a chance, just like I got.
+B: I understand where you're coming from, and your story is really powerful. But I think it's important to consider that not everyone is in a position to go through with a pregnancy or adoption. There are so many factors at play, and it's such a personal decision.
+
+Turn 2
+A: I get that it's complicated, and I don't want to dismiss anyone's struggles. I just wish more people would see adoption as a viable option. It can be such a positive outcome for everyone involved.
+B: Absolutely, adoption can be a wonderful solution for many. I think the key is to support people in making the best choice for their circumstances, whether that's adoption, parenting, or, if necessary, abortion. It's about ensuring they have the resources and support they need.",On my bday I'm always so grateful to my bio parents who gave me up for,against,1,"Yes, I agree. A was expressing their gratitude towards their biological parents for choosing adoption over abortion, which aligns with their stance against abortion.",1,True,1078

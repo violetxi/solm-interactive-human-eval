@@ -33,9 +33,10 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "True", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "Texas is the capital of the United States.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "The sun rises from the north and sets at the west.", note: "YOU SHOULD NOT SELECT Ambiguous.", correctAnswer: "False", isAttentionCheck: true }
+  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
 function App() {
@@ -54,10 +55,11 @@ function App() {
   };
 
   useEffect(() => {
-    loadCSV('data/interactive.csv')
+    loadCSV('data/set_3.csv')
       .then((data) => {
-        const questionsData = data.map(item => ({
-          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
+        map(item => ({
+          question: `What was the person's stance on abortion when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -88,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `SemEvalT6_Sentiment-1-${prolificID}`;
+      let updatedProlificID = `Full-SemT6_Abortion-3-${prolificID}`;    // this is actually abortion.. need to be careful with the keys
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
@@ -143,7 +145,7 @@ function App() {
               </p>
             ))}
             {isAttentionCheck && <p>{currentStatement}</p>}
-          </div>          
+          </div>
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
@@ -155,21 +157,15 @@ function App() {
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   False
                 </button>
-                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  Ambiguous
-                </button>
               </>
             ) : (
               <>
-               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
-                Positive
+               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('favoring')}>
+                In favor of abortion
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
-                Negative
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('against')}>
+                Against abortion
                 </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                Neutral
-                </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
                  Ambiguous
                 </button>
