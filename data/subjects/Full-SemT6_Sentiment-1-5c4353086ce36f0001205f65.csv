@@ -1,0 +1,261 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Did you see the latest update from the Supreme Court? They've set the execution date for next month.What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.
+B: Yes, I saw that. It's going to be interesting to see how the clemency plea plays out. Do you think the President will intervene?
+
+Turn 2
+A: It's hard to say. The political climate is pretty tense right now, and this case has garnered a lot of public attention. The legal arguments for clemency are compelling, though.
+B: True, and the international pressure might also influence the decision. It's a complex situation with significant implications for future cases.",neutral,2024-07-22T16:41:10.372000+00:00,"What was the person's sentiment when they said ""What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday."" during the conversation?","Turn 1
+A: Did you see the latest update from the Supreme Court? They've set the execution date for next month.What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.
+B: Yes, I saw that. It's going to be interesting to see how the clemency plea plays out. Do you think the President will intervene?
+
+Turn 2
+A: It's hard to say. The political climate is pretty tense right now, and this case has garnered a lot of public attention. The legal arguments for clemency are compelling, though.
+B: True, and the international pressure might also influence the decision. It's a complex situation with significant implications for future cases.",What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.,neutral
+"Turn 1
+A: I just got my new smartphone set up! The screen is so vibrant, and the setup process was surprisingly smooth.
+B: That's awesome! What model did you get? I'm curious about the new features it has.
+
+Turn 2
+A: I went with the latest Galaxy model. Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)The camera is supposed to be incredible, and I can't wait to test out the night mode.
+B: Nice choice! I've heard great things about its battery life too. Let me know how it holds up after a full day of use.",positive,2024-07-22T16:37:05.819000+00:00,"What was the person's sentiment when they said ""Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)"" during the conversation?","Turn 1
+A: I just got my new smartphone set up! The screen is so vibrant, and the setup process was surprisingly smooth.
+B: That's awesome! What model did you get? I'm curious about the new features it has.
+
+Turn 2
+A: I went with the latest Galaxy model. Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)The camera is supposed to be incredible, and I can't wait to test out the night mode.
+B: Nice choice! I've heard great things about its battery life too. Let me know how it holds up after a full day of use.","Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)",positive
+"Turn 1
+A: Did you see Jason Russell's recent interview? He opened up about his mental health struggles during the KONY2012 campaign.
+B: No, I haven't seen it yet. That must have been intense for him. What did he say?
+
+Turn 2
+A: He talked about the immense pressure and how it led to a breakdown. KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity It was really eye-opening to hear about the human side of it all.
+B: Wow, that sounds really tough. It's easy to forget that public figures go through such personal challenges too.",ambiguous,2024-07-22T16:32:45.629000+00:00,"What was the person's sentiment when they said ""KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity"" during the conversation?","Turn 1
+A: Did you see Jason Russell's recent interview? He opened up about his mental health struggles during the KONY2012 campaign.
+B: No, I haven't seen it yet. That must have been intense for him. What did he say?
+
+Turn 2
+A: He talked about the immense pressure and how it led to a breakdown. KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity It was really eye-opening to hear about the human side of it all.
+B: Wow, that sounds really tough. It's easy to forget that public figures go through such personal challenges too.",KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity,ambiguous
+"Turn 1
+A: Man, I can't wait for McGregor's fight next week. Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! He's gonna destroy his opponent. You can just see the fear in the other guy's eyes.
+B: Yeah, McGregor's definitely got that intimidation factor. But you never know, his opponent might surprise us. It's MMA, anything can happen.
+
+Turn 2
+A: True, but McGregor's striking is on another level. I mean, did you see his last fight? The precision and power were insane.
+B: Absolutely, his striking is top-notch. But I think his ground game could use some work. If his opponent can take him down, it might be a different story.",positive,2024-07-22T16:33:39.188000+00:00,"What was the person's sentiment when they said ""Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!"" during the conversation?","Turn 1
+A: Man, I can't wait for McGregor's fight next week. Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! He's gonna destroy his opponent. You can just see the fear in the other guy's eyes.
+B: Yeah, McGregor's definitely got that intimidation factor. But you never know, his opponent might surprise us. It's MMA, anything can happen.
+
+Turn 2
+A: True, but McGregor's striking is on another level. I mean, did you see his last fight? The precision and power were insane.
+B: Absolutely, his striking is top-notch. But I think his ground game could use some work. If his opponent can take him down, it might be a different story.","Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!",positive
+"Turn 1
+A: Ugh, I'm having a hard time downloading the latest edition of the September publication for the monthly report. Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes? It's really frustrating.
+B: Oh no, that sounds annoying. Have you tried accessing it through a different browser or clearing your cache?
+
+Turn 2
+A: I tried switching browsers, but I haven't cleared my cache yet. Do you think that might help?
+B: It could. If that doesn't work, I can show you a workaround using a different method to download it. Just let me know.",neutral,2024-07-22T16:41:39.147000+00:00,"What was the person's sentiment when they said ""Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes?"" during the conversation?","Turn 1
+A: Ugh, I'm having a hard time downloading the latest edition of the September publication for the monthly report. Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes? It's really frustrating.
+B: Oh no, that sounds annoying. Have you tried accessing it through a different browser or clearing your cache?
+
+Turn 2
+A: I tried switching browsers, but I haven't cleared my cache yet. Do you think that might help?
+B: It could. If that doesn't work, I can show you a workaround using a different method to download it. Just let me know.",Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes?,neutral
+"Turn 1
+A: ""Can you believe this? They're making a big deal out of some celebrity's new haircut. Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!""
+B: ""Seriously? It's like they have nothing better to report on.""
+
+Turn 2
+A: ""I know, right? There are so many more important things happening in the world.""
+B: ""Exactly. It's just ridiculous how much attention this stuff gets.""",negative,2024-07-22T16:35:28.284000+00:00,"What was the person's sentiment when they said ""Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!"" during the conversation?","Turn 1
+A: ""Can you believe this? They're making a big deal out of some celebrity's new haircut. Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!""
+B: ""Seriously? It's like they have nothing better to report on.""
+
+Turn 2
+A: ""I know, right? There are so many more important things happening in the world.""
+B: ""Exactly. It's just ridiculous how much attention this stuff gets.""",Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!,negative
+"Turn 1
+A: I've been so swamped with work lately that I completely forgot about Pi Day this year. ""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh"" I usually bake a pie and everything.
+B: Oh no, that's a bummer! I missed it too because of a project deadline. It's frustrating when work gets in the way of the fun stuff.
+
+Turn 2
+A: Yeah, I was really looking forward to it. I even had a new recipe I wanted to try. Maybe we can plan something together next year to make sure we don't miss it.
+B: That sounds like a great idea! Let's put it on our calendars now so we can remind each other. We could even make it a little tradition.",negative,2024-07-22T16:40:43.979000+00:00,"What was the person's sentiment when they said """"For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh"""" during the conversation?","Turn 1
+A: I've been so swamped with work lately that I completely forgot about Pi Day this year. ""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh"" I usually bake a pie and everything.
+B: Oh no, that's a bummer! I missed it too because of a project deadline. It's frustrating when work gets in the way of the fun stuff.
+
+Turn 2
+A: Yeah, I was really looking forward to it. I even had a new recipe I wanted to try. Maybe we can plan something together next year to make sure we don't miss it.
+B: That sounds like a great idea! Let's put it on our calendars now so we can remind each other. We could even make it a little tradition.","""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh""",negative
+"Turn 1
+A: I finally watched the movie adaptation of that book we read in high school. Remember ""The Lost Journey""?
+B: Oh, really? I've been meaning to watch it. How was it?
+
+Turn 2
+A: Honestly, I was pretty disappointed. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me"" They changed so much from the book, especially the ending. It just didn't have the same impact.
+B: That's a shame. I guess it's always tough to capture the essence of a book in a movie. They often have to cut or alter things to fit the runtime.",negative,2024-07-22T16:42:03.971000+00:00,"What was the person's sentiment when they said """"I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me"""" during the conversation?","Turn 1
+A: I finally watched the movie adaptation of that book we read in high school. Remember ""The Lost Journey""?
+B: Oh, really? I've been meaning to watch it. How was it?
+
+Turn 2
+A: Honestly, I was pretty disappointed. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me"" They changed so much from the book, especially the ending. It just didn't have the same impact.
+B: That's a shame. I guess it's always tough to capture the essence of a book in a movie. They often have to cut or alter things to fit the runtime.","""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""",negative
+"Turn 1
+A: I can't believe iKON's debut might be delayed again. im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US I've been counting down the days, and now this happens.
+B: I know, it's really disappointing. But maybe it's for the best. They might need more time to perfect everything.
+
+Turn 2
+A: I guess you're right. I just feel so invested in this, you know? I've been following every update.
+B: Totally get it. But think about how amazing it'll be when they finally debut. All this waiting will make it even more special.",negative,2024-07-22T16:39:37.699000+00:00,"What was the person's sentiment when they said ""im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US"" during the conversation?","Turn 1
+A: I can't believe iKON's debut might be delayed again. im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US I've been counting down the days, and now this happens.
+B: I know, it's really disappointing. But maybe it's for the best. They might need more time to perfect everything.
+
+Turn 2
+A: I guess you're right. I just feel so invested in this, you know? I've been following every update.
+B: Totally get it. But think about how amazing it'll be when they finally debut. All this waiting will make it even more special.",im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US,negative
+"Turn 1
+A: The commentators tonight are really on point. They add so much to the game.
+B: Yeah, they're good. But I still miss the voices we grew up with. Those guys were legends and their commentary is tied to so many of my Monday night memories.
+
+Turn 2
+A: Absolutely, there was something special about their style. Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football It's like their voices were the soundtrack to our football nights.
+B: Exactly. It's amazing how a voice can bring back so many memories. Those were the days, huh?",positive,2024-07-22T16:34:07.080000+00:00,"What was the person's sentiment when they said ""Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football"" during the conversation?","Turn 1
+A: The commentators tonight are really on point. They add so much to the game.
+B: Yeah, they're good. But I still miss the voices we grew up with. Those guys were legends and their commentary is tied to so many of my Monday night memories.
+
+Turn 2
+A: Absolutely, there was something special about their style. Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football It's like their voices were the soundtrack to our football nights.
+B: Exactly. It's amazing how a voice can bring back so many memories. Those were the days, huh?",Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football,positive
+"Turn 1
+A: I finally watched Magic Mike XXL last weekend, and I was surprised by how much I enjoyed it! Im mind blown after watching Magic Mike XXL for the 1st time It was so entertaining.
+B: Right? I saw it a while back and didn't expect to like it as much as I did. The dance scenes were incredible!
+
+Turn 2
+A: Absolutely! That scene where they perform to ""Pony"" was just amazing. I couldn't stop laughing and cheering.
+B: Oh, I know! And Joe Manganiello's convenience store dance? Hilarious and so well done. We should definitely watch it together sometime!",positive,2024-07-22T16:35:03.259000+00:00,"What was the person's sentiment when they said ""Im mind blown after watching Magic Mike XXL for the 1st time"" during the conversation?","Turn 1
+A: I finally watched Magic Mike XXL last weekend, and I was surprised by how much I enjoyed it! Im mind blown after watching Magic Mike XXL for the 1st time It was so entertaining.
+B: Right? I saw it a while back and didn't expect to like it as much as I did. The dance scenes were incredible!
+
+Turn 2
+A: Absolutely! That scene where they perform to ""Pony"" was just amazing. I couldn't stop laughing and cheering.
+B: Oh, I know! And Joe Manganiello's convenience store dance? Hilarious and so well done. We should definitely watch it together sometime!",Im mind blown after watching Magic Mike XXL for the 1st time,positive
+"Turn 1
+A: I can't believe Justin would do this to me. He's been spreading lies about me, and I'm done with it. I think the only way to make him stop is to confront him, maybe even fight him.
+B: I get that you're angry, but fighting isn't going to solve anything. It could just make things worse for you. Let's think of another way to handle this.
+
+Turn 2
+A: But what else can I do? He needs to know he can't get away with this. I'm going to fight Justin tomorrow during lunch idc idc dcIf I don't stand up to him, he'll just keep doing it.
+B: I understand, but there are other ways to stand up for yourself. We can talk to a teacher or a counselor. They can help mediate and put an end to the rumors without anyone getting hurt.",negative,2024-07-22T16:34:35.140000+00:00,"What was the person's sentiment when they said ""I'm going to fight Justin tomorrow during lunch idc idc dc"" during the conversation?","Turn 1
+A: I can't believe Justin would do this to me. He's been spreading lies about me, and I'm done with it. I think the only way to make him stop is to confront him, maybe even fight him.
+B: I get that you're angry, but fighting isn't going to solve anything. It could just make things worse for you. Let's think of another way to handle this.
+
+Turn 2
+A: But what else can I do? He needs to know he can't get away with this. I'm going to fight Justin tomorrow during lunch idc idc dcIf I don't stand up to him, he'll just keep doing it.
+B: I understand, but there are other ways to stand up for yourself. We can talk to a teacher or a counselor. They can help mediate and put an end to the rumors without anyone getting hurt.",I'm going to fight Justin tomorrow during lunch idc idc dc,negative
+"Turn 1
+A: I'm thinking of taking a weekend trip to the mountains. It's been ages since I had a proper getaway.
+B: That sounds amazing! I went hiking there last year, and the views were breathtaking. Do you have a specific spot in mind?
+
+Turn 2
+A: Not yet, but I'm leaning towards that new cabin resort everyone's been talking about. This next Superbowl is on my (21st) birthday. Random fact of the day. It looks cozy.
+B: Oh, I've heard great things about that place! Just make sure to book early; it fills up fast.",neutral,2024-07-22T16:37:28.379000+00:00,"What was the person's sentiment when they said ""This next Superbowl is on my (21st) birthday. Random fact of the day."" during the conversation?","Turn 1
+A: I'm thinking of taking a weekend trip to the mountains. It's been ages since I had a proper getaway.
+B: That sounds amazing! I went hiking there last year, and the views were breathtaking. Do you have a specific spot in mind?
+
+Turn 2
+A: Not yet, but I'm leaning towards that new cabin resort everyone's been talking about. This next Superbowl is on my (21st) birthday. Random fact of the day. It looks cozy.
+B: Oh, I've heard great things about that place! Just make sure to book early; it fills up fast.",This next Superbowl is on my (21st) birthday. Random fact of the day.,neutral
+"Turn 1
+A: Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?
+B: Seriously, it's ridiculous. My grocery bill has doubled, and now this? What's next, a tax on breathing?
+
+Turn 2
+A: At this rate, we'll be living in cardboard boxes. Maybe we should start a commune or something.
+B: Honestly, that doesn't sound half bad. At least we'd have each other's company while we figure out how to survive this madness.",negative,2024-07-22T16:36:41.964000+00:00,"What was the person's sentiment when they said ""like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?"" during the conversation?","Turn 1
+A: Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?
+B: Seriously, it's ridiculous. My grocery bill has doubled, and now this? What's next, a tax on breathing?
+
+Turn 2
+A: At this rate, we'll be living in cardboard boxes. Maybe we should start a commune or something.
+B: Honestly, that doesn't sound half bad. At least we'd have each other's company while we figure out how to survive this madness.",like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?,negative
+"Turn 1
+A: ""Hey, have you heard about Kevin Hart's new stand-up special? It's supposed to be hilarious! kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!"" We should definitely go see it when it premieres.""
+B: ""Oh, really? I haven't heard about it yet. But you know I'm always up for a good laugh. When's it coming out?""
+
+Turn 2
+A: ""It's premiering next Friday night. I can already imagine us laughing our heads off. You in?""
+B: ""Absolutely! Count me in. It'll be a great way to unwind after the week. Can't wait!""",positive,2024-07-22T16:36:17.755000+00:00,"What was the person's sentiment when they said ""kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!"""" during the conversation?","Turn 1
+A: ""Hey, have you heard about Kevin Hart's new stand-up special? It's supposed to be hilarious! kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!"" We should definitely go see it when it premieres.""
+B: ""Oh, really? I haven't heard about it yet. But you know I'm always up for a good laugh. When's it coming out?""
+
+Turn 2
+A: ""It's premiering next Friday night. I can already imagine us laughing our heads off. You in?""
+B: ""Absolutely! Count me in. It'll be a great way to unwind after the week. Can't wait!""","kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!""",positive
+"Turn 1
+A: ""I'm so excited for my birthday this weekend! We're going to that big concert downtown. I've been waiting for this for months!""
+B: ""No way, that's awesome! I've heard it's going to be an amazing show. Who are you going with?""
+
+Turn 2
+A: ""I'm going with Sarah. We both love the band, and we've been planning this since the tickets went on sale. gonna go see Justin bieber with dylan in March on my birthday!!!!""
+B: ""That sounds like so much fun! I'm a little jealous, but I'm really happy for you. You'll have to tell me all about it afterward!""",ambiguous,2024-07-22T16:38:27.820000+00:00,"What was the person's sentiment when they said ""gonna go see Justin bieber with dylan in March on my birthday!!!!"" during the conversation?","Turn 1
+A: ""I'm so excited for my birthday this weekend! We're going to that big concert downtown. I've been waiting for this for months!""
+B: ""No way, that's awesome! I've heard it's going to be an amazing show. Who are you going with?""
+
+Turn 2
+A: ""I'm going with Sarah. We both love the band, and we've been planning this since the tickets went on sale. gonna go see Justin bieber with dylan in March on my birthday!!!!""
+B: ""That sounds like so much fun! I'm a little jealous, but I'm really happy for you. You'll have to tell me all about it afterward!""",gonna go see Justin bieber with dylan in March on my birthday!!!!,ambiguous
+"Turn 1
+A: I can't believe Paul McCartney is finally coming to Detroit! I've been waiting for this for years.
+B: That's amazing! But you seem a bit down about it. What's up?
+
+Turn 2
+A: The ticket prices are just way too high. What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars I can't afford to go, and it's really bumming me out.
+B: I totally get it. It's so frustrating when money gets in the way of something you love. Maybe we can find a way to make it work together?",negative,2024-07-22T16:39:10.827000+00:00,"What was the person's sentiment when they said ""What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars"" during the conversation?","Turn 1
+A: I can't believe Paul McCartney is finally coming to Detroit! I've been waiting for this for years.
+B: That's amazing! But you seem a bit down about it. What's up?
+
+Turn 2
+A: The ticket prices are just way too high. What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars I can't afford to go, and it's really bumming me out.
+B: I totally get it. It's so frustrating when money gets in the way of something you love. Maybe we can find a way to make it work together?",What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars,negative
+"Turn 1
+A: ""Hey, guess what? I've got a big match coming up this weekend in Petrolia! Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out! You should totally come and watch.""
+B: ""That sounds awesome! You know I wouldn't miss it for the world. What time does it start?""
+
+Turn 2
+A: ""It's at 7 PM on Saturday. I'm really pumped for this one; it's going to be a tough match.""
+B: ""I'll be there cheering you on! You've got this, A. I can't wait to see you in action!""",positive,2024-07-22T16:35:51.683000+00:00,"What was the person's sentiment when they said ""Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out!"" during the conversation?","Turn 1
+A: ""Hey, guess what? I've got a big match coming up this weekend in Petrolia! Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out! You should totally come and watch.""
+B: ""That sounds awesome! You know I wouldn't miss it for the world. What time does it start?""
+
+Turn 2
+A: ""It's at 7 PM on Saturday. I'm really pumped for this one; it's going to be a tough match.""
+B: ""I'll be there cheering you on! You've got this, A. I can't wait to see you in action!""",Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out!,positive
+"Turn 1
+A: I started watching this great series on Amazon Prime, but after a few seasons, they wanted me to pay extra to keep watching. Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF. It's so frustrating!
+B: Ugh, I know what you mean. That happened to me with a show on Hulu. Just when I was getting into it, they put the new season behind a paywall.
+
+Turn 2
+A: It's like they lure you in with a few free episodes and then hit you with extra charges. I wish they were more upfront about it.
+B: Exactly! It feels like a bait-and-switch. I've started checking reviews and forums before committing to a new show now.",negative,2024-07-22T16:40:09.315000+00:00,"What was the person's sentiment when they said ""Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF."" during the conversation?","Turn 1
+A: I started watching this great series on Amazon Prime, but after a few seasons, they wanted me to pay extra to keep watching. Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF. It's so frustrating!
+B: Ugh, I know what you mean. That happened to me with a show on Hulu. Just when I was getting into it, they put the new season behind a paywall.
+
+Turn 2
+A: It's like they lure you in with a few free episodes and then hit you with extra charges. I wish they were more upfront about it.
+B: Exactly! It feels like a bait-and-switch. I've started checking reviews and forums before committing to a new show now.","Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF.",negative
+"Turn 1
+A: You won't believe the new smartphones I saw at the expo! The latest models have these incredible foldable screens that are so seamless, you can barely see the crease.
+B: Really? That sounds amazing! I've been curious about foldable screens but wasn't sure if they were practical yet. Did you get to try one out?
+
+Turn 2
+A: Yeah, I did! The responsiveness was impressive, and the transition between folded and unfolded modes was super smooth. Plus, the battery life has significantly improved. I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.
+B: That sounds like a game-changer. I might have to consider upgrading sooner than I thought. Did you see any other cool features?",positive,2024-07-22T16:38:00.435000+00:00,"What was the person's sentiment when they said ""I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone."" during the conversation?","Turn 1
+A: You won't believe the new smartphones I saw at the expo! The latest models have these incredible foldable screens that are so seamless, you can barely see the crease.
+B: Really? That sounds amazing! I've been curious about foldable screens but wasn't sure if they were practical yet. Did you get to try one out?
+
+Turn 2
+A: Yeah, I did! The responsiveness was impressive, and the transition between folded and unfolded modes was super smooth. Plus, the battery life has significantly improved. I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.
+B: That sounds like a game-changer. I might have to consider upgrading sooner than I thought. Did you see any other cool features?",I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.,positive
