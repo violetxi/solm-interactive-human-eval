@@ -1,0 +1,265 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Have you noticed how the COVID-19 cases have dropped significantly in Alberta since they started enforcing vaccine passports and mandatory indoor masking?
+B: Yeah, I saw the numbers, but I'm still not entirely convinced. How do we know it's really because of those measures?
+
+Turn 2
+A: Well, public health data shows a clear correlation. Here in Alberta we went 22000 cases and having to call in the army to help our hospitals down to 4000 cases with the only changes being a vaccine passport plus mandatory indoor masking. When they implemented these measures, the transmission rates started to decline. Plus, other regions with similar policies have seen the same trend.
+B: I guess that makes sense. It's just hard to wrap my head around how much of an impact these measures can have. But if the data supports it, maybe there's something to it.",favoring,2024-07-22T01:30:26.898000+00:00,"What was A's stance on COVID19 vaccine when they said ""Here in Alberta we went 22000 cases and having to call in the army to help our hospitals down to 4000 cases with the only changes being a vaccine passport plus mandatory indoor masking."" during the conversation?","Turn 1
+A: Have you noticed how the COVID-19 cases have dropped significantly in Alberta since they started enforcing vaccine passports and mandatory indoor masking?
+B: Yeah, I saw the numbers, but I'm still not entirely convinced. How do we know it's really because of those measures?
+
+Turn 2
+A: Well, public health data shows a clear correlation. Here in Alberta we went 22000 cases and having to call in the army to help our hospitals down to 4000 cases with the only changes being a vaccine passport plus mandatory indoor masking. When they implemented these measures, the transmission rates started to decline. Plus, other regions with similar policies have seen the same trend.
+B: I guess that makes sense. It's just hard to wrap my head around how much of an impact these measures can have. But if the data supports it, maybe there's something to it.",Here in Alberta we went 22000 cases and having to call in the army to help our hospitals down to 4000 cases with the only changes being a vaccine passport plus mandatory indoor masking.,favoring
+"Turn 1
+A: You know, B, I've been thinking a lot about how much this pandemic has affected us all. Losing my uncle to COVID-19 was really tough, especially knowing he wasn't vaccinated. It's made me more passionate about the vaccine's importance.
+B: I'm really sorry about your uncle, A. I understand why you feel so strongly. I just can't shake off my worries about the side effects and all the conflicting information out there.
+
+Turn 2
+A: I get it, B. It's completely normal to have concerns. I want to say this in the most gentle way possible. I understand why you might be hesitant to get the Covid vaccine.I've lost several people to COVID. NONE of them were vaccinated. They were hesitant for all the same reasons you probably are. They sacrificed their lives for that What helped me was talking to my doctor and looking at reliable sources. The side effects are usually mild and temporary, and the protection it offers is worth it. I just want you to be safe.
+B: Thanks, A. I appreciate you sharing that. Maybe I'll look into it more and talk to my doctor too. It's good to hear your perspective.",favoring,2024-07-22T01:27:00.571000+00:00,"What was A's stance on COVID19 vaccine when they said ""I want to say this in the most gentle way possible. I understand why you might be hesitant to get the Covid vaccine.I've lost several people to COVID. NONE of them were vaccinated. They were hesitant for all the same reasons you probably are. They sacrificed their lives for that"" during the conversation?","Turn 1
+A: You know, B, I've been thinking a lot about how much this pandemic has affected us all. Losing my uncle to COVID-19 was really tough, especially knowing he wasn't vaccinated. It's made me more passionate about the vaccine's importance.
+B: I'm really sorry about your uncle, A. I understand why you feel so strongly. I just can't shake off my worries about the side effects and all the conflicting information out there.
+
+Turn 2
+A: I get it, B. It's completely normal to have concerns. I want to say this in the most gentle way possible. I understand why you might be hesitant to get the Covid vaccine.I've lost several people to COVID. NONE of them were vaccinated. They were hesitant for all the same reasons you probably are. They sacrificed their lives for that What helped me was talking to my doctor and looking at reliable sources. The side effects are usually mild and temporary, and the protection it offers is worth it. I just want you to be safe.
+B: Thanks, A. I appreciate you sharing that. Maybe I'll look into it more and talk to my doctor too. It's good to hear your perspective.",I want to say this in the most gentle way possible. I understand why you might be hesitant to get the Covid vaccine.I've lost several people to COVID. NONE of them were vaccinated. They were hesitant for all the same reasons you probably are. They sacrificed their lives for that,favoring
+"Turn 1
+A: I've been thinking about how we can address the concerns of those who are hesitant about mRNA vaccines. I've been promoting this vaccine for vaccine hesitant ppl right here in the u.s. bc it is natural vegan protein based from yeast. Instead of the mrna technology. This kind of vaccine has been used for over 40 yrs don't you think these anti vaxxers would be more open to it???? What if we promote the natural, vegan, protein-based vaccine as an alternative? It might resonate better with certain groups.
+B: That's an interesting idea. I've noticed in the data that a significant portion of the hesitant population is concerned about the ingredients and the technology behind mRNA vaccines. Highlighting a more natural option could indeed make a difference.
+
+Turn 2
+A: Exactly. We could focus our outreach on educating people about the benefits and safety of the protein-based vaccine, emphasizing its natural and vegan aspects. This might help alleviate some of their fears.
+B: I agree. I'll start analyzing the data to identify the demographics most likely to respond positively to this approach. We can then tailor our messaging to those specific groups.",ambiguous,2024-07-22T01:30:11.091000+00:00,"What was A's stance on COVID19 vaccine when they said ""I've been promoting this vaccine for vaccine hesitant ppl right here in the u.s. bc it is natural vegan protein based from yeast. Instead of the mrna technology. This kind of vaccine has been used for over 40 yrs don't you think these anti vaxxers would be more open to it????"" during the conversation?","Turn 1
+A: I've been thinking about how we can address the concerns of those who are hesitant about mRNA vaccines. I've been promoting this vaccine for vaccine hesitant ppl right here in the u.s. bc it is natural vegan protein based from yeast. Instead of the mrna technology. This kind of vaccine has been used for over 40 yrs don't you think these anti vaxxers would be more open to it???? What if we promote the natural, vegan, protein-based vaccine as an alternative? It might resonate better with certain groups.
+B: That's an interesting idea. I've noticed in the data that a significant portion of the hesitant population is concerned about the ingredients and the technology behind mRNA vaccines. Highlighting a more natural option could indeed make a difference.
+
+Turn 2
+A: Exactly. We could focus our outreach on educating people about the benefits and safety of the protein-based vaccine, emphasizing its natural and vegan aspects. This might help alleviate some of their fears.
+B: I agree. I'll start analyzing the data to identify the demographics most likely to respond positively to this approach. We can then tailor our messaging to those specific groups.",I've been promoting this vaccine for vaccine hesitant ppl right here in the u.s. bc it is natural vegan protein based from yeast. Instead of the mrna technology. This kind of vaccine has been used for over 40 yrs don't you think these anti vaxxers would be more open to it????,ambiguous
+"Turn 1
+A: You know, I had a close call with COVID-19 recently. I was exposed but didn't get sick, thanks to the vaccine.
+B: Really? That's good to hear. I've been on the fence about getting vaccinated.
+
+Turn 2
+A: I get it, but honestly, it gave me peace of mind knowing I was protected. around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine Maybe it's something to think about?
+B: Yeah, maybe you're right. I'll look into it more. Thanks for sharing your experience.",favoring,2024-07-22T01:31:47.473000+00:00,"What was A's stance on COVID19 vaccine when they said ""around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine"" during the conversation?","Turn 1
+A: You know, I had a close call with COVID-19 recently. I was exposed but didn't get sick, thanks to the vaccine.
+B: Really? That's good to hear. I've been on the fence about getting vaccinated.
+
+Turn 2
+A: I get it, but honestly, it gave me peace of mind knowing I was protected. around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine Maybe it's something to think about?
+B: Yeah, maybe you're right. I'll look into it more. Thanks for sharing your experience.","around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine",favoring
+"Turn 1
+A: The FNHA emphasized that Indigenous communities are prioritized for the COVID-19 vaccine because they often face higher risks due to pre-existing health disparities and limited access to healthcare services.
+B: That makes sense. So, it's not just about the immediate risk of the virus, but also addressing long-standing health inequities?
+
+Turn 2
+A: Exactly. By prioritizing these communities, we can help mitigate the impact of the pandemic and support their overall health resilience. I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe.
+B: I see. It's a more holistic approach to public health, ensuring that vulnerable populations are protected and supported.",favoring,2024-07-22T01:30:21.679000+00:00,"What was A's stance on COVID19 vaccine when they said ""I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe."" during the conversation?","Turn 1
+A: The FNHA emphasized that Indigenous communities are prioritized for the COVID-19 vaccine because they often face higher risks due to pre-existing health disparities and limited access to healthcare services.
+B: That makes sense. So, it's not just about the immediate risk of the virus, but also addressing long-standing health inequities?
+
+Turn 2
+A: Exactly. By prioritizing these communities, we can help mitigate the impact of the pandemic and support their overall health resilience. I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe.
+B: I see. It's a more holistic approach to public health, ensuring that vulnerable populations are protected and supported.",I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe.,favoring
+"Turn 1
+A: Oh, you're getting your booster shot soon? I had COVID a few months ago, and it wasn't too bad for me. I just focused on staying healthy, and I think that's enough to avoid getting really sick.
+B: Yeah, I remember you mentioning that. I'm just worried because cases are going up again, and I want to be as protected as possible.
+
+Turn 2
+A: I get that. I guess everyone has to do what makes them feel safest. I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about For me, keeping up with exercise and a good diet has worked so far.
+B: Absolutely, staying healthy is important. I just feel like the booster gives me that extra layer of security, especially with the new variants around.",against,2024-07-22T01:27:42.844000+00:00,"What was A's stance on COVID19 vaccine when they said ""I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about"" during the conversation?","Turn 1
+A: Oh, you're getting your booster shot soon? I had COVID a few months ago, and it wasn't too bad for me. I just focused on staying healthy, and I think that's enough to avoid getting really sick.
+B: Yeah, I remember you mentioning that. I'm just worried because cases are going up again, and I want to be as protected as possible.
+
+Turn 2
+A: I get that. I guess everyone has to do what makes them feel safest. I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about For me, keeping up with exercise and a good diet has worked so far.
+B: Absolutely, staying healthy is important. I just feel like the booster gives me that extra layer of security, especially with the new variants around.",I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about,against
+"Turn 1
+A: I heard about people who participated in the early clinical trials for the COVID-19 vaccines. It's interesting to think about their motivations.
+B: Yeah, I'm curious. What made them decide to join those trials?
+
+Turn 2
+A: Well, I read about one person who was really confident in the science behind the vaccine. Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine. They believed it was crucial to help end the pandemic and wanted to contribute to the solution.
+B: That makes sense. It's admirable that they were willing to take that step for the greater good.",favoring,2024-07-22T01:32:00.483000+00:00,"What was A's stance on COVID19 vaccine when they said ""Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine."" during the conversation?","Turn 1
+A: I heard about people who participated in the early clinical trials for the COVID-19 vaccines. It's interesting to think about their motivations.
+B: Yeah, I'm curious. What made them decide to join those trials?
+
+Turn 2
+A: Well, I read about one person who was really confident in the science behind the vaccine. Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine. They believed it was crucial to help end the pandemic and wanted to contribute to the solution.
+B: That makes sense. It's admirable that they were willing to take that step for the greater good.","Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine.",favoring
+"Turn 1
+A: I just can't believe they're pushing these vaccine mandates so hard. It's like they're not even considering personal choice anymore.
+B: Yeah, it's definitely a hot topic. I can see why people are divided on it. Have you been keeping up with the latest college games to take your mind off things?
+
+Turn 2
+A: Absolutely, college sports have been my saving grace. It's the one thing that feels normal these days. College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous. But even there, they're starting to enforce vaccine requirements for players and fans. It's frustrating.
+B: I get that. It's tough when your escape starts to get tangled up in all the same issues. Hopefully, we can find a balance that respects everyone's concerns.",against,2024-07-22T01:26:11.475000+00:00,"What was A's stance on COVID19 vaccine when they said ""College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous."" during the conversation?","Turn 1
+A: I just can't believe they're pushing these vaccine mandates so hard. It's like they're not even considering personal choice anymore.
+B: Yeah, it's definitely a hot topic. I can see why people are divided on it. Have you been keeping up with the latest college games to take your mind off things?
+
+Turn 2
+A: Absolutely, college sports have been my saving grace. It's the one thing that feels normal these days. College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous. But even there, they're starting to enforce vaccine requirements for players and fans. It's frustrating.
+B: I get that. It's tough when your escape starts to get tangled up in all the same issues. Hopefully, we can find a balance that respects everyone's concerns.",College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous.,against
+"Turn 1
+A: Can you believe my uncle sent my dad this ridiculous article claiming the COVID-19 vaccine is dangerous? Not sure if they've seen it but a shitty relative of mine sent my dad an article about how the vaccine is a time bomb set to kill everyone with it in 2025. I might believe some conspiracy theory stuff but damn that's gotta be the biggest reach ever lol It's so frustrating how easily misinformation spreads.
+B: I know exactly what you mean. My cousin keeps sharing these conspiracy theories on Facebook. It's like, how do you even begin to reason with them?
+
+Turn 2
+A: Exactly! It's so hard to get through to them when they're convinced they're right. We really need to emphasize the importance of reliable sources.
+B: Absolutely. It's a challenge, but I think having open conversations and gently presenting facts can sometimes help. It's all about patience and persistence.",favoring,2024-07-22T01:31:31.919000+00:00,"What was A's stance on COVID19 vaccine when they said ""Not sure if they've seen it but a shitty relative of mine sent my dad an article about how the vaccine is a time bomb set to kill everyone with it in 2025. I might believe some conspiracy theory stuff but damn that's gotta be the biggest reach ever lol"" during the conversation?","Turn 1
+A: Can you believe my uncle sent my dad this ridiculous article claiming the COVID-19 vaccine is dangerous? Not sure if they've seen it but a shitty relative of mine sent my dad an article about how the vaccine is a time bomb set to kill everyone with it in 2025. I might believe some conspiracy theory stuff but damn that's gotta be the biggest reach ever lol It's so frustrating how easily misinformation spreads.
+B: I know exactly what you mean. My cousin keeps sharing these conspiracy theories on Facebook. It's like, how do you even begin to reason with them?
+
+Turn 2
+A: Exactly! It's so hard to get through to them when they're convinced they're right. We really need to emphasize the importance of reliable sources.
+B: Absolutely. It's a challenge, but I think having open conversations and gently presenting facts can sometimes help. It's all about patience and persistence.",Not sure if they've seen it but a shitty relative of mine sent my dad an article about how the vaccine is a time bomb set to kill everyone with it in 2025. I might believe some conspiracy theory stuff but damn that's gotta be the biggest reach ever lol,favoring
+"Turn 1
+A: You know, the new vaccine mandate at our company was the final straw for me. I just couldn't agree with it, so I decided to resign. My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th.
+B: Wow, that's a big decision. What specifically about the mandate made you feel that way?
+
+Turn 2
+A: It felt like my personal choice was being taken away. I understand the health concerns, but I believe in having the freedom to make my own medical decisions.
+B: I get that. My company is considering a similar policy, and it's causing a lot of debate. It's tough to balance public health and individual rights.",against,2024-07-22T01:29:00.691000+00:00,"What was A's stance on COVID19 vaccine when they said ""My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th."" during the conversation?","Turn 1
+A: You know, the new vaccine mandate at our company was the final straw for me. I just couldn't agree with it, so I decided to resign. My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th.
+B: Wow, that's a big decision. What specifically about the mandate made you feel that way?
+
+Turn 2
+A: It felt like my personal choice was being taken away. I understand the health concerns, but I believe in having the freedom to make my own medical decisions.
+B: I get that. My company is considering a similar policy, and it's causing a lot of debate. It's tough to balance public health and individual rights.","My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th.",against
+"Turn 1
+A: I've been hearing a lot about breakthrough cases with the Delta and Omicron variants. It's a bit confusing—are the vaccines still effective?
+B: Yeah, I get why it might seem confusing. The vaccines might not completely stop the virus from spreading, but they are really good at preventing severe illness and keeping people out of the hospital.
+
+Turn 2
+A: That makes sense. Ok, but with all the breakthrough cases with both Delta and Omicron, it seems as if the vaccine doesn't prevent spread, just stops the disease from killing or hospitalizing you. Hence, they're only hurting themselves. So, even if someone gets infected, they're less likely to get seriously sick if they're vaccinated?
+B: Exactly. The vaccines help your body fight the virus more effectively, which means even if you do catch it, you're much less likely to end up with severe symptoms.",ambiguous,2024-07-22T01:29:45.471000+00:00,"What was A's stance on COVID19 vaccine when they said ""Ok, but with all the breakthrough cases with both Delta and Omicron, it seems as if the vaccine doesn't prevent spread, just stops the disease from killing or hospitalizing you. Hence, they're only hurting themselves."" during the conversation?","Turn 1
+A: I've been hearing a lot about breakthrough cases with the Delta and Omicron variants. It's a bit confusing—are the vaccines still effective?
+B: Yeah, I get why it might seem confusing. The vaccines might not completely stop the virus from spreading, but they are really good at preventing severe illness and keeping people out of the hospital.
+
+Turn 2
+A: That makes sense. Ok, but with all the breakthrough cases with both Delta and Omicron, it seems as if the vaccine doesn't prevent spread, just stops the disease from killing or hospitalizing you. Hence, they're only hurting themselves. So, even if someone gets infected, they're less likely to get seriously sick if they're vaccinated?
+B: Exactly. The vaccines help your body fight the virus more effectively, which means even if you do catch it, you're much less likely to end up with severe symptoms.","Ok, but with all the breakthrough cases with both Delta and Omicron, it seems as if the vaccine doesn't prevent spread, just stops the disease from killing or hospitalizing you. Hence, they're only hurting themselves.",ambiguous
+"Turn 1
+A: I've been seeing so many severe cases of COVID-19 lately, especially among unvaccinated patients. It's heartbreaking to see how much they suffer. I work in a hospital and you may have had a milder case but there are many people that are not that lucky. To say not to take the shot is just wrong. My patient was healthy and didn't take the vaccine. He is now on the ventilator……
+B: I get that, but I had COVID and it wasn't that bad for me. I just don't see the point in getting the vaccine if I've already had it.
+
+Turn 2
+A: I understand where you're coming from, but I've seen people who had mild cases initially and then got hit really hard later on. The vaccine can help prevent that and protect others around you.
+B: I hadn't thought about it that way. Maybe I should look into it more. Thanks for sharing your perspective.",favoring,2024-07-22T01:31:12.732000+00:00,"What was A's stance on COVID19 vaccine when they said ""I work in a hospital and you may have had a milder case but there are many people that are not that lucky. To say not to take the shot is just wrong. My patient was healthy and didn't take the vaccine. He is now on the ventilator……"" during the conversation?","Turn 1
+A: I've been seeing so many severe cases of COVID-19 lately, especially among unvaccinated patients. It's heartbreaking to see how much they suffer. I work in a hospital and you may have had a milder case but there are many people that are not that lucky. To say not to take the shot is just wrong. My patient was healthy and didn't take the vaccine. He is now on the ventilator……
+B: I get that, but I had COVID and it wasn't that bad for me. I just don't see the point in getting the vaccine if I've already had it.
+
+Turn 2
+A: I understand where you're coming from, but I've seen people who had mild cases initially and then got hit really hard later on. The vaccine can help prevent that and protect others around you.
+B: I hadn't thought about it that way. Maybe I should look into it more. Thanks for sharing your perspective.",I work in a hospital and you may have had a milder case but there are many people that are not that lucky. To say not to take the shot is just wrong. My patient was healthy and didn't take the vaccine. He is now on the ventilator……,favoring
+"Turn 1
+A: I just got my COVID-19 vaccine, but I'm still worried about exposure, especially since my cousin, who has the flu, plans to visit. What should I do?
+B: It's great that you're vaccinated, but it's still important to be cautious. The flu can be quite contagious. Maybe suggest a virtual visit or ensure they stay in a separate room and follow strict hygiene practices if they come over.
+
+Turn 2
+A: That makes sense. Can you help me with an issue? My cousin has the measles and he is coming over tomorrow. I have the measles vaccine. Should I tell him to not come over or can he come to the house? Just curious How do the precautions for the flu compare to those for COVID-19?
+B: Both require good hygiene, like frequent handwashing and wearing masks. However, COVID-19 is more contagious, so the measures are stricter. For both, minimizing close contact and ensuring good ventilation are key.",neutral,2024-07-22T01:27:56.058000+00:00,"What was A's stance on COVID19 vaccine when they said ""Can you help me with an issue? My cousin has the measles and he is coming over tomorrow. I have the measles vaccine. Should I tell him to not come over or can he come to the house? Just curious"" during the conversation?","Turn 1
+A: I just got my COVID-19 vaccine, but I'm still worried about exposure, especially since my cousin, who has the flu, plans to visit. What should I do?
+B: It's great that you're vaccinated, but it's still important to be cautious. The flu can be quite contagious. Maybe suggest a virtual visit or ensure they stay in a separate room and follow strict hygiene practices if they come over.
+
+Turn 2
+A: That makes sense. Can you help me with an issue? My cousin has the measles and he is coming over tomorrow. I have the measles vaccine. Should I tell him to not come over or can he come to the house? Just curious How do the precautions for the flu compare to those for COVID-19?
+B: Both require good hygiene, like frequent handwashing and wearing masks. However, COVID-19 is more contagious, so the measures are stricter. For both, minimizing close contact and ensuring good ventilation are key.",Can you help me with an issue? My cousin has the measles and he is coming over tomorrow. I have the measles vaccine. Should I tell him to not come over or can he come to the house? Just curious,neutral
+"Turn 1
+A: Hey B, just a heads-up about your trip to Maharashtra. You'll need either a negative RT-PCR test or your final vaccination certificate to enter the state. Dear Customer, Passengers traveling to Maharashtra must carry a negative RT-PCR report not older than 72 Hrs at the time of arrival or a final vaccination certificate(issued after 2nd dosage and 15 days prior to the travel date). Thanks, Ramandeep.
+B: Got it, thanks for the info. I have my vaccination certificate, so I should be good to go.
+
+Turn 2
+A: Perfect, just make sure to carry a digital and a printed copy, in case they ask for it at the airport.
+B: Will do. Thanks for organizing everything, A!",neutral,2024-07-22T01:25:34.645000+00:00,"What was A's stance on COVID19 vaccine when they said ""Dear Customer, Passengers traveling to Maharashtra must carry a negative RT-PCR report not older than 72 Hrs at the time of arrival or a final vaccination certificate(issued after 2nd dosage and 15 days prior to the travel date). Thanks, Ramandeep."" during the conversation?","Turn 1
+A: Hey B, just a heads-up about your trip to Maharashtra. You'll need either a negative RT-PCR test or your final vaccination certificate to enter the state. Dear Customer, Passengers traveling to Maharashtra must carry a negative RT-PCR report not older than 72 Hrs at the time of arrival or a final vaccination certificate(issued after 2nd dosage and 15 days prior to the travel date). Thanks, Ramandeep.
+B: Got it, thanks for the info. I have my vaccination certificate, so I should be good to go.
+
+Turn 2
+A: Perfect, just make sure to carry a digital and a printed copy, in case they ask for it at the airport.
+B: Will do. Thanks for organizing everything, A!","Dear Customer, Passengers traveling to Maharashtra must carry a negative RT-PCR report not older than 72 Hrs at the time of arrival or a final vaccination certificate(issued after 2nd dosage and 15 days prior to the travel date). Thanks, Ramandeep.",neutral
+"Turn 1
+A: I was talking to this woman the other day who had really strong opinions about the vaccine. She had lingering symptoms from COVID-19 and felt the vaccine was unnecessary for her.
+B: That's interesting. I've heard a lot of different takes on it. Some people I know are really pro-vaccine, while others are more hesitant. It's such a mixed bag.
+
+Turn 2
+A: Yeah, exactly. It seems like everyone's experience with COVID-19 and the vaccine is so personal. I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell. She was convinced her natural immunity was enough, but I know others who swear by the vaccine because it gave them peace of mind.
+B: It really shows how varied our experiences can be. I think it's important to listen to all these stories to get a full picture of what's going on.",ambiguous,2024-07-22T01:30:48.426000+00:00,"What was A's stance on COVID19 vaccine when they said ""I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell."" during the conversation?","Turn 1
+A: I was talking to this woman the other day who had really strong opinions about the vaccine. She had lingering symptoms from COVID-19 and felt the vaccine was unnecessary for her.
+B: That's interesting. I've heard a lot of different takes on it. Some people I know are really pro-vaccine, while others are more hesitant. It's such a mixed bag.
+
+Turn 2
+A: Yeah, exactly. It seems like everyone's experience with COVID-19 and the vaccine is so personal. I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell. She was convinced her natural immunity was enough, but I know others who swear by the vaccine because it gave them peace of mind.
+B: It really shows how varied our experiences can be. I think it's important to listen to all these stories to get a full picture of what's going on.","I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell.",ambiguous
+"Turn 1
+A: I'm really not sure about this new vaccine policy. I've heard some worrying things about the vaccine's components and potential long-term effects.
+B: Yeah, I saw the email too. I'm still on the fence. What exactly have you heard?
+
+Turn 2
+A: Well, some former employees from pharmaceutical companies have mentioned that there might be risks we're not being told about. This vaccine is different, the components that it's made of isn't supposed to be for the human body.... Ask the people that don't work for the companies anymore.... The other vaccines can eventually get out your body, this one can't from what I know... It's a ticking time bomb... It makes me hesitant.
+B: I get that. But I've also read that the vaccines went through rigorous testing. Maybe we should look into more reliable sources to get a clearer picture.",against,2024-07-22T01:27:22.178000+00:00,"What was A's stance on COVID19 vaccine when they said ""This vaccine is different, the components that it's made of isn't supposed to be for the human body.... Ask the people that don't work for the companies anymore.... The other vaccines can eventually get out your body, this one can't from what I know... It's a ticking time bomb..."" during the conversation?","Turn 1
+A: I'm really not sure about this new vaccine policy. I've heard some worrying things about the vaccine's components and potential long-term effects.
+B: Yeah, I saw the email too. I'm still on the fence. What exactly have you heard?
+
+Turn 2
+A: Well, some former employees from pharmaceutical companies have mentioned that there might be risks we're not being told about. This vaccine is different, the components that it's made of isn't supposed to be for the human body.... Ask the people that don't work for the companies anymore.... The other vaccines can eventually get out your body, this one can't from what I know... It's a ticking time bomb... It makes me hesitant.
+B: I get that. But I've also read that the vaccines went through rigorous testing. Maybe we should look into more reliable sources to get a clearer picture.","This vaccine is different, the components that it's made of isn't supposed to be for the human body.... Ask the people that don't work for the companies anymore.... The other vaccines can eventually get out your body, this one can't from what I know... It's a ticking time bomb...",against
+"Turn 1
+A: I can't believe they're forcing us to get vaccinated. It feels like such an overreach. Who's to say this isn't just a way for the government and big pharma to make more money?
+B: I get where you're coming from, A. It's a big change, and it's natural to have concerns. But I think the vaccine is crucial for keeping everyone safe and getting back to normal.
+
+Turn 2
+A: But what about our personal freedoms? Shouldn't we have the right to choose what goes into our bodies? Spoken like Hitler.  We will not comply.  You've clearly overstepped your authority and we the people will exercise our Constitutional Right to fight against a tyrannical government with the sole interest to get rich off vax kickbacks.
+B: Absolutely, personal choice is important. But in this case, I think it's about balancing individual rights with public health. The more people vaccinated, the safer our community becomes.",against,2024-07-22T01:28:15.330000+00:00,"What was A's stance on COVID19 vaccine when they said ""Spoken like Hitler.  We will not comply.  You've clearly overstepped your authority and we the people will exercise our Constitutional Right to fight against a tyrannical government with the sole interest to get rich off vax kickbacks."" during the conversation?","Turn 1
+A: I can't believe they're forcing us to get vaccinated. It feels like such an overreach. Who's to say this isn't just a way for the government and big pharma to make more money?
+B: I get where you're coming from, A. It's a big change, and it's natural to have concerns. But I think the vaccine is crucial for keeping everyone safe and getting back to normal.
+
+Turn 2
+A: But what about our personal freedoms? Shouldn't we have the right to choose what goes into our bodies? Spoken like Hitler.  We will not comply.  You've clearly overstepped your authority and we the people will exercise our Constitutional Right to fight against a tyrannical government with the sole interest to get rich off vax kickbacks.
+B: Absolutely, personal choice is important. But in this case, I think it's about balancing individual rights with public health. The more people vaccinated, the safer our community becomes.",Spoken like Hitler.  We will not comply.  You've clearly overstepped your authority and we the people will exercise our Constitutional Right to fight against a tyrannical government with the sole interest to get rich off vax kickbacks.,against
+"Turn 1
+A: Hey B, I just got out of a briefing on the updated COVID-19 vaccination protocols. They've made some changes regarding third doses for immunocompromised patients.
+B: Oh, that's great to know. What are the new recommendations?
+
+Turn 2
+A: They're now advising that immunocompromised patients should get their third dose at least eight weeks after their second dose, instead of the previous six-month interval. I'm in Ontario. ""Immunocompromised individuals should be offered the full dose of either Moderna (100 mcg) or PfizerBioNTech (30 mcg) as a third dose."" See pg 6:
+B: Got it. I'll make sure to update our patient care plans accordingly. Thanks for the heads-up!",neutral,2024-07-22T01:26:34.486000+00:00,"What was A's stance on COVID19 vaccine when they said ""I'm in Ontario. ""Immunocompromised individuals should be offered the full dose of either Moderna (100 mcg) or PfizerBioNTech (30 mcg) as a third dose."" See pg 6:"" during the conversation?","Turn 1
+A: Hey B, I just got out of a briefing on the updated COVID-19 vaccination protocols. They've made some changes regarding third doses for immunocompromised patients.
+B: Oh, that's great to know. What are the new recommendations?
+
+Turn 2
+A: They're now advising that immunocompromised patients should get their third dose at least eight weeks after their second dose, instead of the previous six-month interval. I'm in Ontario. ""Immunocompromised individuals should be offered the full dose of either Moderna (100 mcg) or PfizerBioNTech (30 mcg) as a third dose."" See pg 6:
+B: Got it. I'll make sure to update our patient care plans accordingly. Thanks for the heads-up!","I'm in Ontario. ""Immunocompromised individuals should be offered the full dose of either Moderna (100 mcg) or PfizerBioNTech (30 mcg) as a third dose."" See pg 6:",neutral
+"Turn 1
+A: Hey B, I saw a tweet about a COVID-19 treatment involving multiple pills. It mentioned something about combining antivirals and steroids. Do you know anything about this?
+
+B: Hi A, yes, there have been some discussions and studies about using a combination of medications to treat COVID-19. However, the most effective and widely recommended approach remains vaccination. The vaccines have shown to significantly reduce severe illness and hospitalization.
+
+Turn 2
+A: That makes sense. I guess it's easy to get confused with all the information out there. Please help me understand ,this tweet refers to ""a ""pill others  talk about six pills three twice  a day for five days or total 30  Are treatment recommendations becoming a shaggy dog story? So, the focus should still be on getting vaccinated and following the guidelines, right?
+
+B: Absolutely. While treatments are important, prevention through vaccination is our best defense. It's crucial to stay updated with reliable sources and continue encouraging vaccination among our patients.",against,2024-07-22T01:29:18.867000+00:00,"What was A's stance on COVID19 vaccine when they said ""Please help me understand ,this tweet refers to ""a ""pill others  talk about six pills three twice  a day for five days or total 30  Are treatment recommendations becoming a shaggy dog story?"" during the conversation?","Turn 1
+A: Hey B, I saw a tweet about a COVID-19 treatment involving multiple pills. It mentioned something about combining antivirals and steroids. Do you know anything about this?
+
+B: Hi A, yes, there have been some discussions and studies about using a combination of medications to treat COVID-19. However, the most effective and widely recommended approach remains vaccination. The vaccines have shown to significantly reduce severe illness and hospitalization.
+
+Turn 2
+A: That makes sense. I guess it's easy to get confused with all the information out there. Please help me understand ,this tweet refers to ""a ""pill others  talk about six pills three twice  a day for five days or total 30  Are treatment recommendations becoming a shaggy dog story? So, the focus should still be on getting vaccinated and following the guidelines, right?
+
+B: Absolutely. While treatments are important, prevention through vaccination is our best defense. It's crucial to stay updated with reliable sources and continue encouraging vaccination among our patients.","Please help me understand ,this tweet refers to ""a ""pill others  talk about six pills three twice  a day for five days or total 30  Are treatment recommendations becoming a shaggy dog story?",against
+"Turn 1
+A: I can't believe Trump is endorsing the vaccine now. It feels like a complete betrayal of everything we've been skeptical about.
+B: I get where you're coming from, but maybe he's seen some new evidence or has a different perspective now. We should try to understand his reasoning before jumping to conclusions.
+
+Turn 2
+A: But we've always been wary of Big Pharma and their motives. BIG QUESTION  I had to vote yes.   Why is Pres Trump promoting This?    If he does not denounce this he loses half or more of his base supporters.  We're not a cult that follows blindly!!  Time to Stand against pharma.This just doesn't sit right with me.
+B: I hear you, but maybe it's worth considering that he believes this is the best way to protect people. Let's look into it more and see if there's something we're missing.",against,2024-07-22T01:28:54.176000+00:00,"What was A's stance on COVID19 vaccine when they said ""BIG QUESTION  I had to vote yes.   Why is Pres Trump promoting This?    If he does not denounce this he loses half or more of his base supporters.  We're not a cult that follows blindly!!  Time to Stand against pharma."" during the conversation?","Turn 1
+A: I can't believe Trump is endorsing the vaccine now. It feels like a complete betrayal of everything we've been skeptical about.
+B: I get where you're coming from, but maybe he's seen some new evidence or has a different perspective now. We should try to understand his reasoning before jumping to conclusions.
+
+Turn 2
+A: But we've always been wary of Big Pharma and their motives. BIG QUESTION  I had to vote yes.   Why is Pres Trump promoting This?    If he does not denounce this he loses half or more of his base supporters.  We're not a cult that follows blindly!!  Time to Stand against pharma.This just doesn't sit right with me.
+B: I hear you, but maybe it's worth considering that he believes this is the best way to protect people. Let's look into it more and see if there's something we're missing.",BIG QUESTION  I had to vote yes.   Why is Pres Trump promoting This?    If he does not denounce this he loses half or more of his base supporters.  We're not a cult that follows blindly!!  Time to Stand against pharma.,against

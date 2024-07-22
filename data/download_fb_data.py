@@ -72,7 +72,7 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-GoEmotions_Sentiment-3'
     # current_data_prefix = 'Full-CovidVaccineStance-1'
     # current_data_prefix = 'Full-CovidVaccineStance-2'
-    current_data_prefix = 'Full-CovidVaccineStance-3'
+    # current_data_prefix = 'Full-CovidVaccineStance-3'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:
@@ -93,7 +93,7 @@ if __name__ == '__main__':
                     df = df[~df['statement'].isin(attention_check_strs)]
                     df['Conversation'] = df['statement']
                     try:
-                        df['Statement'] = df['question'].map(lambda x: x.split('"')[1])
+                        df['Statement'] = df['question'].map(lambda x: x.split('said "')[1].split('" during')[0])
                     except Exception as e:                
                         df['Statement'] = df['question'].map(lambda x: extract_within_quotes(x))
                     df['Answer'] = df['response'] #.map(answer_map)
