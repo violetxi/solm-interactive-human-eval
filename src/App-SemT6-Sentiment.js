@@ -55,11 +55,11 @@ function App() {
   };
 
   useEffect(() => {
-    loadCSV('data/set_1.csv')
+    loadCSV('data/set_3.csv')
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
         map(item => ({
-          question: `Was the person intended to be polite when they said "${item.original_data}" in the conversation?`,
+          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -90,8 +90,8 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `Full-Politeness-1-${prolificID}`;
-      await addDoc(collection(db, updatedProlificID), newResponse);      
+      let updatedProlificID = `Full-SemT6_Sentiment-3-${prolificID}`;
+      await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
       // Ensure this is called after logging the response
@@ -145,7 +145,7 @@ function App() {
               </p>
             ))}
             {isAttentionCheck && <p>{currentStatement}</p>}
-          </div>
+          </div>          
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
@@ -156,18 +156,21 @@ function App() {
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   False
-                </button>
+                </button>               
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('Polite')}>
-                  Polite: The speaker intended to be polite
+               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
+                Positive
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('Impolite')}>
-                  Impolite: The speaker intended to be impolite
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
+                Negative
+                </button>               
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
+                Neutral
                 </button>
-                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  Ambiguous: I am not sure if the speaker intended to be polite or impolite
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
+                 Ambiguous
                 </button>
               </>
             )}
