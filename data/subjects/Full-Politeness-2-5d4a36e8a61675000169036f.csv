@@ -1,0 +1,289 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Hey B, I've noticed you and N.I. seem pretty close lately. Are you saying that you have a close or imtimate relationship with N.I.? Is there something going on between you two?
+B: Uh, that's a bit personal, don't you think? We're just good friends, nothing more.
+
+Turn 2
+A: Sorry if I overstepped. I was just curious since you two spend a lot of time together.
+B: It's okay, A. I appreciate your concern, but there's really nothing to worry about. We're just colleagues who get along well.",Polite,2024-07-25T23:00:33.138000+00:00,"Was the person intended to be polite when they said ""Are you saying that you have a close or imtimate relationship with N.I.?"" in the conversation?","Turn 1
+A: Hey B, I've noticed you and N.I. seem pretty close lately. Are you saying that you have a close or imtimate relationship with N.I.? Is there something going on between you two?
+B: Uh, that's a bit personal, don't you think? We're just good friends, nothing more.
+
+Turn 2
+A: Sorry if I overstepped. I was just curious since you two spend a lot of time together.
+B: It's okay, A. I appreciate your concern, but there's really nothing to worry about. We're just colleagues who get along well.",Are you saying that you have a close or imtimate relationship with N.I.?,Polite
+"Turn 1
+A: Hey B, do you have a minute? I'm running into an issue with handling web page redirects. I thought you might have some insights.
+B: Sure, A! What's the specific problem you're facing with the redirects?
+
+Turn 2
+A: Well, I'm trying to redirect users after they submit a form, but it seems like the redirect isn't happening consistently. Sometimes it works, and other times it just stays on the same page. Hey, you seem to know a bit about coding, so I figured you might have an answer here. If I want use code to grab the target of a page known to be a redirect, how would I do that?
+B: That sounds frustrating. It could be a caching issue or maybe something with the way the redirect is being triggered. Are you using JavaScript for the redirect, or is it server-side?",Polite,2024-07-25T22:57:56.935000+00:00,"Was the person intended to be polite when they said ""Hey, you seem to know a bit about coding, so I figured you might have an answer here. If I want use code to grab the target of a page known to be a redirect, how would I do that?"" in the conversation?","Turn 1
+A: Hey B, do you have a minute? I'm running into an issue with handling web page redirects. I thought you might have some insights.
+B: Sure, A! What's the specific problem you're facing with the redirects?
+
+Turn 2
+A: Well, I'm trying to redirect users after they submit a form, but it seems like the redirect isn't happening consistently. Sometimes it works, and other times it just stays on the same page. Hey, you seem to know a bit about coding, so I figured you might have an answer here. If I want use code to grab the target of a page known to be a redirect, how would I do that?
+B: That sounds frustrating. It could be a caching issue or maybe something with the way the redirect is being triggered. Are you using JavaScript for the redirect, or is it server-side?","Hey, you seem to know a bit about coding, so I figured you might have an answer here. If I want use code to grab the target of a page known to be a redirect, how would I do that?",Polite
+"Turn 1
+A: Your edits are completely uneducated and are ruining the quality of this article. Honestly, you shouldn't be allowed to contribute to Wikipedia.
+B: That's a pretty harsh accusation. Just because you disagree with my edits doesn't mean you can call them vandalism. What exactly is your basis for these claims?
+
+Turn 2
+A: The sources you used are unreliable, and your changes don't align with Wikipedia's guidelines. Sorry, almost forgot. After calling me a child uneducated and making remarks to the effect of shouldn't be allowed to post on edit Wikipedia what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism? It's clear you don't understand how to properly edit.
+B: I followed the guidelines and used credible sources. Maybe you should review the policies before making baseless accusations. This isn't about personal attacks; it's about improving the content.",Impolite,2024-07-25T22:56:07.495000+00:00,"Was the person intended to be polite when they said ""Sorry, almost forgot. After calling me a child uneducated and making remarks to the effect of shouldn't be allowed to post on edit Wikipedia what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism?"" in the conversation?","Turn 1
+A: Your edits are completely uneducated and are ruining the quality of this article. Honestly, you shouldn't be allowed to contribute to Wikipedia.
+B: That's a pretty harsh accusation. Just because you disagree with my edits doesn't mean you can call them vandalism. What exactly is your basis for these claims?
+
+Turn 2
+A: The sources you used are unreliable, and your changes don't align with Wikipedia's guidelines. Sorry, almost forgot. After calling me a child uneducated and making remarks to the effect of shouldn't be allowed to post on edit Wikipedia what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism? It's clear you don't understand how to properly edit.
+B: I followed the guidelines and used credible sources. Maybe you should review the policies before making baseless accusations. This isn't about personal attacks; it's about improving the content.","Sorry, almost forgot. After calling me a child uneducated and making remarks to the effect of shouldn't be allowed to post on edit Wikipedia what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism?",Impolite
+"Turn 1
+A: Hey B, I remember you mentioned your interest in dermatology. I am looking for help improving the dermatology content on wikipedia. Would you be willing to help, or do you have any friends interested in derm that would be interested in helping? I'm working on a project to improve medical content on Wikipedia, and I could really use some expertise in that area. Do you think you might be able to help or know someone who could?
+
+B: That sounds like a great project, A! I'd be happy to help out where I can. I also know a couple of colleagues who are really into dermatology and might be interested in contributing. What specific topics are you looking to improve?
+
+Turn 2
+A: That's fantastic, thank you! We're focusing on expanding and updating articles related to common skin conditions and treatments. Any insights or resources you or your colleagues could provide would be incredibly valuable.
+
+B: Perfect, I have some recent research papers and clinical guidelines that could be useful. I'll also reach out to my colleagues and see if they can contribute. Let's set up a time to go over the details.",Polite,2024-07-25T22:54:40.943000+00:00,"Was the person intended to be polite when they said ""I am looking for help improving the dermatology content on wikipedia. Would you be willing to help, or do you have any friends interested in derm that would be interested in helping?"" in the conversation?","Turn 1
+A: Hey B, I remember you mentioned your interest in dermatology. I am looking for help improving the dermatology content on wikipedia. Would you be willing to help, or do you have any friends interested in derm that would be interested in helping? I'm working on a project to improve medical content on Wikipedia, and I could really use some expertise in that area. Do you think you might be able to help or know someone who could?
+
+B: That sounds like a great project, A! I'd be happy to help out where I can. I also know a couple of colleagues who are really into dermatology and might be interested in contributing. What specific topics are you looking to improve?
+
+Turn 2
+A: That's fantastic, thank you! We're focusing on expanding and updating articles related to common skin conditions and treatments. Any insights or resources you or your colleagues could provide would be incredibly valuable.
+
+B: Perfect, I have some recent research papers and clinical guidelines that could be useful. I'll also reach out to my colleagues and see if they can contribute. Let's set up a time to go over the details.","I am looking for help improving the dermatology content on wikipedia. Would you be willing to help, or do you have any friends interested in derm that would be interested in helping?",Polite
+"Turn 1
+A: Hey B, I noticed that some of your sections in the report had quite a few grammatical and spelling errors. Have you thought about using tools like Grammarly or spell check? They can really help clean things up.
+B: I appreciate the suggestion, A. I do use those tools, but sometimes things slip through. I'll make sure to double-check next time.
+
+Turn 2
+A: I understand, but it's really important for our project that everything is polished. I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a duty of sorts to contribute readable English here, that actually might be the problem? Maybe you could spend a bit more time reviewing your work before submitting it?
+B: I'll definitely put in the extra effort. Thanks for the feedback, A. I'll make sure my next contribution is more polished.",Impolite,2024-07-25T22:53:20.789000+00:00,"Was the person intended to be polite when they said ""I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a duty of sorts to contribute readable English here, that actually might be the problem?"" in the conversation?","Turn 1
+A: Hey B, I noticed that some of your sections in the report had quite a few grammatical and spelling errors. Have you thought about using tools like Grammarly or spell check? They can really help clean things up.
+B: I appreciate the suggestion, A. I do use those tools, but sometimes things slip through. I'll make sure to double-check next time.
+
+Turn 2
+A: I understand, but it's really important for our project that everything is polished. I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a duty of sorts to contribute readable English here, that actually might be the problem? Maybe you could spend a bit more time reviewing your work before submitting it?
+B: I'll definitely put in the extra effort. Thanks for the feedback, A. I'll make sure my next contribution is more polished.","I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a duty of sorts to contribute readable English here, that actually might be the problem?",Impolite
+"Turn 1
+A: Hi B, I noticed you've reverted some of my edits several times. Could you explain why? I'm concerned that these reverts might be seen as vandalism.
+
+B: Hi A, I apologize if it seemed that way. My intention was to ensure the information aligns with our guidelines. Could you clarify which edits you're referring to? I want to make sure we're on the same page and following the rules correctly.
+
+Turn 2
+A: Sure, it's the edits on the ""History of Science"" article. I added some recent research findings, but they were removed. I don't follow you I was not aware that my edits were vandalism, I was editing according to what had (it appeared to me) been agreed on the talk page, but additional material had been inserted (that had not been agreed upon) that esentialy said the same thing (and was not supported by the sources) that had caused the origioanl disagrement. I think I may have mis-understood you point, are you saying that I can only revert three times if its vandalism, or that my edits were vandalims? Can you let me know what the issue was?
+
+B: Thanks for pointing that out. I reverted those because the sources didn't meet our reliability standards. Let's discuss how we can include that information with proper citations. I'm here to help resolve this amicably.",Polite,2024-07-25T23:01:16.140000+00:00,"Was the person intended to be polite when they said ""I don't follow you I was not aware that my edits were vandalism, I was editing according to what had (it appeared to me) been agreed on the talk page, but additional material had been inserted (that had not been agreed upon) that esentialy said the same thing (and was not supported by the sources) that had caused the origioanl disagrement. I think I may have mis-understood you point, are you saying that I can only revert three times if its vandalism, or that my edits were vandalims?"" in the conversation?","Turn 1
+A: Hi B, I noticed you've reverted some of my edits several times. Could you explain why? I'm concerned that these reverts might be seen as vandalism.
+
+B: Hi A, I apologize if it seemed that way. My intention was to ensure the information aligns with our guidelines. Could you clarify which edits you're referring to? I want to make sure we're on the same page and following the rules correctly.
+
+Turn 2
+A: Sure, it's the edits on the ""History of Science"" article. I added some recent research findings, but they were removed. I don't follow you I was not aware that my edits were vandalism, I was editing according to what had (it appeared to me) been agreed on the talk page, but additional material had been inserted (that had not been agreed upon) that esentialy said the same thing (and was not supported by the sources) that had caused the origioanl disagrement. I think I may have mis-understood you point, are you saying that I can only revert three times if its vandalism, or that my edits were vandalims? Can you let me know what the issue was?
+
+B: Thanks for pointing that out. I reverted those because the sources didn't meet our reliability standards. Let's discuss how we can include that information with proper citations. I'm here to help resolve this amicably.","I don't follow you I was not aware that my edits were vandalism, I was editing according to what had (it appeared to me) been agreed on the talk page, but additional material had been inserted (that had not been agreed upon) that esentialy said the same thing (and was not supported by the sources) that had caused the origioanl disagrement. I think I may have mis-understood you point, are you saying that I can only revert three times if its vandalism, or that my edits were vandalims?",Polite
+"Turn 1
+A: Hey B, I've noticed a lot of new users suddenly backing your posts. It seems a bit suspicious. Are you creating fake accounts to support your arguments?
+B: What? No, of course not. I can't control who joins the forum or who agrees with me. Maybe they just share my views.
+
+Turn 2
+A: It's just odd that they all appeared at once and only seem to engage with your posts. Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims? It feels like you're trying to manipulate the discussion.
+B: I get why it looks that way, but I promise I'm not doing anything shady. Maybe we should ask the moderators to look into it if you're concerned.",Impolite,2024-07-25T22:55:08.109000+00:00,"Was the person intended to be polite when they said ""Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims?"" in the conversation?","Turn 1
+A: Hey B, I've noticed a lot of new users suddenly backing your posts. It seems a bit suspicious. Are you creating fake accounts to support your arguments?
+B: What? No, of course not. I can't control who joins the forum or who agrees with me. Maybe they just share my views.
+
+Turn 2
+A: It's just odd that they all appeared at once and only seem to engage with your posts. Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims? It feels like you're trying to manipulate the discussion.
+B: I get why it looks that way, but I promise I'm not doing anything shady. Maybe we should ask the moderators to look into it if you're concerned.",Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims?,Impolite
+"Turn 1
+A: Hey B, I came across this term in the text we're translating, and I'm a bit confused. It seems to have multiple translations. Could you help clarify which one fits best here?
+B: Sure, A. Which term are you referring to? And can you give me some context from the text?
+
+Turn 2
+A: It's ""consilium."" In this passage, it seems like it could mean ""advice,"" ""plan,"" or even ""council."" The sentence is about a group of leaders discussing their next steps. I was confused by darkhad being translated as sacred ones, when the usual translation I know is smith or craftsman (kind of). Was I at least correct in being confused?
+B: Ah, I see. Given the context of leaders discussing their next steps, ""council"" would be the most appropriate translation here. It conveys the idea of a formal group making decisions.",Polite,2024-07-25T22:58:51.658000+00:00,"Was the person intended to be polite when they said ""I was confused by darkhad being translated as sacred ones, when the usual translation I know is smith or craftsman (kind of). Was I at least correct in being confused?"" in the conversation?","Turn 1
+A: Hey B, I came across this term in the text we're translating, and I'm a bit confused. It seems to have multiple translations. Could you help clarify which one fits best here?
+B: Sure, A. Which term are you referring to? And can you give me some context from the text?
+
+Turn 2
+A: It's ""consilium."" In this passage, it seems like it could mean ""advice,"" ""plan,"" or even ""council."" The sentence is about a group of leaders discussing their next steps. I was confused by darkhad being translated as sacred ones, when the usual translation I know is smith or craftsman (kind of). Was I at least correct in being confused?
+B: Ah, I see. Given the context of leaders discussing their next steps, ""council"" would be the most appropriate translation here. It conveys the idea of a formal group making decisions.","I was confused by darkhad being translated as sacred ones, when the usual translation I know is smith or craftsman (kind of). Was I at least correct in being confused?",Polite
+"Turn 1
+A: Hey B, I noticed there's a repeated grammatical error in the second section of our report. The word ""affect"" is used instead of ""effect"" a few times.
+B: Oh, thanks for catching that, A! I appreciate your attention to detail. I'll make sure to correct it before we finalize the document.
+
+Turn 2
+A: No problem at all. It's always good to have a fresh pair of eyes on these things. its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?
+B: Absolutely. I'm relieved you spotted it. Better to fix it now than after it's been submitted. Thanks again!",Polite,2024-07-25T23:00:11.939000+00:00,"Was the person intended to be polite when they said ""its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?"" in the conversation?","Turn 1
+A: Hey B, I noticed there's a repeated grammatical error in the second section of our report. The word ""affect"" is used instead of ""effect"" a few times.
+B: Oh, thanks for catching that, A! I appreciate your attention to detail. I'll make sure to correct it before we finalize the document.
+
+Turn 2
+A: No problem at all. It's always good to have a fresh pair of eyes on these things. its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?
+B: Absolutely. I'm relieved you spotted it. Better to fix it now than after it's been submitted. Thanks again!","its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?",Polite
+"Turn 1
+A: I've secured the rights to a few popular dramas from Taiwan and South Korea. How do you think we should approach the localization for the Singaporean market?
+B: That's great news! For the Taiwanese dramas, we should definitely provide subtitles in Traditional Chinese since a significant portion of our audience prefers that. For the Korean dramas, we can offer both Simplified and Traditional Chinese subtitles to cater to different preferences.
+
+Turn 2
+A: That makes sense. Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think? Should we also consider dubbing, or do you think subtitles alone will suffice?
+B: Subtitles should be our primary focus, but we could explore dubbing for the most popular shows. It might be worth conducting a survey to see if there's enough demand for dubbed versions before we invest in that.",Polite,2024-07-25T23:01:48.506000+00:00,"Was the person intended to be polite when they said ""Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think?"" in the conversation?","Turn 1
+A: I've secured the rights to a few popular dramas from Taiwan and South Korea. How do you think we should approach the localization for the Singaporean market?
+B: That's great news! For the Taiwanese dramas, we should definitely provide subtitles in Traditional Chinese since a significant portion of our audience prefers that. For the Korean dramas, we can offer both Simplified and Traditional Chinese subtitles to cater to different preferences.
+
+Turn 2
+A: That makes sense. Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think? Should we also consider dubbing, or do you think subtitles alone will suffice?
+B: Subtitles should be our primary focus, but we could explore dubbing for the most popular shows. It might be worth conducting a survey to see if there's enough demand for dubbed versions before we invest in that.","Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think?",Polite
+"Turn 1
+A: I can't believe you went after C like that. Your criticism was way too harsh and completely unfair.
+B: Seriously, A? You're calling me out? You did the exact same thing to D last month. How is that any different?
+
+Turn 2
+A: That was different. D's actions were genuinely harmful to the community, and I followed the proper channels. You also say that I am participating in a high-tech lynching. Isn't that what you did when you put SamuraiClinton on RFA?
+B: And I believe C's behavior warranted a review too. Just because you don't agree doesn't mean I'm being unfair.",Impolite,2024-07-25T22:59:51.917000+00:00,"Was the person intended to be polite when they said ""You also say that I am participating in a high-tech lynching. Isn't that what you did when you put SamuraiClinton on RFA?"" in the conversation?","Turn 1
+A: I can't believe you went after C like that. Your criticism was way too harsh and completely unfair.
+B: Seriously, A? You're calling me out? You did the exact same thing to D last month. How is that any different?
+
+Turn 2
+A: That was different. D's actions were genuinely harmful to the community, and I followed the proper channels. You also say that I am participating in a high-tech lynching. Isn't that what you did when you put SamuraiClinton on RFA?
+B: And I believe C's behavior warranted a review too. Just because you don't agree doesn't mean I'm being unfair.",You also say that I am participating in a high-tech lynching. Isn't that what you did when you put SamuraiClinton on RFA?,Impolite
+"Turn 1
+A: I noticed you've made quite a few changes to the article I originally wrote. While I appreciate contributions, I'm curious about your experience on this platform. Have you been editing here long?
+B: I understand your concern. I'm relatively new, but I've been researching this topic extensively and thought my edits could improve the accuracy and clarity of the content.
+
+Turn 2
+A: I see. It's just that some of your changes seemed to alter the original intent. There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about? Could you explain your reasoning behind them?
+B: Absolutely. I felt that some sections were a bit outdated and lacked recent developments. I aimed to provide more current information while keeping the original structure intact. I'm open to discussing any specific points you think need revisiting.",Polite,2024-07-25T22:57:30.193000+00:00,"Was the person intended to be polite when they said ""There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about?"" in the conversation?","Turn 1
+A: I noticed you've made quite a few changes to the article I originally wrote. While I appreciate contributions, I'm curious about your experience on this platform. Have you been editing here long?
+B: I understand your concern. I'm relatively new, but I've been researching this topic extensively and thought my edits could improve the accuracy and clarity of the content.
+
+Turn 2
+A: I see. It's just that some of your changes seemed to alter the original intent. There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about? Could you explain your reasoning behind them?
+B: Absolutely. I felt that some sections were a bit outdated and lacked recent developments. I aimed to provide more current information while keeping the original structure intact. I'm open to discussing any specific points you think need revisiting.","There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about?",Polite
+"Turn 1
+A: B, can we talk for a minute? I've been feeling really overwhelmed and isolated lately. I know we're all busy, but I could really use some support. Can we spend more time together, maybe grab lunch or something?
+
+B: I'm sorry to hear that, A. I've noticed you've been a bit off, but I didn't realize it was this bad. I've been caught up with my own stuff too, but I'm here for you. Let's definitely plan for lunch tomorrow.
+
+Turn 2
+A: Thanks, B. It means a lot to me. I just need someone to talk to, you know? It's been tough juggling everything alone. So do I, because, inspite of my 100s of friends and supporters, I'm feeling a little beleaguered and lonely here. If I can hang on in here, can't you at least keep me company?
+
+B: I understand, A. We're in this together. Let's make sure we support each other through this project. We'll get through it, one step at a time.",Ambiguous,2024-07-25T22:51:31.290000+00:00,"Was the person intended to be polite when they said ""So do I, because, inspite of my 100s of friends and supporters, I'm feeling a little beleaguered and lonely here. If I can hang on in here, can't you at least keep me company?"" in the conversation?","Turn 1
+A: B, can we talk for a minute? I've been feeling really overwhelmed and isolated lately. I know we're all busy, but I could really use some support. Can we spend more time together, maybe grab lunch or something?
+
+B: I'm sorry to hear that, A. I've noticed you've been a bit off, but I didn't realize it was this bad. I've been caught up with my own stuff too, but I'm here for you. Let's definitely plan for lunch tomorrow.
+
+Turn 2
+A: Thanks, B. It means a lot to me. I just need someone to talk to, you know? It's been tough juggling everything alone. So do I, because, inspite of my 100s of friends and supporters, I'm feeling a little beleaguered and lonely here. If I can hang on in here, can't you at least keep me company?
+
+B: I understand, A. We're in this together. Let's make sure we support each other through this project. We'll get through it, one step at a time.","So do I, because, inspite of my 100s of friends and supporters, I'm feeling a little beleaguered and lonely here. If I can hang on in here, can't you at least keep me company?",Ambiguous
+"Turn 1
+A: Hey B, it's been a while since I was last active here. Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed? I wanted to check in and see how things have been, especially regarding the situation with Deathrockeru2014. Has everything calmed down?
+
+B: Hi A, welcome back! Things have definitely settled down since you were last here. The moderators stepped in, and we've had some productive discussions. The atmosphere is much more positive now.
+
+Turn 2
+A: That's great to hear. I was a bit worried about the tension when I left. I'm glad the community could work through it. How have you been?
+
+B: I've been good, thanks for asking. It's been nice to see everyone focusing on constructive conversations again. How about you? How have you been during your break?",Polite,2024-07-25T22:55:36.110000+00:00,"Was the person intended to be polite when they said ""Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed?"" in the conversation?","Turn 1
+A: Hey B, it's been a while since I was last active here. Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed? I wanted to check in and see how things have been, especially regarding the situation with Deathrockeru2014. Has everything calmed down?
+
+B: Hi A, welcome back! Things have definitely settled down since you were last here. The moderators stepped in, and we've had some productive discussions. The atmosphere is much more positive now.
+
+Turn 2
+A: That's great to hear. I was a bit worried about the tension when I left. I'm glad the community could work through it. How have you been?
+
+B: I've been good, thanks for asking. It's been nice to see everyone focusing on constructive conversations again. How about you? How have you been during your break?",Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed?,Polite
+"Turn 1
+A: Hi B, I hope you're doing well. I noticed that there hasn't been any response to the questions I posted about the criteria for including certain data in our project. I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look? Could you take a look when you get a chance?
+B: Hi A, sorry about that. I've been swamped with some other tasks. I'll review your questions and get back to you by the end of the day.
+
+Turn 2
+A: Thanks, B. I appreciate it. Just want to make sure we're on the same page before we move forward.
+B: Absolutely, A. I'll make it a priority. Thanks for the reminder!",Polite,2024-07-25T22:59:18.512000+00:00,"Was the person intended to be polite when they said ""I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look?"" in the conversation?","Turn 1
+A: Hi B, I hope you're doing well. I noticed that there hasn't been any response to the questions I posted about the criteria for including certain data in our project. I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look? Could you take a look when you get a chance?
+B: Hi A, sorry about that. I've been swamped with some other tasks. I'll review your questions and get back to you by the end of the day.
+
+Turn 2
+A: Thanks, B. I appreciate it. Just want to make sure we're on the same page before we move forward.
+B: Absolutely, A. I'll make it a priority. Thanks for the reminder!",I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look?,Polite
+"Turn 1
+A: Hi B, I received the report you sent. Thanks for putting it together. I'm currently tied up with some other tasks, but I'll make sure to review it first thing tomorrow morning. I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?
+B: No problem, A. Thanks for letting me know. I appreciate you taking the time to look it over. If you have any questions or need any clarifications, just let me know.
+
+Turn 2
+A: Will do, B. I'll get back to you with any feedback or questions by mid-morning.
+B: Sounds good, A. Have a good evening and talk to you tomorrow.",Polite,2024-07-25T22:52:01.008000+00:00,"Was the person intended to be polite when they said ""I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?"" in the conversation?","Turn 1
+A: Hi B, I received the report you sent. Thanks for putting it together. I'm currently tied up with some other tasks, but I'll make sure to review it first thing tomorrow morning. I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?
+B: No problem, A. Thanks for letting me know. I appreciate you taking the time to look it over. If you have any questions or need any clarifications, just let me know.
+
+Turn 2
+A: Will do, B. I'll get back to you with any feedback or questions by mid-morning.
+B: Sounds good, A. Have a good evening and talk to you tomorrow.","I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?",Polite
+"Turn 1
+A: Thanks for explaining the basics of version control and code diffs, B. Thank you for that, I was having a problem with diffs and the explanation didn't make sense to me. This is the first I have had to do, what is the procedure? Could you walk me through a step-by-step procedure for making my first commit and pushing it to the repository?
+
+B: Sure, A. First, make sure you've made your changes in your local working directory. Then, open your terminal and navigate to your project folder. Run `git status` to see the changes you've made. Next, use `git add .` to stage all your changes. After that, commit your changes with `git commit -m ""Your commit message""`. Finally, push your changes to the remote repository with `git push origin your-branch-name`.
+
+Turn 2
+A: Got it. So, just to confirm, I should run `git status` to check my changes, `git add .` to stage them, `git commit -m ""message""` to commit, and `git push origin branch-name` to push them. Is there anything else I should be aware of?
+
+B: That's correct! Just make sure your commit message is clear and descriptive. Also, if you're working on a shared branch, it's a good practice to pull the latest changes from the remote repository before pushing your own. You can do this with `git pull origin your-branch-name`. This helps avoid conflicts and keeps your branch up to date.",Polite,2024-07-25T22:56:46.646000+00:00,"Was the person intended to be polite when they said ""Thank you for that, I was having a problem with diffs and the explanation didn't make sense to me. This is the first I have had to do, what is the procedure?"" in the conversation?","Turn 1
+A: Thanks for explaining the basics of version control and code diffs, B. Thank you for that, I was having a problem with diffs and the explanation didn't make sense to me. This is the first I have had to do, what is the procedure? Could you walk me through a step-by-step procedure for making my first commit and pushing it to the repository?
+
+B: Sure, A. First, make sure you've made your changes in your local working directory. Then, open your terminal and navigate to your project folder. Run `git status` to see the changes you've made. Next, use `git add .` to stage all your changes. After that, commit your changes with `git commit -m ""Your commit message""`. Finally, push your changes to the remote repository with `git push origin your-branch-name`.
+
+Turn 2
+A: Got it. So, just to confirm, I should run `git status` to check my changes, `git add .` to stage them, `git commit -m ""message""` to commit, and `git push origin branch-name` to push them. Is there anything else I should be aware of?
+
+B: That's correct! Just make sure your commit message is clear and descriptive. Also, if you're working on a shared branch, it's a good practice to pull the latest changes from the remote repository before pushing your own. You can do this with `git pull origin your-branch-name`. This helps avoid conflicts and keeps your branch up to date.","Thank you for that, I was having a problem with diffs and the explanation didn't make sense to me. This is the first I have had to do, what is the procedure?",Polite
+"Turn 1
+A: Hey B, I noticed you haven't been as active in our project meetings lately. Hi, I missed your valued contributions recently. Everything ok? Is everything okay? We really miss your input.
+B: Thanks for checking in, A. I've been dealing with some personal issues that have been taking up a lot of my time and energy. I didn't mean to drop the ball on our project.
+
+Turn 2
+A: I'm sorry to hear that, B. If there's anything I can do to help or if you need some time off, just let me know. Your contributions are really valuable to the team.
+B: I appreciate that, A. I think I just need a couple of days to sort things out. I'll make sure to catch up on what I've missed and get back on track. Thanks for understanding.",Polite,2024-07-25T22:52:30+00:00,"Was the person intended to be polite when they said ""Hi, I missed your valued contributions recently. Everything ok?"" in the conversation?","Turn 1
+A: Hey B, I noticed you haven't been as active in our project meetings lately. Hi, I missed your valued contributions recently. Everything ok? Is everything okay? We really miss your input.
+B: Thanks for checking in, A. I've been dealing with some personal issues that have been taking up a lot of my time and energy. I didn't mean to drop the ball on our project.
+
+Turn 2
+A: I'm sorry to hear that, B. If there's anything I can do to help or if you need some time off, just let me know. Your contributions are really valuable to the team.
+B: I appreciate that, A. I think I just need a couple of days to sort things out. I'll make sure to catch up on what I've missed and get back on track. Thanks for understanding.","Hi, I missed your valued contributions recently. Everything ok?",Polite
+"Turn 1
+A: Hey B, I know I'm not a programmer, but I really want to help with the chatbot setup. Hate to be a bother... but need help with getting the bot running? Anything I can do as a non programmer? Is there anything I can do to contribute?
+
+B: Absolutely, A! Your help would be great. You could start by working on the conversation flow and the content the bot will use. We need to define the questions and responses it should handle.
+
+Turn 2
+A: That sounds doable. Should I draft some sample dialogues and scenarios for the bot to cover?
+
+B: Yes, that would be perfect. Once you have those, we can review them together and I'll handle the technical implementation. Thanks for jumping in!",Polite,2024-07-25T22:58:22.343000+00:00,"Was the person intended to be polite when they said ""Hate to be a bother... but need help with getting the bot running? Anything I can do as a non programmer?"" in the conversation?","Turn 1
+A: Hey B, I know I'm not a programmer, but I really want to help with the chatbot setup. Hate to be a bother... but need help with getting the bot running? Anything I can do as a non programmer? Is there anything I can do to contribute?
+
+B: Absolutely, A! Your help would be great. You could start by working on the conversation flow and the content the bot will use. We need to define the questions and responses it should handle.
+
+Turn 2
+A: That sounds doable. Should I draft some sample dialogues and scenarios for the bot to cover?
+
+B: Yes, that would be perfect. Once you have those, we can review them together and I'll handle the technical implementation. Thanks for jumping in!",Hate to be a bother... but need help with getting the bot running? Anything I can do as a non programmer?,Polite
+"Turn 1
+A: Hey B, I'm really frustrated. Another user keeps removing my contributions to the article on renewable energy. I don't want to start a fight, but it's really discouraging. Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this? Any advice on how to handle this?
+
+B: I understand your frustration, A. First, try reaching out to the user on their talk page. Politely ask for their reasoning behind the removals and see if you can find common ground. Sometimes, a direct but respectful conversation can clear up misunderstandings.
+
+Turn 2
+A: That makes sense. I guess I was just worried it might come off as confrontational. Should I also bring up the issue on the article's talk page to get more input?
+
+B: Yes, that's a good idea. Posting on the article's talk page can provide a neutral ground for discussion and invite other contributors to weigh in. Just make sure to keep the tone collaborative and focus on improving the article together. Good luck!",Polite,2024-07-25T22:54:12.123000+00:00,"Was the person intended to be polite when they said ""Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this?"" in the conversation?","Turn 1
+A: Hey B, I'm really frustrated. Another user keeps removing my contributions to the article on renewable energy. I don't want to start a fight, but it's really discouraging. Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this? Any advice on how to handle this?
+
+B: I understand your frustration, A. First, try reaching out to the user on their talk page. Politely ask for their reasoning behind the removals and see if you can find common ground. Sometimes, a direct but respectful conversation can clear up misunderstandings.
+
+Turn 2
+A: That makes sense. I guess I was just worried it might come off as confrontational. Should I also bring up the issue on the article's talk page to get more input?
+
+B: Yes, that's a good idea. Posting on the article's talk page can provide a neutral ground for discussion and invite other contributors to weigh in. Just make sure to keep the tone collaborative and focus on improving the article together. Good luck!","Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this?",Polite
