@@ -100,7 +100,10 @@ if __name__ == '__main__':
                     df = df[~df['statement'].isin(attention_check_strs)]
                     df['Conversation'] = df['statement']
                     try:
-                        df['Statement'] = df['question'].map(lambda x: x.split('said "')[1].split('" during')[0])
+                        if "in the conversation?" in df['question'].iloc[0]:
+                            df['Statement'] = df['question'].map(lambda x: x.split('said "')[1].split('" in the conversation?')[0])
+                        else:
+                            df['Statement'] = df['question'].map(lambda x: x.split('said "')[1].split('" during')[0])
                     except Exception as e:                
                         df['Statement'] = df['question'].map(lambda x: extract_within_quotes(x))
                     df['Answer'] = df['response'] #.map(answer_map)
