@@ -1,173 +1,141 @@
-Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-36,"Turn 1
-A: Hi, I appreciate your help earlier, but I'm still having trouble finding the product. Could you guide me a bit more?
+Unnamed: 0,situation,conversation,original_data,label_type,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+31,A和B在咖啡馆里聊天，讨论最近的娱乐圈动态。A是一个对娱乐圈有一定了解但不算特别深入的人，而B则是一个资深的娱乐圈粉丝，尤其是TF家族的忠实粉丝。,"第一回合：
+A：最近娱乐圈有什么新鲜事吗？我好像有点跟不上了。
+B：你知道TF家族的三代团成员张极吗？他最近挺火的。
 
-B: Of course! Can you please tell me the name or type of product you're looking for? I'll do my best to assist you further.
+第二回合：
+A：认识袁一琦，每年丝芭选举总要有几个出圈吧。没听说过这个张极，看评论区是三代的，那我算今天第一个认识的tf三代团成员。同样都是内部粉丝多的偶像，没有谁比谁高贵吧而且还没出道。说张比袁火，可能在楼里面比较火吧？看了照片是帅的，但是有些粉丝优越感好强啊。之前的热度是三小只和二代给的，他本人又没有。或者说上了热搜，我不知道。
+B：我就不认识袁一琦，本来就是张极比袁一琦火，张极本身就很吸引人，并没有靠师兄的热度。",认识袁一琦，每年丝芭选举总要有几个出圈吧。没听说过这个张极，看评论区是三代的，那我算今天第一个认识的tf三代团成员。同样都是内部粉丝多的偶像，没有谁比谁高贵吧而且还没出道。说张比袁火，可能在楼里面比较火吧？看了照片是帅的，但是有些粉丝优越感好强啊。之前的热度是三小只和二代给的，他本人又没有。或者说上了热搜，我不知道。,我就不认识袁一琦，本来就是张极比袁一琦火，张极本身就很吸引人，并没有靠师兄的热度。,反对,2,A在第二回合的发言中表现出对张极的知名度和粉丝优越感的质疑，认为张极的热度可能是因为前辈的影响，并且没有特别认可张极比袁一琦更火的说法。因此，A的态度是反对B的观点。,1,True,271
+3,A和B是同事，他们在午休时间一起在公司附近的咖啡馆喝咖啡。A对最近城市里不断新建的楼盘感到困惑和不满，而B则认为这是对土地的更好利用。两人开始讨论这个话题。,"第一回合：
+A：你有没有注意到，最近我们城市里又新开了好几个楼盘？
+B：是啊，我觉得这是对土地的更好利用，毕竟人口在减少，空置的土地也需要被利用起来。
 
-Turn 2
-A: I'm looking for the ""Eco-friendly Bamboo Toothbrush"" but can't seem to locate it in the oral care section.Thanks, but I am now having trouble finding it. Any suggestions?
+第二回合：
+A：一个出生率下降的国家，一个即将人口负增长的社会，各个城市还在不断的推出新楼盘，还有很多僵尸楼盘？我公司门口对面一个有7栋高层烂尾长达10年。一个5线城市这样的烂尾不低于5个，但是新开的楼盘有几十个。我真的不明白，为什么不先把这些烂尾楼盘处理好？
+B：你说的也有道理，但也许新楼盘的设计和设施更符合现代人的需求吧。",一个出生率下降的国家，一个即将人口负增长的社会，各个城市还在不断的推出新楼盘，还有很多僵尸楼盘？我公司门口对面一个有7栋高层烂尾长达10年。一个5线城市这样的烂尾不低于5个，但是新开的楼盘有几十个,新开的楼盘是对土地的更好的利用，弥补人口减少的空缺,反对,2,A在第二回合中明确表达了对新楼盘不断推出的质疑，特别是提到很多烂尾楼盘没有处理好，反对新楼盘是对土地更好利用的观点。,1,True,241
+7,A和B在一家咖啡馆里见面，讨论移民相关的话题。A是一位移民顾问，B是一个对移民感兴趣的朋友。,"第一回合：
+A：最近你有没有考虑过移民的事情？
+B：有啊，我一直在想新加坡和新西兰哪个更好。你有什么建议吗？
 
-B: No problem. Let me check for you. Ah, I see it now. It's actually listed under the ""Sustainable Products"" category. You can find it by navigating to the main menu, selecting ""Sustainable Products,"" and then looking under ""Personal Care.""","Thanks, but I am now having trouble finding it. Any suggestions?",polite,2,"Yes, A was being polite. They expressed appreciation for the help earlier and used polite language when asking for further assistance.",1,True,675
-98,"Turn 1
-A: Hey B! It's been a while. I saw your recent edits on Wikipedia and thought I'd check in. Seeing you back on Wikipedia after a long time. How are you doing, and is everyone you know safe? How have you been holding up with everything going on lately?
-B: Hi A! Great to hear from you. I've been managing okay, just trying to stay busy with some new projects. How about you? How have you been?
+第二回合：
+A：很多朋友问新加坡和新西兰的移民哪个好，其实就一个，新西兰的绿卡是永久回头签，我们戏称为永久不回头签，很多朋友拿到后就再也没会新西兰了，以为他是终身的，不用换国籍，终身新西兰绿卡，享有本体福利和选举权。享受双国籍待遇了。有兴趣联系我们。
+B：听起来新西兰的绿卡确实很有吸引力，特别是可以享受双国籍待遇。你个人更倾向于哪一个？",很多朋友问新加坡和新西兰的移民哪个好，其实就一个，新西兰的绿卡是永久回头签，我们戏称为永久不回头签，很多朋友拿到后就再也没会新西兰了，以为他是终身的，不用换国籍，终身新西兰绿卡，享有本体福利和选举权。享受双国籍待遇了。有兴趣联系我们。,双国籍,支持,2,A在第二回合的发言中详细介绍了新西兰绿卡的优势，特别是提到可以享受双国籍待遇，并且邀请B有兴趣可以联系他们。这表明A对新西兰绿卡的优势持肯定态度，并且支持双国籍的概念。,1,True,225
+36,A和B是两位朋友，他们在一家咖啡馆里见面，讨论最近的政治新闻。A对美国政治非常感兴趣，特别是对民主党有较强的支持。B则对政治新闻了解不多，但愿意听取A的观点。,"第一回合：
+A：嘿，B，你最近有关注美国的中期选举吗？
+B：没有特别关注，最近工作太忙了。有什么重要的新闻吗？
 
-Turn 2
-A: I'm doing alright, thanks. Keeping busy with work and family. It's been a crazy few months, hasn't it? I'm glad to see you're still active on Wikipedia. Anything interesting you're working on?
-B: Yeah, it's been quite a ride. I'm currently diving into some historical articles, trying to improve their accuracy. It's been a good distraction. We should catch up more often!","Seeing you back on Wikipedia after a long time. How are you doing, and is everyone you know safe?",polite,1,"Yes, A was being polite. A expressed concern for B's well-being and the safety of B's acquaintances, which is a considerate and polite way to check in on someone.",1,True,783
-129,"Turn 1
-A: Hi B, I wanted to apologize for the multiple edits on the article about the local wildlife. I've been trying to revert some persistent vandalism but seem to be having trouble getting it right. Could you advise me on the best way to handle this?
+第二回合：
+A：哦，那你可能错过了一些大新闻。《拜登回应美民主党守住参议院控制权：感觉很好》据美国有线电视新闻网 报道，当地时间12日晚，美国民主党在中期选举中获得参议院50席，锁定参议院控制权。 我觉得这对美国的未来是个好消息。
+B：哦，真的吗？那确实是个大新闻。你为什么觉得这是个好消息呢？",《拜登回应美民主党守住参议院控制权：感觉很好》据美国有线电视新闻网 报道，当地时间12日晚，美国民主党在中期选举中获得参议院50席，锁定参议院控制权。,美国民主党在中期选举中获得参议院控制权,支持,2,A在第2轮对话中提到民主党获得参议院控制权，并表示“我觉得这对美国的未来是个好消息”。这表明A对民主党在中期选举中获得参议院控制权持支持态度。,1,True,204
+38,A和B在朝阳·大凌河景区公园散步，聊起了最近的生活和未来的计划。,"第一回合：
+A：最近工作怎么样？有没有什么新的打算？
+B：还不错，最近在考虑是不是要换个环境，甚至有点想移民。你呢，有没有类似的想法？
 
-B: No problem, A. I appreciate your efforts to keep the page clean. When reverting vandalism, it's best to use the ""undo"" function for each specific change. If the vandalism is extensive, you might want to revert to a previous clean version of the page. Does that help?
+第二回合：
+A：最近有个朋友一直在和我说 你真应该移民到澳洲，而不是在国内我也想啊，可是父母爷爷奶奶都在我移民了他们怎么办？好在我当年和墨尔本联合队拿了个冠军，如果哪天我想移民了随时都可以办理！ 2朝阳·大凌河景区 公园
+B：确实，亲戚朋友都在国内，根基也在这里，移民确实不容易。不过有那个冠军，至少你有个后路，随时可以选择。",最近有个朋友一直在和我说 你真应该移民到澳洲，而不是在国内我也想啊，可是父母爷爷奶奶都在我移民了他们怎么办？好在我当年和墨尔本联合队拿了个冠军，如果哪天我想移民了随时都可以办理！ 2朝阳·大凌河景区 公园,不是不想移民，而是亲戚朋友都在国内，根基都在国内；好在以前和墨尔本联合队拿了冠军，以后可以随时办理移民,支持,2,从对话内容来看，A确实表达了对移民的兴趣，但也提到了因为亲戚朋友都在国内，根基也在国内，所以移民并不容易。同时，A提到自己曾经和墨尔本联合队拿过冠军，这为他将来可能的移民提供了一个后路。因此，A的态度是支持移民，但因为家庭和根基的原因，目前还没有决定。,1,True,232
+4,A和B是大学同学，正在宿舍里聊天。最近学校因为疫情封控，大家都不能出校门。A刚接到一个移民中介的电话，觉得很无奈，于是和B分享了这个经历。,"第一回合：
+A：哎，最近学校封控，真是闷得慌。
+B：是啊，天天待在宿舍里，连个透气的地方都没有。你刚才接电话了，谁打来的？
 
-Turn 2
-A: That makes sense, thanks. I got the page fixed. Sorry I had to do it several times on the page but it wouldn't let me revert it to before the IP user vandalized it how do you do that?I was worried about losing any legitimate edits in the process. Is there a way to ensure I don't accidentally remove any good contributions?
+第二回合：
+A：接到个什么移民中介的电话，说可以给我移民到美国欧洲新加坡，马来西亚啥的。我说，能不能帮我移出学校，对方沉默了几秒把电话挂了。。。
+B：哈哈，这些推销真是搞笑，本来已经封控在学校了，还打电话问要不要移民，先解封了在搞这些推销吧。",接到个什么移民中介的电话，说可以给我移民到美国欧洲新加坡，马来西亚啥的。我说，能不能帮我移出学校，对方沉默了几秒把电话挂了。。。,本来已经封控在学校了，还打电话问要不要移民，先解封了在搞这些推销吧。,支持,2,A在第2轮的发言中，通过幽默的方式表达了对移民中介电话的不满和无奈，尤其是提到“能不能帮我移出学校”时，显然是在讽刺当前的封控状态。因此，A的态度与B在第2轮所说的“本来已经封控在学校了，还打电话问要不要移民，先解封了在搞这些推销吧。”是一致的。,1,True,184
+2,A和B在一家咖啡馆里聊天，讨论到最近关于企业上市和投资移民的话题。,"第一回合：
+A：你知道吗，最近有很多企业为了上市都在考虑投资移民的事情。
+B：是啊，听说有些企业家为了让公司更顺利地上市，甚至会选择一些比较冷门的国家移民。你有听说过具体的例子吗？
 
-B: Yes, you can compare the versions before reverting to make sure no valid edits are lost. Also, consider leaving a note in the edit summary explaining the reason for the revert. If you're still unsure, feel free to ask for a second opinion before making the changes.",I got the page fixed. Sorry I had to do it several times on the page but it wouldn't let me revert it to before the IP user vandalized it how do you do that?,polite,2,"Yes, A was being polite. A apologized for the multiple edits and expressed concern about potentially removing legitimate contributions, which shows consideration and politeness.",1,True,1130
-24,"Turn 1
-A: Hi B, I hope you're doing well. I'm working on setting up a new task force and could really use some advice on creating banners and quality charts. Hello im trying to make a task force for the Empire of Brazil with some people but we dont know how to make the actually task force stuff like the banner and how to make the quality chart template to see what class each article is. Im asking if you can help make it since i saw you made WikiProject Dam? Could you help me out?
+第二回合：
+A：当然有，比如张兰为了俏江南香港上市，张兰花了30万美金办了""圣基茨和尼维斯联邦""的投资移民，因为当时的具体情况，张兰外籍身份俏江南才有可能上市。选这个国家是因为快，三个月就可以移民成功。这个加勒比国家至今没与中国建交，面积只有176平方公里，不到北京朝阳区的一半，人口截止去年5.8万人，不到朝阳区的2 ，还没有三里屯街道人多。投资移民确实是一件非常麻烦的事。
+B：哇，没想到为了上市还要考虑这么多因素，真是复杂啊。","为了俏江南香港上市，张兰花了30万美金办了""圣基茨和尼维斯联邦""的投资移民，因为当时的具体情况，张兰外籍身份俏江南才有可能上市。选这个国家是因为快，三个月就可以移民成功。这个加勒比国家至今没与中国建交，面积只有176平方公里，不到北京朝阳区的一半，人口截止去年5.8万人，不到朝阳区的2 ，还没有三里屯街道人多。",投资移民是一件非常麻烦的事,中立,2,根据对话内容，A在第二回合详细描述了张兰为了俏江南香港上市而选择投资移民的具体情况，并提到投资移民的复杂性和麻烦。A的描述中并没有明显的情感倾向，更多的是客观陈述事实。因此，A表现得中立。,1,True,308
+8,A和B是同事，正在办公室里讨论工作。A看起来有些疲惫，B注意到了这一点，关心地问起A的情况。,"第一回合：
+A：唉，今天真是累坏了。
+B：你看起来确实很疲惫，昨晚没休息好吗？
 
-B: Hi A! Sure, I'd be happy to help. For banners, you'll want to use a simple, recognizable design that represents your task force's focus. As for quality charts, it's important to set clear criteria for each quality level. Do you have any specific ideas or examples you're working with?
+第二回合：
+A：本来想今晚10点就睡觉然后没想到的是 来了一份俄罗斯老铁的询价嗯…虽然他不懂产品的规格于是我给他讲解了一下最后…因为中国时间即将接近零点于是我快速做好链接 让他确认好后 就拍下扛不住了 我要睡了拍不拍的 随缘吧晚安。
+B：哇，真是辛苦你了。不过看得出来你很支持俄罗斯老铁的询价，虽然他不懂产品的规格，但你还是耐心地给他讲解了。",本来想今晚10点就睡觉然后没想到的是 来了一份俄罗斯老铁的询价嗯…虽然他不懂产品的规格于是我给他讲解了一下最后…因为中国时间即将接近零点于是我快速做好链接 让他确认好后 就拍下扛不住了 我要睡了拍不拍的 随缘吧晚安。,俄罗斯老铁的询价，让人觉得他不懂产品的规格,支持,2,A在对话中提到他本来打算早睡，但因为俄罗斯老铁的询价而不得不延迟休息时间。虽然A提到对方不懂产品的规格，但他还是耐心地给对方讲解，并快速做好链接让对方确认。这表明A对俄罗斯老铁的询价表现出了一定的支持和耐心。,1,True,212
+18,A和B在一家咖啡馆里，坐在靠窗的桌子旁。窗外阳光明媚，街道上人来人往。两人正在讨论最近的中期选举。,"第一回合：
+A：最近的中期选举结果出来了，你怎么看？
+B：我觉得结果有点出乎意料，很多人都以为共和党会大胜。你之前怎么看的？
 
-Turn 2
-A: Thanks, B! I was thinking of using a color scheme that matches our main project and incorporating an icon related to our topic. For the quality charts, I'm not sure where to start with the criteria. Any tips on what to include?
+第二回合：
+A：选前好几个人问我对中期选举怎么看，我都是说等看结果就是了。因为虽然当时都认为共和党大优，但是我不确信会是这样。因为你要考虑人心。我对姨的批评是他不信人心。但是这是必须要考虑的。人的信念理想是有价值的。
+B：确实，人心是很难预测的。看来你对选举结果保持了中立的态度，这样也挺好的。",选前好几个人问我对中期选举怎么看，我都是说等看结果就是了。因为虽然当时都认为共和党大优，但是我不确信会是这样。因为你要考虑人心。我对姨的批评是他不信人心。但是这是必须要考虑的。人的信念理想是有价值的。,中期选举,中立,2,A在第2轮的发言中提到他对中期选举的态度是“等看结果就是了”，并且虽然很多人认为共和党会大胜，但他并不确信这一点。他强调了人心和信念的重要性，这表明他并没有明确支持或反对任何一方，而是保持了一种观望和中立的态度。,1,True,211
+39,A和B在一家咖啡馆里聊天，讨论最近的国际新闻。A对政治新闻有一定了解，但对美国民主党持中立态度。B对美国政治不太了解，但对新闻感兴趣。,"第一回合：
+A：最近有没有关注国际新闻？
+B：有一些，但不太多。有什么特别值得注意的吗？
 
-B: That sounds like a great start for the banner. For the quality charts, consider including criteria like article completeness, sourcing, formatting, and neutrality. You can look at existing task forces for inspiration. Feel free to share your drafts, and I can give more detailed feedback.",Hello im trying to make a task force for the Empire of Brazil with some people but we dont know how to make the actually task force stuff like the banner and how to make the quality chart template to see what class each article is. Im asking if you can help make it since i saw you made WikiProject Dam?,polite,1,"Yes, A was being polite. A started the conversation with a friendly greeting and expressed hope that B is doing well. A also acknowledged B's expertise by mentioning the WikiProject Dam and politely asked for help.",1,True,1305
-131,"Turn 1
-A: ""I've already fixed those typos you mentioned. I had that fixed before you oranged me, I swears it! :) Are you not familiar with the technique of doubling your edit count using typos? Maybe you should focus on the content instead of nitpicking every little mistake.""
-B: ""I understand, but attention to detail is important. We want this project to be the best it can be, right?""
+第二回合：
+A：《拜登回应美民主党守住参议院控制权：感觉很好》据美国有线电视新闻网 报道，当地时间12日晚，美国民主党在中期选举中获得参议院50席，锁定参议院控制权。
+B：哦，原来如此。这对美国政治有什么影响吗？",《拜登回应美民主党守住参议院控制权：感觉很好》据美国有线电视新闻网 报道，当地时间12日晚，美国民主党在中期选举中获得参议院50席，锁定参议院控制权。,美国民主党,中立,2,A在第2轮的发言中只是引用了新闻报道，并没有表达个人的情感或态度。因此，A表现得中立。,1,True,152
+23,A和B在一家咖啡馆里聊天，讨论最近的新闻和政治话题。咖啡馆里人不多，气氛轻松，两人坐在靠窗的位置，阳光透过窗户洒在桌子上。,"第一回合：
+A：最近美国大选的新闻你看了吗？感觉今年的候选人都挺有意思的。
+B：看了一些，不过感觉没有以前那么吸引人了。你觉得呢？
 
-Turn 2
-A: ""Sure, but it feels like you're just looking for things to criticize. It's frustrating.""
-B: ""I get that, and I'm not trying to be critical. Let's work together to make sure everything is polished. We both want this to succeed.""","I had that fixed before you oranged me, I swears it! :) Are you not familiar with the technique of doubling your edit count using typos?",impolite,1,"Yes, A's comment can be seen as impolite. The phrase ""I had that fixed before you oranged me, I swears it! :)"" comes off as defensive and sarcastic. Additionally, the mention of ""doubling your edit count using typos"" implies that B is being overly critical or nitpicky, which can be interpreted as dismissive of B's efforts to ensure quality.",1,True,626
-104,"Turn 1
-A: Hi B, do you have a moment to chat? Interrobang mentioned that you might benefit from some mentorship while they're away, and I wanted to see if you'd be comfortable with me stepping in to help. Interrobang has asked me if I would also help mentor you when he is not around. I said that I would gladly help out if it was ok with you?
+第二回合：
+A：从08年开始我真的喜欢上看美国大选，这节目贼精彩，当年被奥巴马惊到，这家伙口才真的是一流，获胜的演讲都成了范文，到现在我都还能记得一点点原文。
+B：是啊，奥巴马的演讲确实很有感染力，他的那次胜选演讲真的是经典。你还记得哪些部分？",从08年开始我真的喜欢上看美国大选，这节目贼精彩，当年被奥巴马惊到，这家伙口才真的是一流，获胜的演讲都成了范文，到现在我都还能记得一点点原文。,奥巴马的口才,支持,2,根据对话内容，A在第2轮明确表示对奥巴马的口才非常赞赏，称其演讲为“范文”，并且提到自己至今还能记得部分内容。这些都表明A对奥巴马的口才持支持态度。,1,True,189
+0,A和B在午休时间坐在公司休息室里，A看起来有些心事重重，B注意到了A的情绪变化，决定和A聊聊。,"第一回合：
+A：最近公司里的气氛真是越来越压抑了，大家都在讨论一些让人心烦的事情。
+B：是啊，尤其是那些关于国际形势的讨论，真是让人头疼。你是不是也遇到什么烦心事了？
 
-B: Hi A, sure, I have a few minutes. I appreciate you reaching out. I think having a mentor could be really helpful. What kind of support are you thinking about?
+第二回合：
+A：一个我尊敬的前辈加领导在办公室讨论俄乌冲突，抱怨这场战争让我们的经济变差了，恨俄不争气，没有闪电战把人给拿下，同时还有人幸灾乐祸，欧洲的冬天会冻死人。在他们高谈阔论时，我没有抬头，真希望耳朵也听不见。真的怀念以前的时光，那时候没有人在办公室讨论国际形势，没有人关心政治，大家只一心赚钱，想着去哪玩，不会出门要验码，其实感觉和病毒无关，没有病毒也会走到这一步吧，就是管起来。
+B：我明白你的意思，大家都知道管起来不利于经济的发展，如果没有病毒肯定不会被管起来的。可是现在这种情况，我们也只能尽量适应了。",一个我尊敬的前辈加领导在办公室讨论俄乌冲突，抱怨这场战争让我们的经济变差了，恨俄不争气，没有闪电战把人给拿下，同时还有人幸灾乐祸，欧洲的冬天会冻死人。在他们高谈阔论时，我没有抬头，真希望耳朵也听不见。真的怀念以前的时光，那时候没有人在办公室讨论国际形势，没有人关心政治，大家只一心赚钱，想着去哪玩，不会出门要验码，其实感觉和病毒无关，没有病毒也会走到这一步吧，就是管起来。,都知道管起来不利于经济的发展，如果没有病毒肯定不会被管起来,反对,2,A在对话中表达了对当前办公室气氛和讨论内容的不满，怀念过去没有人讨论国际形势和政治的时光，并提到“其实感觉和病毒无关，没有病毒也会走到这一步吧，就是管起来。”这表明A认为即使没有病毒，当前的管理措施也会存在，暗示对这些措施的不满。因此，A的态度与“管起来不利于经济的发展，如果没有病毒肯定不会被管起来”这一观点是一致的。,1,True,343
+5,A和B是两位足球迷，他们正在咖啡馆里讨论即将到来的卡塔尔世界杯。A刚刚在手机上看到了一些关于卡塔尔世界杯住宿的图片，感到有些意外。B对世界杯也很感兴趣，想了解更多。,"第一回合：
+A：你知道吗，世界杯是足球比赛中最顶级的赛事，四年举办一次，有很多国家都会参与。
+B：当然知道啊，每次世界杯我都特别期待。你最近有关注卡塔尔世界杯的消息吗？
 
-Turn 2
-A: Great to hear. I was thinking we could start with regular check-ins to discuss your projects and any challenges you're facing. We can also go over any specific skills or areas you want to develop. How does that sound to you?
+第二回合：
+A：刚刷到了卡塔尔世界杯的住宿，有点吃惊……总以为在卡塔尔这种土豪遍地的地方，吃住都不会差事，谁知道原来这样……图三是俄罗斯世界杯的酒店，也好不了哪里。
+B：真的吗？我还以为卡塔尔的住宿条件会特别豪华呢。你能给我看看那些图片吗？",刚刷到了卡塔尔世界杯的住宿，有点吃惊……总以为在卡塔尔这种土豪遍地的地方，吃住都不会差事，谁知道原来这样……图三是俄罗斯世界杯的酒店，也好不了哪里。,世界杯是足球比赛中最顶级的赛事，四年举办一次，有很多国家都会参与,中立,2,从对话内容来看，A在第一回合中提到世界杯是足球比赛中最顶级的赛事，四年举办一次，有很多国家都会参与。这是一种客观陈述，没有表现出明显的情感倾向。因此，A在这一部分表现得中立。,1,True,206
+10,A和B是大学同学，已经很久没有见面了。今天他们在咖啡馆偶遇，聊起了各自的生活和对现代社会的看法。,"第一回合：
+A：哇，B，好久不见！你最近怎么样？
+B：还好吧，工作挺忙的。你呢？听说你最近在研究人工智能？
 
-B: That sounds perfect. I could definitely use some guidance on project management and improving my presentation skills. Thanks for offering to help, A. I look forward to working with you.",Interrobang has asked me if I would also help mentor you when he is not around. I said that I would gladly help out if it was ok with you?,polite,1,"Yes, I agree that A was being polite. A asked for B's comfort and consent before stepping in as a mentor, which shows consideration and respect for B's feelings and preferences.",1,True,932
-80,"Turn 1
-A: Hi B, I just finished installing VandalProof and I'm not sure what to do next. I recently was approved for VandalProof, and I installed everything and stuff, but I'm confused on how it is actually run, like what do I click to start it. Could you please help me a little? Could you guide me on how to get started with the basics?
+第二回合：
+A：是啊，人工智能确实很有趣，但有时候我觉得我们这个时代有点讽刺。们我 懒得走路， 以所 会依赖美团外卖，我们懒得见面， 以所 才会有微信的追捧，我们 得懒 学习， 以所 就靠人工智能，最后，我们都懒得去拯救 己自 的爱情了，这是属于这个时代的讽刺！ 们我 可以随时随地 解了 世界新闻，但我们去 远永 读不懂自己的他人的心，因为， 们我 失去了去耐心，失去了等待！
+B：你说得对，A。虽然科技让我们的生活更方便，但也让我们失去了很多珍贵的东西。我们应该更加重视人与人之间的真实联系，尤其是爱情。",们我 懒得走路， 以所 会依赖美团外卖，我们懒得见面， 以所 才会有微信的追捧，我们 得懒 学习， 以所 就靠人工智能，最后，我们都懒得去拯救 己自 的爱情了，这是属于这个时代的讽刺！ 们我 可以随时随地 解了 世界新闻，但我们去 远永 读不懂自己的他人的心，因为， 们我 失去了去耐心，失去了等待！,拯救爱情,支持,2,A在第2轮的发言中表达了对现代科技带来的便利和负面影响的看法，特别是对人与人之间真实联系的失落感到遗憾。A提到“我们都懒得去拯救自己的爱情了”，这表明A对这种现象持批判态度，并认为这是时代的讽刺。因此，A表现出支持拯救爱情的态度。,1,True,309
+16,A和B是同事，正在公司休息室里喝咖啡。A是刚从中国来美国工作的员工，而B是土生土长的美国人。两人正在闲聊，讨论各自的文化差异。,"第一回合：
+A：你知道吗，来美国之后，我发现有很多事情和我在中国的生活完全不一样。
+B：哦？比如说什么呢？我很好奇，能不能分享一下？
 
-B: Hi A, of course! First, open VandalProof and log in with your credentials. Once you're in, you'll see the dashboard. From there, you can start by setting up your monitoring preferences. Click on the ""Settings"" icon in the top right corner to customize your alerts and filters.
+第二回合：
+A：前几天和Mark吃饭，他还问我来美国最大的文化冲击是什么。我说，前几天你们大选对我来说是个冲击，因为选票对我来说是个不存在的东西，甚至说我很难想象你们真的是选票的一部分。当然，我就算手中有选票又怎样，选的那也是同一个窝里的，what's the point 他笑了，我也笑了。但我们不是同一种笑。
+B：哈哈，这确实是个很有趣的观点。其实很多美国人也有类似的感觉，觉得选票并不能真正改变什么。文化差异真是让人开眼界啊。",前几天和Mark吃饭，他还问我来美国最大的文化冲击是什么。我说，前几天你们大选对我来说是个冲击，因为选票对我来说是个不存在的东西，甚至说我很难想象你们真的是选票的一部分。当然，我就算手中有选票又怎样，选的那也是同一个窝里的，what's the point 他笑了，我也笑了。但我们不是同一种笑。,文化冲击,中立,2,A在描述文化冲击时，提到了对选票和选举制度的看法，表达了一些困惑和怀疑，但并没有表现出强烈的情感倾向。A的态度更像是中立的观察和思考，而不是强烈的批评或赞扬。,1,True,284
+33,A和B是大学同学，正在校园里的咖啡馆里讨论明天的计划。A看起来非常疲惫和沮丧，而B则试图安慰和帮助A。,"第一回合：
+A：唉，明天的安排真是让我头疼。
+B：怎么了？有什么特别麻烦的事情吗？
 
-Turn 2
-A: Thanks, B! I see the dashboard now. What should I focus on after setting up my preferences?
+第二回合：
+A： 一想到明天要早起冲到银行交钱再去学校签到再跑去移民局大排长队再让我妈给我补办卡再他妈去图书馆写trabajo真的很想立刻死亡。移民局的效率真是太低了，每次去都要排好几个小时的队，真是浪费时间。
+B：听起来确实很糟糕。移民局的效率问题确实让人抓狂。要不我明天陪你一起去，至少有个伴会好一些。",一想到明天要早起冲到银行交钱再去学校签到再跑去移民局大排长队再让我妈给我补办卡再他妈去图书馆写trabajo真的很想立刻死亡,移民局,反对,2,根据对话内容，A在第2轮明确表达了对移民局效率低下的不满，称“移民局的效率真是太低了，每次去都要排好几个小时的队，真是浪费时间”。这表明A对移民局持反对态度。,1,True,196
+32,A和B是大学同学，正在宿舍里讨论最近的电影和政治新闻。A对最近的国际新闻感到非常不满，而B则试图缓和气氛，转移话题到他们都喜欢的《星球大战》系列电影上。,"第一回合：
+A：你知道吗，最近的国际新闻真是让我无语。那些领导人简直像在玩游戏一样。
+B：是啊，最近的新闻确实让人很无奈。不过，咱们还是聊点轻松的吧。你最近看了什么好电影吗？
 
-B: Great! After setting your preferences, head over to the ""Monitor"" tab. This is where you'll see real-time updates on the content you're tracking. You can review flagged items and take actions like approving, editing, or reporting them. If you need more detailed guidance, the ""Help"" section has some useful tutorials and FAQs.","I recently was approved for VandalProof, and I installed everything and stuff, but I'm confused on how it is actually run, like what do I click to start it. Could you please help me a little?",polite,1,"Yes, A was being polite. They used phrases like ""Could you please help me a little?"" which indicates a polite request for assistance.",1,True,1053
-101,"Turn 1
-A: Hi B, I hope you're doing well! I wanted to let you know that I'll be traveling to Outer Mongolia next month for a mix of work and leisure. I'll be visiting Ulaanbaatar, the Gobi Desert, and a few other spots. If you happen to be in the area or have any plans to visit, it would be great to catch up in person. Let me know!
+第二回合：
+A：我真的蚌埠住了 凭什么天天给你玩俄罗斯转盘 无语 还是对方的首领 呃呃呃 就这样领导国家 掷骰子执政是吧 就很离谱 真死了咋办很久没有坐在电影院觉得自己什么都学不到只觉得难受了 不如坐在寝室看星战。
+B：哈哈，你说得对。其实我也觉得《星球大战》更有意思，至少能让人放松一下。你最喜欢哪一部？",我真的蚌埠住了 凭什么天天给你玩俄罗斯转盘 无语 还是对方的首领 呃呃呃 就这样领导国家 掷骰子执政是吧 就很离谱 真死了咋办很久没有坐在电影院觉得自己什么都学不到只觉得难受了 不如坐在寝室看星战,星战,支持,2,A在第2轮的发言中提到“很久没有坐在电影院觉得自己什么都学不到只觉得难受了 不如坐在寝室看星战”，这表明A对当前的电影感到失望，认为看《星球大战》更好。因此，A表现出支持《星球大战》的态度。,1,True,242
+28,A和B是同事，A负责国际销售，B负责国内市场。两人正在办公室里讨论当天的工作进展。A显得有些疲惫，而B则显得精神饱满。,"第一回合：
+A：今天真是累坏了，刚处理完一个俄罗斯客户的询价。
+B：哦？俄罗斯客户？他们一般都挺难搞的，怎么回事？
 
-B: Hi A, that sounds like an amazing trip! I don't have any immediate plans to visit Outer Mongolia, but it's definitely on my bucket list. I'll check my schedule and see if I can make it work. It would be fantastic to meet up and discuss our project in person.
+第二回合：
+A：本来想今晚10点就睡觉然后没想到的是 来了一份俄罗斯老铁的询价嗯…虽然他不懂产品的规格于是我给他讲解了一下最后…因为中国时间即将接近零点于是我快速做好链接 让他确认好后 就拍下扛不住了 我要睡了拍不拍的 随缘吧晚安。
+B：哇，真是辛苦你了。希望他能尽快确认吧，早点休息。",本来想今晚10点就睡觉然后没想到的是 来了一份俄罗斯老铁的询价嗯…虽然他不懂产品的规格于是我给他讲解了一下最后…因为中国时间即将接近零点于是我快速做好链接 让他确认好后 就拍下扛不住了 我要睡了拍不拍的 随缘吧晚安。,俄罗斯买家,中立,2,A在描述与俄罗斯客户的互动时，虽然提到了一些困难和疲惫，但并没有表现出明显的负面情绪或抱怨。A只是陈述了事实，说明了自己处理询价的过程和时间上的紧迫感。因此，A的态度可以被认为是中立的。,1,True,202
+14,A和B是两位老朋友，他们在一个周末的下午相约在咖啡馆见面。A最近在网上看到很多关于人口问题的讨论，心里有些疑惑，想和B聊聊。B是一位社会学研究者，对人口统计有一定的了解。,"第一回合：
+A：B，你最近有没有关注到网上关于人口问题的讨论？我看到很多人说出生率在下降，甚至有人说人口负增长了。
+B：是的，我也注意到了。其实，统计数据确实显示出生率在下降，人口负增长也不是空穴来风。很多年轻人选择不生孩子，或者只生一个孩子，这种趋势在城市里尤其明显。
 
-Turn 2
-A: That would be wonderful, B! I'll be in Ulaanbaatar from the 10th to the 15th, and then heading to the Gobi Desert until the 20th. I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet? If you can make it, we could coordinate a meeting during those dates. Looking forward to it!
+第二回合：
+A：出生率下降，人口负增长是真实的统计吗？微博上动不动五个八个孩子，二孩三孩遍地都是，人口红利明明可持续性发展。没有说孩子多不好的意思，年轻人多贡献社保挺好。我觉得现在很多微博上的人选择丁克，这和出生率下降的统计相符合，人口红利将消失的态度让我有点担心。
+B：确实，社交媒体上的现象有时候会给人一种错觉，毕竟那些多孩家庭更容易引起关注和讨论。但从整体数据来看，选择丁克或者少生孩子的年轻人越来越多，这对未来的社会结构和经济发展确实是一个挑战。",出生率下降，人口负增长是真实的统计吗？微博上动不动五个八个孩子，二孩三孩遍地都是，人口红利明明可持续性发展。没有说孩子多不好的意思，年轻人多贡献社保挺好。,现在很多微博上的人选择丁克，与出生率下降的统计相符合，人口红利将消失,反对,2,A在第2轮的发言中提到“微博上动不动五个八个孩子，二孩三孩遍地都是，人口红利明明可持续性发展”，这表明A认为社交媒体上的现象与统计数据不一致，并且A对人口红利的可持续性持乐观态度。A还提到“没有说孩子多不好的意思，年轻人多贡献社保挺好”，这进一步表明A对多孩家庭和年轻人贡献社保持正面看法。因此，A表现得反对现在很多微博上的人选择丁克，与出生率下降的统计相符合，人口红利将消失的态度。,1,True,364
+2,A和B在一家咖啡馆里聊天，讨论最近的商业新闻和投资移民的相关话题。,"第一回合：
+A：你听说了吗？最近有很多企业家为了公司上市选择了投资移民。
+B：是啊，听说这种方式可以加快上市进程。不过，具体是怎么操作的呢？
 
-B: Thanks for the details, A. I'll see if I can arrange my schedule to join you in Ulaanbaatar. It would be a great opportunity to collaborate and also enjoy some time exploring the area together. I'll keep you posted!","I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet?",polite,2,"Yes, I agree. A was being polite by providing detailed information about their travel schedule and expressing a willingness to coordinate a meeting with B. This shows consideration and a desire to accommodate B's availability.",1,True,1137
-71,"Turn 1
-A: Hey B, I've been thinking about the situation with Alex. Given the recent improvements and the feedback we've received, I believe the block we placed on his project access might no longer be necessary. What are your thoughts on lifting it?
-
-B: I understand where you're coming from, A. Alex has shown some progress, but I'm still a bit cautious. Do you have specific examples of his improvements that we can discuss?
-
-Turn 2
-A: Absolutely. For instance, his recent contributions to the marketing strategy were well-received, and he's been more proactive in team meetings. Plus, the issues that led to the block seem to have been resolved. The block seems to no longer be necessary or productive. If I were to bring a motion to get them unblocked, would you support it? I think it's worth reconsidering.
-
-B: Those are good points. If we can ensure there's a clear plan for monitoring his performance moving forward, I'd be open to discussing lifting the block. Let's set up a meeting to go over the details and make a final decision.","The block seems to no longer be necessary or productive. If I were to bring a motion to get them unblocked, would you support it?",polite,2,"Yes, A was being polite. A provided specific examples of Alex's improvements and respectfully asked for B's support in reconsidering the block, showing consideration for B's opinion and a willingness to discuss further.",1,True,1042
-93,"Turn 1
-A: Hi Thunderbrand, I noticed my image has been flagged for deletion. Hi Thunderbrand, thanks for letting me know that the image I uploaded is on IFD. Can I ask though, why is the image being deleted? Could you please explain why it's on the IFD list?
-
-B: Hi A, sure thing. The image was flagged because it doesn't comply with our platform's copyright policy. It appears to be a non-original work without proper attribution or permission from the original creator.
-
-Turn 2
-A: I see, thanks for the clarification. Is there a way I can provide the necessary attribution or permission to keep the image?
-
-B: Yes, if you can provide verifiable proof of permission from the original creator or proper attribution that meets our guidelines, we can reconsider the deletion. Please upload the documentation or attribution details to the image's page.","Hi Thunderbrand, thanks for letting me know that the image I uploaded is on IFD. Can I ask though, why is the image being deleted?",polite,1,"Yes, A was being polite. They thanked Thunderbrand for the information and asked their question in a respectful manner.",1,True,849
-123,"Turn 1
-A: Thank you so much for the training session, B. I really appreciate your guidance.
-B: You're welcome, A. I'm glad I could help. How are you feeling about everything so far?
-
-Turn 2
-A: I'm feeling more confident, but I know I'll have questions as I get more into the work. Thank you much! May I call upon you if I make mistakes or need help, then, please? Would it be alright if I reach out to you for further help or clarification?
-B: Absolutely, A. Don't hesitate to ask. We're all here to support each other, and I'm happy to assist whenever you need it.","Thank you much! May I call upon you if I make mistakes or need help, then, please?",polite,2,"Yes, A was being polite. A expressed gratitude for the training session and asked for permission to seek further help in a courteous manner.",1,True,565
-11,"Turn 1
-A: Hi B, I hope you're doing well. I wanted to discuss our project details, but my office restricts IRC access during work hours. I'm in Japan timezone - and at work now - and most IRC is totally blocked through work proxies. Can we do a weekend? Would it be possible for us to schedule a discussion over the weekend when I have more flexibility?
-
-B: Hi A, I'm doing well, thanks! I understand your situation. I'm generally free on weekends. How about we set a time for Saturday morning your time? That should be Friday evening for me.
-
-Turn 2
-A: That sounds perfect, B. Let's plan for Saturday at 10 AM my time, which should be 6 PM your time. Does that work for you?
-
-B: Yes, that works for me. I'll mark it on my calendar. Looking forward to our discussion. Thanks for accommodating the time difference!",I'm in Japan timezone - and at work now - and most IRC is totally blocked through work proxies. Can we do a weekend?,polite,1,"Yes, A was being polite. A explained their situation regarding the restrictions at work and proposed an alternative time for the discussion, showing consideration for B's schedule as well.",1,True,813
-21,"Turn 1
-A: ""Hey B, what's up? You seem tense.""
-B: ""A, we need to talk. Your constant interruptions during meetings and missing deadlines are really affecting the team. I've already reported this, but nothing's changed.""
-
-Turn 2
-A: ""I didn't realize it was that big of a deal. You really want off here, dont you? I've already posted the incident on the incident board and you still are keeping it up?I thought I was just being myself.""
-B: ""It's a big deal for all of us. We need you to be more considerate and reliable. Can you work on that, please?""","You really want off here, dont you? I've already posted the incident on the incident board and you still are keeping it up?",impolite,2,"Yes, A's response can be considered impolite. Instead of acknowledging B's concerns and showing a willingness to improve, A dismisses the issue and implies that B has ulterior motives (""You really want off here, don't you?""). This response is defensive and does not address the problem constructively.",1,True,548
-120,"Turn 1
-A: Hi B, I'm a bit confused about the guidelines for using images in our project. Are there different rules for self-created images versus those we source from elsewhere?
-
-B: Hi A! Yes, there are different rules. Self-created images are generally easier to use because you own the rights. For sourced images, you need to ensure they are either in the public domain or have a compatible license, and you must provide proper attribution.
-
-Turn 2
-A: Got it, thanks! I hope I don't upset anyone by jumping in univited, but why are self-created images any different than those found elsewhere so long as they comply with all of the non-free content criteria? Is this caveat hiding in a talk page archive somewhere? So, if I create an image myself, do I need to add any specific tags or information when uploading it?
-
-B: Yes, when you upload a self-created image, you should tag it as ""self-created"" and include a brief description. It's also good practice to mention that you are the author and specify the license under which you're releasing it.","I hope I don't upset anyone by jumping in univited, but why are self-created images any different than those found elsewhere so long as they comply with all of the non-free content criteria? Is this caveat hiding in a talk page archive somewhere?",polite,2,"Yes, A was being polite. A expressed concern about potentially upsetting others by ""jumping in uninvited,"" which indicates a consideration for others' feelings and a polite approach to the conversation.",1,True,1050
-39,"Turn 1
-A: Hi B, I hope you're well. I applied for the vandalism prevention role a while back, but I haven't received any updates. Hi, I was removed from the request for approval list at the vandalproof, and not put on either the approved or denied lists. Could you tell me why, please? Could you let me know the status of my application?
-
-B: Hi A, thanks for reaching out. I apologize for the delay. We've been reviewing a high volume of applications, and yours is still under consideration. I'll check on its current status and get back to you shortly.
-
-Turn 2
-A: Thank you for the update, B. Is there anything else I can provide or clarify to help expedite the process?
-
-B: I appreciate your offer, A. At this point, we have all the information we need. I'll prioritize your application and ensure you receive a response within the next few days. Thanks for your patience.","Hi, I was removed from the request for approval list at the vandalproof, and not put on either the approved or denied lists. Could you tell me why, please?",polite,1,"Yes, A was being polite. A expressed hope for B's well-being and asked for clarification in a respectful manner without showing frustration or impatience.",1,True,874
-8,"Turn 1
-A: Hi B, thanks again for helping with my username change! I just noticed that my new username is already taken on the Swedish Wikipedia. Could you advise me on what to do next?
-
-B: Hi A, you're welcome! For the issue on the Swedish Wikipedia, you can request a global rename to ensure your username is consistent across all Wikimedia projects. I can guide you through the process if you'd like.
-
-Turn 2
-A: That would be great, thank you! Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that? Could you please let me know how to start the global rename request?
-
-B: Sure! You can start by visiting the Global Rename Request page on Meta-Wiki. There, you'll need to fill out a form with your current username and the desired new username. If you encounter any issues, feel free to reach out to me for further assistance.","Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that?",polite,2,"Yes, A was being polite. A expressed gratitude for the help received and politely asked for further assistance regarding the username issue on Swedish Wikipedia.",1,True,993
-33,"Turn 1
-A: Thanks for the initial feedback! I was wondering, how long should the introductory section of an article be?
-
-B: Great question! The introduction should be concise but informative, typically around 3-4 paragraphs. It should provide a clear overview of the topic without going into too much detail.
-
-Turn 2
-A: That makes sense. Ah, thanks! Btw, IS THERE any kind of guideline for FAs in regard to lede length somewhere? Should I include any specific elements in the introduction?
-
-B: Yes, it's good to include a brief summary of the topic, its significance, and any key points that will be covered in the article. This helps set the stage for the reader and provides context for the rest of the content.","Ah, thanks! Btw, IS THERE any kind of guideline for FAs in regard to lede length somewhere?",polite,2,"Yes, A was being polite. The use of ""Ah, thanks!"" indicates gratitude, and the follow-up question is asked in a courteous manner.",1,True,712
-54,"Turn 1
-A: Hey B! Long time no see on here. Hey how are you? Now I can't find you online, where are you lol? Did you get abducted by aliens or something? 😜 Everything okay?
-
-B: Haha, no alien abductions, I promise! Just been swamped with work and needed a bit of a digital detox. How have you been?
-
-Turn 2
-A: Phew, glad to hear it! I was starting to worry. I've been good, just missing our chats. Anything exciting happen during your detox?
-
-B: Not much, just catching up on some reading and enjoying the offline world. But I missed our chats too! Let's catch up soon.","Hey how are you? Now I can't find you online, where are you lol?",polite,1,"Yes, A was being polite. A expressed concern for B's well-being and showed interest in B's whereabouts in a friendly and humorous manner.",1,True,568
-125,"Turn 1
-A: Hey B! It's been a while since we last saw you in the editing community. Your meticulous edits and insightful comments are really missed by everyone. How have you been?
-
-B: Hi A! Thanks for reaching out. I've been swamped with work and personal stuff lately, but I'm doing okay. I miss the community too. How's everything going there?
-
-Turn 2
-A: Totally understand, life can get pretty hectic. The community is doing well, but it's just not the same without your contributions. Those of us who've been here the whole time are pretty incredulous about it also. :) We miss your fine editing style and hope you come back sometime -- keep looking in on us now and then, at least? We'd love to have you back whenever you're ready, even if it's just to pop in and say hi.
-
-B: That means a lot, A. I'll definitely try to make some time to rejoin and catch up with everyone. Thanks for the encouragement!","Those of us who've been here the whole time are pretty incredulous about it also. :) We miss your fine editing style and hope you come back sometime -- keep looking in on us now and then, at least?",polite,2,"Yes, A was being polite. A expressed understanding of B's situation, complimented B's contributions, and warmly invited B to return whenever possible.",1,True,906
-27,"Turn 1
-A: Wow, B, these findings are incredible! I can see how much effort you put into this report. I'm currently swamped with the final touches on our project, but I can't wait to dive into this later. An excellent news, indeed! I don't have time to have a look at it right now (busy with the fr FA), but do they have something on Gndevank? By the way, did you come across anything related to Gndevank in your research?
-
-B: Thanks, A! I'm glad you find it exciting. I understand you're busy, no rush. Actually, yes, I did find some intriguing references to Gndevank. There's a section in the report that discusses its historical significance and some newly uncovered artifacts. I think you'll find it quite fascinating.
-
-Turn 2
-A: That's fantastic to hear! Gndevank has always been a point of interest for me. I'll make sure to prioritize that section when I get a chance. Thanks for pointing it out, B. Your work always brings new insights to our field.
-
-B: I'm happy to help, A. I look forward to hearing your thoughts on it once you've had the time to review. Good luck with your project, and let me know if you need any assistance.","An excellent news, indeed! I don't have time to have a look at it right now (busy with the fr FA), but do they have something on Gndevank?",polite,1,"Yes, A was being polite. Despite being busy, A expressed excitement and appreciation for B's work, and showed interest in a specific part of the report, which indicates politeness and respect for B's efforts.",1,True,1137
+第二回合：
+A：其实，投资移民是一件非常麻烦的事。为了俏江南香港上市，张兰花了30万美金办了""圣基茨和尼维斯联邦""的投资移民，因为当时的具体情况，张兰外籍身份俏江南才有可能上市。选这个国家是因为快，三个月就可以移民成功。这个加勒比国家至今没与中国建交，面积只有176平方公里，不到北京朝阳区的一半，人口截止去年5.8万人，不到朝阳区的2 ，还没有三里屯街道人多。
+B：哇，原来背后有这么多复杂的操作，真是大开眼界。","为了俏江南香港上市，张兰花了30万美金办了""圣基茨和尼维斯联邦""的投资移民，因为当时的具体情况，张兰外籍身份俏江南才有可能上市。选这个国家是因为快，三个月就可以移民成功。这个加勒比国家至今没与中国建交，面积只有176平方公里，不到北京朝阳区的一半，人口截止去年5.8万人，不到朝阳区的2 ，还没有三里屯街道人多。",投资移民是一件非常麻烦的事,中立,2,A在第2轮的发言中详细描述了张兰为了俏江南香港上市而选择投资移民的复杂过程，包括选择圣基茨和尼维斯联邦的原因、该国的基本情况以及移民的时间和成本。这些信息表明A认为投资移民是一个复杂且麻烦的过程。,1,True,279
