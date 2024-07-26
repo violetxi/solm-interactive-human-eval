@@ -57,7 +57,7 @@ function App() {
   useEffect(() => {
     loadCSV('data/set_1.csv')
       .then((data) => {
-        const questionsData = datafilter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
         .map(item => ({
           question: `当一个人在对话中说"${item.original_data}"时，他们的情感是什么？`,
           statement: item.conversation,
