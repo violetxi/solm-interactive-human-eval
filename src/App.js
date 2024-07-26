@@ -57,9 +57,9 @@ function App() {
   useEffect(() => {
     loadCSV('data/set_1.csv')
       .then((data) => {
-        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        const questionsData = datafilter(item => item.original_data !== undefined && item.original_data.trim() !== '')
         .map(item => ({
-          question: `当一个人在对话中说"${item.original_data}"时，他对于这个话题："${item.label_type}"的态度是,`,
+          question: `当一个人在对话中说"${item.original_data}"时，他们的情感是什么？`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -90,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `CSTANCE-ch-1-${prolificID}`;
+      let updatedProlificID = `Full-SIMS-ch-1-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('响应已记录:', response);
 
@@ -156,22 +156,22 @@ function App() {
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   错误
-                </button>                
+                </button>
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('反对')}>
-                  反对
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('积极')}>
+                  积极的
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('支持')}>
-                  支持
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('消极')}>
+                  消极的
                 </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('中立')}>
-                  中立
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('中性')}>
+                  中性的
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('模糊')}>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
                   模糊
-                </button> 
+                </button>
               </>
             )}
           </div>

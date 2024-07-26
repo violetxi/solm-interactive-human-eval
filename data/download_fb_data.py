@@ -17,7 +17,10 @@ ATTENTION_CHECK_QA = {
     "1 + 1 = 2": "True",
     "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.": "False",
     "Please select 'False'": "False",
-    "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.": "True"
+    "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.": "True",
+    "玛丽对她的假期感到兴奋，但由于工作不得不取消。玛丽对这种情况可能感到兴奋。": "False",
+    "约翰认为疫苗在预防疾病方面是有效的。约翰可能会支持疫苗接种计划。": "True",
+    "请选择‘错误’": "False",
 }
 
 
@@ -81,7 +84,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-SemT6_Sentiment-3'
     # current_data_prefix = 'Full-Politeness-1'
     # current_data_prefix = 'Full-Politeness-2'
-    current_data_prefix = 'Full-Politeness-3'
+    # current_data_prefix = 'Full-Politeness-3'
+    current_data_prefix = 'CSTANCE-ch-1'
 
     attention_check_strs = list(ATTENTION_CHECK_QA.keys())
     for subject_id in collection_names:

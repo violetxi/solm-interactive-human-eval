@@ -33,9 +33,10 @@ const shuffleArray = (array) => {
 };
 
 const attentionChecks = [
-  { question: "请确定以下陈述是正确还是错误。", statement: "1 + 1 = 2", note: "你不应该选择“模棱两可”。", correctAnswer: "True", isAttentionCheck: true },
-  { question: "请确定以下陈述是正确还是错误。", statement: "请选择“正确”。", note: "你不应该选择“模棱两可”。", correctAnswer: "True", isAttentionCheck: true },
-  { question: "请确定以下陈述是正确还是错误。", statement: "请选择“错误”。", note: "你不应该选择“模棱两可”。", correctAnswer: "False", isAttentionCheck: true }
+  { question: "请确定以下陈述是正确还是错误的。", statement: "1 + 1 = 2", note: "", correctAnswer: "正确", isAttentionCheck: true },
+  { question: "请确定以下陈述是正确还是错误的。", statement: "玛丽对她的假期感到兴奋，但由于工作不得不取消。玛丽对这种情况可能感到兴奋。", note: "", correctAnswer: "错误", isAttentionCheck: true },
+  { question: " ", statement: "请选择‘错误’", note: "", correctAnswer: "错误", isAttentionCheck: true },
+  { question: "请确定以下陈述是正确还是错误的。", statement: "约翰认为疫苗在预防疾病方面是有效的。约翰可能会支持疫苗接种计划。", note: "", correctAnswer: "正确", isAttentionCheck: true }
 ];
 
 function App() {
@@ -54,10 +55,11 @@ function App() {
   };
 
   useEffect(() => {
-    loadCSV('data/interactive.csv')
+    loadCSV('data/set_1.csv')
       .then((data) => {
-        const questionsData = data.map(item => ({
-          question: `当一个人在对话中说"${item.original_data}"时，他们的情感是什么？`,
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        .map(item => ({
+          question: `当一个人在对话中说"${item.original_data}"时，他对于这个话题："${item.label_type}"的态度是,`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -88,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `SIMS-ch-1-${prolificID}`;
+      let updatedProlificID = `CSTANCE-ch-1-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('响应已记录:', response);
 
@@ -154,25 +156,22 @@ function App() {
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   错误
-                </button>
-                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  模棱两可
-                </button>
+                </button>                
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
-                  积极的
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('反对')}>
+                  反对
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
-                  消极的
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('支持')}>
+                  支持
                 </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                  中立的
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('中立')}>
+                  中立
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                  模棱两可
-                </button>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('模糊')}>
+                  模糊
+                </button> 
               </>
             )}
           </div>

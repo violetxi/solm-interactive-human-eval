@@ -64,7 +64,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
 
   const validateComprehensionTest = () => {
     const correctAnswers = {
-      "comprehension-1": "true",
+      "comprehension-1": "false",
       "comprehension-2": "false",
       "comprehension-3": "true",      
     };
@@ -116,7 +116,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
             type="text"
             value={prolificID}
             onChange={handleProlificIDChange}
-            placeholder="请输入您的Prolific ID [如果您正在测试实验，只需输入1]"
+            placeholder="请输入您的Prolific ID ..."
             className="form-control"
             required
           />
@@ -130,11 +130,11 @@ const Instructions = ({ onComplete, setProlificID }) => {
           <h2>说明 1/2：简介</h2> 
           <p>欢迎参加此情感识别实验！</p>
           <p>
-            在这项研究中，您将会看到一段对话，其中包含一个陈述。您的任务是
-            识别该陈述的情感是<span style={{color: 'blue'}}>积极的</span>、
-            <span style={{color: 'red'}}>消极的</span>还是<span style={{color: 'green'}}>中立的</span>。
+            在这项研究中，您将会看到一个话题和一段对话，其中包含一个陈述。您的任务是识别该陈述的想法是
+            <span style={{color: 'blue'}}>反对</span>、
+            <span style={{color: 'red'}}>支持</span> 还是 <span style={{color: 'green'}}>中立</span>。
           </p>
-          <p>我们的目标是了解人们在对话中识别陈述背后的情感的能力。</p>
+          <p>我们的目标是了解人们在多大程度上能够识别陈述背后的立场。</p>
           <p><strong>重要提示：</strong>请仔细阅读所有说明。在说明的最后，您将被要求回答理解问题，以确保您完全理解了任务和您在此实验中的角色。</p>
         </>
       ) 
@@ -144,11 +144,11 @@ const Instructions = ({ onComplete, setProlificID }) => {
       content: (
         <>
           <h2>说明 2/2：选择</h2>
-          <p>对于每个陈述，您将从以下选项中进行选择：</p>
-          <p><strong>积极的</strong></p>
-          <p><strong>消极的</strong></p>
-          <p><strong>中立的</strong></p>
-          <p><strong>模棱两可的</strong>：如果您不能在没有更多上下文的情况下确定陈述的情感，或者如果您不理解该陈述。</p>
+          <p>对于每个陈述，您将从以下选项中选择：</p>
+          <p><strong>反对</strong></p>
+          <p><strong>支持</strong></p>
+          <p><strong>中立</strong></p>
+          <p><strong>模糊</strong>：如果在没有更多背景信息的情况下无法判断陈述是支持还是反对相关话题，或者如果您不理解该陈述。</p>
         </>
       ) 
     },
@@ -181,7 +181,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               </div>
             </div>
             <div className="question">
-              <p>3. 当您认为陈述的情感是模棱两可的，并且在没有更多上下文的情况下无法确定时，您应该选择“模棱两可”。</p>
+              <p>3. 当您认为陈述的情感是模棱两可的，并且在没有更多上下文的情况下无法确定时，您应该选择“模糊”。</p>
               <div className="form-check">
                 <input type="radio" id="comp-3-true" name="comprehension-3" value="true" className="form-check-input" />
                 <label htmlFor="comp-3-true" className="form-check-label">正确</label>
