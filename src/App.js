@@ -156,25 +156,22 @@ function App() {
                 </button>
                 <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
                   错误
-                </button>
-                <button className="App-link" onClick={() => logResponse('Ambiguous')}>
-                  模棱两可
-                </button>
+                </button>                
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
-                  积极的
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('反对')}>
+                  反对
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
-                  消极的
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('支持')}>
+                  支持
                 </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                  中立的
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('中立')}>
+                  中立
                 </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                  模棱两可
-                </button>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('模糊')}>
+                  模糊
+                </button> 
               </>
             )}
           </div>
