@@ -90,7 +90,7 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `SIMS-ch-1-${prolificID}`;
+      let updatedProlificID = `CSTANCE-ch-1-${prolificID}`;
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('响应已记录:', response);
 
