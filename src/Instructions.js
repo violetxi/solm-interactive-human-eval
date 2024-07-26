@@ -148,7 +148,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
           <p><strong>反对</strong></p>
           <p><strong>支持</strong></p>
           <p><strong>中立</strong></p>
-          <p><strong>模糊</strong>：如果在没有更多背景信息的情况下无法判断陈述是支持还是反对堕胎，或者如果您不理解该陈述。</p>
+          <p><strong>模糊</strong>：如果在没有更多背景信息的情况下无法判断陈述是支持还是反对相关话题，或者如果您不理解该陈述。</p>
         </>
       ) 
     },
