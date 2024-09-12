@@ -39,6 +39,25 @@ const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
+// Map dataset filenames to specific order of choices
+const choiceOrderMap = {
+  'set_4.csv': [
+    { label: 'The statement is not sarcastic', value: 'Not sarcastic'},
+    { label: 'The statement is sarcastic', value: 'Sarcastic' },
+    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' }
+  ],
+  'set_5.csv': [
+    { label: 'The statement is not sarcastic', value: 'Not sarcastic' },
+    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
+    { label: 'The statement is sarcastic', value: 'Sarcastic' }
+  ],
+  'set_6.csv': [
+    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
+    { label: 'The statement is sarcastic', value: 'Sarcastic' },
+    { label: 'The statement is not sarcastic', value: 'Not sarcastic' }
+  ],
+  // Add more datasets if needed
+};
 
 function App() {
   // instruction content
@@ -50,16 +69,17 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
+  const [currentDataset, setCurrentDataset] = useState('set_3.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
 
   useEffect(() => {
-    loadCSV('data/set_3.csv')
+    loadCSV(`data/${currentDataset}`)
       .then((data) => {
-        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
-        map(item => ({
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        .map(item => ({
           question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
@@ -71,7 +91,7 @@ function App() {
       .catch((error) => {
         console.error('Error loading CSV:', error);
       });
-  }, []);
+  }, [currentDataset]); // Re-run when currentDataset changes
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -91,11 +111,15 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `Full-GoEmotions_Sentiment-3-${prolificID}`;
+
+      // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
+      const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
+      // Update Prolific ID using just the number from the dataset
+      let updatedProlificID = `Full-GoEmotions_Sentiment-${setNumber}-${prolificID}`;
+      
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
-      // Ensure this is called after logging the response
       handleNextQuestion();
     } catch (e) {
       console.error('Error adding document: ', e);
@@ -103,7 +127,6 @@ function App() {
   };
 
   const handleDemographicsComplete = async (demographicsData) => {
-    // Handle completion of the demographics survey
     console.log('Demographics survey completed');
   };
 
@@ -161,18 +184,16 @@ function App() {
               </>
             ) : (
               <>
-               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('positive')}>
-                Positive
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('negative')}>
-                Negative
-                </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('neutral')}>
-                Neutral
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                 Ambiguous
-                </button>
+                {choiceOrderMap[currentDataset]?.map((choice, index) => (
+                  <button
+                    key={index}
+                    className="App-link"
+                    style={{ marginRight: '25px' }}
+                    onClick={() => logResponse(choice.value)}
+                  >
+                    {choice.label}
+                  </button>
+                ))}
               </>
             )}
           </div>

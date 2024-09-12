@@ -39,6 +39,46 @@ const attentionChecks = [
   { question: "请确定以下陈述是正确还是错误的。", statement: "约翰认为疫苗在预防疾病方面是有效的。约翰可能会支持疫苗接种计划。", note: "", correctAnswer: "正确", isAttentionCheck: true }
 ];
 
+const choiceOrderMap = {
+  'set_1.csv': [
+    { label: '反对', value: '反对' },
+    { label: '支持', value: '支持' },
+    { label: '中立', value: '中立' },
+    { label: '模糊', value: '模糊' }
+  ],
+  'set_2.csv': [
+    { label: '反对', value: '反对' },
+    { label: '支持', value: '支持' },
+    { label: '中立', value: '中立' },
+    { label: '模糊', value: '模糊' }
+  ],
+  'set_3.csv': [
+    { label: '反对', value: '反对' },
+    { label: '支持', value: '支持' },
+    { label: '中立', value: '中立' },
+    { label: '模糊', value: '模糊' }
+  ],
+  'set_4.csv': [
+    { label: '模糊', value: '模糊' },
+    { label: '中立', value: '中立' },
+    { label: '支持', value: '支持' },
+    { label: '反对', value: '反对' }
+  ],
+  'set_5.csv': [
+    { label: '中立', value: '中立' },
+    { label: '模糊', value: '模糊' },
+    { label: '反对', value: '反对' },    
+    { label: '支持', value: '支持' }    
+  ],
+  'set_6.csv': [
+    { label: '支持', value: '支持' },
+    { label: '中立', value: '中立' },
+    { label: '反对', value: '反对' },
+    { label: '模糊', value: '模糊' }
+  ],
+  // Add more datasets with different choice orders if needed
+};
+
 function App() {
   // 说明内容
   const [showInstructions, setShowInstructions] = useState(true);
@@ -49,13 +89,14 @@ function App() {
   // 人口统计内容
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
+  const [currentDataset, setCurrentDataset] = useState('set_1.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
 
   useEffect(() => {
-    loadCSV('data/set_1.csv')
+    loadCSV(`data/${currentDataset}`)
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
         .map(item => ({
@@ -70,7 +111,7 @@ function App() {
       .catch((error) => {
         console.error('加载CSV时出错:', error);
       });
-  }, []);
+  }, [currentDataset]); // Re-run when currentDataset changes
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -90,11 +131,15 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `CSTANCE-ch-1-${prolificID}`;
+
+      // Extract the set number from the dataset filename (e.g., 'set_1.csv' -> '1')
+      const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
+      // Update Prolific ID using just the number from the dataset
+      let updatedProlificID = `CSTANCE-ch-${setNumber}-${prolificID}`;
+      
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('响应已记录:', response);
 
-      // 确保在记录响应后调用此函数
       handleNextQuestion();
     } catch (e) {
       console.error('添加文档时出错: ', e);
@@ -102,7 +147,6 @@ function App() {
   };
 
   const handleDemographicsComplete = async (demographicsData) => {
-    // 处理人口统计调查的完成
     console.log('人口统计调查已完成');
   };
 
@@ -160,18 +204,16 @@ function App() {
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('反对')}>
-                  反对
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('支持')}>
-                  支持
-                </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('中立')}>
-                  中立
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('模糊')}>
-                  模糊
-                </button> 
+                {choiceOrderMap[currentDataset]?.map((choice, index) => (
+                  <button
+                    key={index}
+                    className="App-link"
+                    style={{ marginRight: '25px' }}
+                    onClick={() => logResponse(choice.value)}
+                  >
+                    {choice.label}
+                  </button>
+                ))}
               </>
             )}
           </div>
