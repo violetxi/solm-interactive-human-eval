@@ -1,0 +1,263 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Ugh, I barely slept last night. Annoyed at my neighbour's dog for waking me up too early this morningThe neighbor's dog was barking non-stop again.
+B: That sounds really frustrating. Have you talked to them about it?
+
+Turn 2
+A: Not yet. I don't want to cause any tension, but it's getting unbearable.
+B: Maybe you could bring it up casually next time you see them. They might not even realize it's a problem.",Not sarcastic,2024-09-12T21:09:21.799000+00:00,"Was the person intended to be sarcastic when ""Annoyed at my neighbour's dog for waking me up too early this morning"" was said during the conversation?","Turn 1
+A: Ugh, I barely slept last night. Annoyed at my neighbour's dog for waking me up too early this morningThe neighbor's dog was barking non-stop again.
+B: That sounds really frustrating. Have you talked to them about it?
+
+Turn 2
+A: Not yet. I don't want to cause any tension, but it's getting unbearable.
+B: Maybe you could bring it up casually next time you see them. They might not even realize it's a problem.",Annoyed at my neighbour's dog for waking me up too early this morning,Not sarcastic
+"Turn 1
+A: I've been trying to schedule my COVID booster shot, but the booking website keeps giving me errors. It's so frustrating.I would love to be able to book my covid booster shot but the website doesn't work
+B: Oh, I had the same issue last month. Have you tried using a different browser or clearing your cache?
+
+Turn 2
+A: I haven't tried that yet. I'll give it a shot. Did that work for you?
+B: Yeah, switching to Firefox did the trick for me. If that doesn't work, you might want to call their support line. They were pretty helpful when I called.",Not sarcastic,2024-09-12T21:06:13.213000+00:00,"Was the person intended to be sarcastic when ""I would love to be able to book my covid booster shot but the website doesn't work"" was said during the conversation?","Turn 1
+A: I've been trying to schedule my COVID booster shot, but the booking website keeps giving me errors. It's so frustrating.I would love to be able to book my covid booster shot but the website doesn't work
+B: Oh, I had the same issue last month. Have you tried using a different browser or clearing your cache?
+
+Turn 2
+A: I haven't tried that yet. I'll give it a shot. Did that work for you?
+B: Yeah, switching to Firefox did the trick for me. If that doesn't work, you might want to call their support line. They were pretty helpful when I called.",I would love to be able to book my covid booster shot but the website doesn't work,Not sarcastic
+"Turn 1
+A: ""I'm thinking about moving to London for the new job, and Newham is one of the neighborhoods I'm considering.""
+B: ""Newham? Oh no, you really shouldn't. I've had some terrible experiences there, and it's just not a great place to live.""
+
+Turn 2
+A: ""Really? I heard it's been improving lately. If I had to die or live in Newham I would literally hang myself What was so bad about it?""
+B: ""Trust me, it's not worth the risk. The area still has a lot of issues, and I wouldn't want you to go through what I did. There are much better options out there.""",Sarcastic,2024-09-12T21:06:03.312000+00:00,"Was the person intended to be sarcastic when ""If I had to die or live in Newham I would literally hang myself"" was said during the conversation?","Turn 1
+A: ""I'm thinking about moving to London for the new job, and Newham is one of the neighborhoods I'm considering.""
+B: ""Newham? Oh no, you really shouldn't. I've had some terrible experiences there, and it's just not a great place to live.""
+
+Turn 2
+A: ""Really? I heard it's been improving lately. If I had to die or live in Newham I would literally hang myself What was so bad about it?""
+B: ""Trust me, it's not worth the risk. The area still has a lot of issues, and I wouldn't want you to go through what I did. There are much better options out there.""",If I had to die or live in Newham I would literally hang myself,Sarcastic
+"Turn 1
+A: It's just so disheartening, you know? There are billionaires out there who could easily fund solutions to these crises, but they choose not to.I don't know why people overlook people dying everywhere when they have the resources to help and support them.
+B: I know what you mean. It's like they live in a different world, completely detached from the struggles of everyday people.
+
+Turn 2
+A: Exactly. And it's not just about money; it's about using their influence to drive real change. Imagine the impact if they actually prioritized humanitarian efforts.
+B: True. It makes you wonder what it would take for them to see the bigger picture and act on it. Maybe it's up to us to keep pushing for that awareness.",Not sarcastic,2024-09-12T21:05:38.191000+00:00,"Was the person intended to be sarcastic when ""I don't know why people overlook people dying everywhere when they have the resources to help and support them."" was said during the conversation?","Turn 1
+A: It's just so disheartening, you know? There are billionaires out there who could easily fund solutions to these crises, but they choose not to.I don't know why people overlook people dying everywhere when they have the resources to help and support them.
+B: I know what you mean. It's like they live in a different world, completely detached from the struggles of everyday people.
+
+Turn 2
+A: Exactly. And it's not just about money; it's about using their influence to drive real change. Imagine the impact if they actually prioritized humanitarian efforts.
+B: True. It makes you wonder what it would take for them to see the bigger picture and act on it. Maybe it's up to us to keep pushing for that awareness.",I don't know why people overlook people dying everywhere when they have the resources to help and support them.,Not sarcastic
+"Turn 1
+A: You won't believe what happened at the pharmacy today. I tried to buy some headache tablets, and the pharmacist refused to sell them to me because she thought I was underage! Just been refused some headache tablets because apparently I look younger than 16. Sixteen. Six. Teen
+B: Oh no, that's so frustrating! I've had similar experiences where people think I'm younger than I am. It's annoying when they don't take you seriously.
+B: Oh no, that's so frustrating! I've had similar experiences where people think I'm younger than I am. It's annoying when they don't take you seriously.
+
+Turn 2
+A: Exactly! I had to show my ID and everything. It's like, come on, I'm clearly old enough.
+B: I totally get it. Sometimes I feel like I need to carry my ID everywhere just to prove my age. At least you got the tablets in the end, right?",Not sarcastic,2024-09-12T21:07:23.097000+00:00,"Was the person intended to be sarcastic when ""Just been refused some headache tablets because apparently I look younger than 16. Sixteen. Six. Teen"" was said during the conversation?","Turn 1
+A: You won't believe what happened at the pharmacy today. I tried to buy some headache tablets, and the pharmacist refused to sell them to me because she thought I was underage! Just been refused some headache tablets because apparently I look younger than 16. Sixteen. Six. Teen
+B: Oh no, that's so frustrating! I've had similar experiences where people think I'm younger than I am. It's annoying when they don't take you seriously.
+B: Oh no, that's so frustrating! I've had similar experiences where people think I'm younger than I am. It's annoying when they don't take you seriously.
+
+Turn 2
+A: Exactly! I had to show my ID and everything. It's like, come on, I'm clearly old enough.
+B: I totally get it. Sometimes I feel like I need to carry my ID everywhere just to prove my age. At least you got the tablets in the end, right?",Just been refused some headache tablets because apparently I look younger than 16. Sixteen. Six. Teen,Not sarcastic
+"Turn 1
+A: It's freezing here in Britain right now! I can't feel my fingers.It's so cold here in Britain :c who else loves apple pies?!!
+B: Oh no, that sounds rough. It's pretty mild here. Have you tried anything to warm up?
+
+Turn 2
+A: Yeah, I've been making a lot of apple pies lately. They really hit the spot.
+B: That sounds delicious! Nothing like a warm apple pie to beat the cold. Do you have a favorite recipe?",Sarcastic,2024-09-12T21:05:53.405000+00:00,"Was the person intended to be sarcastic when ""It's so cold here in Britain :c who else loves apple pies?!!"" was said during the conversation?","Turn 1
+A: It's freezing here in Britain right now! I can't feel my fingers.It's so cold here in Britain :c who else loves apple pies?!!
+B: Oh no, that sounds rough. It's pretty mild here. Have you tried anything to warm up?
+
+Turn 2
+A: Yeah, I've been making a lot of apple pies lately. They really hit the spot.
+B: That sounds delicious! Nothing like a warm apple pie to beat the cold. Do you have a favorite recipe?",It's so cold here in Britain :c who else loves apple pies?!!,Sarcastic
+"Turn 1
+A: You know, after thinking it over, I have to admit that Hate to say it but I think it's probably Phil Taylor actually Phil Taylor played a crucial role in our project's success. Even though I have my doubts about him personally, his contributions were undeniable.
+B: I get what you're saying. Phil does have a knack for pulling things together when it counts. It's good to hear you acknowledge that, despite your reservations.
+
+Turn 2
+A: Yeah, it's not easy to overlook his impact. I guess we need to give credit where it's due.
+B: Absolutely. Recognizing everyone's efforts, even those we might not always see eye to eye with, is important for the team's morale and future projects.",Not sarcastic,2024-09-12T21:07:58.197000+00:00,"Was the person intended to be sarcastic when ""Hate to say it but I think it's probably Phil Taylor actually"" was said during the conversation?","Turn 1
+A: You know, after thinking it over, I have to admit that Hate to say it but I think it's probably Phil Taylor actually Phil Taylor played a crucial role in our project's success. Even though I have my doubts about him personally, his contributions were undeniable.
+B: I get what you're saying. Phil does have a knack for pulling things together when it counts. It's good to hear you acknowledge that, despite your reservations.
+
+Turn 2
+A: Yeah, it's not easy to overlook his impact. I guess we need to give credit where it's due.
+B: Absolutely. Recognizing everyone's efforts, even those we might not always see eye to eye with, is important for the team's morale and future projects.",Hate to say it but I think it's probably Phil Taylor actually,Not sarcastic
+"Turn 1
+A: I'm really nervous about this interview tomorrow. What if I mess up?
+B: You've got this, A. Remember how you aced that presentation last month? This is no different. You're more than capable.
+
+Turn 2
+A: I guess you're right. Daily Taurus: You have always been strong and capable of doing things for yourself. You don't need to rely on anyone for anything. It's just hard to shake off the nerves.
+B: It's natural to feel that way, but trust in yourself. You've prepared well, and you have all the skills you need. Just be yourself, and you'll do great.",Not sarcastic,2024-09-12T21:06:33.292000+00:00,"Was the person intended to be sarcastic when ""Daily Taurus: You have always been strong and capable of doing things for yourself. You don't need to rely on anyone for anything."" was said during the conversation?","Turn 1
+A: I'm really nervous about this interview tomorrow. What if I mess up?
+B: You've got this, A. Remember how you aced that presentation last month? This is no different. You're more than capable.
+
+Turn 2
+A: I guess you're right. Daily Taurus: You have always been strong and capable of doing things for yourself. You don't need to rely on anyone for anything. It's just hard to shake off the nerves.
+B: It's natural to feel that way, but trust in yourself. You've prepared well, and you have all the skills you need. Just be yourself, and you'll do great.",Daily Taurus: You have always been strong and capable of doing things for yourself. You don't need to rely on anyone for anything.,Not sarcastic
+"Turn 1
+A: ""Hey, I managed to book us a hotel close to the race venue. It's just a 10-minute walk from the starting line.""
+B: ""That's awesome! Thanks for sorting that out. I've been thinking about stepping up my training and tweaking my diet to really push my performance this time.""
+
+Turn 2
+A: ""Great idea! I've been experimenting with some new interval workouts that might help. 2 races and a hotel booked. Suppose its time to start training better and eating cleaner. We can try them together if you're interested.""
+B: ""Absolutely, let's do it. And maybe we can plan our meals together too, to make sure we're both getting the right nutrition.""",Not sarcastic,2024-09-12T21:04:44.438000+00:00,"Was the person intended to be sarcastic when ""2 races and a hotel booked. Suppose its time to start training better and eating cleaner."" was said during the conversation?","Turn 1
+A: ""Hey, I managed to book us a hotel close to the race venue. It's just a 10-minute walk from the starting line.""
+B: ""That's awesome! Thanks for sorting that out. I've been thinking about stepping up my training and tweaking my diet to really push my performance this time.""
+
+Turn 2
+A: ""Great idea! I've been experimenting with some new interval workouts that might help. 2 races and a hotel booked. Suppose its time to start training better and eating cleaner. We can try them together if you're interested.""
+B: ""Absolutely, let's do it. And maybe we can plan our meals together too, to make sure we're both getting the right nutrition.""",2 races and a hotel booked. Suppose its time to start training better and eating cleaner.,Not sarcastic
+"Turn 1
+A: Did you see how Red Bull nailed their pit stop strategy last race? They always seem to be one step ahead.
+B: Absolutely, their timing is impeccable. I wonder if they'll go for an undercut again this time.
+
+Turn 2
+A: It wouldn't surprise me. They know how to maximize their tire performance. Plus, with Verstappen's aggressive driving, it could really pay off. Looking forward to the race tomorrow, two possibly different approach with two different Tyre Strategy.  Well played to red bull with the cleaver use of toe. Giving max an all advantage at the start tomorrow
+B: True, and if they can manage the tire degradation better than Ferrari, they might just pull off another win. Can't wait to see how it unfolds!",Not sarcastic,2024-09-12T21:09:50.108000+00:00,"Was the person intended to be sarcastic when ""Looking forward to the race tomorrow, two possibly different approach with two different Tyre Strategy.  Well played to red bull with the cleaver use of toe. Giving max an all advantage at the start tomorrow"" was said during the conversation?","Turn 1
+A: Did you see how Red Bull nailed their pit stop strategy last race? They always seem to be one step ahead.
+B: Absolutely, their timing is impeccable. I wonder if they'll go for an undercut again this time.
+
+Turn 2
+A: It wouldn't surprise me. They know how to maximize their tire performance. Plus, with Verstappen's aggressive driving, it could really pay off. Looking forward to the race tomorrow, two possibly different approach with two different Tyre Strategy.  Well played to red bull with the cleaver use of toe. Giving max an all advantage at the start tomorrow
+B: True, and if they can manage the tire degradation better than Ferrari, they might just pull off another win. Can't wait to see how it unfolds!","Looking forward to the race tomorrow, two possibly different approach with two different Tyre Strategy.  Well played to red bull with the cleaver use of toe. Giving max an all advantage at the start tomorrow",Not sarcastic
+"Turn 1
+A: Ugh, I can't believe the pizza counter is closed already. It's genuinely stupid how early the ASDA hot pizza counter shuts, especially on a weekendI was really looking forward to it.
+B: Yeah, that's a bummer. I know how much you were craving it. Maybe we can find something else that sounds good?
+
+Turn 2
+A: I guess we could. It's just disappointing, you know? I had my heart set on that pizza.
+B: Totally get it. How about we check out that new burger place nearby? I heard they have some great options.",Not sarcastic,2024-09-12T21:09:09.091000+00:00,"Was the person intended to be sarcastic when ""It's genuinely stupid how early the ASDA hot pizza counter shuts, especially on a weekend"" was said during the conversation?","Turn 1
+A: Ugh, I can't believe the pizza counter is closed already. It's genuinely stupid how early the ASDA hot pizza counter shuts, especially on a weekendI was really looking forward to it.
+B: Yeah, that's a bummer. I know how much you were craving it. Maybe we can find something else that sounds good?
+
+Turn 2
+A: I guess we could. It's just disappointing, you know? I had my heart set on that pizza.
+B: Totally get it. How about we check out that new burger place nearby? I heard they have some great options.","It's genuinely stupid how early the ASDA hot pizza counter shuts, especially on a weekend",Not sarcastic
+"Turn 1
+A: I'm really nervous about tomorrow's match. If we don't win, we might get relegated. Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far It's such a crucial game.
+B: I know, it's been a tough season. But I think if we stick to our game plan and the defense holds up, we have a good chance.
+
+Turn 2
+A: Yeah, but our midfield has been shaky lately. We can't afford any mistakes.
+B: True, but remember last time we played them? We managed to control the midfield pretty well. If we can replicate that, we should be fine.",Not sarcastic,2024-09-12T21:08:28.232000+00:00,"Was the person intended to be sarcastic when ""Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far"" was said during the conversation?","Turn 1
+A: I'm really nervous about tomorrow's match. If we don't win, we might get relegated. Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far It's such a crucial game.
+B: I know, it's been a tough season. But I think if we stick to our game plan and the defense holds up, we have a good chance.
+
+Turn 2
+A: Yeah, but our midfield has been shaky lately. We can't afford any mistakes.
+B: True, but remember last time we played them? We managed to control the midfield pretty well. If we can replicate that, we should be fine.",Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far,Not sarcastic
+"Turn 1
+A: I can't believe I made it to the top performers list this year! Aww yis - very cool to be on this list of awesome people! It's such an honor.
+B: Congratulations, A! You totally deserve it. You've worked so hard.
+
+Turn 2
+A: Thanks, B. It feels amazing to be recognized alongside such talented people.
+B: I'm really happy for you. Let's celebrate this weekend!",Ambiguous,2024-09-12T21:05:04.257000+00:00,"Was the person intended to be sarcastic when ""Aww yis - very cool to be on this list of awesome people!"" was said during the conversation?","Turn 1
+A: I can't believe I made it to the top performers list this year! Aww yis - very cool to be on this list of awesome people! It's such an honor.
+B: Congratulations, A! You totally deserve it. You've worked so hard.
+
+Turn 2
+A: Thanks, B. It feels amazing to be recognized alongside such talented people.
+B: I'm really happy for you. Let's celebrate this weekend!",Aww yis - very cool to be on this list of awesome people!,Ambiguous
+"Turn 1
+A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
+B: Yeah, I know. You're more of a wine person. I think it might belong to someone from the other table.
+
+Turn 2
+A: Exactly. I just didn't want anyone to think I was being rude by leaving it untouched.
+B: Good call. I'll let them know it's not yours. No need for any mix-ups tonight.",Not sarcastic,2024-09-12T21:07:44.500000+00:00,"Was the person intended to be sarcastic when ""FYI this was not my pint. I hate beer"" was said during the conversation?","Turn 1
+A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
+B: Yeah, I know. You're more of a wine person. I think it might belong to someone from the other table.
+
+Turn 2
+A: Exactly. I just didn't want anyone to think I was being rude by leaving it untouched.
+B: Good call. I'll let them know it's not yours. No need for any mix-ups tonight.",FYI this was not my pint. I hate beer,Not sarcastic
+"Turn 1
+A: Ugh, this power outage is such a bummer. sometimes it seems like there's nothing to do when the power is out We can't watch the movie or play any games now.
+B: Yeah, it's a bit of a downer. But hey, we can still have fun. How about we tell some ghost stories? The candlelight sets the perfect mood.
+
+Turn 2
+A: Ghost stories, huh? That could be fun. I haven't done that in ages. Do you have any good ones?
+B: Oh, I've got a few up my sleeve. But first, let's make some popcorn on the stove. It'll be like camping indoors.",Not sarcastic,2024-09-12T21:06:51.400000+00:00,"Was the person intended to be sarcastic when ""sometimes it seems like there's nothing to do when the power is out"" was said during the conversation?","Turn 1
+A: Ugh, this power outage is such a bummer. sometimes it seems like there's nothing to do when the power is out We can't watch the movie or play any games now.
+B: Yeah, it's a bit of a downer. But hey, we can still have fun. How about we tell some ghost stories? The candlelight sets the perfect mood.
+
+Turn 2
+A: Ghost stories, huh? That could be fun. I haven't done that in ages. Do you have any good ones?
+B: Oh, I've got a few up my sleeve. But first, let's make some popcorn on the stove. It'll be like camping indoors.",sometimes it seems like there's nothing to do when the power is out,Not sarcastic
+"Turn 1
+A: Did you see Charlie at the party last weekend? That wooly hat was such a bold choice, but he totally pulled it off. I can't think of anyone else who could pull off the Wooly Hat.
+B: Absolutely! Only Charlie could make something like that look so effortlessly cool. His confidence really shines through in his style.
+
+Turn 2
+A: Exactly! I love how he just owns his individuality. It's inspiring to see someone so comfortable in their own skin.
+B: It really is. Charlie's fashion sense is a great reminder to embrace our quirks and be ourselves. We could all learn a thing or two from him.",Not sarcastic,2024-09-12T21:06:44.164000+00:00,"Was the person intended to be sarcastic when ""I can't think of anyone else who could pull off the Wooly Hat."" was said during the conversation?","Turn 1
+A: Did you see Charlie at the party last weekend? That wooly hat was such a bold choice, but he totally pulled it off. I can't think of anyone else who could pull off the Wooly Hat.
+B: Absolutely! Only Charlie could make something like that look so effortlessly cool. His confidence really shines through in his style.
+
+Turn 2
+A: Exactly! I love how he just owns his individuality. It's inspiring to see someone so comfortable in their own skin.
+B: It really is. Charlie's fashion sense is a great reminder to embrace our quirks and be ourselves. We could all learn a thing or two from him.",I can't think of anyone else who could pull off the Wooly Hat.,Not sarcastic
+"Turn 1
+A: ""I can't believe they made the same mistake again! It's like they never learn.""
+B: ""I know, right? It's so frustrating to watch them repeat the same errors.""
+
+Turn 2
+A: ""You'd think by now they'd have figured out how to fix their defense. Yet again. Give the ball away. They score. When, just when, will we learn""
+B: ""Exactly. It's like they're not even trying to improve. It's really disappointing.""",Ambiguous,2024-09-12T21:09:38.173000+00:00,"Was the person intended to be sarcastic when ""Yet again. Give the ball away. They score. When, just when, will we learn"" was said during the conversation?","Turn 1
+A: ""I can't believe they made the same mistake again! It's like they never learn.""
+B: ""I know, right? It's so frustrating to watch them repeat the same errors.""
+
+Turn 2
+A: ""You'd think by now they'd have figured out how to fix their defense. Yet again. Give the ball away. They score. When, just when, will we learn""
+B: ""Exactly. It's like they're not even trying to improve. It's really disappointing.""","Yet again. Give the ball away. They score. When, just when, will we learn",Ambiguous
+"Turn 1
+A: It's really something to hear ""Jerusalem"" being sung here, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the GabbaMakes me feel a bit closer to home, even in the middle of Brisbane.
+B: Yeah, it's pretty cool. I love how cricket brings people together from all over. You must miss England sometimes, though.
+
+Turn 2
+A: I do, especially during events like this. But it's also great to experience the Aussie spirit firsthand. The energy here is incredible.
+B: Absolutely! There's nothing quite like a match at the Gabba. Glad you're enjoying it, mate.",Ambiguous,2024-09-12T21:08:58.981000+00:00,"Was the person intended to be sarcastic when ""Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba"" was said during the conversation?","Turn 1
+A: It's really something to hear ""Jerusalem"" being sung here, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the GabbaMakes me feel a bit closer to home, even in the middle of Brisbane.
+B: Yeah, it's pretty cool. I love how cricket brings people together from all over. You must miss England sometimes, though.
+
+Turn 2
+A: I do, especially during events like this. But it's also great to experience the Aussie spirit firsthand. The energy here is incredible.
+B: Absolutely! There's nothing quite like a match at the Gabba. Glad you're enjoying it, mate.",Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba,Ambiguous
+"Turn 1
+A: You know, moving out has been a lot harder than I expected. I keep finding myself at my mom's house almost every other day. i go to my mums at every opportunity what was the absolute point in me moving out Sometimes I wonder if I even needed to move out in the first place.
+B: It's totally normal to feel that way. Moving out is a big change, and it's okay to miss the comfort of home. Maybe visiting your mom is just your way of easing into this new chapter.
+
+Turn 2
+A: Yeah, I guess you're right. I just feel like I'm not fully committing to being independent. It's like I'm stuck between two worlds.
+B: It sounds like you're adjusting at your own pace, which is perfectly fine. Maybe you can set small goals for yourself to gradually spend more time in your new place. That way, you can build your independence without feeling overwhelmed.",Ambiguous,2024-09-12T21:08:12.009000+00:00,"Was the person intended to be sarcastic when ""i go to my mums at every opportunity what was the absolute point in me moving out"" was said during the conversation?","Turn 1
+A: You know, moving out has been a lot harder than I expected. I keep finding myself at my mom's house almost every other day. i go to my mums at every opportunity what was the absolute point in me moving out Sometimes I wonder if I even needed to move out in the first place.
+B: It's totally normal to feel that way. Moving out is a big change, and it's okay to miss the comfort of home. Maybe visiting your mom is just your way of easing into this new chapter.
+
+Turn 2
+A: Yeah, I guess you're right. I just feel like I'm not fully committing to being independent. It's like I'm stuck between two worlds.
+B: It sounds like you're adjusting at your own pace, which is perfectly fine. Maybe you can set small goals for yourself to gradually spend more time in your new place. That way, you can build your independence without feeling overwhelmed.",i go to my mums at every opportunity what was the absolute point in me moving out,Ambiguous
+"Turn 1
+A: I just got my COVID-19 vaccination, and I'm so excited to finally plan my trip to Ghana! What's the first spot you hitting up when you get to Ghana with your vaccinated fine self?? I've always wanted to visit.
+B: That's awesome! Ghana is amazing. You have to check out Cape Coast Castle and the Kakum National Park. The canopy walk there is breathtaking.
+
+Turn 2
+A: Those sound incredible! I was also thinking about visiting Accra. Any must-see spots there?
+B: Definitely! In Accra, you should visit the Kwame Nkrumah Memorial Park and the vibrant markets like Makola Market. And don't miss out on the local food – try some jollof rice and waakye!",Not sarcastic,2024-09-12T21:07:12.273000+00:00,"Was the person intended to be sarcastic when ""What's the first spot you hitting up when you get to Ghana with your vaccinated fine self??"" was said during the conversation?","Turn 1
+A: I just got my COVID-19 vaccination, and I'm so excited to finally plan my trip to Ghana! What's the first spot you hitting up when you get to Ghana with your vaccinated fine self?? I've always wanted to visit.
+B: That's awesome! Ghana is amazing. You have to check out Cape Coast Castle and the Kakum National Park. The canopy walk there is breathtaking.
+
+Turn 2
+A: Those sound incredible! I was also thinking about visiting Accra. Any must-see spots there?
+B: Definitely! In Accra, you should visit the Kwame Nkrumah Memorial Park and the vibrant markets like Makola Market. And don't miss out on the local food – try some jollof rice and waakye!",What's the first spot you hitting up when you get to Ghana with your vaccinated fine self??,Not sarcastic

@@ -65,11 +65,11 @@ if __name__ == '__main__':
     answer_map = {'True': 'sarcastic', 'False': 'not sarcastic', 'Ambiguous': 'ambiguous'}
     attention_check_str = "Please determine if the following statement is true or false"
 
-    # current_data_prefix = 'iSarcasm-No-Amb'
-    # current_data_prefix = 'SemEvalT6_Sentiment_No_Amb'
+    """ English Datasets """    
     # current_data_prefix = 'Full-iSarcasm-1'
     # current_data_prefix = 'Full-iSarcasm-2'
     # current_data_prefix = 'Full-iSarcasm-3'
+    current_data_prefix = 'Full-iSarcasm-4'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-1'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-2'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-3'
@@ -85,11 +85,12 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-Politeness-1'
     # current_data_prefix = 'Full-Politeness-2'
     # current_data_prefix = 'Full-Politeness-3'
+    """ Chinese Datasets """
     # current_data_prefix = 'CSTANCE-ch-1'
-    current_data_prefix = 'Full-SIMS-ch-1'
+    # current_data_prefix = 'Full-SIMS-ch-1'    
 
-    attention_check_strs = list(ATTENTION_CHECK_QA.keys())
-    for subject_id in collection_names:
+    attention_check_strs = list(ATTENTION_CHECK_QA.keys())    
+    for subject_id in collection_names:        
         if subject_id != 'surveys' and subject_id.startswith(current_data_prefix):
             # print(f"Downloading data from collection for subject: {subject_id}")
             data = download_data_from_collection(subject_id)        
@@ -101,7 +102,6 @@ if __name__ == '__main__':
             # check if all attention check questions are answered correctly
             attention_check_df['passed'] = attention_check_df['statement'].map(ATTENTION_CHECK_QA) == attention_check_df['response']
             # Only keep data if all attention check questions are answered correctly            
-            # print(attention_check_df['passed'])
             if len(attention_check_df) == 4 and len(df) == 24:
                 if not attention_check_df.empty and attention_check_df['passed'].all():
                     df = df[~df['statement'].isin(attention_check_strs)]
