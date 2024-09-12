@@ -1,0 +1,146 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+99,"Turn 1
+A: I can't believe they're talking about another lockdown. I had so many plans for the holidays, and now everything might be ruined.
+B: I know, it's really frustrating. But I guess they're trying to keep everyone safe. The cases are rising pretty quickly.
+
+Turn 2
+A: It just feels like they're doing it out of spite. I just know the government is gonna lock us all down in spite because they can't have their Xmas party Like, they don't want anyone to enjoy the holidays because they can't either.
+B: I get why you'd feel that way, but I think they're just under a lot of pressure. It's a tough situation for everyone, including them.",I just know the government is gonna lock us all down in spite because they can't have their Xmas party,not sarcastic,2,"A's statement in Turn 2 expresses genuine frustration and a belief that the government's actions are motivated by spite. There is no indication of sarcasm in A's tone; rather, it seems to be a sincere expression of their feelings.",1,True,641
+65,"Turn 1
+A: ""Man, I can't believe how off-form Johnson has been lately. It's like he's forgotten how to play.""
+B: ""Tell me about it. He reminds me of when we had Torres during his slump. Just painful to watch.""
+
+Turn 2
+A: ""Yeah, at least Torres had those few good seasons before he dipped. Mateusz Klich is the worst PL footballer ever had since Paul Okon Johnson's just been consistently disappointing.""
+B: ""Exactly. It's frustrating because you know he has the potential, but he just can't seem to get it together.""",Mateusz Klich is the worst PL footballer ever had since Paul Okon,not sarcastic,2,"Based on the context, A seems to be genuinely expressing frustration and disappointment with Johnson's performance by comparing him to other players who have been perceived as underperforming. There is no indication of sarcasm in A's statement about Mateusz Klich being the worst PL footballer since Paul Okon.",1,True,515
+87,"Turn 1
+A: Hey B, I just wanted to take a moment to personally thank you for all your hard work on this project. Your dedication and attention to detail were absolutely crucial to our success. We had a great day Louise and thank you for your great help and support to ensure that all went well
+B: Thank you, A. I really appreciate that. It was a team effort, and I'm glad I could contribute. 
+
+Turn 2
+A: Absolutely, but I want you to know that your contributions didn't go unnoticed. You really went above and beyond, and it made a huge difference.
+B: That means a lot, A. I'm glad everything turned out well. Looking forward to our next project together!",We had a great day Louise and thank you for your great help and support to ensure that all went well,not sarcastic,1,"The tone of A's message is positive and appreciative, indicating genuine gratitude for B's hard work and support. There is no indication of sarcasm in A's words.",1,True,654
+79,"Turn 1
+A: I can't believe I'm finally nearing the end of this book. It's been such a long journey, and I'm absolutely exhausted.Main book finished ... 4,000 words today which I found from somewhere. Epilogue (2,500 words) will be done next week. It's over. And I'm exhausted.
+B: I can imagine. You've put so much heart and effort into it. I'm really proud of you for sticking with it.
+
+Turn 2
+A: Thanks, that means a lot. I just hope it all comes together in the end. Sometimes I worry if it's good enough.
+B: Trust me, it will. You've always been your toughest critic. Just remember how far you've come and how much you've grown through this process.","Main book finished ... 4,000 words today which I found from somewhere. Epilogue (2,500 words) will be done next week. It's over. And I'm exhausted.",not sarcastic,1,"A's statement reflects genuine exhaustion and a sense of accomplishment after a significant effort in writing. There is no indication of sarcasm; rather, A is expressing relief and fatigue from the hard work.",1,True,651
+45,"Turn 1
+A: Guess what? I got the job!!Well this is awesome news to wake up to!
+B: OMG, that's amazing! Congrats, A! I knew you could do it!
+B: OMG, that's amazing! Congrats, A! I knew you could do it!
+
+Turn 2
+A: Thanks, B! I'm so excited, I can hardly believe it.
+B: You totally deserve it. We need to celebrate soon!",Well this is awesome news to wake up to!,not sarcastic,1,"A's statement ""Well this is awesome news to wake up to!"" is consistent with genuine excitement and happiness about getting the job. There is no indication of sarcasm in the context provided.",1,True,316
+52,"Turn 1
+A: I'm trying to find bra strap extenders, but I have no idea which store might have them. Ladies anywhere in town do bra strap extenders? Do you have any suggestions?
+B: Hmm, I think we should check out the lingerie section at the department store first. They usually have a good selection of accessories.
+
+Turn 2
+A: That sounds like a good idea. If they don't have them, where else do you think we should look?
+B: If we strike out there, we could try the specialty lingerie shop on the second floor. They might have more specific items like that.",Ladies anywhere in town do bra strap extenders?,not sarcastic,1,"Based on the context, A is genuinely asking for help in finding bra strap extenders and is not being sarcastic. The conversation is straightforward and focused on finding a specific item.",1,True,555
+75,"Turn 1
+A: Did you notice how happy Kanye seemed during the concert? It was like he was in his element.
+B: Yeah, I did! It was refreshing to see him so joyful and full of energy. He really deserves those moments.
+
+Turn 2
+A: Absolutely. seeing kanye as happy as he was during that show was a delight. he deserved that Given everything he's been through, it's nice to see him enjoying himself on stage.
+B: For sure. It felt like he was genuinely having a great time, and that made the performance even better for us as fans.",seeing kanye as happy as he was during that show was a delight. he deserved that,not sarcastic,2,The tone of the conversation is positive and supportive. Both A and B are expressing genuine happiness for Kanye's joy during the concert. There is no indication of sarcasm in A's statement.,1,True,521
+90,"Turn 1
+A: ""Honestly, today has been really tough. I'm feeling pretty drained.""
+B: ""I'm sorry to hear that. Is there anything that might help you feel better?""
+
+Turn 2
+A: ""You know, some comfort food from our favorite local spot would really lift my spirits. A fat burger and onion rings from zumhof would do me the world of good right now I'm not gonna lie""
+B: ""That sounds like a great idea! How about I order us both something and we can enjoy it together over the call?""",A fat burger and onion rings from zumhof would do me the world of good right now I'm not gonna lie,not sarcastic,2,"A's statement about wanting comfort food from zumhof seems genuine and straightforward, expressing a desire for something that would make them feel better after a tough day.",1,True,473
+5,"Turn 1
+A: Ugh, you wouldn't believe the traffic today. The roadworks on Main Street added an extra 30 minutes to my commute. Finally home after spending 30 minutes staring at the back of a ""Ranger"" just north of Peterborough.
+
+Just because of some roadworks.
+B: Oh no, that sounds frustrating! I remember getting stuck there last week too. It's like they never end.
+
+Turn 2
+A: Exactly! And after a long day at work, it's the last thing I needed. I just wanted to get home and relax.
+B: I totally get it. At least you're home now. Maybe you can unwind with a good book or a movie tonight.","Finally home after spending 30 minutes staring at the back of a ""Ranger"" just north of Peterborough.
+
+Just because of some roadworks.",not sarcastic,1,"A's statement about being ""finally home"" and the frustration with the roadworks seems genuine and not sarcastic. They are expressing relief at being home after a frustrating commute.",1,True,587
+8,"Turn 1
+A: It's hard to believe that was the last time we'll see him for a while. The farewell meet at Glasgow was emotional :')The farewell speech he gave was so heartfelt.
+B: I know, right? It really hit me when he mentioned all the little moments we shared. It made me realize how much those small things matter.
+
+Turn 2
+A: Yeah, those memories are what make our friendships so special. I felt a mix of sadness and gratitude listening to him.
+B: Same here. It's bittersweet, but I'm glad we were all there to send him off. It just shows how strong our bond is, even if we're miles apart now.",The farewell meet at Glasgow was emotional :'),not sarcastic,1,"Yes, I agree. The context of the conversation indicates that A is genuinely expressing their emotions about the farewell meet. The use of ""emotional"" and the heartfelt nature of the speech mentioned suggest sincerity rather than sarcasm.",1,True,593
+91,"Turn 1
+A: It's just infuriating how the international community is turning a blind eye to this crisis. People are dying, and those with the power to help are doing nothing!
+B: I get that it's bad, but what can we really do? It's not like we can change the whole system overnight.
+
+Turn 2
+A: Oh, right, because clearly, if we can't fix everything instantly, we might as well do nothing at all. I don't know. Why wouldn't I actually love people dying everywhere with none of the people that can help doing anything about it????? Great plan, B.
+B: Look, I'm just saying we need to be realistic about our limitations. We can still make a difference, but we have to be strategic about it.",I don't know. Why wouldn't I actually love people dying everywhere with none of the people that can help doing anything about it?????,sarcastic,2,"Yes, A was being sarcastic. The exaggerated statement ""Why wouldn't I actually love people dying everywhere with none of the people that can help doing anything about it?????"" is a clear indication of sarcasm, as A is expressing frustration and disbelief at the idea of doing nothing in the face of a crisis.",1,True,683
+16,"Turn 1
+A: Oh, you know, just living the dream. Everything's absolutely perfect.my life is great lmaooooo.
+B: I can tell you're being sarcastic. What's really going on?
+
+Turn 2
+A: Honestly, it's been tough. Work's a mess, my relationship's on the rocks, and I just feel like I'm drowning.
+B: I'm really sorry to hear that. Do you want to talk about it? I'm here for you.",my life is great lmaooooo.,sarcastic,1,"Yes, I agree that A was being sarcastic. The phrase ""living the dream"" followed by ""Everything's absolutely perfect"" and ""my life is great lmaooooo"" suggests an exaggerated positivity that is often used to mask true feelings of distress or dissatisfaction. This is confirmed by A's later admission that things have been tough.",1,True,369
+44,"Turn 1
+A: You know that scene in ""The Office"" where Michael gives his farewell speech? why am i cryin  actual tears every time i watch this it's not even funny It always makes me cry, even though it's not supposed to be sad.
+B: Oh, I totally get that! For me, it's the episode of ""Friends"" where Ross and Rachel finally get together. It's meant to be happy, but I always tear up.
+
+Turn 2
+A: It's funny how certain moments just hit you differently. I think it's because you get so attached to the characters.
+B: Exactly! It's like they're part of your life, and their emotions become your emotions. It's amazing how TV shows can do that.",why am i cryin  actual tears every time i watch this it's not even funny,not sarcastic,1,"A is expressing genuine emotion about the scene from ""The Office,"" indicating that they are truly moved by it, even though it is not intended to be sad. This suggests that A is not being sarcastic.",1,True,636
+19,"Turn 1
+A: ""So, I managed to lock my keys in the car again yesterday. Third time this month!""
+B: ""Oh no, A! At this rate, you should just keep a spare set in your pocket.""
+
+Turn 2
+A: ""I know, right? i am sometimes one of the most blondest people out there its a pity my hair colour doesnt match which would make it the perfect combo haha Sometimes I feel like I fit the 'dumb blonde' stereotype, and I don't even have blonde hair!""
+B: ""Well, at least you can laugh about it. That's what makes you so endearing!""",i am sometimes one of the most blondest people out there its a pity my hair colour doesnt match which would make it the perfect combo haha,sarcastic,2,"Yes, A was being sarcastic. A is making a humorous and self-deprecating comment about their own forgetfulness by referencing the ""dumb blonde"" stereotype, despite not having blonde hair.",1,True,510
+35,"Turn 1
+A: I've been really getting into music production lately. I think a drum machine would be an awesome addition to my setup.
+B: That sounds cool! Do you have a specific model in mind?
+
+Turn 2
+A: Yeah, I've been eyeing the Roland TR-8S. i NEED a drum machine who tryna buy me one from christmas It has some great features for creating beats.
+B: Nice choice! I'll keep an eye out for any deals. Maybe Santa will bring you one this Christmas!",i NEED a drum machine who tryna buy me one from christmas,not sarcastic,2,"Based on the context, A seems genuinely enthusiastic about getting a drum machine and expresses a strong desire for it. The phrase ""i NEED a drum machine who tryna buy me one from christmas"" appears to be a playful, yet earnest, way of expressing this desire rather than sarcasm.",1,True,444
+10,"Turn 1
+A: Ugh, I can't believe I struck out again trying to get those tickets. Did anyone on my twitter even get tickets for the SOUR tour? It's so frustrating!
+B: I know, it's been a nightmare. I actually heard that Sarah managed to snag a couple. She said she had to refresh the page like a hundred times.
+
+Turn 2
+A: Seriously? That's crazy. Did she mention any specific tricks or anything that helped her?
+B: She said she used multiple devices and had a friend helping her out. Maybe we could try that next time?",Did anyone on my twitter even get tickets for the SOUR tour?,not sarcastic,1,"A's statement ""Did anyone on my twitter even get tickets for the SOUR tour?"" seems to be a genuine question out of frustration and curiosity about whether anyone in their social circle managed to get tickets. There is no indication of sarcasm in the context provided.",1,True,515
+3,"Turn 1
+A: ""Finally, we beat Chelsea! Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while. I've been waiting for this moment for ages.""
+B: ""I know, mate. It's been a long time coming. You must be over the moon.""
+
+Turn 2
+A: ""Absolutely! This win means so much to us. What a game!""
+B: ""Yeah, they really played their hearts out. You guys deserved it.""","Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while.",not sarcastic,1,A's excitement and enthusiasm about West Ham beating Chelsea indicate genuine happiness and anticipation for this event. There is no indication of sarcasm in A's statement.,1,True,391
+14,"Turn 1
+A: ""I can't stop thinking about the Charlton match. we need a big win against charlton next weekendIf we don't win, our chances of staying in the league are slim.""
+B: ""I know, it's nerve-wracking. We've had some close calls recently, but this one feels like a make-or-break game.""
+
+Turn 2
+A: ""Exactly. We need to tighten up our defense and make sure our midfield controls the game. Charlton's been strong on counter-attacks.""
+B: ""True, but if we can capitalize on our set-pieces and keep the pressure on, I think we can pull through. The team just needs to stay focused and play smart.""",we need a big win against charlton next weekend,not sarcastic,1,A's statement about needing a big win against Charlton next weekend is serious and reflects genuine concern about their team's chances of staying in the league. There is no indication of sarcasm in the context provided.,1,True,593
+6,"Turn 1
+A: You know, wearing a mask has been surprisingly helpful during my walk to the office. Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work It keeps my face warm in this freezing weather.
+B: Oh, absolutely! I've noticed the same thing. Plus, my scarf and gloves have become my best friends lately.
+
+Turn 2
+A: I hear you. I even started layering up with thermal socks. They make such a difference.
+B: That's a great idea. I might have to try that. Anything to make these cold mornings a bit more bearable.",Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work,not sarcastic,1,"A's statement about the mask providing warmth during cold trips to work appears to be genuine and practical, rather than sarcastic. They are sharing a personal benefit they have experienced.",1,True,599
+9,"Turn 1
+A: ""Have you seen the schedule for the upcoming season? We've got 12 away games and only 8 at home. That's going to be tough on the team.""mygers is a joke, 2 away games out of 10 and one half the population got
+B: ""Yeah, I noticed that too. It feels like we're at a disadvantage right from the start. Traveling that much can really wear the players down.""
+
+Turn 2
+A: ""Exactly. Plus, it's not just about the players. Fewer home games mean fewer chances for us fans to support them in person. It could really impact the atmosphere.""
+B: ""Totally. The home crowd energy is such a big boost. I just hope the team can stay strong and we can still make it to the playoffs despite the tough schedule.""","mygers is a joke, 2 away games out of 10 and one half the population got",not sarcastic,1,"The statement ""mygers is a joke, 2 away games out of 10 and one half the population got"" seems to be a complaint about the scheduling, indicating frustration rather than sarcasm. A is expressing genuine concern about the imbalance in the schedule.",1,True,700

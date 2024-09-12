@@ -1,141 +1,147 @@
-Unnamed: 0,situation,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-0,在一个安静的咖啡馆里，A和B坐在角落的桌子旁，A看起来情绪低落，B则显得有些担心。,"第一回合：
-A：最近我真的觉得生活太难了，每天都在承受各种各样的痛苦。
-B：你怎么了？发生什么事了？你可以跟我说说。
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+18,"Turn 1
+A: Did you catch last night's episode of ""Strictly""? The performances were incredible!
+B: Absolutely! I was blown away by that Argentine tango. It was hands down the best I've ever seen on the show.
 
-第二回合：
-A：我痛定思痛，我去医院把我身上的疼痛神经全部摘除了。
-B：天啊，你真的这么做了吗？这也太极端了吧！",我痛定思痛，我去医院把我身上的疼痛神经全部摘除了,消极,2,在第一回合中，A提到“最近我真的觉得生活太难了，每天都在承受各种各样的痛苦”，这表明A对生活感到非常消极和痛苦。A的情绪显然是负面的。,1,TRUE,116
-1,A和B是同事，他们正在办公室里讨论一个即将提交的重要项目。A显得有些焦虑，而B则试图安慰和帮助A。,"第一回合：
-A：这个项目的截止日期快到了，我真的有点担心。
-B：别担心，我们已经做了很多准备工作。你觉得还有什么需要特别注意的吗？
+Turn 2
+A: Oh, I know exactly which one you're talking about! Best argentine tango there's ever been on strictlyThe chemistry and precision were just off the charts.
+B: Right? And the way they executed those lifts and footwork was just mesmerizing. I couldn't take my eyes off the screen!",Best argentine tango there's ever been on strictly,not sarcastic,2,"A's comment about the Argentine tango being the best ever on ""Strictly"" is consistent with the positive and enthusiastic tone of the conversation. Both A and B are expressing genuine admiration for the performance.",1,True,494
+116,"Turn 1
+A: Ugh, today was brutal. I don't think I sat down once during my entire shift.
+B: I know exactly what you mean. I barely had time to grab a sip of water between patients. It's like they just keep coming.
 
-第二回合：
-A：我总觉得有什么重要的细节被我给忽略了。
-B：别急，我们可以再仔细检查一遍，确保没有遗漏。",我总觉得有什么重要的细节被我给忽略了。,消极,2,从对话中可以看出，A在第一回合中表达了对项目截止日期临近的担忧，并在第二回合中提到自己可能忽略了重要的细节。这些言论表明A对项目的进展和自己的工作表现感到不安和担忧，表现出一定的消极情绪。,1,TRUE,119
-2,A和B是大学同学，刚刚完成了一次极具挑战性的毕业设计答辩。答辩结束后，他们在校园的长椅上休息，回顾刚刚的经历。,"第一回合：
-A：哇，刚才的答辩真是太刺激了，感觉像是经历了一场战斗。
-B：是啊，尤其是你在最后那段精彩的总结，简直是神来之笔，教授们都被你说服了。
+Turn 2
+A: And that rush right before closing? I thought we'd never get out of here. Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this. My feet are killing me.
+B: Same here. I swear, if I have to deal with one more irate customer or emergency, I might just lose it. We really need more staff.","Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this.",sarcastic,2,"Yes, A was being sarcastic. The exaggerated positive language about a clearly exhausting and unpleasant situation indicates sarcasm.",1,True,637
+111,"Turn 1
+A: Ugh, I can't believe it's Monday already. I feel like the weekend just flew by.
+B: Oh, come on, A! Isn't it just fantastic to be back at work, bright and early, ready to tackle the week?
 
-第二回合：
-A：以后我再也没有机会干这种事了，这牛我得吹一辈子。
-B：哈哈，确实，这次的表现真是值得你吹一辈子。",以后我再也没有机会干这种事了，这牛我得吹一辈子,积极,2,根据对话内容，A在第一回合中表现得非常积极和兴奋，描述答辩过程像是一场战斗，并且对自己的总结感到非常自豪。在第二回合中，A提到“以后我再也没有机会干这种事了，这牛我得吹一辈子”，这句话虽然有些感叹，但整体语气仍然是积极的，因为A对自己的表现感到非常满意，并认为这是值得一辈子吹嘘的事情。,1,TRUE,131
-4,在一个温馨的咖啡馆里，A和B是多年的好友，正在享受下午茶。B刚刚结束了一段恋情，心情有些低落。A试图安慰B，并分享自己的看法。,"第一回合：
-A：你看起来有点沮丧，最近还好吗？
-B：唉，刚和男朋友分手了，感觉很失落，不知道什么时候才能遇到对的人。
+Turn 2
+A: (groans) Yeah, right. If by fantastic you mean dragging myself out of bed and barely making it here on time. I love a Monday morning so glad the weekends over!
+B: (chuckles) Hey, at least we have coffee. It's the only thing keeping me from turning into a zombie right now.",I love a Monday morning so glad the weekends over!,sarcastic,2,"Yes, A was being sarcastic. The context shows that A is complaining about how quickly the weekend ended and how difficult it is to get up on a Monday morning. The statement ""I love a Monday morning so glad the weekends over!"" is clearly meant to be taken sarcastically, as it contradicts A's expressed feelings.",1,True,480
+80,"Turn 1
+A: Oh, the commute was just fantastic. I mean, who doesn't love spending an extra half hour behind a parade of drivers who seem to think the speed limit is a mere suggestion?My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.
+B: Sounds like quite the adventure. Did you get to see any new sights along the way?
 
-第二回合：
-A：别太难过了，我相信每个人都会遇到属于自己的那个人。其实，我对的人还没有出现，但我依然充满希望。
-B：谢谢你，听你这么说，我感觉好多了。我们一起加油吧！",我对的人还没有出现,积极,2,A在第2轮中试图安慰B，并表达了对未来的积极态度，认为每个人都会遇到属于自己的那个人，并且自己也充满希望。这种言论表现出积极的情感。,1,TRUE,143
-5,在一个社区中心，A是一位志愿者歌手，B是社区活动的组织者。今天，A刚刚在一个儿童活动中为小朋友们表演完。,"第一回合：
-A：今天的活动真是太棒了！小朋友们都很开心。
-B：是啊，真的非常感谢你能来为孩子们表演，他们都特别喜欢你的歌声。
+Turn 2
+A: Oh, absolutely. I got an up-close and personal view of every bumper sticker in the city. It's like a moving art gallery, really.
+B: Well, at least you got some culture before work. Maybe tomorrow you'll get to enjoy an impromptu concert of honking horns.","My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.",sarcastic,1,"Yes, A was being sarcastic. The exaggerated positive tone about a typically frustrating situation, such as slow drivers and people not knowing where they're going during a morning commute, indicates sarcasm.",1,True,752
+68,"Turn 1
+A: Honestly, work has been really tough lately. My employers have been piling on more tasks without any additional support, and it's starting to feel overwhelming. My employers take many opportunities to make me unhappy.
+B: That sounds really frustrating. Have you had a chance to talk to them about how you're feeling?
 
-第二回合：
-A：我才要感谢你们，让我有机会唱歌给小朋友们听，谢谢。
-B：不客气，我们也很高兴能有你这样的志愿者，希望以后还能继续合作。",我才要感谢你们，让我有机会唱歌给小朋友们听，谢谢。,积极,2,根据对话内容，A在第一回合中表达了对活动的赞赏，并在第二回合中感谢B给了他为小朋友们表演的机会。这表明A对活动和参与表现出积极的态度。,1,TRUE,131
-6,在一个古色古香的茶馆里，A和B正在喝茶。A是一个年轻的侠客，B是A的好友。A听说B的姐姐明月最近结识了一位神秘的高人，心中充满了好奇和担忧。,"第一回合：
-A：听说你姐姐最近结识了一位神秘的高人，是真的吗？
-B：是啊，听说那人武功高强，品行也很不错，姐姐对他很有好感。
+Turn 2
+A: I tried bringing it up in our last meeting, but they just brushed it off and said everyone is under pressure right now. It feels like they don't care about how it's affecting me.
+B: I'm so sorry to hear that. It sounds like they're not valuing your well-being. Maybe it's time to start looking for other opportunities where you'll be appreciated more?",My employers take many opportunities to make me unhappy.,not sarcastic,1,"Based on the context, A is expressing genuine frustration and dissatisfaction with their work situation. There is no indication of sarcasm in their statement about their employers making them unhappy.",1,True,689
+15,"Turn 1
+A: Ugh, I can't stand working in the office sometimes. The smell from Bob's desk is just unbearable. It's like he never showers or something.
+B: I know exactly what you mean. It's not just you; a lot of people have noticed it. I wish there was a polite way to address it without making things awkward.
 
-第二回合：
-A：我要看看这个神仙一样的人，是不是真的配得上我的明月姐姐。
-B：哈哈，你这护姐心切的样子真是让人感动。放心吧，等有机会我一定带你去见见他。",我要看看这个神仙一样的人，是不是真的配得上我的明月姐姐,积极,2,根据对话内容，A在第2轮的发言表现出对姐姐的关心和保护欲，显示出他对姐姐的感情和对新认识的人的好奇心。这种态度可以被视为积极的表现。,1,TRUE,140
-8,在一个温馨的咖啡馆里，A和B是多年未见的老朋友。A是一名演员，B是一名导演。两人正在回忆过去的时光，并讨论各自的职业生涯。,"第一回合：
-A：哇，真没想到这么多年没见，你已经成了这么有名的导演了！
-B：哈哈，哪里哪里，你才是，听说你这几年在演艺圈混得风生水起啊。
+Turn 2
+A: Yeah, it's tricky. I don't want to hurt his feelings, but it's really affecting my concentration. I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too. And it's not just that; the whole office environment can be so frustrating.
+B: Totally. Between the constant noise and the outdated equipment, it's hard to stay productive. Sometimes I wonder if working from home would be better for everyone.",I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too.,sarcastic,2,"Yes, A was being sarcastic. The statement ""I wish they did a wax melt of Bob's BO so that I could smell it at home too"" is clearly not a genuine wish. It is an exaggerated and ironic way to express how unpleasant the smell is, indicating sarcasm.",1,True,783
+103,"Turn 1
+A: Ugh, I can't believe we have that team meeting later. The atmosphere is always so negative, and no one seems motivated. I enjoy being at work and can't wait to come in everyday and see all my happy colleagues
+B: Oh, absolutely. I just love coming to work and seeing everyone so ""happy"" and ""enthusiastic.""
 
-第二回合：
-A：其实也没什么啦，只是一直在努力工作。03年我一年见了三百多个剧组。
-B：天哪，那真是太辛苦了，你真是太敬业了。",03年我一年见了三百多个剧组,中性,2,"根据对话内容，A在第2轮提到""03年我一年见了三百多个剧组""之前，A的语气和态度并没有表现出明显的情感倾向，只是陈述了自己过去的工作经历。因此，A表现得中性。",1,TRUE,133
-10,A和B是同事，他们刚刚完成了一个重要的项目。现在公司决定奖励他们一个短暂的假期。两人正在办公室里讨论这个好消息。,"第一回合：
-A：你听说了吗？公司决定给我们放几天假，作为完成项目的奖励。
-B：真的吗？太好了！我正好需要休息一下。你有什么计划吗？
+Turn 2
+A: Right? It's like a black hole of energy in there. I wish we could just skip it.
+B: If only! Maybe we should start a petition for virtual meetings so we can at least mute the negativity.",I enjoy being at work and can't wait to come in everyday and see all my happy colleagues,sarcastic,1,"Yes, A was being sarcastic. The context of the conversation indicates that A is frustrated with the negative atmosphere of the team meetings. The statement about enjoying work and seeing happy colleagues is clearly meant to be ironic, given the preceding complaint about the negativity.",1,True,512
+84,"Turn 1
+A: ""Hey, I just got a notification that I need to get another booster shot. Can you believe it?""
+B: ""Oh great, just what I needed—another chance to feel like a human pincushion.""
 
-第二回合：
-A：我心里想，哇我好开心哦，我终于可以换一个地方休息一下了。
-B：哈哈，我也是！我们可以一起去计划一下这个假期。",我心里想，哇我好开心哦，我终于可以换一个地方休息一下了,积极,2,根据对话内容，A在第一回合中提到公司决定给他们放几天假，并且在第二回合中表达了对这个消息的开心和期待。A的言辞和情感都表现得非常积极。,1,TRUE,129
-12,A和B是大学同学，他们正在校园里的咖啡馆里聊天。B是电影专业的学生，对电影导演非常了解，而A则是计算机专业的学生，对电影圈的事情不太熟悉。B正在兴致勃勃地讲述最近看的一部电影和它的导演徐导。,"第一回合：
-A：最近有什么好电影推荐吗？我最近有点闲，想找点东西看。
-B：你一定要看徐导的新片，真的特别棒！他的拍摄手法和故事情节都很有深度。
+Turn 2
+A: ""I know, right? It feels like we just got the last one. Another jab to protect myself? More pokes I get I'll pop But I guess it's important to stay protected.""
+B: ""Yeah, I get it. But at this rate, I'm going to start glowing in the dark from all these shots.""",Another jab to protect myself? More pokes I get I'll pop,sarcastic,2,"Yes, A was being sarcastic. The phrase ""More pokes I get I’ll pop"" is an exaggerated and humorous way to express frustration about getting multiple booster shots, which indicates sarcasm.",1,True,456
+11,"Turn 1
+A: ""So, this weekend, I have to spend time with my uncle again. You know, the one who thinks masks are a government plot to control us."" Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.
+B: ""Oh no, not him again. How do you even manage to keep a straight face?""
 
-第二回合：
-A：说真的，我连徐导都不知道是谁。
-B：哈哈，没关系，我来给你介绍一下徐导，他可是国内非常有名的导演呢。",说真的，我连徐导都不知道是谁,积极,2,根据对话内容，A在第一回合中表现出对电影的兴趣，并主动询问B是否有好电影推荐。这表明A对寻找电影观看的态度是积极的。,1,TRUE,131
-13,在一个繁忙的早晨，A和B在一家咖啡店门口偶遇。A是这家咖啡店的老板，而B是附近公司的白领，经常来这里买咖啡。,"第一回合：
-A：早上好，B！今天又来买咖啡吗？
-B：是啊，A。你们家的咖啡真是越来越好喝了。
+Turn 2
+A: ""Honestly, I don't. I just nod and make jokes in my head to survive. Last time, I imagined him as a character in a sci-fi movie.""
+B: ""That's brilliant! Maybe this time, picture him as the villain in a superhero flick. It might make it more entertaining.""","Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.",sarcastic,1,"Yes, A was being sarcastic. The phrase ""Really looking forward to"" is typically used to express genuine excitement, but given the context of having to spend time with someone who holds controversial and frustrating beliefs, it is clear that A is using sarcasm to convey their lack of enthusiasm.",1,True,613
+8,"Turn 1
+A: Hey B, I was thinking about that post I made yesterday. I realized it might have come off as sarcastic, but I actually love my job. Any ideas on how I can rephrase it to show that?
 
-第二回合：
-A：谢谢夸奖！以后多来照顾我生意啊。
-B：那是当然的，我可是你们的忠实顾客呢。",照顾我生意啊,积极,2,"根据对话内容，A在第2轮说""照顾我生意啊""之前，感谢了B的夸奖，并邀请B以后多来光顾，表现出积极和热情的态度。",1,TRUE,93
-16,在一个宁静的公园里，A和B坐在长椅上。秋天的阳光透过树叶洒在他们身上，周围的树叶已经开始变黄。A是一位74岁的老人，B是他的老朋友，两人经常在这里见面聊天。今天，A显得有些心情低落。,"第一回合：
-A：最近总觉得时间过得真快，转眼间就老了。
-B：是啊，时间不等人。不过你看起来还是很精神的。
+B: Sure, A. How about starting with something like, ""I feel incredibly fortunate to work with such a talented team and on projects that truly inspire me""? That way, it sounds more genuine and positive.
 
-第二回合：
-A：活了74岁了。
-B：别这么说，你还有很多美好的日子等着你呢。",活了74岁了。,消极,2,根据对话内容，A在第一回合提到“最近总觉得时间过得真快，转眼间就老了”，这句话表现出了一种对时间流逝的感慨和对自己变老的无奈情绪。在第二回合，A直接提到自己已经74岁了，这进一步强化了他对自己年龄的感叹和对时间流逝的无奈。因此，A表现得有些消极。,1,TRUE,92
-17,在一个古老的宫殿里，夜色深沉，月光透过窗棂洒在地上。公主B被敌军追捕，逃到了一间隐秘的房间里。她惊慌失措，四处张望，突然听到门外有脚步声。门被轻轻推开，一个身穿铠甲的将军A走了进来。,"第一回合：
-A：公主殿下，请不要害怕，我是来保护您的。
-B：你是谁？为什么要帮我？
+Turn 2
+A: That sounds great! Maybe I can add something about the support I get from the team too. I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way. Like, ""The support and collaboration here make every day rewarding.""
 
-第二回合：
-A：公主请放心，我是北魏的将军花木兰。
-B：花将军，原来是您！太好了，我终于得救了。",公主请放心，我是北魏的将军花木兰。,中性,2,"在第一回合中，A只是简单地表明自己是来保护公主的，没有表现出明显的情感倾向。因此，A在第2轮说""公主请放心，我是北魏的将军花木兰。""之前的上下文中表现得中性。",1,TRUE,91
-18,在一个偏僻的山村，A和B是好朋友，他们计划去山里探险。出发前，B突然决定要一个人先走，A对此感到非常担心。,"第一回合：
-A：你真的打算一个人先走吗？山里的路可不好走。
-B：是啊，我想先去探探路，这样我们后面走的时候会更安全。
+B: Absolutely, that's perfect. It shows appreciation for your colleagues and highlights the positive work environment. I think that will definitely convey your true feelings better.","I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way.",not sarcastic,2,"Yes, I agree. A is clearly trying to rephrase their original post to ensure it doesn't come off as sarcastic and genuinely reflects their positive feelings about their job. They are focusing on expressing appreciation and fulfillment in a sincere manner.",1,True,1025
+110,"Turn 1
+A: Ugh, I spent hours trying to book a vaccination appointment online, and it kept crashing. It's so frustrating!
+B: Oh, come on, it's not like you're trying to solve a Rubik's Cube blindfolded. It's just a few clicks and some patience.
 
-第二回合：
-A：一个人走，我实在是不放心。
-B：别担心，我会小心的，而且我带了地图和手电筒。你在村口等我，我很快就回来。",一个人走，我实在是不放心,消极,2,"根据对话内容，A在第2轮说""一个人走，我实在是不放心""之前的上下文中，A表现出对B一个人先走的担忧和不安。这种情感可以被视为消极的，因为A对B的安全感到担心。",1,TRUE,120
-19,A和B是一对夫妻，A刚刚下班回到家，满脸疲惫。B正在厨房准备晚餐，看到A回来，便走到客厅关心地问候。,"第一回合：
-A：我回来了，今天真是累坏了。
-B：你看起来很疲惫，今天工作很辛苦吗？
+Turn 2
+A: Easy for you to say, you already got yours. So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?I just don't get why it has to be so complicated.
+B: Trust me, once you get that shot, you'll forget all about the hassle. It's totally worth it for the peace of mind and protection.","So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?",sarcastic,2,"Yes, A was being sarcastic. The phrase ""So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life"" is meant to highlight the simplicity of the process in a sarcastic manner, contrasting it with the actual frustration A is experiencing.",1,True,579
+2,"Turn 1
+A: You know, I was thinking about our last game night. It was so much fun, and I really felt the support from everyone when I was having a tough time with that puzzle.
+B: Oh, absolutely! I remember that. It was great how everyone jumped in to help. Moments like those really show how close-knit our group is.
 
-第二回合：
-A：你不知道我在外边哼哧哼哧干活挣钱遭多少罪吧。
-B：我知道你很辛苦，快去洗个澡休息一下吧，晚饭马上就好。",你不知道我在外边哼哧哼哧干活挣钱遭多少罪吧。,消极,2,根据对话内容，A在第2轮的发言中表达了自己在外面工作非常辛苦，使用了“哼哧哼哧干活挣钱遭多少罪”这样的词语，显得有些抱怨和疲惫。这种表达方式显示出A对自己工作辛苦的感受，表现出一定的消极情绪。,1,TRUE,102
-20,在一个偏远的山区小村庄，冬天来得特别早，气温骤降。村民们依赖柴油发电机取暖，但最近柴油供应出现了问题。A和B是村里的居民，他们正在讨论这个紧急情况。,"第一回合：
-A：听说村里的柴油快用完了，供应商也说暂时送不过来。
-B：是啊，我也听说了。我们得想办法应对，不然会很麻烦。
+Turn 2
+A: Exactly. It's amazing how we all come together, no matter what. I love my friends I really value these friendships; they bring so much positivity into my life.
+B: Same here. It's rare to find such a supportive and fun group of friends. I feel really lucky to be a part of it.",I love my friends,not sarcastic,2,"The context of the conversation is positive and appreciative, with both A and B expressing gratitude and happiness about their supportive and close-knit group of friends. There is no indication of sarcasm in A's statement.",1,True,602
+5,"Turn 1
+A: Man, last night was wild! I can't believe we ended up at that karaoke bar. Do you remember when I tried to sing ""Bohemian Rhapsody""?
+B: Oh, I remember! You were really going for those high notes. It was hilarious. I think everyone in the bar was cheering you on.
 
-第二回合：
-A：没有柴油取暖，我们就会被冻死。
-B：别担心，我们可以先用木柴，等柴油到了再说。我们一起想办法，总会有解决的办法。",没有柴油取暖，我们就会被冻死。,消极,2,"根据对话内容，A在第2轮说""没有柴油取暖，我们就会被冻死。""之前的上下文中，A提到村里的柴油快用完了，供应商也暂时送不过来。这表明A对当前情况感到担忧和焦虑，表现出一种消极的情绪。",1,TRUE,126
-23,在一个大学校园的咖啡厅里，A和B是好朋友，正在讨论最近的感情生活。B听说A和夏洛有些暧昧，想要打听更多的细节。,"第一回合：
-A：最近课业压力好大，真想找个地方放松一下。
-B：是啊，听说你和夏洛最近走得挺近的，怎么回事啊？
+Turn 2
+A: Yeah, it was a blast. Drinks last night was a bit messy. May get some more beers tonight. Not sure though. I'm kind of tempted to do it all over again tonight. What do you think? Up for another round of chaos?
+B: Hmm, it does sound tempting. But maybe we should take it easy tonight? I don't know if my voice can handle another ""Bohemian Rhapsody"" performance so soon.",Drinks last night was a bit messy. May get some more beers tonight. Not sure though.,not sarcastic,2,"Yes, I agree. A was being sincere about the previous night's experience and is genuinely considering whether to repeat it. There is no indication of sarcasm in A's statement.",1,True,652
+6,"Turn 1
+A: You know, B, I've been feeling really overwhelmed lately. Every time I try to talk to you about it, it seems like you just brush it off. I need you to understand how serious this is for me.
+B: I'm sorry if it seemed like I wasn't taking you seriously. I didn't realize how much it was affecting you. Can you tell me more about what's been going on?
 
-第二回合：
-A：我警告你别瞎叫，我跟夏洛的事还不一定呢，讨厌。
-B：好好好，我不说了，你别生气嘛。",我警告你别瞎叫，我跟夏洛的事还不一定呢，讨厌。,消极,2,根据对话内容，A在第一回合提到课业压力大，表现出一定的压力和烦恼。在第二回合，A对B的调侃反应强烈，表现出不满和防御情绪。这些情绪都可以被视为消极情感的表现。,1,TRUE,105
-24,A和B是好朋友，正在咖啡馆里聊天。B刚刚从国外回来，带了一些礼物给A的三个孩子。B想知道A的孩子们最近怎么样。,"第一回合：
-A：哇，B，你从国外回来啦！这次旅行怎么样？
-B：挺好的，带了些小礼物给你的孩子们。他们最近怎么样？
+Turn 2
+A: It's just everything piling up—work stress, family issues, and my mental health. It's crazy how you can tell someone what you're going through 1000x and they just dismiss it I feel like I'm drowning, and when you change the subject or give me quick advice, it makes me feel even more alone.
+B: I had no idea you felt that way. I really want to be here for you. Let's sit down and talk about it properly. I promise to listen this time.",It's crazy how you can tell someone what you're going through 1000x and they just dismiss it,not sarcastic,2,"A was expressing genuine frustration and hurt about not being taken seriously, rather than being sarcastic. The context shows A is overwhelmed and feels dismissed, which aligns with a sincere expression of their feelings.",1,True,804
+7,"Turn 1
+A: ""I can't believe how much it costs to fill up the tank these days. It's like I'm burning money every time I drive.""
+B: ""Yeah, it's ridiculous. It feels like the oil companies are the only ones making a killing off this.""
 
-第二回合：
-A：谢谢你，B！三个孩子我都特别喜欢。他们最近都很乖，学习也很努力。
-B：那真是太好了！希望他们喜欢我带的礼物。",三个孩子我都特别喜欢,积极,2,根据对话内容，A在第2轮中表达了对B的感谢，并且提到自己特别喜欢三个孩子，说明A对B的礼物表示了积极的态度。,1,TRUE,120
-25,在一个繁忙的办公室里，A和B是同事。A负责处理文件递送工作，而B负责审核文件。今天，A已经在办公室和其他部门之间来回奔波了很多次，显得非常疲惫。B需要A再去一趟其他部门取一份重要文件。,"第一回合：
-A：哎，今天真是忙得不可开交。
-B：A，你能再去一趟财务部吗？我们还缺一份文件。
+Turn 2
+A: ""Oh, absolutely. I'm sure they're just swimming in their profits while we scrape by to afford gas. I LOVE paying so much for gas. Really feels good to help out big oil.""
+B: ""It's frustrating. You'd think there'd be some relief or regulation, but nope, just higher prices every time we turn around.""",I LOVE paying so much for gas. Really feels good to help out big oil.,sarcastic,2,"A's statement ""I LOVE paying so much for gas. Really feels good to help out big oil."" is clearly sarcastic given the context of the conversation. Both A and B are expressing frustration about the high cost of gas and the perceived profiteering by oil companies. A's exaggerated expression of love for paying high prices is a sarcastic way to emphasize their dissatisfaction.",1,True,540
+13,"Turn 1
+A: You know, I've been seeing someone new, and it's been amazing. I feel like they really understand me, and we just click on so many levels.
+B: That's wonderful to hear! Tell me more about them. What makes you feel so connected?
 
-第二回合：
-A：我真的跑了几十趟了。
-B：我知道你很辛苦，但这份文件真的很重要。",我真的跑了几十趟了。,消极,2,"根据对话内容，A在第2轮说""我真的跑了几十趟了。""之前，已经表现出了一种疲惫和不满的情绪。这表明A对当前的工作量感到压力和不满，因此可以认为A表现得消极。",1,TRUE,88
-26,在一家公司的办公室里，A和B是同事。A刚刚收到上司的邮件，得知自己在最近的绩效评估中得分不高。A感到非常焦虑，而B则试图安慰他。,"第一回合：
-A：我刚刚收到上司的邮件，说我的绩效评估得分很低。
-B：别太担心，或许只是这次评估标准比较严格。你平时工作表现还是很不错的。
+Turn 2
+A: Well, for starters, they always make me feel heard and valued. We have these deep conversations that leave me feeling so inspired and understood. I am so in love with this woman Plus, they have this incredible sense of humor that just brightens my day.
+B: That sounds perfect! It's so important to feel both understood and uplifted in a relationship. I'm really happy for you. How has this new relationship impacted your life so far?
 
-第二回合：
-A：可是这次真的很严重，如果差一分，我也会被开除的。
-B：我明白你的担忧，但我们可以一起想办法提高你的绩效，别轻易放弃。",如果差一分，我也会被开除的。,消极,2,根据对话内容，A在第一回合提到绩效评估得分很低，表现出担忧和焦虑。在第二回合，A进一步表达了对被开除的担忧，显得更加消极。,1,TRUE,136
-27,在一个安静的咖啡馆里，A和B坐在角落的桌子旁。A显得有些紧张，不时地看向四周，仿佛在担心被人听见。B则显得有些困惑，不明白A为什么如此不安。,"第一回合：
-A：B，我有件事想跟你说，但你一定要答应我，不要告诉任何人。
-B：你放心吧，我会保密的。到底是什么事让你这么紧张？
+[Continue for N turns]",I am so in love with this woman,not sarcastic,2,"Based on the context, A is expressing genuine feelings of love and appreciation for the person they are seeing. The tone of the conversation is positive and sincere, indicating that A is not being sarcastic.",1,True,705
+65,"Turn 1
+A: Hey, I found this awesome video about that new drone technology we've been talking about. Thought you might like it!
+B: Oh, nice! Let me check it out.
 
-第二回合：
-A：其实，我最近遇到了一些麻烦，真的不想让其他人知道。我求你了，求你保守住我的秘密不要让别人知道。
-B：别担心，我一定会替你保守这个秘密的。你可以放心。",我求你了，求你保守住我的秘密不要让别人知道,消极,2,根据对话内容，A在第一回合和第二回合中都表现出对保密的强烈需求和紧张情绪。A在第二回合中再次强调了保密的重要性，并使用了“求你了”这样的词语，表明A非常担心和焦虑。因此，A表现得消极。,1,TRUE,147
+Turn 2
+A: What did you think? Pretty cool, right? I simply love this clip. Thank you.
+B: That was amazing! Thanks for sharing it. I loved the part where they showed the drone's agility in the obstacle course. So impressive!",I simply love this clip. Thank you.,not sarcastic,2,"Based on the context, A genuinely seems to appreciate the video and is expressing their enthusiasm. There is no indication of sarcasm in their statement.",1,True,385
+15,"Turn 1
+A: I can't believe the concert is finally here! So stoked to see them tonight I've been counting down the days.
+B: Same here! It's going to be epic. Do you remember the last time we saw them live? It was unforgettable.
+
+Turn 2
+A: Absolutely! I still get chills thinking about it. What time do you want to meet up before the show?
+B: How about 6 PM at that café near the venue? We can grab a quick bite and then head over together.",So stoked to see them tonight,not sarcastic,1,"Based on the context, A is expressing genuine excitement about the concert. The use of phrases like ""I can't believe the concert is finally here!"" and ""So stoked to see them tonight"" indicates that A is eagerly anticipating the event and is not being sarcastic.",1,True,437
+41,"Turn 1
+A: ""Did you see the latest policy they rolled out? It's like they're trying to win the 'Most Out of Touch' award.""
+B: ""Oh, absolutely. I mean, who even thought that cutting funding for public services was a good idea? It's like they live in a different universe.""
+
+Turn 2
+A: ""Right? And don't get me started on their supporters. It's like they think trickle-down economics is some kind of magic spell. It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.""
+B: ""Yeah, because clearly, if we just give the rich more money, it'll somehow rain gold coins on the rest of us. Makes perfect sense!""
+
+[Continue for N turns]",It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.,sarcastic,2,"Yes, A was being sarcastic. The exaggerated and absurd actions described by A, such as smashing their head into a wall and kicking a homeless person, are not meant to be taken literally. Instead, they are used to mock and criticize the mindset and policies associated with the Tory party.",1,True,846
+4,"Turn 1
+A: Hey, did you see all the likes and comments I've been leaving on your posts lately? Clapped out the post twice now.Your travel photos are amazing!
+B: Yeah, I noticed! Thanks so much for the support. It really means a lot to me. I'm glad you're enjoying them.
+
+Turn 2
+A: Absolutely! I love seeing all the places you've been visiting. It's like I'm traveling vicariously through you.
+B: That's awesome to hear. I've been trying to capture the best moments. Your feedback really keeps me motivated to share more.",Clapped out the post twice now.,not sarcastic,1,"Yes, I agree. A's comments throughout the conversation are positive and supportive, indicating genuine appreciation for B's travel photos. The phrase ""Clapped out the post twice now"" seems to be a way of emphasizing their enthusiasm and support.",1,True,519

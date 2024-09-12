@@ -57,16 +57,14 @@ const Instructions = ({ onComplete, setProlificID }) => {
     setProlificID(id);
   };
 
-
   const handleComprehensionChange = () => {
-    console.log("Is comprehension valid?", isComprehensionValid);
+    console.log("理解测试是否有效？", isComprehensionValid);
     setIsComprehensionValid(validateComprehensionTest());
   };
 
-
   const validateComprehensionTest = () => {
     const correctAnswers = {
-      "comprehension-1": "false",
+      "comprehension-1": "true",
       "comprehension-2": "false",
       "comprehension-3": "true",      
     };
@@ -74,10 +72,10 @@ const Instructions = ({ onComplete, setProlificID }) => {
     for (const question in correctAnswers) {
       const selectedAnswer = document.querySelector(`input[name="${question}"]:checked`);
       if (!selectedAnswer) {
-        console.log(`No answer selected for ${question}`);
+        console.log(`未选择${question}的答案`);
         return false;
       }
-      console.log(`Selected answer for ${question}: ${selectedAnswer.value}`);
+      console.log(`${question}的选择答案: ${selectedAnswer.value}`);
       if (selectedAnswer.value !== correctAnswers[question]) {
         return false;
       }
@@ -91,8 +89,8 @@ const Instructions = ({ onComplete, setProlificID }) => {
       id: 'intro0',
       content: (
         <>
-          <h2>Consent Form</h2>
-          <p> Your data will be used for analysis in a research project and will be used in a publication in a fully anonymized manner.</p>
+          <h2>同意书</h2>
+          <p>您的数据将用于一个研究项目的分析，并将在一篇以完全匿名化方式发表的文章中使用。</p>
           <div className="form-check">
             <input
               className="form-check-input"
@@ -102,7 +100,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               onChange={handleConsentChange}
             />
             <label className="form-check-label" htmlFor="consent-checkbox">
-              I have read and understood the information above, and I agree to participate in this study.
+              我已阅读并理解上述信息，并同意参与此研究。
             </label>
           </div>
         </>
@@ -113,12 +111,12 @@ const Instructions = ({ onComplete, setProlificID }) => {
       content: (
         <>
           <h2>Prolific ID</h2>
-          <p>Please enter your Prolific ID to continue:</p>
+          <p>请输入您的Prolific ID以继续：</p>
           <input
             type="text"
             value={prolificID}
             onChange={handleProlificIDChange}
-            placeholder="Enter your Prolific ID [if you are testing the exp just insert 1]"
+            placeholder="请输入您的Prolific ID.."
             className="form-control"
             required
           />
@@ -129,15 +127,15 @@ const Instructions = ({ onComplete, setProlificID }) => {
       id: 'intro2', 
       content: (
         <>
-          <h2>Instructions 1/2: Introduction</h2> 
-          <p>Welcome to this intent recognition experiment!</p>
+          <h2>说明 1/2：简介</h2> 
+          <p>欢迎参加此情感识别实验！</p>
           <p>
-            In this study, you will be presented a conversation containing a statement and your task is to 
-            judge if the statement is <span style={{color: 'blue'}}> sarcastic </span> 
-            or <span style={{color: 'red'}}> not sarcastic</span> in the context of the conversation
+            在这项研究中，您将会看到一段对话，其中包含一个陈述。您的任务是
+            识别该陈述的情感是<span style={{color: 'blue'}}>积极的</span>、
+            <span style={{color: 'red'}}>消极的</span>还是<span style={{color: 'green'}}>中性的</span>。
           </p>
-          <p> Our goal is to find out how well people can recognize the intent behind a statement in a conversation. </p>
-          <p><strong>IMPORTANT NOTE:</strong> Please read all instructions carefully and thoroughly. At the end of the instructions, you will be asked comprehension questions to ensure you have fully understood the task and your role in this experiment.</p>
+          <p>我们的目标是了解人们在对话中识别陈述背后的情感的能力。</p>
+          <p><strong>重要提示：</strong>请仔细阅读所有说明。在说明的最后，您将被要求回答理解问题，以确保您完全理解了任务和您在此实验中的角色。</p>
         </>
       ) 
     },
@@ -145,11 +143,12 @@ const Instructions = ({ onComplete, setProlificID }) => {
       id: 'intro3', 
       content: (
         <>
-          <h2>Instructions 2/2: Choices</h2>
-          <p>For each statement, you will choose from the following:</p>
-          <p><strong>Sarcastic</strong>: If the statement is sarcastic given the conversation.</p>
-          <p><strong>Not sarcastic</strong>: If the statement is not sarcastic given the conversation.</p>
-          <p><strong>Ambiguous</strong>: If you cannot determine if the statement is sarcastic or not, or if you do not understand the statement given the conversation.</p>
+          <h2>说明 2/2：选择</h2>
+          <p>对于每个陈述，您将从以下选项中进行选择：</p>
+          <p><strong>积极的</strong></p>
+          <p><strong>消极的</strong></p>
+          <p><strong>中性的</strong></p>
+          <p><strong>模糊的</strong>：如果您不能在没有更多上下文的情况下确定陈述的情感，或者如果您不理解该陈述。</p>
         </>
       ) 
     },
@@ -157,43 +156,43 @@ const Instructions = ({ onComplete, setProlificID }) => {
       id: 'intro4',
       content: (
         <>
-          <h2>Comprehension Quiz</h2>
+          <h2>理解测验</h2>
           <form onChange={handleComprehensionChange}>
             <div className="question">
-              <p>1. The main objective of this experiment is to identify if the sentiment of a statement is positive or negative.</p>
+              <p>1. 本实验的主要目的是识别陈述的情感是积极的、消极的还是中性的。</p>
               <div className="form-check">
                 <input type="radio" id="comp-1-true" name="comprehension-1" value="true" className="form-check-input" />
-                <label htmlFor="comp-1-true" className="form-check-label">True</label>
+                <label htmlFor="comp-1-true" className="form-check-label">正确</label>
               </div>
               <div className="form-check">
                 <input type="radio" id="comp-1-false" name="comprehension-1" value="false" className="form-check-input" />
-                <label htmlFor="comp-1-false" className="form-check-label">False</label>
+                <label htmlFor="comp-1-false" className="form-check-label">错误</label>
               </div>
             </div>
             <div className="question">
-              <p>2. When you do not understand the statement, just select "not sarcastic" as the answer.</p>
+              <p>2. 当您不理解陈述时，只需选择“中性”作为答案。</p>
               <div className="form-check">
                 <input type="radio" id="comp-2-true" name="comprehension-2" value="true" className="form-check-input" />
-                <label htmlFor="comp-2-true" className="form-check-label">True</label>
+                <label htmlFor="comp-2-true" className="form-check-label">正确</label>
               </div>
               <div className="form-check">
                 <input type="radio" id="comp-2-false" name="comprehension-2" value="false" className="form-check-input" />
-                <label htmlFor="comp-2-false" className="form-check-label">False</label>
+                <label htmlFor="comp-2-false" className="form-check-label">错误</label>
               </div>
             </div>
             <div className="question">
-              <p>3. When you think the statement is ambiguous and can be either sarcastic or not sarcastic, you should select "ambiguous". </p>
+              <p>3. 当您认为陈述的情感是模糊的，并且在没有更多上下文的情况下无法确定时，您应该选择“模糊”。</p>
               <div className="form-check">
                 <input type="radio" id="comp-3-true" name="comprehension-3" value="true" className="form-check-input" />
-                <label htmlFor="comp-3-true" className="form-check-label">True</label>
+                <label htmlFor="comp-3-true" className="form-check-label">正确</label>
               </div>
               <div className="form-check">
                 <input type="radio" id="comp-3-false" name="comprehension-3" value="false" className="form-check-input" />
-                <label htmlFor="comp-3-false" className="form-check-label">False</label>
+                <label htmlFor="comp-3-false" className="form-check-label">错误</label>
               </div>
             </div>
             {showComprehensionError && (
-              <p style={{ color: 'red' }}>One of the comprehension is incorrect. Please double check the answers!</p>
+              <p style={{ color: 'red' }}>有一个理解问题回答不正确。请仔细检查答案！</p>
             )}
           </form>
         </>
@@ -219,7 +218,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
       <div className="text-center mt-4">
         {currentPage > 0 && (
           <button id="prev-btn" className="btn btn-secondary" onClick={handlePrev}>
-            Previous
+            上一页
           </button>
         )}
         <button
@@ -228,7 +227,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
           onClick={handleNext}
           disabled={(currentPage === 0 && !isConsentChecked) || (currentPage === 1 && !prolificID) || (currentPage === 4 && !isComprehensionValid)}
         >
-          {currentPage === totalPages - 1 ? 'Complete' : 'Next'}
+          {currentPage === totalPages - 1 ? '完成' : '下一页'}
         </button>
       </div>
     </div>
