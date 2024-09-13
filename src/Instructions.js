@@ -172,7 +172,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               </div>
             </div>
             <div className="question">
-              <p>2. When you do not understand the statement, just select "not sarcastic" as the answer.</p>
+              <p>2. When you do not understand the statement, just select "against" as the answer.</p>
               <div className="form-check">
                 <input type="radio" id="comp-2-true" name="comprehension-2" value="true" className="form-check-input" />
                 <label htmlFor="comp-2-true" className="form-check-label">True</label>
@@ -183,7 +183,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
               </div>
             </div>
             <div className="question">
-              <p>3. When you think the statement is ambiguous and can be either sarcastic or not sarcastic, you should select "ambiguous". </p>
+              <p>3. When you think the statement is ambiguous and can be either in favor of or against COVID19 vaccination, you should select "ambiguous". </p>
               <div className="form-check">
                 <input type="radio" id="comp-3-true" name="comprehension-3" value="true" className="form-check-input" />
                 <label htmlFor="comp-3-true" className="form-check-label">True</label>
