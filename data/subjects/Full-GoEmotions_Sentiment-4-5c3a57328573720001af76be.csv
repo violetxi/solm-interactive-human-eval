@@ -1,0 +1,261 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I just wanted to say, your section of the report was... interesting. Maybe next time, you could try to be a bit more concise?
+B: Interesting? Really, A? It feels like you're just saying that to be nice. If you have actual feedback, I'd appreciate it.
+
+Turn 2
+A: I'm sorry if it came off that way. This.. im sorry but this is a dumb reply. Ofc it was fake kindness golly I genuinely think your ideas are good, but they could be clearer. I didn't mean to sound patronizing.
+B: Well, it did. I need constructive feedback, not vague compliments. Let's be straightforward with each other, okay?",negative,2024-09-13T10:56:55.587000+00:00,"What was the person's sentiment when they said ""This.. im sorry but this is a dumb reply. Ofc it was fake kindness golly"" during the conversation?","Turn 1
+A: I just wanted to say, your section of the report was... interesting. Maybe next time, you could try to be a bit more concise?
+B: Interesting? Really, A? It feels like you're just saying that to be nice. If you have actual feedback, I'd appreciate it.
+
+Turn 2
+A: I'm sorry if it came off that way. This.. im sorry but this is a dumb reply. Ofc it was fake kindness golly I genuinely think your ideas are good, but they could be clearer. I didn't mean to sound patronizing.
+B: Well, it did. I need constructive feedback, not vague compliments. Let's be straightforward with each other, okay?",This.. im sorry but this is a dumb reply. Ofc it was fake kindness golly,negative
+"Turn 1
+A: I've been trying to follow a vegan diet lately, but I'm still figuring it all out. Do you know any good vegan-friendly places around here?
+B: Yeah, there are a few great spots nearby. Have you tried Green Leaf Cafe or Veggie Delight? They have some really good options.
+
+Turn 2
+A: I haven't been to either of those yet. Well someone posted the ingredients in the comments below. I'm still new to the whole vegan thing. I'm always a bit unsure about what dishes are truly vegan, though.
+B: I get that. You can usually check the comments or reviews online for ingredient lists and recommendations. People often share their experiences and tips there.",neutral,2024-09-13T10:54:27.607000+00:00,"What was the person's sentiment when they said ""Well someone posted the ingredients in the comments below. I'm still new to the whole vegan thing."" during the conversation?","Turn 1
+A: I've been trying to follow a vegan diet lately, but I'm still figuring it all out. Do you know any good vegan-friendly places around here?
+B: Yeah, there are a few great spots nearby. Have you tried Green Leaf Cafe or Veggie Delight? They have some really good options.
+
+Turn 2
+A: I haven't been to either of those yet. Well someone posted the ingredients in the comments below. I'm still new to the whole vegan thing. I'm always a bit unsure about what dishes are truly vegan, though.
+B: I get that. You can usually check the comments or reviews online for ingredient lists and recommendations. People often share their experiences and tips there.",Well someone posted the ingredients in the comments below. I'm still new to the whole vegan thing.,neutral
+"Turn 1
+A: Did you see the premiere last night? I think this season's contestants are so much more interesting than last year's!
+B: Yeah, I caught it! I agree, especially that one guy who's a professional dancer. He's got such a unique vibe.
+
+Turn 2
+A: Totally! Loving everyone so far. This is going to be a great season. And the challenges seem more intense this time around. I can't wait to see how they handle the next one.
+B: Same here. I have a feeling this season is going to be full of surprises. It's already off to a great start!",positive,2024-09-13T10:53:40.213000+00:00,"What was the person's sentiment when they said ""Loving everyone so far. This is going to be a great season."" during the conversation?","Turn 1
+A: Did you see the premiere last night? I think this season's contestants are so much more interesting than last year's!
+B: Yeah, I caught it! I agree, especially that one guy who's a professional dancer. He's got such a unique vibe.
+
+Turn 2
+A: Totally! Loving everyone so far. This is going to be a great season. And the challenges seem more intense this time around. I can't wait to see how they handle the next one.
+B: Same here. I have a feeling this season is going to be full of surprises. It's already off to a great start!",Loving everyone so far. This is going to be a great season.,positive
+"Turn 1
+A: Guess what, B! I finally finished my painting series! It took forever, but I'm so happy with how it turned out.
+B: That's amazing, Picasso! I knew you could do it. Your dedication always pays off. Can't wait to see them!
+
+Turn 2
+A: Thanks, B! Your support means the world to me. Much love half purple homie I'll send you some pictures tonight.
+B: Yay! I'm so proud of you. Let's celebrate this weekend, my treat!",positive,2024-09-13T10:59:42.849000+00:00,"What was the person's sentiment when they said ""Much love half purple homie"" during the conversation?","Turn 1
+A: Guess what, B! I finally finished my painting series! It took forever, but I'm so happy with how it turned out.
+B: That's amazing, Picasso! I knew you could do it. Your dedication always pays off. Can't wait to see them!
+
+Turn 2
+A: Thanks, B! Your support means the world to me. Much love half purple homie I'll send you some pictures tonight.
+B: Yay! I'm so proud of you. Let's celebrate this weekend, my treat!",Much love half purple homie,positive
+"Turn 1
+A: Ugh, today was just one of those days, you know? I had this awful interaction with a customer who just wouldn't listen. I hate people It felt like no matter what I said, they were determined to make my life miserable.
+B: I'm so sorry to hear that, A. That sounds incredibly frustrating. It's like some people just wake up looking for a fight. What happened exactly?
+
+Turn 2
+A: Well, they came in already upset about something that wasn't even our fault. I tried to explain the situation calmly, but they kept interrupting and raising their voice. By the end of it, I was just drained.
+B: That sounds exhausting. It's so unfair when people take out their frustrations on you. I'm glad you can vent about it now. Do you want to talk more about what happened, or would you rather focus on something else to take your mind off it?",negative,2024-09-13T10:55:25.813000+00:00,"What was the person's sentiment when they said ""I hate people"" during the conversation?","Turn 1
+A: Ugh, today was just one of those days, you know? I had this awful interaction with a customer who just wouldn't listen. I hate people It felt like no matter what I said, they were determined to make my life miserable.
+B: I'm so sorry to hear that, A. That sounds incredibly frustrating. It's like some people just wake up looking for a fight. What happened exactly?
+
+Turn 2
+A: Well, they came in already upset about something that wasn't even our fault. I tried to explain the situation calmly, but they kept interrupting and raising their voice. By the end of it, I was just drained.
+B: That sounds exhausting. It's so unfair when people take out their frustrations on you. I'm glad you can vent about it now. Do you want to talk more about what happened, or would you rather focus on something else to take your mind off it?",I hate people,negative
+"Turn 1
+A: Ugh, today was just one of those days. Everything that could go wrong did.
+B: Oh no, what happened? You look exhausted.
+
+Turn 2
+A: First, the weather was terrible—rainy and windy. Then, the dogs were all over the place, and to top it off, I had a really rude client. Today is the only day I really hate my job as a dog walker
+B: That sounds rough. I'm so sorry you had to deal with all that. Do you want to talk more about it or just relax for a bit?",neutral,2024-09-13T10:55:44.167000+00:00,"What was the person's sentiment when they said ""Today is the only day I really hate my job as a dog walker"" during the conversation?","Turn 1
+A: Ugh, today was just one of those days. Everything that could go wrong did.
+B: Oh no, what happened? You look exhausted.
+
+Turn 2
+A: First, the weather was terrible—rainy and windy. Then, the dogs were all over the place, and to top it off, I had a really rude client. Today is the only day I really hate my job as a dog walker
+B: That sounds rough. I'm so sorry you had to deal with all that. Do you want to talk more about it or just relax for a bit?",Today is the only day I really hate my job as a dog walker,neutral
+"Turn 1
+A: So, for a perfect cut crease, I always start by applying a bit of concealer on my eyelid to create a clean base. It really helps to define the crease.
+B: Oh, I totally agree about the concealer! It makes such a difference. But I prefer using a lighter shade of eyeshadow instead of a darker one for the outer corner. It gives a softer look.
+
+Turn 2
+A: That's a great idea! I usually go for a more dramatic effect, but I can see how a lighter shade would be really pretty. I agree with the concealer part for the cut crease but that's it. Maybe I'll try that next time.
+B: You should! And I love how you blend the edges so seamlessly. It really pulls the whole look together. Thanks for the tip on the concealer, by the way!",positive,2024-09-13T10:51:08.011000+00:00,"What was the person's sentiment when they said ""I agree with the concealer part for the cut crease but that's it."" during the conversation?","Turn 1
+A: So, for a perfect cut crease, I always start by applying a bit of concealer on my eyelid to create a clean base. It really helps to define the crease.
+B: Oh, I totally agree about the concealer! It makes such a difference. But I prefer using a lighter shade of eyeshadow instead of a darker one for the outer corner. It gives a softer look.
+
+Turn 2
+A: That's a great idea! I usually go for a more dramatic effect, but I can see how a lighter shade would be really pretty. I agree with the concealer part for the cut crease but that's it. Maybe I'll try that next time.
+B: You should! And I love how you blend the edges so seamlessly. It really pulls the whole look together. Thanks for the tip on the concealer, by the way!",I agree with the concealer part for the cut crease but that's it.,positive
+"Turn 1
+A: I can't believe how poorly this complaint was handled. This is one of the worst I've seen... There were so many red flags that were just ignored.
+B: Yeah, I noticed that too. It seems like the initial response was way too slow, and the follow-up was almost non-existent.
+
+Turn 2
+A: Exactly. We need to make sure everyone is trained to recognize these issues and respond promptly. Maybe we should run a refresher course on handling severe complaints.
+B: That's a good idea. We could also create a checklist to ensure all critical steps are followed. It might help prevent something like this from happening again.",negative,2024-09-13T10:53:30.817000+00:00,"What was the person's sentiment when they said ""This is one of the worst I've seen..."" during the conversation?","Turn 1
+A: I can't believe how poorly this complaint was handled. This is one of the worst I've seen... There were so many red flags that were just ignored.
+B: Yeah, I noticed that too. It seems like the initial response was way too slow, and the follow-up was almost non-existent.
+
+Turn 2
+A: Exactly. We need to make sure everyone is trained to recognize these issues and respond promptly. Maybe we should run a refresher course on handling severe complaints.
+B: That's a good idea. We could also create a checklist to ensure all critical steps are followed. It might help prevent something like this from happening again.",This is one of the worst I've seen...,negative
+"Turn 1
+A: I can't believe OSAP just sent me a notice saying my funding's been cut. Now they expect me to pay back money I don't even have!
+B: That's so frustrating, A. I remember last semester when they messed up my application and I had to scramble to cover my rent. It's like they don't understand how much we rely on this support.
+
+Turn 2
+A: Exactly! It's not like we have a ton of options. I already work part-time, and now I have to figure out how to make up for this shortfall. I never wanted to punch osap harder after seeing that However not too hardly I cant afford them taking everything away It's just so overwhelming.
+B: I get it. Maybe we can look into some emergency bursaries or talk to the financial aid office together. Sometimes they can help if you explain your situation. You're not alone in this.",negative,2024-09-13T10:53:21.085000+00:00,"What was the person's sentiment when they said ""I never wanted to punch osap harder after seeing that However not too hardly I cant afford them taking everything away"" during the conversation?","Turn 1
+A: I can't believe OSAP just sent me a notice saying my funding's been cut. Now they expect me to pay back money I don't even have!
+B: That's so frustrating, A. I remember last semester when they messed up my application and I had to scramble to cover my rent. It's like they don't understand how much we rely on this support.
+
+Turn 2
+A: Exactly! It's not like we have a ton of options. I already work part-time, and now I have to figure out how to make up for this shortfall. I never wanted to punch osap harder after seeing that However not too hardly I cant afford them taking everything away It's just so overwhelming.
+B: I get it. Maybe we can look into some emergency bursaries or talk to the financial aid office together. Sometimes they can help if you explain your situation. You're not alone in this.",I never wanted to punch osap harder after seeing that However not too hardly I cant afford them taking everything away,negative
+"Turn 1
+A: ""I can't believe I'm finally home. Welcome home! I've missed you so much.""
+B: ""Welcome back! It's been so quiet without you. How was the trip?""
+
+Turn 2
+A: ""It was exhausting, but I'm just glad to be back. How have you been holding up?""
+B: ""I've been counting down the days. Everything's better now that you're here.""",positive,2024-09-13T10:57:45.042000+00:00,"What was the person's sentiment when they said ""Welcome home!"" during the conversation?","Turn 1
+A: ""I can't believe I'm finally home. Welcome home! I've missed you so much.""
+B: ""Welcome back! It's been so quiet without you. How was the trip?""
+
+Turn 2
+A: ""It was exhausting, but I'm just glad to be back. How have you been holding up?""
+B: ""I've been counting down the days. Everything's better now that you're here.""",Welcome home!,positive
+"Turn 1
+A: So, the key to using this tool effectively is understanding how to leverage its automation features. Let me show you how to set up a basic workflow.
+B: Wow, I had no idea it could do all that! Thanks for walking me through it, A. This is going to save me so much time.
+
+Turn 2
+A: No problem at all, B. I didn't know that, thank you for teaching me something today!If you have any questions as you start using it, feel free to ask.
+B: I definitely will. I really appreciate your help. This makes a huge difference for our project.",positive,2024-09-13T10:54:06.926000+00:00,"What was the person's sentiment when they said ""I didn't know that, thank you for teaching me something today!"" during the conversation?","Turn 1
+A: So, the key to using this tool effectively is understanding how to leverage its automation features. Let me show you how to set up a basic workflow.
+B: Wow, I had no idea it could do all that! Thanks for walking me through it, A. This is going to save me so much time.
+
+Turn 2
+A: No problem at all, B. I didn't know that, thank you for teaching me something today!If you have any questions as you start using it, feel free to ask.
+B: I definitely will. I really appreciate your help. This makes a huge difference for our project.","I didn't know that, thank you for teaching me something today!",positive
+"Turn 1
+A: I can't believe I missed out on those concert tickets. I was so excited about it, and then I find out they sold out just a day before I checked.Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late
+B: That really sucks, I'm sorry. I know how much you were looking forward to it. Maybe there's still a chance to get tickets from someone who can't go?
+
+Turn 2
+A: Yeah, I thought about that, but the resale prices are insane. It's just so frustrating. I feel like I have the worst luck sometimes.
+B: I get it, it's really disappointing. But hey, maybe we can find another event or concert coming up that you'll enjoy just as much. Let's keep an eye out together.",negative,2024-09-13T10:52:01.461000+00:00,"What was the person's sentiment when they said ""Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late"" during the conversation?","Turn 1
+A: I can't believe I missed out on those concert tickets. I was so excited about it, and then I find out they sold out just a day before I checked.Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late
+B: That really sucks, I'm sorry. I know how much you were looking forward to it. Maybe there's still a chance to get tickets from someone who can't go?
+
+Turn 2
+A: Yeah, I thought about that, but the resale prices are insane. It's just so frustrating. I feel like I have the worst luck sometimes.
+B: I get it, it's really disappointing. But hey, maybe we can find another event or concert coming up that you'll enjoy just as much. Let's keep an eye out together.",Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late,negative
+"Turn 1
+A: Hey B, I wanted to update you on something. We had initially overlooked the integration of the new API, but I've made the necessary changes to include it now.
+B: Oh, good catch. Did you run into any issues while making those changes?
+
+Turn 2
+A: There were a few minor hiccups, but nothing major. That was one of the things that I didn't think about and I already gave a delta for that. I've tested it, and everything seems to be working fine now. We should be back on track.
+B: Great to hear. Let's make sure to double-check everything in our next review to avoid any more oversights.",positive,2024-09-13T10:51:30.083000+00:00,"What was the person's sentiment when they said ""That was one of the things that I didn't think about and I already gave a delta for that."" during the conversation?","Turn 1
+A: Hey B, I wanted to update you on something. We had initially overlooked the integration of the new API, but I've made the necessary changes to include it now.
+B: Oh, good catch. Did you run into any issues while making those changes?
+
+Turn 2
+A: There were a few minor hiccups, but nothing major. That was one of the things that I didn't think about and I already gave a delta for that. I've tested it, and everything seems to be working fine now. We should be back on track.
+B: Great to hear. Let's make sure to double-check everything in our next review to avoid any more oversights.",That was one of the things that I didn't think about and I already gave a delta for that.,positive
+"Turn 1
+A: So, if you look at the data flow diagram here, you'll see how the inputs are processed before reaching the final output. Thank you for articulating this for me. It's just like that. Does that make more sense now?
+B: Oh, I see it now! That really clears things up. Thanks for breaking it down like that.
+
+Turn 2
+A: No problem at all. I'm glad it helped. If you have any more questions, feel free to ask.
+B: I definitely will. Thanks again, I really appreciate your patience and clarity.",positive,2024-09-13T10:53:50.940000+00:00,"What was the person's sentiment when they said ""Thank you for articulating this for me. It's just like that."" during the conversation?","Turn 1
+A: So, if you look at the data flow diagram here, you'll see how the inputs are processed before reaching the final output. Thank you for articulating this for me. It's just like that. Does that make more sense now?
+B: Oh, I see it now! That really clears things up. Thanks for breaking it down like that.
+
+Turn 2
+A: No problem at all. I'm glad it helped. If you have any more questions, feel free to ask.
+B: I definitely will. Thanks again, I really appreciate your patience and clarity.",Thank you for articulating this for me. It's just like that.,positive
+"Turn 1
+A: I was thinking about subscribing to either Sky Germany or Sky Sports to watch the game this weekend. What do you think?
+B: Honestly, I wouldn't recommend it. I've had some pretty frustrating experiences with both. The reliability just isn't there.
+
+Turn 2
+A: Really? That's disappointing to hear. Yeah. Basically Sky Germany and Sky Sports aren't reliable at all What happened?
+B: There were constant streaming issues and customer service was a nightmare. I'd look for other options if I were you.",negative,2024-09-13T10:52:49.340000+00:00,"What was the person's sentiment when they said ""Yeah. Basically Sky Germany and Sky Sports aren't reliable at all"" during the conversation?","Turn 1
+A: I was thinking about subscribing to either Sky Germany or Sky Sports to watch the game this weekend. What do you think?
+B: Honestly, I wouldn't recommend it. I've had some pretty frustrating experiences with both. The reliability just isn't there.
+
+Turn 2
+A: Really? That's disappointing to hear. Yeah. Basically Sky Germany and Sky Sports aren't reliable at all What happened?
+B: There were constant streaming issues and customer service was a nightmare. I'd look for other options if I were you.",Yeah. Basically Sky Germany and Sky Sports aren't reliable at all,negative
+"Turn 1
+A: You clearly have no idea what you're talking about. Maybe if you spent less time worrying about your appearance and more time educating yourself, you'd actually contribute something meaningful.
+B: Attacking my appearance doesn't change the facts. Let's stick to the topic and discuss the actual issues instead of resorting to personal insults.
+
+Turn 2
+A: It's hard to take you seriously when you can't even maintain basic hygiene. People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?Your arguments are as weak as your personal upkeep.
+B: Insulting me won't strengthen your argument. If you can't debate respectfully, maybe it's time to reconsider why you're here in the first place.",negative,2024-09-13T10:52:28.174000+00:00,"What was the person's sentiment when they said ""People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?"" during the conversation?","Turn 1
+A: You clearly have no idea what you're talking about. Maybe if you spent less time worrying about your appearance and more time educating yourself, you'd actually contribute something meaningful.
+B: Attacking my appearance doesn't change the facts. Let's stick to the topic and discuss the actual issues instead of resorting to personal insults.
+
+Turn 2
+A: It's hard to take you seriously when you can't even maintain basic hygiene. People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?Your arguments are as weak as your personal upkeep.
+B: Insulting me won't strengthen your argument. If you can't debate respectfully, maybe it's time to reconsider why you're here in the first place.",People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?,negative
+"Turn 1
+A: You know, I really enjoy watching soccer, but I have to admit, I don't know much about the strategies or the finer details of the game.
+B: That's totally fine! Soccer can be pretty complex. I've been playing and coaching for years, and there's always something new to learn. What do you enjoy most about watching it?
+
+Turn 2
+A: I love the excitement and the atmosphere, especially during big matches. The energy is just incredible. Nah, he's much smarter than I am about soccer. But sometimes I get lost when they start talking about formations and tactics.
+B: The atmosphere is definitely a huge part of it. As for formations and tactics, they can seem complicated at first, but once you get the basics down, it all starts to make sense. If you're interested, I could explain some of the common ones to you sometime.",neutral,2024-09-13T10:50:33.171000+00:00,"What was the person's sentiment when they said ""Nah, he's much smarter than I am about soccer."" during the conversation?","Turn 1
+A: You know, I really enjoy watching soccer, but I have to admit, I don't know much about the strategies or the finer details of the game.
+B: That's totally fine! Soccer can be pretty complex. I've been playing and coaching for years, and there's always something new to learn. What do you enjoy most about watching it?
+
+Turn 2
+A: I love the excitement and the atmosphere, especially during big matches. The energy is just incredible. Nah, he's much smarter than I am about soccer. But sometimes I get lost when they start talking about formations and tactics.
+B: The atmosphere is definitely a huge part of it. As for formations and tactics, they can seem complicated at first, but once you get the basics down, it all starts to make sense. If you're interested, I could explain some of the common ones to you sometime.","Nah, he's much smarter than I am about soccer.",neutral
+"Turn 1
+A: You know, your advice really made me feel better about the whole situation. Thanks! Do you think I should talk to her or drop it for now? Do you think I should reach out to them now, or wait a bit?
+B: Honestly, if you're feeling good about it, why not go for it? Sometimes waiting just makes things more complicated.
+
+Turn 2
+A: Yeah, you're right. I guess there's no harm in being proactive. I'll send a message tonight.
+B: Perfect! Just be yourself, and I'm sure it'll go well. You've got this!",neutral,2024-09-13T10:56:03.794000+00:00,"What was the person's sentiment when they said ""Thanks! Do you think I should talk to her or drop it for now?"" during the conversation?","Turn 1
+A: You know, your advice really made me feel better about the whole situation. Thanks! Do you think I should talk to her or drop it for now? Do you think I should reach out to them now, or wait a bit?
+B: Honestly, if you're feeling good about it, why not go for it? Sometimes waiting just makes things more complicated.
+
+Turn 2
+A: Yeah, you're right. I guess there's no harm in being proactive. I'll send a message tonight.
+B: Perfect! Just be yourself, and I'm sure it'll go well. You've got this!",Thanks! Do you think I should talk to her or drop it for now?,neutral
+"Turn 1
+A: Remember how ""The Lion King"" was such a mix of fun and a bit of fear? That stampede scene always got to me.
+B: Oh, totally! I loved ""The Lion King,"" but that scene with Mufasa's death was so intense. I think I cried every time.
+
+Turn 2
+A: Same here. And then there was ""The NeverEnding Story."" That movie was magical but also had some really scary parts, like the scene with the wolf. Dark Crystal, Neverending Story, Labyrinth. My holy trinity of movies I both loved and was intimidated by as a child.
+B: Yes! ""The NeverEnding Story"" was amazing. The scene with Artax in the Swamp of Sadness was heartbreaking. It's funny how those movies could be both enchanting and terrifying at the same time.",positive,2024-09-13T10:54:51.891000+00:00,"What was the person's sentiment when they said ""Dark Crystal, Neverending Story, Labyrinth. My holy trinity of movies I both loved and was intimidated by as a child."" during the conversation?","Turn 1
+A: Remember how ""The Lion King"" was such a mix of fun and a bit of fear? That stampede scene always got to me.
+B: Oh, totally! I loved ""The Lion King,"" but that scene with Mufasa's death was so intense. I think I cried every time.
+
+Turn 2
+A: Same here. And then there was ""The NeverEnding Story."" That movie was magical but also had some really scary parts, like the scene with the wolf. Dark Crystal, Neverending Story, Labyrinth. My holy trinity of movies I both loved and was intimidated by as a child.
+B: Yes! ""The NeverEnding Story"" was amazing. The scene with Artax in the Swamp of Sadness was heartbreaking. It's funny how those movies could be both enchanting and terrifying at the same time.","Dark Crystal, Neverending Story, Labyrinth. My holy trinity of movies I both loved and was intimidated by as a child.",positive
+"Turn 1
+A: ""Hey B, do you think my last few posts about the new crafting techniques are a bit off-topic for the forum? I don't want to be that person who derails the conversation.""
+B: ""Not at all, A! Your posts have been super insightful and totally relevant. Everyone's been really engaged with your tips and tricks.""
+
+Turn 2
+A: ""Phew, that's a relief! I was worried I might be turning the forum into my personal blog. I sure hope so! Otherwise, I've been in the wrong sub. Guess I can keep sharing my crafting experiments without guilt.""
+B: ""Absolutely! Keep them coming. Your experiments are inspiring a lot of us to try new things. Plus, your sense of humor always brightens up the threads.""",neutral,2024-09-13T10:50:35.181000+00:00,"What was the person's sentiment when they said ""I sure hope so! Otherwise, I've been in the wrong sub."" during the conversation?","Turn 1
+A: ""Hey B, do you think my last few posts about the new crafting techniques are a bit off-topic for the forum? I don't want to be that person who derails the conversation.""
+B: ""Not at all, A! Your posts have been super insightful and totally relevant. Everyone's been really engaged with your tips and tricks.""
+
+Turn 2
+A: ""Phew, that's a relief! I was worried I might be turning the forum into my personal blog. I sure hope so! Otherwise, I've been in the wrong sub. Guess I can keep sharing my crafting experiments without guilt.""
+B: ""Absolutely! Keep them coming. Your experiments are inspiring a lot of us to try new things. Plus, your sense of humor always brightens up the threads.""","I sure hope so! Otherwise, I've been in the wrong sub.",neutral
