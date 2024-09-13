@@ -98,8 +98,9 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-SemT6_Sentiment-1'
     # current_data_prefix = 'Full-SemT6_Sentiment-2'
     # current_data_prefix = 'Full-SemT6_Sentiment-3'
-    current_data_prefix = 'Full-SemT6_Sentiment-4'
+    # current_data_prefix = 'Full-SemT6_Sentiment-4'
     
+
     # # Politeness
     # current_data_prefix = 'Full-Politeness-1'
     # current_data_prefix = 'Full-Politeness-2'

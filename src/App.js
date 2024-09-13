@@ -101,7 +101,7 @@ function App() {
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
         .map(item => ({
-          question: `Was the person intended to be polite when they said "${item.original_data}" in the conversation?`,
+          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
