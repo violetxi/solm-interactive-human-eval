@@ -39,24 +39,27 @@ const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
-// Map dataset filenames to specific order of choices
+// Map dataset filenames to specific order of choices for COVID-19 vaccination stance
 const choiceOrderMap = {
   'set_4.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic'},
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' }
+    { label: 'Against COVID19 vaccination', value: 'against' },
+    { label: 'In favor of COVID19 vaccination', value: 'favoring' },
+    { label: 'Neutral: neither favoring nor against', value: 'neutral' },
+    { label: 'Ambiguous: not clear or mixed stance', value: 'ambiguous' }
   ],
   'set_5.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' }
+    { label: 'Neutral: neither favoring nor against', value: 'neutral' },
+    { label: 'Against COVID19 vaccination', value: 'against' },
+    { label: 'In favor of COVID19 vaccination', value: 'favoring' },    
+    { label: 'Ambiguous: not clear or mixed stance', value: 'ambiguous' }
   ],
   'set_6.csv': [
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' }
+    { label: 'Ambiguous: not clear or mixed stance', value: 'ambiguous' },
+    { label: 'Neutral: neither favoring nor against', value: 'neutral' },
+    { label: 'Against COVID19 vaccination', value: 'against' },
+    { label: 'In favor of COVID19 vaccination', value: 'favoring' },  
   ],
-  // Add more datasets if needed
+  // Add more sets if needed
 };
 
 
