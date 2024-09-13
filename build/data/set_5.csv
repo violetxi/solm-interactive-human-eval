@@ -1,149 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-11,"Turn 1
-A: You know, our set pieces have been really lacking lately, especially corners and free kicks. We are missing cress or Bowen for our corners and freekicks have been pretty poor so far. It's like we're missing that spark.
-B: Yeah, I noticed that too. Without our key players, it's like we don't have anyone who can really step up in those moments.
+96,"Turn 1
+A: ""Well, there goes another politician caught in a lie. Who would've thought, right? It's almost like honesty is a foreign concept to them. Politicians are so honest it melts my heart""
+B: ""Yeah, it's pretty disheartening. You'd think they'd learn by now that the truth always comes out.""
 
 Turn 2
-A: Exactly. When we had Carlos and Jamie, we were always a threat from set pieces. Now, it feels like we're just going through the motions.
-B: True, their absence is definitely felt. Maybe the coach needs to work on some new strategies or give some of the younger players a chance to prove themselves in those situations.",We are missing cress or Bowen for our corners and freekicks have been pretty poor so far.,not sarcastic,1,A's statement about missing Cress or Bowen for corners and free kicks appears to be a genuine observation about the team's performance. There is no indication of sarcasm in the context provided.,1,True,684
-1,"Turn 1
-A: Did you see how fast that guy finished the marathon? It just doesn't seem right.
-B: Yeah, I noticed. He was way ahead of everyone else. Do you think something's up?
+A: ""At this rate, we might as well start a betting pool on the next scandal. It's becoming a regular occurrence.""
+B: ""Honestly, it feels like we're watching a never-ending soap opera. Just when you think it can't get worse, it does.""",Politicians are so honest it melts my heart,sarcastic,1,"Yes, A was being sarcastic. The statement ""Politicians are so honest it melts my heart"" is clearly ironic given the context of discussing a politician caught in a lie.",1,True,537
+62,"Turn 1
+A: It's really something to hear the English fans singing ""Jerusalem"" in the middle of the Gabba, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba Makes me feel a bit nostalgic.
+B: Absolutely, mate. It's great to see how passionate they are. Adds a unique flavor to the atmosphere here.
 
 Turn 2
-A: Honestly, I wouldn't be surprised if he was using performance-enhancing drugs. Smashing records and recently won a race by 38 seconds.
-
-Does anyone genuinely think this is fair? His improvement was just too drastic.
-B: That's a serious accusation, but I get where you're coming from. It does make you question the integrity of the competition.","Smashing records and recently won a race by 38 seconds.
-
-Does anyone genuinely think this is fair?",not sarcastic,2,"A's statement appears to be a genuine expression of concern about the fairness of the competition, given the drastic improvement and record-breaking performance. There is no indication of sarcasm in A's tone.",1,True,529
-97,"Turn 1
-A: ""I'm really excited because I'm expecting a significant payment today. Money is going to locate me today . Claiming this It's either my paycheck, a bonus, or maybe even that refund I've been waiting for.""
-B: ""That's awesome! Do you have any plans for the money once it arrives?""
+A: Yeah, it reminds me of the matches back home. Even though I'm loving it here, moments like these bring back fond memories.
+B: I get that. It's those little things that make you feel connected to your roots. Plus, it's always good to have a bit of friendly rivalry in the crowd!",Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba,not sarcastic,1,"Yes, I agree. A's statement about it being ""quite wonderful"" to hear ""Jerusalem"" sung by English fans surrounded by Aussies at the Gabba is followed by a sentiment of nostalgia and fondness. This indicates that A is genuinely appreciating the moment and is not being sarcastic.",1,True,640
+21,"Turn 1
+A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
+B: Yeah, I figured. I think it might belong to someone from the other table.
 
 Turn 2
-A: ""Yeah, I was thinking of finally getting that new laptop I've been eyeing. Plus, I need to cover some bills.""
-B: ""Sounds like a solid plan. Let me know if you need any help picking out the laptop!""",Money is going to locate me today . Claiming this,not sarcastic,1,"Based on the context, A is expressing genuine excitement and anticipation about receiving a significant payment. There is no indication of sarcasm in A's statement.",1,True,497
-29,"Turn 1
-A: I'm really worried about the Union Chapel show. If we have to cancel, it would be such a blow, both financially and emotionally.
-B: I know, it's been such a tough couple of years. But we have to think about everyone's health and safety first. It's a delicate balance.
+A: Thanks for pointing that out. I didn't want anyone to think I was being rude by not drinking it.
+B: No worries. Let's just move it over there and avoid any mix-ups.",FYI this was not my pint. I hate beer,not sarcastic,1,"A's statement ""FYI this was not my pint. I hate beer"" appears to be a straightforward clarification rather than a sarcastic remark. A is simply making it clear that the pint does not belong to them because they dislike beer.",1,True,371
+106,"Turn 1
+A: You know, I find Instagram so superficial sometimes. It's like a highlight reel of everyone's best moments, and it can be pretty demotivating.
+B: Yeah, I get that. Speaking of which, did you see Kim Kardashian's latest post? The one where she's flaunting her new luxury car?
 
 Turn 2
-A: Absolutely, the safety of our cast and crew is paramount. After the two years we've just had, the loss of twenty shows just before Christmas…if we lose our Union Chapel show too it'll be devastating. But I'd rather be safe than dead Still, it's hard not to feel the weight of another potential cancellation.
-B: It is hard, but maybe we can look into some virtual options or smaller, safer gatherings to keep the spirit alive. We've been resilient so far; we can find a way through this too.","After the two years we've just had, the loss of twenty shows just before Christmas…if we lose our Union Chapel show too it'll be devastating. But I'd rather be safe than dead",not sarcastic,2,"A's statement ""But I'd rather be safe than dead"" is a serious expression of concern for health and safety, especially given the context of discussing the impact of potential cancellations due to health risks. There is no indication of sarcasm; rather, it reflects a genuine prioritization of safety over financial and emotional losses.",1,True,779
-2,"Turn 1
-A: I just read that article about the new policy changes, and honestly, it really worries me. This makes me feel uneasy ngl It feels like they're not considering the impact on vulnerable communities at all.
-B: I get what you mean. It's frustrating to see decisions being made without taking everyone's needs into account. How are you holding up?
+A: Oh, that one? I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account. It was so inspiring. Made me want to delete my account and go read a book instead.
+B: Haha, I figured you'd say something like that. Social media really isn't your thing, is it?",I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account.,sarcastic,2,"Yes, A was being sarcastic. A's initial statement in Turn 1 expressed a negative view of Instagram, calling it superficial and demotivating. In Turn 2, A's comment about being ""motivated to delete my account"" after seeing Kim Kardashian's post is a sarcastic way of reinforcing their disdain for the platform.",1,True,603
+25,"Turn 1
+A: I know the Omicron variant is really concerning, but I just can't stay cooped up at home all the time. I need to get out and do something I love, like birdwatching.Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.
+B: I totally get it, A. It's important to take care of your mental health too. Just make sure you're taking all the necessary precautions while you're out there.
 
 Turn 2
-A: I'm trying to stay positive, but it's hard when it feels like things are moving in the wrong direction. I just hope there's still room for public input.
-B: Absolutely. It's important to stay informed and speak up. Maybe we can find a way to get involved and make our voices heard.",This makes me feel uneasy ngl,not sarcastic,1,"A's statement ""This makes me feel uneasy ngl"" expresses genuine concern and unease about the new policy changes. The context of the conversation shows that A is worried about the impact on vulnerable communities, which indicates a sincere sentiment rather than sarcasm.",1,True,644
-19,"Turn 1
-A: ""Wow, what a week! I'm so glad it's finally over. What a week, more than ready for tomorrow morning, up bright and early I'm really looking forward to getting an early start tomorrow for that new project.""
-B: ""I know, right? This week was brutal. But yeah, the new project sounds exciting. It'll be nice to work on something fresh.""
-
-Turn 2
-A: ""Absolutely. I think it'll be a great change of pace. Plus, I heard we might get some new tools to help us out.""
-B: ""That sounds awesome! Let's make sure we get a good night's rest so we can hit the ground running in the morning.""","What a week, more than ready for tomorrow morning, up bright and early",not sarcastic,1,A's statement about being ready for tomorrow morning and looking forward to getting an early start on the new project suggests genuine enthusiasm and anticipation. There is no indication of sarcasm in the context provided.,1,True,584
-5,"Turn 1
-A: I'm really stressed about finding a timely appointment for my medical check-up. It feels like everywhere I call is booked for weeks.
-B: I totally understand. I was in the same boat last month. But I found this online service that helped me get an appointment within a few days. It was such a relief.
-
-Turn 2
-A: Really? That sounds amazing. Top tip - worked for me. Appointments available as early as tomorrow. What service did you use?
-B: It's called QuickMed. You just enter your details and they match you with available slots nearby. It worked like a charm for me.",Top tip - worked for me. Appointments available as early as tomorrow.,not sarcastic,2,"Based on the context, A is genuinely interested in finding a solution for their problem and is expressing enthusiasm about the possibility of getting a timely appointment. The phrase ""Top tip - worked for me. Appointments available as early as tomorrow."" indicates that A is appreciative and hopeful about the recommendation.",1,True,577
-15,"Turn 1
-A: Did you hear about that burglary at the corner store last week? It makes me feel a lot safer knowing the MET Police don't investigate crimes after they happen.The police didn't even bother to investigate.
-B: Oh, fantastic. I feel so ""safe"" knowing the police are just ignoring crimes now.
-
-Turn 2
-A: It's really frustrating. How are we supposed to trust them to keep us safe if they don't follow up on these things?
-B: Exactly. It's like they're just waiting for things to get worse before they do anything about it.",It makes me feel a lot safer knowing the MET Police don't investigate crimes after they happen.,sarcastic,1,"Yes, A was being sarcastic. The phrase ""It makes me feel a lot safer"" is used ironically to express the opposite sentiment, highlighting frustration and disappointment with the police's lack of action.",1,True,526
-33,"Turn 1
-A: Whew, what a drive! The rain was coming down so hard, I could barely see the road. It was awfully wet on the roads today it was hard driving conditions but i have made it in
-B: I can imagine. It was pretty bad when I got here too. Glad you made it safely.
-
-Turn 2
-A: Thanks. I was worried I'd be late, but luckily traffic wasn't as bad as I expected.
-B: That's good to hear. Hopefully, it clears up by the time we leave. Stay dry!",It was awfully wet on the roads today it was hard driving conditions but i have made it in,not sarcastic,1,A's statement about the driving conditions being difficult due to the rain appears to be a straightforward description of their experience. There is no indication of sarcasm in their words.,1,True,440
-66,"Turn 1
-A: Thanks again for helping me out, B. I really appreciate it.
-B: No problem, A. I'm always here for you. But, you know, I miss our regular chats. It feels like we only talk when there's a crisis.
-
-Turn 2
-A: You're right. I've been so caught up with everything that I haven't made enough effort to stay in touch. You need to be friendly and in contact when you don't need any help, friends should be in contact all the time , not only when they need help. I'm sorry about that.
-B: It's okay. I just want us to be there for each other, not just in tough times but in good times too. Let's make an effort to catch up more often.","You need to be friendly and in contact when you don't need any help, friends should be in contact all the time , not only when they need help.",not sarcastic,2,"A's statement acknowledges the importance of maintaining regular contact with friends, not just during times of need. This indicates a genuine recognition of the value of consistent friendship, rather than sarcasm.",1,True,633
-86,"Turn 1
-A: ""I can't believe how disappointing this trip has been so far. This holiday is not going the way i thought it was - food is bad, service is attrociousThe food was terrible, and nothing seems to be going right.""
-B: ""I know, it's really frustrating. We had such high hopes for this holiday. Maybe we can find something fun to do tomorrow to turn things around?""
-
-Turn 2
-A: ""Yeah, I guess we could try to make the best of it. Maybe we can check out that hiking trail we saw in the brochure?""
-B: ""That sounds like a good idea. Let's plan for that and see if we can salvage the rest of the trip. I'm sure we'll find something enjoyable.""","This holiday is not going the way i thought it was - food is bad, service is attrocious",not sarcastic,1,"A's statement expresses genuine disappointment and frustration about the holiday, indicating that they are not being sarcastic but rather sincere in their dissatisfaction.",1,True,641
-4,"Turn 1
-A: I can't believe we missed that chance in the last minute. We should've won this one.
-B: Oh, come on, A. With the number of shots we took, we were lucky to even get a draw. Did they forget how to shoot?
-
-Turn 2
-A: It's just frustrating, you know? We had the possession but did nothing with it. Michael Carricks interview after the Chelsea game, ""i thought we were unlucky not to get the 3 points today"" 3 Points, i am sure you have to start shooting to score goals to win games !!!
-B: Possession doesn't win games, mate. Goals do. And we didn't look like scoring at all today.","Michael Carricks interview after the Chelsea game, ""i thought we were unlucky not to get the 3 points today"" 3 Points, i am sure you have to start shooting to score goals to win games !!!",sarcastic,2,"Yes, A was being sarcastic. A's comment about needing to shoot to score goals and win games, followed by the exclamation marks, indicates frustration and sarcasm about the team's performance and the interview.",1,True,585
-0,"Turn 1
-A: ""Wow, Salah, maybe next time try aiming for the goal instead of the stands!""Does Salah want to score today, even my grand mother could have scored that open goal!""""
-B: ""Yeah, that was a shocker. But you know, the pressure must be immense. Everyone's expecting him to score every time.""
-
-Turn 2
-A: ""True, but come on, even my grandma could've made that shot!""
-B: ""I get it, but think about it—he's probably overthinking because of all the expectations. It happens to the best of them.""","""Does Salah want to score today, even my grand mother could have scored that open goal!""",sarcastic,1,"Yes, A was being sarcastic. The statement ""maybe next time try aiming for the goal instead of the stands!"" and the comparison to their grandmother scoring an open goal are clear indicators of sarcasm, implying that Salah's miss was so bad that even someone with no professional football skills could have done better.",1,True,494
-82,"Turn 1
-A: Guess what? I just hit 10,000 followers on Instagram! Woke up to 200 followers, warra dub
-B: Wow, that's amazing! You've been working so hard on your content. How does it feel?
-
-Turn 2
-A: It feels incredible! I never thought I'd get this far. The engagement on my latest post was through the roof.
-B: That's fantastic! What's your next goal? Are you planning any special content to celebrate?","Woke up to 200 followers, warra dub",not sarcastic,1,"Yes, I agree. A's statement ""Woke up to 200 followers, warra dub"" is followed by excitement about hitting 10,000 followers and the positive engagement on their latest post. This indicates genuine enthusiasm and not sarcasm.",1,True,402
-11,"Turn 1
-A: Did you see the uproar over that news story yesterday? It's really concerning how much bias and misinformation can slip through.
-B: Yeah, I did. It's frustrating because it undermines the trust people have in the media. We really need to address this within our organization.
-
-Turn 2
-A: Absolutely. I think we also need a conversation about truthfulness and impartiality in the media?I think we should start a discussion on how we can reinforce our commitment to truthfulness and impartiality. Maybe even set up some new guidelines or training sessions.
-B: That's a great idea. We could also consider having a dedicated team to fact-check and review stories before they go live. It might help catch any issues early on.",I think we also need a conversation about truthfulness and impartiality in the media?,not sarcastic,2,"Based on the context, A is expressing genuine concern about the issues of bias and misinformation in the media and is suggesting proactive steps to address these problems. There is no indication of sarcasm in A's statement.",1,True,729
-67,"Turn 1
-A: ""Oh, I didn't realize the clinic had a VIP entrance now. yeah man just walk right in. clearly you can read the sign that says ""only two patients inside at once"" when there are already four people in here cant you""
-B: ""Sorry, I just really need to see the doctor quickly.""
-
-Turn 2
-A: ""We all do, but there's a reason for the two-patient rule.""
-B: ""You're right, my bad. I'll wait outside.""","yeah man just walk right in. clearly you can read the sign that says ""only two patients inside at once"" when there are already four people in here cant you",sarcastic,1,"Yes, A was being sarcastic. The use of phrases like ""yeah man just walk right in"" and ""clearly you can read the sign"" indicates that A is not genuinely encouraging B to enter but rather pointing out B's disregard for the posted rules in a sarcastic manner.",1,True,398
+A: Absolutely, I'll be masked up and keeping my distance from others. Plus, birdwatching is pretty solitary anyway.
+B: That sounds like a good plan. Enjoy your time out there and stay safe. Let me know if you spot any interesting birds!",Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.,not sarcastic,1,A's statement about deciding to go birdwatching despite the risks of the Omicron variant seems sincere and reflects a genuine concern for mental health and a desire to engage in a beloved activity. There is no indication of sarcasm in the context provided.,1,True,747
 22,"Turn 1
-A: Hey, B! Have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something more widespread.
-B: Oh, hey A! Actually, now that you mention it, I did notice some static and signal drops last night. I thought it was just a temporary glitch.
+A: Hey B, have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something more widespread.
+B: Funny you mention that, A. I did notice some flickering last night, but I thought it was just a temporary glitch. 
 
 Turn 2
-A: Interesting. I was starting to think my antenna might be on the fritz. Anyone in Hull area having digital TV aerial or freeview problems? Thank you. Good to know it's not just me.
-B: Yeah, it sounds like it might be an area issue. Maybe we should check with a few more neighbors to see if they're having the same problem.",Anyone in Hull area having digital TV aerial or freeview problems? Thank you.,not sarcastic,2,"Yes, I agree. A's statement ""Anyone in Hull area having digital TV aerial or freeview problems? Thank you."" is a genuine inquiry about whether others in the area are experiencing similar issues. There is no indication of sarcasm in the context provided.",1,True,651
-60,"Turn 1
-A: ""You know, I've been really struggling at my current job. I feel so undervalued and disrespected.""
-B: ""That sounds tough. How does it compare to your last job? You seemed much happier there.""
+A: Hmm, that's interesting. I guess it might be something affecting the whole area then. Anyone in Hull area having digital TV aerial or freeview problems? Thank you. Have you heard anything from other neighbors?
+B: Not yet, but I can ask around. Maybe it's worth checking with the service provider too, just in case it's a known issue.",Anyone in Hull area having digital TV aerial or freeview problems? Thank you.,not sarcastic,2,A's question about the Hull area having digital TV aerial or Freeview problems seems genuine and is a logical follow-up to the discussion about TV reception issues. There is no indication of sarcasm in the context provided.,1,True,635
+88,"Turn 1
+A: It's such a hassle to always have to carry cash just for the barbershop. I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...
+B: I know, right? I always forget and end up scrambling to find an ATM.
 
 Turn 2
-A: ""Oh, absolutely. At my old job, I was treated with so much respect and felt like a real part of the team. Can't wait to go back to my old job and be treated like an actual person and be respected again.. I really miss that environment.""
-B: ""Maybe it's worth considering going back or finding a place with a similar culture. You deserve to feel valued at work.""",Can't wait to go back to my old job and be treated like an actual person and be respected again..,not sarcastic,2,"Based on the context, A is expressing genuine frustration with their current job and longing for the positive experiences they had at their previous job. There is no indication of sarcasm in their statement.",1,True,573
-32,"Turn 1
-A: I just don't get why some people here can't follow the basic COVID-19 safety protocols. It's so frustrating!
-
-B: I understand your frustration, A. These measures are really simple and they're in place to protect everyone, especially those who are more vulnerable.
-
-Turn 2
-A: Exactly! It's not like wearing a mask or keeping some distance is that hard. i can believe some believe are complaining about having to wear masks and doing frequent covid tests. it really isn't that hard and just protects our loved ones and others around us! It's for everyone's safety.
-
-B: Absolutely. It's about looking out for each other and showing that we care about the well-being of our community. We're all in this together.",i can believe some believe are complaining about having to wear masks and doing frequent covid tests. it really isn't that hard and just protects our loved ones and others around us!,not sarcastic,2,"Yes, I agree. A is expressing genuine frustration and concern about people not following COVID-19 safety protocols. The statement emphasizes the importance of these measures for protecting loved ones and the community, indicating sincerity rather than sarcasm.",1,True,718
-41,"Turn 1
-A: I can't stop thinking about that theater production last night. The kids were so talented!
-B: I know, right? They really put their hearts into it. I was blown away by their performances.
+A: And it's not just the barbershop. So many places still don't accept card payments.
+B: Exactly. It really complicates things, especially when you're used to paying with your phone everywhere else.",I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...,sarcastic,1,"Yes, A was being sarcastic. The statement ""I love that we have to always pay by cash at the barbers"" is immediately followed by ""Sure would be a lot easier if they took card,"" which indicates that A actually finds it inconvenient to pay by cash and would prefer card payments.",1,True,467
+112,"Turn 1
+A: So, I ordered from Deliveroo today, and guess what? They sent me a vegan salad instead of my burger. I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun! Just what I needed, right?
+B: Oh no, that's the worst! I once got someone else's sushi order. I mean, I like sushi, but not when I'm expecting pizza!
 
 Turn 2
-A: I'm seriously considering posting about it on social media. I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
-Please retweet if you saw the production and agree with me. More people should know about these amazing young performers.
-B: That's a great idea! They deserve all the recognition they can get. Plus, it might encourage more people to support local theater.","I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
-Please retweet if you saw the production and agree with me.",not sarcastic,2,"A's statement is genuine and enthusiastic about the theater production. There is no indication of sarcasm; instead, A is expressing sincere admiration for the young performers and encouraging others to share in that recognition.",1,True,655
+A: Exactly! It's like they want to keep us on our toes. Maybe next time I'll get a dessert platter instead of my main course.
+B: Haha, yeah, it's like a food roulette. At least it makes for some interesting stories to share!",I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!"" is likely sarcastic because receiving the wrong order is generally frustrating, not enjoyable. The context of the conversation suggests that A is expressing their annoyance in a sarcastic manner.",1,True,599
+38,"Turn 1
+A: ""I just can't stop thinking about all the things that could go wrong on this trip. What if I get lost or something bad happens?""
+B: ""I understand your worries, but remember how much you've always wanted to do this. Sometimes, the best experiences come from stepping out of our comfort zones.""
+
+Turn 2
+A: ""You're right, but it's hard to shake off the anxiety. Don't be so afraid of dying that you forget how to live What if I regret going?""
+B: ""You might regret not going even more. Life's too short to let fear hold you back. You've got this, and I'll be here cheering you on every step of the way.""",Don't be so afraid of dying that you forget how to live,not sarcastic,2,"A's statement ""Don't be so afraid of dying that you forget how to live"" is a genuine expression of their internal struggle with anxiety and fear about the trip. It reflects a moment of self-awareness and an attempt to remind themselves of the importance of living fully despite their fears. Therefore, A was not being sarcastic.",1,True,609
+20,"Turn 1
+A: I've been trying to book a COVID booster shot online, but it's been such a hassle. I would love to be able to book my covid booster shot but the website doesn't work The website keeps crashing.
+B: Oh, that sounds frustrating. I had a similar issue last month. Have you tried calling the pharmacy directly?
+
+Turn 2
+A: I haven't, but that's a good idea. I might give that a shot. How did it go for you when you called?
+B: It was much smoother. They were able to schedule me right away, and I got my booster the next day. Definitely worth a try.",I would love to be able to book my covid booster shot but the website doesn't work,not sarcastic,1,A's statement expresses a genuine desire to book a COVID booster shot and frustration with the website not working. There is no indication of sarcasm in the context provided.,1,True,552
+18,"Turn 1
+A: I can't believe how unpredictable the weather has been lately. So fed up with the rubbish every changing weather Every time we make some progress, it starts raining or gets too windy.
+B: I know, it's been really frustrating. We can't seem to catch a break. Maybe we should look into some portable shelters or something to keep us going despite the weather.
+
+Turn 2
+A: That's a good idea. At least it would give us some consistency. I just hope we can find something sturdy enough to handle these sudden changes.
+B: Agreed. Let's check out some options online during lunch. We need to find a way to keep this project on track.",So fed up with the rubbish every changing weather,not sarcastic,1,"Based on the context, A is expressing genuine frustration about the unpredictable weather affecting their progress. There is no indication of sarcasm in A's statement.",1,True,635
+10,"Turn 1
+A: Did you manage to get tickets for the concert?
+B: Yeah, I did! It was a bit of a scramble, but I got two. How about you?
+
+Turn 2
+A: Unfortunately, I wasn't so lucky. The site crashed on me. Did anyone on my twitter even get tickets for the SOUR tour? Do you know if anyone else got tickets?
+B: I heard that Sarah managed to get a few. Maybe she has an extra one she could sell you. I'll ask her for you.",Did anyone on my twitter even get tickets for the SOUR tour?,not sarcastic,2,"A's statement ""Did anyone on my twitter even get tickets for the SOUR tour?"" expresses genuine frustration and disappointment about not getting tickets, rather than sarcasm. A is earnestly inquiring if anyone else had better luck.",1,True,413
+17,"Turn 1
+A: It's interesting how COP26 was organized by the UK in partnership with Italy. Callum obviously doesn't know who organised COP26. Did you know that Callum seems a bit unclear about who was responsible for organizing the event?
+B: Really? That's surprising. I thought it was pretty well-publicized. Maybe he missed some of the initial briefings.
+
+Turn 2
+A: Yeah, it could be. I think it might help if we share some of the key details with him, especially since understanding the organizers is crucial for our project.
+B: Good idea. I'll make sure to bring it up in our next team meeting. It's important everyone is on the same page, especially with such a significant event.",Callum obviously doesn't know who organised COP26.,not sarcastic,1,"Based on the context, A is genuinely pointing out that Callum seems unclear about who organized COP26. There is no indication of sarcasm in A's statement; it appears to be a straightforward observation.",1,True,682
+115,"Turn 1
+A: It's been really tough adjusting to remote work. The technical issues are one thing, but I really miss the social interaction. I am just loving life in Covid times. Long may it last!
+B: Oh, absolutely. I'm just ""loving"" the constant Zoom calls and the joy of talking to my cat all day.
+
+Turn 2
+A: Haha, I know what you mean. My dog has become my new office mate, but he's not much of a conversationalist.
+B: At least your dog doesn't judge you for wearing pajamas to meetings. Small victories, right?",I am just loving life in Covid times. Long may it last!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I am just loving life in Covid times. Long may it last!"" is likely meant to be ironic, as the rest of the conversation indicates that both A and B are struggling with the challenges of remote work and missing social interaction.",1,True,510
+52,"Turn 1
+A: I've checked a few stores already, but I can't seem to find any bra strap extenders. Ladies anywhere in town do bra strap extenders? Do you have any idea where they might have them?
+B: Hmm, let's see. Have you tried the lingerie section in the department store? They usually have a good selection of accessories.
+
+Turn 2
+A: No, I haven't checked there yet. Do you think we should ask someone for help once we get there?
+B: Definitely. It'll save us some time. Let's head over and ask one of the sales associates as soon as we arrive.",Ladies anywhere in town do bra strap extenders?,not sarcastic,1,"Yes, I agree. A is genuinely asking for help in finding bra strap extenders and is not being sarcastic. The context shows that A is seeking information and assistance.",1,True,543
+113,"Turn 1
+A: I had a rough time with Jason today. He threw a tantrum in the middle of class because I asked him to put away his phone.
+B: Oh, Jason again? Sometimes I think we need a parenting manual just to deal with the fallout from home.
+
+Turn 2
+A: Exactly. It's like we're expected to teach and parent at the same time. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance… I wish there was more support from home.
+B: Tell me about it. If only parents realized how much their involvement could change things for the better.",I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…,sarcastic,2,"Yes, A was being sarcastic. The comment about a ""parenting manual for schools to hand out"" suggests a level of frustration and implies that some parents are not providing adequate support or guidance at home, which is affecting the classroom environment.",1,True,579
+40,"Turn 1
+A: Hey, B, I think I just saw Maxine Peake over there by the café. Might need my eyes checking but I think I just saw Maxine Peake in Deansgate Do you see her?
+B: Really? Where exactly? Let me take a look.
+
+Turn 2
+A: Right there, near the entrance, in the red coat. Do you think it's her?
+B: Hmm, it does look like her. Wow, what are the chances? Should we go say hi?",Might need my eyes checking but I think I just saw Maxine Peake in Deansgate,not sarcastic,1,"A's statement ""Might need my eyes checking but I think I just saw Maxine Peake in Deansgate"" suggests a genuine surprise and uncertainty about whether they correctly identified Maxine Peake. There is no indication of sarcasm in the context provided.",1,True,374
+95,"Turn 1
+A: I can't believe we have to quarantine now. This means no prom, no graduation, nothing. It's so unfair.
+B: Yeah, because clearly the best way to handle a pandemic is to ruin all the fun stuff for teenagers. Great job, government.
+
+Turn 2
+A: Seriously, it's like they don't even care about how much we've already missed out on. I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school. I was really looking forward to seeing everyone.
+B: I know, right? But hey, at least we get to experience the thrill of staring at our bedroom walls for another two weeks. So exciting.",I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,sarcastic,2,"Yes, A was being sarcastic. The phrase ""I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school"" is clearly meant to convey frustration and disappointment, not genuine appreciation.",1,True,652
+11,"Turn 1
+A: ""You see how they're struggling with those corners? It's like they haven't practiced their defensive positioning at all.""
+B: ""Yeah, I noticed that too. They seem lost every time the ball comes in. Do you think it's a problem with the marking system?""
+
+Turn 2
+A: ""Exactly. They're using a zonal marking system, but the players aren't communicating well. We are missing cress or Bowen for our corners and freekicks have been pretty poor so far. They need to switch to man-to-man marking to handle those set-pieces better.""
+B: ""That makes sense. It would definitely help them keep track of their opponents more effectively. Hopefully, the coach makes that adjustment soon.""",We are missing cress or Bowen for our corners and freekicks have been pretty poor so far.,not sarcastic,2,"A's statement about missing Cresswell or Bowen for corners and free-kicks appears to be a genuine observation about the team's performance and not sarcastic. The context of the conversation is a serious discussion about the team's defensive struggles and marking system, which supports the interpretation that A is making a sincere comment.",1,True,680
+83,"Turn 1
+A: ""If I have to hear 'Jingle Bells' one more time at 5 AM, I might just start decking the halls with canned goods."" I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!
+B: ""I hear you. At this point, I think I could recite the entire Christmas playlist in my sleep. Maybe we should start a caroling group—'The Sleep-Deprived Singers.'""
+
+Turn 2
+A: ""Only if we can perform in pajamas and slippers. I think that would really capture the essence of our holiday spirit.""
+B: ""Absolutely! And we can hand out coffee instead of candy canes. Now that's a Christmas miracle I can get behind.""","I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!",sarcastic,1,"A's statement about loving to wake up at 5 AM and being surrounded by stressed-out customers is likely sarcastic because it contrasts with the frustration expressed about hearing ""Jingle Bells"" at 5 AM and the mention of decking the halls with canned goods.",1,True,712
