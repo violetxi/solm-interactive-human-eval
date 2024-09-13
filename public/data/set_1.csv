@@ -1,145 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-14,"Turn 1
-A: Hey B, I was reading about the latest COVID-19 treatment protocols. What is the current approved early outpatient treatment protocol? It's been 2years surely upon positive diagnosis there must be some meds being recommended to reduce the viral replication in the nose, throat and mouth to reduce the risk of hospitalization regardless of vax status Do you know what the current recommendations are for early outpatient treatment, especially for those who test positive but aren't vaccinated?
-
-B: Yes, the guidelines have been updated recently. For early outpatient treatment, the focus is on antiviral medications like Paxlovid and monoclonal antibodies, depending on the patient's risk factors and availability. It's crucial to start these treatments as soon as possible after a positive test to reduce the risk of severe illness.
-
-Turn 2
-A: That makes sense. Are there any specific criteria for prescribing these treatments, or is it more of a case-by-case basis?
-
-B: There are specific criteria, mainly based on the patient's age, underlying health conditions, and the severity of symptoms. For instance, older adults and those with chronic conditions are prioritized. It's always best to assess each patient's situation individually, but having a clear understanding of the guidelines helps us make informed decisions quickly.","What is the current approved early outpatient treatment protocol? It's been 2years surely upon positive diagnosis there must be some meds being recommended to reduce the viral replication in the nose, throat and mouth to reduce the risk of hospitalization regardless of vax status",neutral,1,"Yes, A was being neutral. A was simply inquiring about the current approved early outpatient treatment protocols for COVID-19 without expressing any strong emotions or biases. The question was straightforward and focused on obtaining information.",1,True,1340
-185,"Turn 1
-A: I'm thinking about going to the movie theater this weekend, but I'm a bit worried about the COVID situation. Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week. I'm double vaccinated and have a booster shot scheduled soon. Do you think it would be safe if I wear a KN95 mask?
-B: Given that you're double vaccinated and planning to wear a KN95 mask, it should be relatively safe. Just make sure the theater has good ventilation and isn't too crowded. I've been to a few places recently, and sticking to these precautions has worked well for me.
+60,"Turn 1
+A: Wow, B, that necklace is absolutely stunning! I've never seen anything like it. Where did you get it?
+B: Thanks, A! It's actually really special to me. I made it myself from my baby teeth. I know it sounds a bit unusual, but I love how it turned out. The craftsmanship was a fun challenge!
 
 Turn 2
-A: That makes sense. I'll check the theater's safety measures and maybe go during a less busy time. Thanks for the advice!
-B: No problem! Enjoy the movie and stay safe. If you have any doubts, you can always opt for streaming at home.",Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week.,neutral,1,"Yes, I agree. A was being neutral in their inquiry about the safety of going to a movie theater. They were simply seeking advice and providing relevant information about their vaccination status and precautions.",1,True,951
-194,"Turn 1
-A: I really think we need to push harder on getting everyone vaccinated. The current protocols are good, but with the playoffs coming up, we can't afford any lapses.
-B: I agree, A. We've been following the NCAA guidelines closely, but I understand your concerns. We can definitely look into additional measures to encourage vaccination and ensure compliance.
+A: That's incredible! I love how personal and unique it is. That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work. You must be really proud of it.
+B: I am! It was a bit of a quirky idea, but I think it captures a part of my childhood in a creative way. Plus, it always makes for an interesting conversation piece!",That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work.,positive,2,"Yes, A was being positive. A complimented B's necklace, expressed admiration for its uniqueness, and shared a similar personal experience with baby teeth, indicating appreciation and understanding.",1,True,669
+53,"Turn 1
+A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
+B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
 
 Turn 2
-A: It's just frustrating, you know? The NCAA has a history of not prioritizing player safety, and now more than ever, we need to be proactive. A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront... Maybe we can set up another vaccine clinic on campus?
-B: That's a great idea. I'll coordinate with the health services to arrange it. We can also increase our communication efforts to emphasize the importance of the vaccine to the team and their families.",A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront...,favoring,2,"Yes, A was favoring the idea of pushing harder on getting everyone vaccinated and setting up another vaccine clinic on campus. A expressed a strong belief in the vaccine and the importance of player safety, while also criticizing the NCAA for not prioritizing these aspects.",1,True,1050
-92,"Turn 1
-A: I just got my COVID-19 booster shot last week. I think it's really important to follow public health guidelines to protect ourselves and others.
-B: I get that, but I prefer to rely on vitamins and natural remedies. I just don't trust the vaccines or the information we're being fed about them.
+A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
+B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",Lmao I hope I'm not the only one who gets this,positive,1,"Yes, A was being positive. The use of ""Lmao"" and the laughing emoji 😂 indicate that A found the meme funny and was sharing it in a light-hearted, humorous way.",1,True,521
+69,"Turn 1
+A: Wow, look at that! The college basketball game is on the main network. It seems like it's getting a lot of attention.
+B: Yeah, it's March Madness season. Everyone's really into it right now. But it's interesting how the UFC fight is on a less prominent channel. You'd think it would get more coverage too.
 
 Turn 2
-A: I understand your perspective, but the data shows that vaccines significantly reduce the risk of severe illness. We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof. It's about community protection too.
-B: I hear you, but I believe in boosting my immune system naturally. I think there's too much fear-mongering around the virus and the vaccines.","We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof.",against,2,"No, I do not agree. The statement ""We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof."" appears to be sarcastic and critical of the other person's stance on vaccines and public health measures. It suggests that A is actually against the measures and is mocking the idea of getting multiple boosters.",1,True,855
-42,"Turn 1
-A: You know, when I was in the city last week, I barely saw any enforcement of health measures. It was surprising given how strict things were before. My family and I were in the city today.   Nobody asked to see Vaccine IDs.  Nobody was enforcing masks.   What precautions are being taken? Because I didn't see any.
-B: Yeah, it seems like a lot of places are easing up. I guess with more people getting vaccinated, they feel it's safer to relax some of the rules.
+A: True, especially considering how popular UFC has become over the years. College basketball just big leagued the UFC. We've to wait for it to finish I think. I guess college basketball has that traditional appeal and a huge following during this time of year.
+B: Definitely. Plus, there's something about the unpredictability of March Madness that really draws people in. Every game feels like it could be an upset.",College basketball just big leagued the UFC. We've to wait for it to finish I think.,neutral,2,"A's statement ""College basketball just big leagued the UFC. We've to wait for it to finish I think."" is more of an observation rather than an expression of a strong opinion or bias. A is noting the fact that college basketball is receiving more attention and coverage at the moment, which is a neutral statement.",1,True,741
+80,"Turn 1
+A: Wait, so this is the big thing you've been hinting at for weeks?I didn't know this was a ""reveal"" he'd been talking about for awhile.
+B: Yep! I've been planning it for months, and it's finally happening this weekend.
 
 Turn 2
-A: True, the vaccination rates have definitely made a difference. Have you gotten your booster yet?
-B: I did last month. It's reassuring to know that we have that extra layer of protection, especially with all the variants going around.",My family and I were in the city today.   Nobody asked to see Vaccine IDs.  Nobody was enforcing masks.   What precautions are being taken? Because I didn't see any.,neutral,1,A's statement about not seeing any enforcement of health measures and asking about the precautions being taken does not convey a strong positive or negative sentiment. It appears to be a neutral observation and a genuine inquiry about the current situation.,1,True,716
-220,"Turn 1
-A: It's interesting how even high-profile figures who are fully vaccinated and boosted are still testing positive for COVID-19. UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week. It makes you wonder about the effectiveness of the vaccines in preventing transmission.
-B: True, but we have to remember that the primary goal of the vaccines is to prevent severe illness and hospitalization. Breakthrough cases are expected, but the data still shows that vaccinated individuals have much milder symptoms compared to those who are unvaccinated.
+A: Wow, I had no idea it was such a big deal. Can you give me a hint about what it is?
+B: Let's just say it involves a lot of people, some amazing decorations, and a surprise guest. You'll have to wait and see!","I didn't know this was a ""reveal"" he'd been talking about for awhile.",neutral,1,"A's statement ""I didn't know this was a 'reveal' he'd been talking about for awhile"" suggests a lack of prior knowledge and a neutral tone, as it doesn't express any strong positive or negative emotions.",1,True,445
+13,"Turn 1
+A: Hey, thanks for the link! That movie looks really interesting. I can't wait to check it out. Thanks, saved. Will watch it tomorrow morning :)
+B: No problem! I thought you'd like it. It's got that kind of twisty plot you enjoy.
 
 Turn 2
-A: That's a good point. It does highlight the importance of continuing to promote vaccination, especially with new variants emerging. But how do we address public concerns about these breakthrough cases in our messaging?
-B: We need to emphasize that while no vaccine is 100% effective at preventing infection, the benefits in terms of reducing severe outcomes are significant. Clear communication about the role of vaccines in managing the pandemic is crucial to maintaining public trust.","UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week.",neutral,1,"A's statement is factual and does not express a strong opinion or bias. A simply reports the situation regarding Shahid's COVID-19 status and vaccination history, without making any subjective judgments.",1,True,1208
-225,"Turn 1
-A: I've been seeing a lot of mixed opinions about these vaccine passports on social media. Some people are saying they could be discriminatory. Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws? What do you think about that from a legal perspective?
-B: It's a complex issue. Legally, governments can implement measures to protect public health, but they have to balance that with individual rights. Vaccine passports could be seen as discriminatory if they disproportionately affect certain groups, but if they're implemented fairly and with exemptions for valid medical reasons, they might hold up in court.
+A: Awesome! I'll watch it first thing tomorrow morning. Thanks again for the recommendation!
+B: Great! Let me know what you think after you watch it. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""thanks,"" ""saved,"" and ""can't wait to check it out"" indicates enthusiasm and appreciation for the recommendation.",1,True,401
+113,"Turn 1
+A: I can't believe C missed that critical deadline. It's thrown the entire project off track.
+B: I know, it's really frustrating. We were already tight on time, and now we have to scramble to make up for it.
 
 Turn 2
-A: That makes sense. I guess the key is in how they're implemented. Do you think there could be any legal challenges to these passports?
-B: Definitely. There are already some lawsuits being filed. The arguments usually focus on privacy concerns and potential violations of civil liberties. Courts will have to weigh the public health benefits against these individual rights, so it will be interesting to see how it all plays out.","Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws?",neutral,1,"Yes, A appears to be neutral. A is simply asking a question about the legality of vaccine passports in private restaurants without expressing a personal opinion or bias. A is seeking information and clarification on the issue.",1,True,1165
-240,"Turn 1
-A: I had to think about which arm to get the shot in because I usually sleep on my left side. I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet. Didn't want to wake up sore and uncomfortable!
-B: Oh, I didn't even consider that! I got mine in my dominant arm, thinking it would help with the soreness since I use it more. Ended up being a bit of a mistake.
+A: And the worst part is, this isn't the first time C has made a mistake like this. Yeah that was inexcusable It's starting to feel like a pattern.
+B: You're right. We need to address this with management before it affects any more of our work. The team can't keep picking up the slack.",Yeah that was inexcusable,negative,2,"Yes, A was being negative. A expressed frustration about C missing a critical deadline and mentioned that it feels like a pattern of mistakes, which indicates a negative sentiment.",1,True,509
+13,"Turn 1
+A: Hey, thanks for the recommendation! I'm swamped right now, but I'll definitely check it out first thing tomorrow morning. Thanks, saved. Will watch it tomorrow morning :)
+B: No worries! I think you'll really like it. It's right up your alley.
 
 Turn 2
-A: Yeah, it's funny how these little details matter. Did you have any side effects?
-B: Just a sore arm and a bit of fatigue the next day. I found that moving my arm around a lot helped with the soreness, though.","I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet.",neutral,1,A was sharing a personal experience and a practical consideration regarding vaccination without expressing any strong emotions or opinions. This indicates a neutral tone.,1,True,693
-103,"Turn 1
-A: I've been really worried about the pandemic lately. I keep hearing about the rising number of cases and deaths.
-B: I understand your concern. It's really alarming. But you know, a lot of the severe cases and fatalities are among those who haven't been vaccinated. The vaccine has been shown to significantly reduce the risk of severe illness and death.
+A: Awesome, I'm looking forward to it. I'll let you know what I think once I've watched it.
+B: Sounds good! Can't wait to hear your thoughts. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""Thanks,"" ""saved,"" and ""Will watch it tomorrow morning :)"" indicates that A is appreciative and looking forward to watching the recommendation.",1,True,409
+110,"Turn 1
+A: I just don't get it, you know? I put in so much effort into that project, and when it failed, everyone just pointed fingers at me. It's like they forgot all the late nights and weekends I sacrificed.
+B: That sounds incredibly frustrating, A. It's really unfair that you're being blamed for something that wasn't solely your responsibility. Have you had a chance to talk to your manager about how you're feeling?
 
 Turn 2
-A: That makes sense. Hey buddy there's a virus going around killing millions of people across the planet and VAST majority of them haven't taken a single dose of the vaccineI haven't gotten vaccinated yet, but I've been thinking about it.
-B: I really encourage you to do it. It's one of the best ways to protect yourself and others. Plus, it helps in controlling the spread of the virus and saving lives.",Hey buddy there's a virus going around killing millions of people across the planet and VAST majority of them haven't taken a single dose of the vaccine,favoring,2,"Based on the context, A seems to be acknowledging the severity of the pandemic and the importance of vaccination. This suggests that A is favoring the idea of getting vaccinated.",1,True,775
-212,"Turn 1
-A: I just can't believe how much pressure there is to get vaccinated. It feels like everyone is so quick to judge if you have any doubts or concerns.
-B: I get what you're saying. It's definitely a lot to take in, and the social pressure can be overwhelming. But I think people are just really scared and trying to protect themselves and others.
+A: I tried, but it felt like they were just brushing me off. They said they'd ""look into it,"" but nothing's changed. This is exactly what it's been like. I feel personally victimised by it all I feel so unsupported and isolated.
+B: I'm really sorry you're going through this. Maybe it would help to document everything that's happened and request a formal meeting with your manager. That way, you can clearly present your side and hopefully get some resolution.",This is exactly what it's been like. I feel personally victimised by it all,negative,2,"Yes, I agree. A is expressing feelings of frustration, isolation, and a lack of support, which are negative emotions. They feel personally victimized and unsupported, indicating a negative sentiment.",1,True,891
+36,"Turn 1
+A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
+B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
 
 Turn 2
-A: Yeah, I understand that, but it feels like society has become so performative about it. Donuts.  A disagree with people trying to force the ""vaccine"" (if you can call it that) but fuck me when did the world get so soft,   Total plebs, trying to get 5 mins of fame.   Can somebody stop the world I want to get off now Like, if you're not posting your vaccine card on social media, you're somehow the bad guy.
-B: True, the performative aspect can be annoying. But maybe it's their way of coping and showing solidarity. Everyone's just trying to navigate this mess in their own way.","Donuts.  A disagree with people trying to force the ""vaccine"" (if you can call it that) but fuck me when did the world get so soft,   Total plebs, trying to get 5 mins of fame.   Can somebody stop the world I want to get off now",against,2,"Yes, A was expressing a strong negative sentiment against the pressure to get vaccinated and the performative nature of it. The use of phrases like ""force the 'vaccine'"", ""fuck me when did the world get so soft"", and ""Total plebs, trying to get 5 mins of fame"" clearly indicate A's opposition and frustration.",1,True,942
-188,"Turn 1
-A: I just realized I might have a scheduling conflict with my COVID-19 vaccination appointment next week. If you can no longer attend your covid-19 vaccination appointment, you can cancel the same way you booked.   Either respond to the booking text from your GP, use the national booking system   or call 119 Do you know how I can cancel it?
-B: Yeah, I had to reschedule mine too. You can either call the hotline or go online to the portal where you booked it. Both options are pretty straightforward.
+A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
+B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.","making us look like punks, disappointing",negative,1,"Yes, I agree. A's statement ""making us look like punks, disappointing"" reflects a negative sentiment. A is expressing frustration and disappointment about their performance, indicating a negative outlook on the situation.",1,True,698
+102,"Turn 1
+A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
+B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
 
 Turn 2
-A: Thanks, I'll try the online portal first. Hopefully, I can find a new slot that fits better with my schedule.
-B: No problem! If you run into any issues, just let me know. I found the hotline staff really helpful when I had questions.","If you can no longer attend your covid-19 vaccination appointment, you can cancel the same way you booked.   Either respond to the booking text from your GP, use the national booking system   or call 119",neutral,1,"Yes, I agree. A was providing factual information about how to cancel a COVID-19 vaccination appointment without expressing any personal feelings or opinions.",1,True,754
-4,"Turn 1
-A: It's frustrating how politicians swore up and down that vaccine passports would never happen, and now here we are. It feels like they just say whatever's convenient at the time.
-B: I get where you're coming from, but don't you think the situation has evolved? Maybe they had to adapt their stance as new information came in.
+A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
+B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",Sadly enough I was thinking the same.,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the situation, indicating that despite their hard work, they feel it hasn't paid off.",1,True,522
+8,"Turn 1
+A: ""Did you see that last-minute goal by Johnson in the game against the Warriors? That was incredible!""
+B: ""Absolutely! I was on the edge of my seat. Johnson has really stepped up his game this season. I can't wait to see him in action at the next game.""
 
 Turn 2
-A: Sure, but it still feels like a bait-and-switch. Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member And then there's social media, clamping down on any dissenting opinions. How are we supposed to trust anything when the narrative is so tightly controlled?
-B: That's a fair point. But isn't it also important to prevent the spread of harmful misinformation? It's a tough balance to strike between free speech and public safety.","Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member",against,2,"Yes, A was expressing frustration and skepticism about politicians and social media platforms, indicating a stance against the actions and decisions being discussed.",1,True,956
-202,"Turn 1
-A: You know, I'm really worried about the COVID-19 vaccine. My dad got really sick from a vaccine when I was a kid, and I can't shake that memory. Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""
-B: I understand, that sounds really tough. But I've been reading a lot about the COVID-19 vaccines, and they seem to be quite safe. What specifically worries you about them?
+A: ""Yeah, and how about the defense? They've been rock solid. I think that's what's really making the difference for the Kings this year. Can't wait to go to the Kings game. Especially if they bring this level of fire.""
+B: ""Totally agree. Their coordination and strategy have been spot on. It's going to be so exciting to watch them live. We should get there early to catch the warm-ups too.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming Kings game, highlighting the team's strong performance and the ""level of fire"" they bring.",1,True,663
+70,"Turn 1
+A: Ugh, I just saw that NISA might be handling the translation for the new game. After the mess they made with the last one, I'm really worried.
+B: I get where you're coming from, but I'm just excited that we're finally getting an English release. Maybe they'll do better this time?
 
 Turn 2
-A: I guess it's the fear of the unknown and the possibility of severe side effects. I just don't want to go through what my family did again.
-B: That's completely valid. Maybe we could look at some more information together? It might help to see the data and hear from people who've had positive experiences.","Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""",against,1,"Yes, I agree. A is expressing concerns and fears about the COVID-19 vaccine, referencing a past traumatic experience with a vaccine that led to severe side effects for a family member. This indicates a stance against the vaccine due to fear of similar outcomes.",1,True,795
-162,"Turn 1
-A: It's been really tough managing my child's CKD with the COVID-19 vaccine delays. I'm constantly worried about their exposure and how it might affect their already fragile health.
-B: I can imagine how stressful that must be. My child has a compromised immune system too, and we're in the same boat. How are you handling the precautions in the meantime?
+A: I hope so, but their track record isn't great. Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it. Remember all those mistranslations and bugs? It really ruined the experience for me.
+B: True, but at least we'll be able to understand the story without having to rely on fan translations. Plus, we can always hope for patches if there are issues.","Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it.",negative,2,"Yes, A was being negative. A expressed concerns about NISA's past performance with translations, mentioning mistranslations and bugs that ruined their experience. Despite saying they don't care anymore as long as there's an English version, the overall tone remains worried and critical.",1,True,721
+15,"Turn 1
+A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
+B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
 
 Turn 2
-A: We're doing everything we can—strict isolation, sanitizing everything, and virtual schooling. How (?) are you immunocompromised? My son has CKD, so we have to treat life like he is. 4 yrs and 8 months and they just pushed back the vaccine. We are devastated. But it's hard to keep up, and the uncertainty is exhausting.
-B: We're doing similar things. It helps to connect with other parents in the same situation. Have you found any particular strategies or resources that have been especially helpful?","How (?) are you immunocompromised? My son has CKD, so we have to treat life like he is. 4 yrs and 8 months and they just pushed back the vaccine. We are devastated.",neutral,2,"A's statement ""How (?) are you immunocompromised?"" is a neutral inquiry seeking more information about B's situation. The rest of the message shares personal experiences and concerns without expressing strong positive or negative emotions.",1,True,874
-227,"Turn 1
-A: I'm really worried about traveling to see my family this holiday. With the pandemic still going on, it feels risky.
-B: I know what you mean. It's so hard to get a COVID test now, and the authorities haven't reopened the drive-thru testing sites. It's frustrating.
+A: I double-checked the results. It's real. I feel like all that work was for nothing.
+B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",Holy shit bro,negative,1,"Yes, I agree. A's statement ""I can't believe it, I just found out I failed the exam. Holy shit bro I studied so hard for it."" clearly expresses disappointment and frustration, which are negative emotions.",1,True,384
+1,"Turn 1
+A: You know, I've been really struggling with the website design lately. It feels like no matter what I do, it just doesn't look right.
+B: Oh, I totally get that. I had a client last week who kept changing their mind about the layout. It was a nightmare trying to keep up with their demands.
 
 Turn 2
-A: Yeah, and it seems like they're just relying on vaccines to solve everything. These states should have reopened all the drive thru sites they had before the vax dropped. It's the holidays and people are gonna travel and they've made it damn near impossible to make sure they're doing so safely. Vaccine or bust is not working. We need more comprehensive measures to feel safe traveling.
-B: Exactly. Vaccines are important, but they shouldn't be the only solution. We need better testing and other safety protocols in place.",These states should have reopened all the drive thru sites they had before the vax dropped. It's the holidays and people are gonna travel and they've made it damn near impossible to make sure they're doing so safely. Vaccine or bust is not working.,against,2,"Yes, I agree. A is expressing frustration and criticism towards the authorities for not reopening the drive-thru testing sites and relying solely on vaccines. A believes that more comprehensive measures, including better testing, are necessary to ensure safe travel during the holidays.",1,True,808
-46,"Turn 1
-A: I just realized I need to get a Polio booster shot before my trip next month. It's a bit of a hassle, but better safe than sorry, right?
-B: Absolutely. I make sure to stay on top of all my vaccinations, especially with everything going on with COVID-19. I've already scheduled my next booster shot.
+A: That sounds rough. I'm dealing with something similar. Every time I think I've nailed the design, I find something else that needs tweaking. This just reminded me to continue designing that bloody website. It's so frustrating.
+B: Yeah, it can be really challenging. Maybe we can brainstorm some ideas together after lunch? Sometimes a fresh perspective can make a big difference.",This just reminded me to continue designing that bloody website.,negative,2,"Yes, I agree that A was being negative. The use of the word ""bloody"" in ""that bloody website"" indicates frustration and negativity towards the task of designing the website.",1,True,689
+65,"Turn 1
+A: Hey B, got any exciting plans for the weekend?
+B: Oh, absolutely! I'm really looking forward to indulging in my weekend tradition of enjoying various chocolate treats. It's something I find incredibly delightful and relaxing.
 
 Turn 2
-A: That's smart. I think I'll do the same for the COVID-19 booster. It is recommended that a fully vaccinated adult (4 doses as a child) get a Polio vaccine booster before traveling to certain countries.   I'll take a COVID booster as many times as it takes. It's important to stay protected, especially when traveling.
-B: Definitely. It's not just about our own health, but also about protecting those around us. Plus, it gives me peace of mind knowing I'm doing my part.",It is recommended that a fully vaccinated adult (4 doses as a child) get a Polio vaccine booster before traveling to certain countries.   I'll take a COVID booster as many times as it takes.,favoring,2,"Yes, I agree. A is expressing a positive attitude towards getting the necessary vaccinations, including the Polio booster and COVID-19 booster, to stay protected while traveling. This shows that A is in favor of taking these health precautions.",1,True,789
-187,"Turn 1
-A: Hey B, I'm finalizing our travel plans to Goa and want to make sure we're following all the health and safety protocols, especially since we have kids with us. Do you know what the current requirements are for crossing state borders?Dear Sir, Want to know if a fully vaccinated person travelling to Goa via Belgaum from Pune without any stay in Karnataka, Do he need to carry RTPCR negative report? Also is there any specific requirement for kids as still no vaccine for kids in India.
-
-B: Yes, I traveled recently, so I can help with that. For adults, you'll need to show proof of vaccination or a negative RT-PCR test taken within 72 hours. For children, especially those who are unvaccinated, it's a bit different. They usually don't need to show a test result, but it's best to carry their ID and any medical documents just in case.
-
-Turn 2
-A: Got it, thanks. So, for the kids, no test is required, but having their ID and medical documents is a good precaution. Anything else we should be aware of?
-
-B: Just make sure everyone wears masks and follows social distancing guidelines. Also, check if there are any specific local regulations in Goa that might affect us once we arrive. Better to be over-prepared than caught off guard.","Dear Sir, Want to know if a fully vaccinated person travelling to Goa via Belgaum from Pune without any stay in Karnataka, Do he need to carry RTPCR negative report? Also is there any specific requirement for kids as still no vaccine for kids in India.",neutral,1,"Yes, I agree. A was being neutral in their inquiry about the travel requirements. They were simply asking for information without expressing any particular emotion or bias.",1,True,1245
-68,"Turn 1
-A: I've been invited to this big outdoor party on Saturday, but I'm a bit hesitant because of COVID-19. What do you think?
-B: I get that. Do you know if they're requiring proof of vaccination or a recent negative test?
+A: That sounds amazing! Mmm... chocolate weekends are my favorite. Do you have a favorite type of chocolate you like to treat yourself with?
+B: Definitely! I have a soft spot for dark chocolate with sea salt. But I also love trying out new flavors and combinations. It's like a little adventure every weekend.",Mmm... chocolate weekends are my favorite.,positive,2,"Yes, A was being positive. A expressed enthusiasm and agreement with B's weekend plans by saying ""That sounds amazing!"" and ""Mmm... chocolate weekends are my favorite.""",1,True,553
+48,"Turn 1
+A: I don't get why erectile dysfunction is such a big deal. I mean, it doesn't stop someone from having an orgasm, right?
+B: Actually, that's not true. Erectile dysfunction can definitely affect the ability to orgasm. It's not just about getting an erection; it's about the whole sexual experience. 
 
 Turn 2
-A: Yeah, they are asking for either proof of vaccination or a negative test within 48 hours. Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test? It sounds pretty safe, but I'm still on the fence.
-B: That does sound reassuring. Maybe you could also check if they have any other safety measures in place, like social distancing or mask requirements, just to be sure.",Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test?,neutral,2,"Yes, I agree. A is presenting the facts about the safety measures in place and is seeking B's opinion on whether it is safe to attend the party. A's tone is neutral as they are weighing the information and looking for additional input.",1,True,711
-176,"Turn 1
-A: Did you see the news from Switzerland? Their hospitals are overwhelmed because of low vaccination rates, and now they're having to postpone critical surgeries and treatments. I have been thinking about that a bit because in Switzerland much lower vaccination rates means they now had to cancel 'elective' surgeries, which includes surgeries I would not call elective ie joint replacements for people unable to function, or even cancer treatment,
-B: It's so frustrating. This is exactly why we need higher vaccination rates. It's not just about COVID-19; it's about keeping the entire healthcare system functional.
+A: Oh, I didn't realize that. Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about? I thought it was just about not being able to get it up.
+B: It's more complicated than that. It can be really frustrating and emotionally challenging for those who experience it. It's important to understand the full impact it can have on someone's life.",Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?,negative,2,"Yes, I agree. A's use of strong language (""What the fuck are you talking about?"") and the dismissive tone suggest a negative attitude towards the topic and B's explanation.",1,True,709
+8,"Turn 1
+A: ""That game was insane! Did you see that last-minute goal? I was on the edge of my seat!""
+B: ""I know, right? The energy was off the charts. I can't believe how well they played. We definitely need to catch the next game live.""
 
 Turn 2
-A: Absolutely. It's heartbreaking to think about patients who need urgent care being turned away because of something preventable.
-B: I know. We need to keep pushing for better public awareness and vaccination efforts. It's the only way to prevent these kinds of disruptions.","I have been thinking about that a bit because in Switzerland much lower vaccination rates means they now had to cancel 'elective' surgeries, which includes surgeries I would not call elective ie joint replacements for people unable to function, or even cancer treatment,",favoring,1,"Yes, I agree. A is favoring higher vaccination rates and expressing concern over the consequences of low vaccination rates, such as the postponement of critical surgeries and treatments. This indicates a supportive stance towards vaccination efforts.",1,True,907
-206,"Turn 1
-A: The latest data shows that the current vaccines and boosters are still highly effective at preventing severe illness, even with the new variants.
-B: That's reassuring to hear. How about the antiviral pills? Are they making a significant impact?
+A: ""Absolutely! I was thinking we could get tickets for next Saturday's game. Can't wait to go to the Kings game. Especially if they bring this level of fire.The team's on fire, and I don't want to miss it.""
+B: ""Great idea! Let's check the ticket availability tonight. It'll be awesome to be there in person and soak up the atmosphere.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming game, highlighting the team's impressive performance and eagerness to experience it live.",1,True,580
+26,"Turn 1
+A: ""I just feel like I'm drowning in work and personal stuff. It's like there's no end in sight.""
+B: ""I totally get it. It's been a tough week for me too. But remember, it's okay to feel overwhelmed sometimes. You're doing your best.""
 
 Turn 2
-A: Yes, they are. The antiviral pills have been crucial in reducing hospitalizations, especially for high-risk patients. With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while But we still need to emphasize the importance of vaccination and boosters to keep the virus under control.
-B: Absolutely. It's a multi-layered approach. We need to keep pushing for preventive measures while ensuring access to treatments.","With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while",favoring,2,"Yes, A was being favoring. A expressed optimism about the combined effectiveness of vaccines, boosters, and antiviral pills in combating COVID-19, while also acknowledging the continued importance of masks and social distancing.",1,True,782
+A: ""Thanks, B. It really helps to hear that. At some point, we all hate it. Hey it feels good to be real sometimes.  Sometimes I just need to vent and know that someone understands.""
+B: ""Absolutely. Anytime you need to talk, I'm here. We all need a break and some support now and then.""","At some point, we all hate it. Hey it feels good to be real sometimes.",positive,2,"A's statement ""At some point, we all hate it. Hey it feels good to be real sometimes."" acknowledges the shared experience of feeling overwhelmed and the relief that comes from being honest about it. This indicates a positive shift towards acceptance and the value of authenticity.",1,True,536
+27,"Turn 1
+A: Wow, B, these slides look amazing! I can't believe you did all this for me.
+B: Of course, A! I know how important this presentation is for you. I just wanted to help ease some of your stress.
+
+Turn 2
+A: You have no idea how much this means to me. Omg, thank you! I was really struggling with how to make everything look professional.
+B: I'm glad I could help. You've got the content down perfectly; now you just need to focus on delivering it confidently. You've got this!","Omg, thank you!",positive,2,"Yes, A was being positive. A expressed gratitude and appreciation for B's help, indicating a positive sentiment.",1,True,482
+51,"Turn 1
+A: Hey, did you see that article I sent you about the accident? Just reading this makes me sick It's so heartbreaking.
+B: Yeah, I just read it. I can't believe something like that happened. It's really upsetting to think about all those people affected.
+
+Turn 2
+A: I know, right? It's hard to wrap my head around it. I keep thinking about the families and how they're coping.
+B: Same here. It's just so tragic. I wish there was something we could do to help or make a difference somehow.",Just reading this makes me sick,negative,1,"Yes, I agree. A's statement ""Just reading this makes me sick"" indicates a negative reaction to the heartbreaking news about the accident.",1,True,494

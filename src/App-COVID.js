@@ -39,25 +39,29 @@ const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
-// Map dataset filenames to specific order of choices
+// Map dataset filenames to specific order of choices for COVID-19 vaccination stance
 const choiceOrderMap = {
   'set_4.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic'},
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' }
+    { label: 'Against COVID19 vaccination', value: 'against' },
+    { label: 'In favor of COVID19 vaccination', value: 'favoring' },
+    { label: 'Neutral: neither favoring nor against', value: 'neutral' },
+    { label: 'Ambiguous: not clear or mixed stance', value: 'ambiguous' }
   ],
   'set_5.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' }
+    { label: 'Neutral: neither favoring nor against', value: 'neutral' },
+    { label: 'Against COVID19 vaccination', value: 'against' },
+    { label: 'In favor of COVID19 vaccination', value: 'favoring' },    
+    { label: 'Ambiguous: not clear or mixed stance', value: 'ambiguous' }
   ],
   'set_6.csv': [
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' }
+    { label: 'Ambiguous: not clear or mixed stance', value: 'ambiguous' },
+    { label: 'Neutral: neither favoring nor against', value: 'neutral' },
+    { label: 'Against COVID19 vaccination', value: 'against' },
+    { label: 'In favor of COVID19 vaccination', value: 'favoring' },  
   ],
-  // Add more datasets if needed
+  // Add more sets if needed
 };
+
 
 function App() {
   // instruction content
@@ -69,18 +73,19 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_3.csv'); // Track the dataset being used
+  const [currentDataset, setCurrentDataset] = useState('set_6.csv'); // Keep track of which dataset is being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
 
   useEffect(() => {
+    // Load the correct dataset (e.g., set_3.csv)
     loadCSV(`data/${currentDataset}`)
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
         .map(item => ({
-          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
+          question: `What was A's stance on COVID19 vaccine when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -115,7 +120,7 @@ function App() {
       // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
       const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
       // Update Prolific ID using just the number from the dataset
-      let updatedProlificID = `Full-GoEmotions_Sentiment-${setNumber}-${prolificID}`;
+      let updatedProlificID = `Full-CovidVaccineStance-${setNumber}-${prolificID}`;
       
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
@@ -169,7 +174,7 @@ function App() {
               </p>
             ))}
             {isAttentionCheck && <p>{currentStatement}</p>}
-          </div>          
+          </div>
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
