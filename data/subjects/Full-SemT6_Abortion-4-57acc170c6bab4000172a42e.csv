@@ -1,0 +1,261 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: It's really heartening to see some leaders stepping up to help refugees. It gives me hope in humanity.
+B: Absolutely. Angela Merkel's policies, for instance, have been so inspiring. She really showed what compassionate leadership looks like.
+
+Turn 2
+A: Yes, Merkel's approach was a beacon of hope during such turbulent times. I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her I wish more leaders would follow her example.
+B: Me too. If more leaders embraced that kind of empathy and action, imagine the positive change we could see globally.",ambiguous,2024-09-13T19:25:22.813000+00:00,"What was the person's stance on abortion when they said ""I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her"" during the conversation?","Turn 1
+A: It's really heartening to see some leaders stepping up to help refugees. It gives me hope in humanity.
+B: Absolutely. Angela Merkel's policies, for instance, have been so inspiring. She really showed what compassionate leadership looks like.
+
+Turn 2
+A: Yes, Merkel's approach was a beacon of hope during such turbulent times. I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her I wish more leaders would follow her example.
+B: Me too. If more leaders embraced that kind of empathy and action, imagine the positive change we could see globally.",I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her,ambiguous
+"Turn 1
+A: I've been craving pancakes all week. I want IHOP tomorrow morning How about we go out for breakfast tomorrow?
+B: That sounds perfect! I love pancakes. Where should we go?
+
+Turn 2
+A: There's this new place downtown that I've been wanting to try. They have great reviews.
+B: Awesome, let's meet there at 9 AM. Can't wait!",ambiguous,2024-09-13T19:25:02.339000+00:00,"What was the person's stance on abortion when they said ""I want IHOP tomorrow morning"" during the conversation?","Turn 1
+A: I've been craving pancakes all week. I want IHOP tomorrow morning How about we go out for breakfast tomorrow?
+B: That sounds perfect! I love pancakes. Where should we go?
+
+Turn 2
+A: There's this new place downtown that I've been wanting to try. They have great reviews.
+B: Awesome, let's meet there at 9 AM. Can't wait!",I want IHOP tomorrow morning,ambiguous
+"Turn 1
+A: Remember how we used to look forward to Monday nights? I always enjoyed watching Monday Night Football when Frank Gifford and company called the games. The commentators back then had such a unique charm and excitement.
+B: Absolutely! There was something magical about their voices. They really knew how to make every game feel like a big event.
+
+Turn 2
+A: Yeah, and they had this incredible ability to tell stories that made you feel connected to the players and the game.
+B: Exactly! It's like they were part of the experience, not just narrating it. Those were the golden days of sports broadcasting for sure.",ambiguous,2024-09-13T19:27:43.162000+00:00,"What was the person's stance on abortion when they said ""I always enjoyed watching Monday Night Football when Frank Gifford and company called the games."" during the conversation?","Turn 1
+A: Remember how we used to look forward to Monday nights? I always enjoyed watching Monday Night Football when Frank Gifford and company called the games. The commentators back then had such a unique charm and excitement.
+B: Absolutely! There was something magical about their voices. They really knew how to make every game feel like a big event.
+
+Turn 2
+A: Yeah, and they had this incredible ability to tell stories that made you feel connected to the players and the game.
+B: Exactly! It's like they were part of the experience, not just narrating it. Those were the golden days of sports broadcasting for sure.",I always enjoyed watching Monday Night Football when Frank Gifford and company called the games.,ambiguous
+"Turn 1
+A: I can't wait for Nash and Skylynn's new video on Thursday. Their last one was hilarious! ""Nash is bae, Nash is life but Skash (Skylynn and Nash) videos are just the whole package. Thursday hurry up pls 2""
+B: I know, right? Their pranks always crack me up. Thursdays have become my favorite day of the week because of them.
+
+Turn 2
+A: Same here! I love how they always come up with something unexpected. Remember the one where they tried to bake a cake without any instructions?
+B: Oh, that was epic! I was laughing so hard. I wonder what they'll do next. Their videos always make my week so much better.",ambiguous,2024-09-13T19:27:09.169000+00:00,"What was the person's stance on abortion when they said """"Nash is bae, Nash is life but Skash (Skylynn and Nash) videos are just the whole package. Thursday hurry up pls 2"""" during the conversation?","Turn 1
+A: I can't wait for Nash and Skylynn's new video on Thursday. Their last one was hilarious! ""Nash is bae, Nash is life but Skash (Skylynn and Nash) videos are just the whole package. Thursday hurry up pls 2""
+B: I know, right? Their pranks always crack me up. Thursdays have become my favorite day of the week because of them.
+
+Turn 2
+A: Same here! I love how they always come up with something unexpected. Remember the one where they tried to bake a cake without any instructions?
+B: Oh, that was epic! I was laughing so hard. I wonder what they'll do next. Their videos always make my week so much better.","""Nash is bae, Nash is life but Skash (Skylynn and Nash) videos are just the whole package. Thursday hurry up pls 2""",ambiguous
+"Turn 1
+A: Ugh, I missed the show again last night because of those high school football games. I haven't been able to watch TVD live these days due to Football. Every Thurs there is high school FB going on at 8pm. Like WTF! It's so frustrating!
+B: Oh no, that sucks! I know how much you look forward to watching it live.
+
+Turn 2
+A: Yeah, it's just not the same catching up later. I wish they would reschedule the games or something.
+B: Totally get it. Maybe you could record the show and watch it as soon as the game ends? At least you wouldn't miss anything.",ambiguous,2024-09-13T19:27:59.823000+00:00,"What was the person's stance on abortion when they said ""I haven't been able to watch TVD live these days due to Football. Every Thurs there is high school FB going on at 8pm. Like WTF!"" during the conversation?","Turn 1
+A: Ugh, I missed the show again last night because of those high school football games. I haven't been able to watch TVD live these days due to Football. Every Thurs there is high school FB going on at 8pm. Like WTF! It's so frustrating!
+B: Oh no, that sucks! I know how much you look forward to watching it live.
+
+Turn 2
+A: Yeah, it's just not the same catching up later. I wish they would reschedule the games or something.
+B: Totally get it. Maybe you could record the show and watch it as soon as the game ends? At least you wouldn't miss anything.",I haven't been able to watch TVD live these days due to Football. Every Thurs there is high school FB going on at 8pm. Like WTF!,ambiguous
+"Turn 1
+A: You know, after watching that documentary on Israel, I have to say, their culture is just fascinating. The history, the resilience—it's really something. I love Israel. Love the Jews. So I may make a terrible Nazi. :(
+B: Yeah, I remember you mentioning your trip there. It's great to see you so enthusiastic. Just don't go converting on me now!
+
+Turn 2
+A: Ha! Don't worry, I'm not planning on changing my name to Moshe anytime soon. But seriously, there's so much to admire.
+B: Absolutely. It's always good to broaden your horizons. Plus, it gives you more material for your self-deprecating jokes!",ambiguous,2024-09-13T19:24:37.028000+00:00,"What was the person's stance on abortion when they said ""I love Israel. Love the Jews. So I may make a terrible Nazi. :("" during the conversation?","Turn 1
+A: You know, after watching that documentary on Israel, I have to say, their culture is just fascinating. The history, the resilience—it's really something. I love Israel. Love the Jews. So I may make a terrible Nazi. :(
+B: Yeah, I remember you mentioning your trip there. It's great to see you so enthusiastic. Just don't go converting on me now!
+
+Turn 2
+A: Ha! Don't worry, I'm not planning on changing my name to Moshe anytime soon. But seriously, there's so much to admire.
+B: Absolutely. It's always good to broaden your horizons. Plus, it gives you more material for your self-deprecating jokes!",I love Israel. Love the Jews. So I may make a terrible Nazi. :(,ambiguous
+"Turn 1
+A: Hey, are you excited for the weekend? I can't wait to see everyone again, especially Ethan. Remember that crazy night we all had in Ventura?
+B: Oh, absolutely! That was such a blast. I've been looking forward to this reunion for weeks. It'll be great to catch up with Ethan and the rest of the gang.
+
+Turn 2
+A: Totally! I hope we can recreate some of that Ventura magic. i just remember ethan making me laugh so much in ventura so i think that's why i'm excited to be reunited tomorrow hahaha Do you know if Ethan is bringing his famous homemade salsa again?
+B: I heard he is! That salsa was a hit last time. This weekend is going to be epic.",ambiguous,2024-09-13T19:23:55.816000+00:00,"What was the person's stance on abortion when they said ""i just remember ethan making me laugh so much in ventura so i think that's why i'm excited to be reunited tomorrow hahaha"" during the conversation?","Turn 1
+A: Hey, are you excited for the weekend? I can't wait to see everyone again, especially Ethan. Remember that crazy night we all had in Ventura?
+B: Oh, absolutely! That was such a blast. I've been looking forward to this reunion for weeks. It'll be great to catch up with Ethan and the rest of the gang.
+
+Turn 2
+A: Totally! I hope we can recreate some of that Ventura magic. i just remember ethan making me laugh so much in ventura so i think that's why i'm excited to be reunited tomorrow hahaha Do you know if Ethan is bringing his famous homemade salsa again?
+B: I heard he is! That salsa was a hit last time. This weekend is going to be epic.",i just remember ethan making me laugh so much in ventura so i think that's why i'm excited to be reunited tomorrow hahaha,ambiguous
+"Turn 1
+A: Hey B, thanks for your kind words! Always great to hear from a fellow Liverpudlian. How's it going?""Thank you for the message. I'm very proud to be a Liverpudlian, may i get your follback?
+B: Wow, I can't believe you replied! It's going great, thanks. Liverpool pride all the way! Any chance of a follow-back?
+
+Turn 2
+A: Absolutely, mate! Just followed you back. Keep the Liverpool spirit alive!
+B: Thanks so much! This means a lot. You'll never walk alone!",ambiguous,2024-09-13T19:25:49.208000+00:00,"What was the person's stance on abortion when they said """"Thank you for the message. I'm very proud to be a Liverpudlian, may i get your follback?"" during the conversation?","Turn 1
+A: Hey B, thanks for your kind words! Always great to hear from a fellow Liverpudlian. How's it going?""Thank you for the message. I'm very proud to be a Liverpudlian, may i get your follback?
+B: Wow, I can't believe you replied! It's going great, thanks. Liverpool pride all the way! Any chance of a follow-back?
+
+Turn 2
+A: Absolutely, mate! Just followed you back. Keep the Liverpool spirit alive!
+B: Thanks so much! This means a lot. You'll never walk alone!","""Thank you for the message. I'm very proud to be a Liverpudlian, may i get your follback?",ambiguous
+"Turn 1
+A: I just bought the VIP tickets for the concert at Oracle Arena on December 5th! So excited! 🎉tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle
+B: No way! That sounds amazing! I was thinking about getting tickets too. How much were the VIP ones?
+
+Turn 2
+A: They were a bit pricey, but totally worth it for the best view and early entry. You should definitely get one!
+B: You've convinced me! I'm in. This is going to be epic! Can't wait to rock out with you! 🎸",ambiguous,2024-09-13T19:29:20.709000+00:00,"What was the person's stance on abortion when they said ""tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle"" during the conversation?","Turn 1
+A: I just bought the VIP tickets for the concert at Oracle Arena on December 5th! So excited! 🎉tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle
+B: No way! That sounds amazing! I was thinking about getting tickets too. How much were the VIP ones?
+
+Turn 2
+A: They were a bit pricey, but totally worth it for the best view and early entry. You should definitely get one!
+B: You've convinced me! I'm in. This is going to be epic! Can't wait to rock out with you! 🎸",tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle,ambiguous
+"Turn 1
+A: I'm so excited for this weekend! I'm turning 21, and I've got a bunch of fun stuff planned. We're going out Thursday and Friday nights, and then on Saturday, we're going to the Giants-Jets game at MetLife Stadium.
+B: That sounds amazing! Happy early birthday! Have you thought about where you want to go out? I know a few great spots that would be perfect for celebrating.
+
+Turn 2
+A: Thanks! I was thinking of starting at that new rooftop bar downtown on Thursday, and then maybe hitting up a couple of clubs on Friday. Oney Thursday and Friday, MetLife for Giants-Jets Saturday. Shaping up to be one hell of a 21st birthday weekend with What do you think?
+B: That sounds perfect! The rooftop bar has a great vibe, and I know a DJ who's playing at one of the clubs on Friday. I can get us on the guest list if you want. Plus, the football game will be the perfect way to cap off the weekend!",ambiguous,2024-09-13T19:21:22.197000+00:00,"What was the person's stance on abortion when they said ""Oney Thursday and Friday, MetLife for Giants-Jets Saturday. Shaping up to be one hell of a 21st birthday weekend with"" during the conversation?","Turn 1
+A: I'm so excited for this weekend! I'm turning 21, and I've got a bunch of fun stuff planned. We're going out Thursday and Friday nights, and then on Saturday, we're going to the Giants-Jets game at MetLife Stadium.
+B: That sounds amazing! Happy early birthday! Have you thought about where you want to go out? I know a few great spots that would be perfect for celebrating.
+
+Turn 2
+A: Thanks! I was thinking of starting at that new rooftop bar downtown on Thursday, and then maybe hitting up a couple of clubs on Friday. Oney Thursday and Friday, MetLife for Giants-Jets Saturday. Shaping up to be one hell of a 21st birthday weekend with What do you think?
+B: That sounds perfect! The rooftop bar has a great vibe, and I know a DJ who's playing at one of the clubs on Friday. I can get us on the guest list if you want. Plus, the football game will be the perfect way to cap off the weekend!","Oney Thursday and Friday, MetLife for Giants-Jets Saturday. Shaping up to be one hell of a 21st birthday weekend with",ambiguous
+"Turn 1
+A: I'm feeling a bit tired today, but thinking about the weekend is keeping me going.
+B: Oh, nice! What do you have planned?
+
+Turn 2
+A: It's going to be a busy one! One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend! I'm going to a concert on Friday, a football game on Saturday, and a draft party on Sunday.
+B: Wow, that sounds like a blast! Who's playing at the concert?",ambiguous,2024-09-13T19:27:25.257000+00:00,"What was the person's stance on abortion when they said ""One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend!"" during the conversation?","Turn 1
+A: I'm feeling a bit tired today, but thinking about the weekend is keeping me going.
+B: Oh, nice! What do you have planned?
+
+Turn 2
+A: It's going to be a busy one! One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend! I'm going to a concert on Friday, a football game on Saturday, and a draft party on Sunday.
+B: Wow, that sounds like a blast! Who's playing at the concert?",One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend!,ambiguous
+"Turn 1
+A: Did you know it's National Hot Dog Day today? ""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."" I'm thinking of trying some new food combinations.
+B: Oh, that's perfect! And it's also two-slice Thursday. How about we combine the two and make a chili cheese hot dog pizza?
+
+Turn 2
+A: That sounds amazing! We could use some spicy sausage and top it with cheddar and jalapeños.
+B: Absolutely! Let's grab some ingredients during lunch and make it a fun, themed meal. This is going to be epic!",ambiguous,2024-09-13T19:20:12.579000+00:00,"What was the person's stance on abortion when they said """"Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."""" during the conversation?","Turn 1
+A: Did you know it's National Hot Dog Day today? ""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."" I'm thinking of trying some new food combinations.
+B: Oh, that's perfect! And it's also two-slice Thursday. How about we combine the two and make a chili cheese hot dog pizza?
+
+Turn 2
+A: That sounds amazing! We could use some spicy sausage and top it with cheddar and jalapeños.
+B: Absolutely! Let's grab some ingredients during lunch and make it a fun, themed meal. This is going to be epic!","""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza.""",ambiguous
+"Turn 1
+A: Hey B! Guess what? I went to a Foo Fighters concert with Ginger last night, and it was AMAZING! Welcome to the 21st century, cuz! Ginger and I saw Foo Fighters last Sunday, here's a pic.
+B: No way! That sounds incredible! How was the crowd? Did they play your favorite song?
+
+Turn 2
+A: The crowd was wild, and yes, they played ""Everlong""! I got a great pic of the stage. Check this out!
+B: Wow, that looks epic! I wish I could've been there with you guys. We need to catch a concert together soon!",ambiguous,2024-09-13T19:29:00.160000+00:00,"What was the person's stance on abortion when they said ""Welcome to the 21st century, cuz! Ginger and I saw Foo Fighters last Sunday, here's a pic."" during the conversation?","Turn 1
+A: Hey B! Guess what? I went to a Foo Fighters concert with Ginger last night, and it was AMAZING! Welcome to the 21st century, cuz! Ginger and I saw Foo Fighters last Sunday, here's a pic.
+B: No way! That sounds incredible! How was the crowd? Did they play your favorite song?
+
+Turn 2
+A: The crowd was wild, and yes, they played ""Everlong""! I got a great pic of the stage. Check this out!
+B: Wow, that looks epic! I wish I could've been there with you guys. We need to catch a concert together soon!","Welcome to the 21st century, cuz! Ginger and I saw Foo Fighters last Sunday, here's a pic.",ambiguous
+"Turn 1
+A: Did you know it's National Hot Dog Day today? ""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."" I'm thinking of trying some new food combinations.
+B: Oh, that's perfect! And it's also two-slice Thursday. How about we combine the two and make a chili cheese hot dog pizza?
+
+Turn 2
+A: That sounds amazing! We could use some spicy sausage and top it with cheddar and jalapeños.
+B: Absolutely! Let's grab some ingredients during lunch and make it a fun, themed meal. This is going to be epic!",ambiguous,2024-09-13T19:20:14.564000+00:00,"What was the person's stance on abortion when they said """"Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."""" during the conversation?","Turn 1
+A: Did you know it's National Hot Dog Day today? ""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."" I'm thinking of trying some new food combinations.
+B: Oh, that's perfect! And it's also two-slice Thursday. How about we combine the two and make a chili cheese hot dog pizza?
+
+Turn 2
+A: That sounds amazing! We could use some spicy sausage and top it with cheddar and jalapeños.
+B: Absolutely! Let's grab some ingredients during lunch and make it a fun, themed meal. This is going to be epic!","""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza.""",ambiguous
+"Turn 1
+A: I recently watched a beauty pageant, and I was really impressed by the achievements of some of the past winners.
+B: Oh, that's awesome! Did you know Olivia Jordan is one of the few who has won both Miss World - United States and Miss USA? It's such a rare and impressive feat in the pageant world.
+
+Turn 2
+A: Wow, I didn't know that! Olivia Jordan - only the 2nd woman in history to win BOTH titles - Miss World -United States and Miss USA. She... It must take a lot of dedication and talent to achieve something like that.
+B: Absolutely. Olivia's journey is really inspiring. She not only excelled in pageantry but also used her platform to advocate for important causes. It's amazing to see how much impact one person can have.",ambiguous,2024-09-13T19:22:08.445000+00:00,"What was the person's stance on abortion when they said ""Olivia Jordan - only the 2nd woman in history to win BOTH titles - Miss World -United States and Miss USA. She..."" during the conversation?","Turn 1
+A: I recently watched a beauty pageant, and I was really impressed by the achievements of some of the past winners.
+B: Oh, that's awesome! Did you know Olivia Jordan is one of the few who has won both Miss World - United States and Miss USA? It's such a rare and impressive feat in the pageant world.
+
+Turn 2
+A: Wow, I didn't know that! Olivia Jordan - only the 2nd woman in history to win BOTH titles - Miss World -United States and Miss USA. She... It must take a lot of dedication and talent to achieve something like that.
+B: Absolutely. Olivia's journey is really inspiring. She not only excelled in pageantry but also used her platform to advocate for important causes. It's amazing to see how much impact one person can have.",Olivia Jordan - only the 2nd woman in history to win BOTH titles - Miss World -United States and Miss USA. She...,ambiguous
+"Turn 1
+A: You know, I'm really uncomfortable with how the sports community is handling the allegations against that athlete. It feels like they're more concerned about their image than addressing the issue seriously.
+B: I get what you mean. It's frustrating to see the media and organizations tiptoe around it. They should be setting a higher standard for accountability.
+
+Turn 2
+A: Exactly. It's like they're afraid to take a stand because of the athlete's status. I've been thinking about it... Does anyone else find it disturbing how Kane may face rape charges and GM's are calling on his availability? But shouldn't ethics and responsibility come first, regardless of who it is?
+B: Absolutely. If they don't address these issues head-on, it sends the wrong message. Athletes are role models, and the organizations have a duty to uphold integrity in sports.",ambiguous,2024-09-13T19:28:35.227000+00:00,"What was the person's stance on abortion when they said ""I've been thinking about it... Does anyone else find it disturbing how Kane may face rape charges and GM's are calling on his availability?"" during the conversation?","Turn 1
+A: You know, I'm really uncomfortable with how the sports community is handling the allegations against that athlete. It feels like they're more concerned about their image than addressing the issue seriously.
+B: I get what you mean. It's frustrating to see the media and organizations tiptoe around it. They should be setting a higher standard for accountability.
+
+Turn 2
+A: Exactly. It's like they're afraid to take a stand because of the athlete's status. I've been thinking about it... Does anyone else find it disturbing how Kane may face rape charges and GM's are calling on his availability? But shouldn't ethics and responsibility come first, regardless of who it is?
+B: Absolutely. If they don't address these issues head-on, it sends the wrong message. Athletes are role models, and the organizations have a duty to uphold integrity in sports.",I've been thinking about it... Does anyone else find it disturbing how Kane may face rape charges and GM's are calling on his availability?,ambiguous
+"Turn 1
+A: I just saw a photo of Chris Evans, and wow, he looks amazing! he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight I'm thinking of starting his new show tonight.
+B: Oh, Chris Evans is great! His new show is fantastic. I binged it last weekend and couldn't stop watching.
+
+Turn 2
+A: Really? That sounds promising. What's your favorite part about the show?
+B: The storyline is gripping, and Chris's performance is top-notch. Plus, there are some really funny moments. You'll love it!",ambiguous,2024-09-13T19:20:41.593000+00:00,"What was the person's stance on abortion when they said ""he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight"" during the conversation?","Turn 1
+A: I just saw a photo of Chris Evans, and wow, he looks amazing! he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight I'm thinking of starting his new show tonight.
+B: Oh, Chris Evans is great! His new show is fantastic. I binged it last weekend and couldn't stop watching.
+
+Turn 2
+A: Really? That sounds promising. What's your favorite part about the show?
+B: The storyline is gripping, and Chris's performance is top-notch. Plus, there are some really funny moments. You'll love it!",he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight,ambiguous
+"Turn 1
+A: I can't believe we're finally going to see Messi play tomorrow! im just excited to see messi tomorrow I've been counting down the days.
+B: Same here! It's like a dream come true. I just hope he scores a goal or two. That would be amazing.
+
+Turn 2
+A: Absolutely! And I can't wait to see how he pairs up with the rest of the team. It's going to be electric.
+B: For sure. Plus, the atmosphere in the stadium is going to be insane. We should get there early to soak it all in.",ambiguous,2024-09-13T19:28:42.618000+00:00,"What was the person's stance on abortion when they said ""im just excited to see messi tomorrow"" during the conversation?","Turn 1
+A: I can't believe we're finally going to see Messi play tomorrow! im just excited to see messi tomorrow I've been counting down the days.
+B: Same here! It's like a dream come true. I just hope he scores a goal or two. That would be amazing.
+
+Turn 2
+A: Absolutely! And I can't wait to see how he pairs up with the rest of the team. It's going to be electric.
+B: For sure. Plus, the atmosphere in the stadium is going to be insane. We should get there early to soak it all in.",im just excited to see messi tomorrow,ambiguous
+"Turn 1
+A: Hey, do you have any plans after work? I heard that Jake is in town.
+B: Oh, really? I didn't know that. I was thinking of grabbing a drink somewhere. Do you know where he might be hanging out?
+
+Turn 2
+A: Not sure, but I heard he might be at The Blue Note. Where is going to be at tonight in Detroit? It's his favorite spot.
+B: That makes sense. Want to check it out together? We might run into him there.",ambiguous,2024-09-13T19:26:34.840000+00:00,"What was the person's stance on abortion when they said ""Where is going to be at tonight in Detroit?"" during the conversation?","Turn 1
+A: Hey, do you have any plans after work? I heard that Jake is in town.
+B: Oh, really? I didn't know that. I was thinking of grabbing a drink somewhere. Do you know where he might be hanging out?
+
+Turn 2
+A: Not sure, but I heard he might be at The Blue Note. Where is going to be at tonight in Detroit? It's his favorite spot.
+B: That makes sense. Want to check it out together? We might run into him there.",Where is going to be at tonight in Detroit?,ambiguous
+"Turn 1
+A: Ugh, I can't believe how much work we have this week. Not going to be able to watch TVD live!!!!! I have two fucking tests tomorrow and a lit homework. FML I haven't even had time to catch up on our favorite show.
+B: Yeah, it's been pretty brutal. I feel you. Maybe we can binge-watch it this weekend once things calm down a bit?
+
+Turn 2
+A: That sounds like a plan. I just need to get through this mountain of assignments first. Thanks for understanding.
+B: No worries, we're in this together. Let me know if you need any help or just want to take a break and chat.",ambiguous,2024-09-13T19:25:46.281000+00:00,"What was the person's stance on abortion when they said ""Not going to be able to watch TVD live!!!!! I have two fucking tests tomorrow and a lit homework. FML"" during the conversation?","Turn 1
+A: Ugh, I can't believe how much work we have this week. Not going to be able to watch TVD live!!!!! I have two fucking tests tomorrow and a lit homework. FML I haven't even had time to catch up on our favorite show.
+B: Yeah, it's been pretty brutal. I feel you. Maybe we can binge-watch it this weekend once things calm down a bit?
+
+Turn 2
+A: That sounds like a plan. I just need to get through this mountain of assignments first. Thanks for understanding.
+B: No worries, we're in this together. Let me know if you need any help or just want to take a break and chat.",Not going to be able to watch TVD live!!!!! I have two fucking tests tomorrow and a lit homework. FML,ambiguous
