@@ -1,0 +1,261 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Hey, I heard about what happened at work today. I'm really sorry you had to go through that. Remember, setbacks are just stepping stones to something better.
+B: Thanks, A. It was a rough day, and I can't help but feel a bit down about it. It's hard to see the silver lining right now.
+
+Turn 2
+A: I get it, B. But you've always bounced back stronger from tough situations. This is just a temporary bump in the road. Tryna make tomorrow much better You've got so much potential, and I know you'll come out of this even better.
+B: I appreciate your confidence in me. It means a lot. I'll try to keep that in mind and focus on the positives. Thanks for being there for me.",positive,2024-09-13T17:45:59.848000+00:00,"What was the person's sentiment when they said ""Tryna make tomorrow much better"" during the conversation?","Turn 1
+A: Hey, I heard about what happened at work today. I'm really sorry you had to go through that. Remember, setbacks are just stepping stones to something better.
+B: Thanks, A. It was a rough day, and I can't help but feel a bit down about it. It's hard to see the silver lining right now.
+
+Turn 2
+A: I get it, B. But you've always bounced back stronger from tough situations. This is just a temporary bump in the road. Tryna make tomorrow much better You've got so much potential, and I know you'll come out of this even better.
+B: I appreciate your confidence in me. It means a lot. I'll try to keep that in mind and focus on the positives. Thanks for being there for me.",Tryna make tomorrow much better,positive
+"Turn 1
+A: I've been binge-watching ""The Vampire Diaries"" lately, and I'm totally hooked! I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries! I'm planning to write a blog post about it this weekend.
+B: That sounds fun! What's got you so excited about the show?
+
+Turn 2
+A: The characters are so complex, and the plot twists keep me on the edge of my seat. Plus, the supernatural elements are really well done.
+B: Nice! I might have to check it out. I'm thinking of going hiking this weekend. Any good trails you recommend?",positive,2024-09-13T17:38:15.454000+00:00,"What was the person's sentiment when they said ""I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!"" during the conversation?","Turn 1
+A: I've been binge-watching ""The Vampire Diaries"" lately, and I'm totally hooked! I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries! I'm planning to write a blog post about it this weekend.
+B: That sounds fun! What's got you so excited about the show?
+
+Turn 2
+A: The characters are so complex, and the plot twists keep me on the edge of my seat. Plus, the supernatural elements are really well done.
+B: Nice! I might have to check it out. I'm thinking of going hiking this weekend. Any good trails you recommend?",I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!,positive
+"Turn 1
+A: I'm so pumped for the big run on Sunday! I just need to find some new music to keep me motivated. Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.
+B: That's awesome! Have you tried the latest playlist on Spotify? It's got some great tracks for running.
+
+Turn 2
+A: No, I haven't checked it out yet. Do you have any specific songs you recommend from it?
+B: Definitely! ""Runaway"" by Galantis always gets me going, and ""Blinding Lights"" by The Weeknd has a great beat for keeping pace.",neutral,2024-09-13T17:43:15.490000+00:00,"What was the person's sentiment when they said ""Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod."" during the conversation?","Turn 1
+A: I'm so pumped for the big run on Sunday! I just need to find some new music to keep me motivated. Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.
+B: That's awesome! Have you tried the latest playlist on Spotify? It's got some great tracks for running.
+
+Turn 2
+A: No, I haven't checked it out yet. Do you have any specific songs you recommend from it?
+B: Definitely! ""Runaway"" by Galantis always gets me going, and ""Blinding Lights"" by The Weeknd has a great beat for keeping pace.","Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.",neutral
+"Turn 1
+A: Any exciting plans coming up?lol I can't wait.. and I'm going to see Janet Jackson next Thursday
+B: Oh, absolutely! I'm going to see Janet Jackson next Thursday. I can't wait!
+
+Turn 2
+A: That sounds amazing! Have you seen her live before?
+B: No, this will be my first time. I've heard her shows are incredible, so I'm really looking forward to it!",negative,2024-09-13T17:37:40.415000+00:00,"What was the person's sentiment when they said ""lol I can't wait.. and I'm going to see Janet Jackson next Thursday"" during the conversation?","Turn 1
+A: Any exciting plans coming up?lol I can't wait.. and I'm going to see Janet Jackson next Thursday
+B: Oh, absolutely! I'm going to see Janet Jackson next Thursday. I can't wait!
+
+Turn 2
+A: That sounds amazing! Have you seen her live before?
+B: No, this will be my first time. I've heard her shows are incredible, so I'm really looking forward to it!",lol I can't wait.. and I'm going to see Janet Jackson next Thursday,negative
+"Turn 1
+A: Did you hear about the new game, LawBreakers? It looks pretty cool.
+B: Yeah, but I'm bummed it's only coming out on PC. I really wanted to play it on my console.
+
+Turn 2
+A: Don't lose hope just yet. ""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 - Sometimes games get ported to consoles after their initial release. There's still a chance it might come to your platform.
+B: Really? That would be awesome! I'll keep my fingers crossed then. Thanks for the heads-up!",positive,2024-09-13T17:37:54.971000+00:00,"What was the person's sentiment when they said """"Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 -"" during the conversation?","Turn 1
+A: Did you hear about the new game, LawBreakers? It looks pretty cool.
+B: Yeah, but I'm bummed it's only coming out on PC. I really wanted to play it on my console.
+
+Turn 2
+A: Don't lose hope just yet. ""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 - Sometimes games get ported to consoles after their initial release. There's still a chance it might come to your platform.
+B: Really? That would be awesome! I'll keep my fingers crossed then. Thanks for the heads-up!","""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 -",positive
+"Turn 1
+A: I just traded in my computer for an iPad. Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop. It's so much more portable!
+B: That's awesome! Funny enough, your uncle mentioned there's an announcement soon that might drop iPad prices. 
+
+Turn 2
+A: Really? That's great news! Maybe I got in at the right time or can snag some accessories on the cheap.
+B: Exactly! Either way, it sounds like you made a smart move. Keep an eye out for those deals.",positive,2024-09-13T17:37:27.643000+00:00,"What was the person's sentiment when they said ""Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop."" during the conversation?","Turn 1
+A: I just traded in my computer for an iPad. Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop. It's so much more portable!
+B: That's awesome! Funny enough, your uncle mentioned there's an announcement soon that might drop iPad prices. 
+
+Turn 2
+A: Really? That's great news! Maybe I got in at the right time or can snag some accessories on the cheap.
+B: Exactly! Either way, it sounds like you made a smart move. Keep an eye out for those deals.",Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop.,positive
+"Turn 1
+A: Hey, do you have any plans for tomorrow?Are you going to go to Levi's tomorrow??
+B: Not much, just thinking about checking out Levi's. They might have some new arrivals.
+
+Turn 2
+A: Oh, nice! I was actually planning to go there too. Maybe we can go together?
+B: Sounds great! Let's meet up around noon and make a day of it.",neutral,2024-09-13T17:43:51.276000+00:00,"What was the person's sentiment when they said ""Are you going to go to Levi's tomorrow??"" during the conversation?","Turn 1
+A: Hey, do you have any plans for tomorrow?Are you going to go to Levi's tomorrow??
+B: Not much, just thinking about checking out Levi's. They might have some new arrivals.
+
+Turn 2
+A: Oh, nice! I was actually planning to go there too. Maybe we can go together?
+B: Sounds great! Let's meet up around noon and make a day of it.",Are you going to go to Levi's tomorrow??,neutral
+"Turn 1
+A: You won't believe it, but I finally got to see that live performance by our favorite artist on TV last week. It was absolutely breathtaking!
+B: Oh wow, that sounds amazing! I can only imagine how incredible it must have been. What was the highlight for you?
+
+Turn 2
+A: Honestly, the whole performance was fantastic, but there was this one song where they hit this high note perfectly. It gave me chills! omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show
+B: I know exactly what you mean. I had a similar experience when I saw them live a few years ago. It's like they have this magical ability to connect with the audience on such a deep level.",positive,2024-09-13T17:40:00.560000+00:00,"What was the person's sentiment when they said ""omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show"" during the conversation?","Turn 1
+A: You won't believe it, but I finally got to see that live performance by our favorite artist on TV last week. It was absolutely breathtaking!
+B: Oh wow, that sounds amazing! I can only imagine how incredible it must have been. What was the highlight for you?
+
+Turn 2
+A: Honestly, the whole performance was fantastic, but there was this one song where they hit this high note perfectly. It gave me chills! omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show
+B: I know exactly what you mean. I had a similar experience when I saw them live a few years ago. It's like they have this magical ability to connect with the audience on such a deep level.",omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show,positive
+"Turn 1
+A: I'm so pumped for the game tonight! Can't wait to hit the stadium club and cheer for Galaxy. I really think we have a good shot against Dallas.
+B: Yeah, I hope so. Dallas has been pretty strong this season, though. I'm a bit worried about our defense.
+
+Turn 2
+A: I get that, but we've been improving a lot lately. Plus, the home crowd energy will definitely give us an edge. Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!
+B: True, the atmosphere at the stadium club is always electric. Let's hope it fires up the team. See you there!",neutral,2024-09-13T17:40:59.454000+00:00,"What was the person's sentiment when they said ""Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!"" during the conversation?","Turn 1
+A: I'm so pumped for the game tonight! Can't wait to hit the stadium club and cheer for Galaxy. I really think we have a good shot against Dallas.
+B: Yeah, I hope so. Dallas has been pretty strong this season, though. I'm a bit worried about our defense.
+
+Turn 2
+A: I get that, but we've been improving a lot lately. Plus, the home crowd energy will definitely give us an edge. Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!
+B: True, the atmosphere at the stadium club is always electric. Let's hope it fires up the team. See you there!",Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!,neutral
+"Turn 1
+A: I'm really excited about tomorrow. I think I might finally tell them how I feel.I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga
+B: That's awesome! You should definitely go for it. What's your plan?
+
+Turn 2
+A: I was thinking of taking them to that new art exhibit and then maybe grabbing dinner afterward. It feels like the perfect setting to open up.
+B: That sounds perfect. Just be yourself and let the moment guide you. You've got this!",ambiguous,2024-09-13T17:40:32.280000+00:00,"What was the person's sentiment when they said ""I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga"" during the conversation?","Turn 1
+A: I'm really excited about tomorrow. I think I might finally tell them how I feel.I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga
+B: That's awesome! You should definitely go for it. What's your plan?
+
+Turn 2
+A: I was thinking of taking them to that new art exhibit and then maybe grabbing dinner afterward. It feels like the perfect setting to open up.
+B: That sounds perfect. Just be yourself and let the moment guide you. You've got this!",I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga,ambiguous
+"Turn 1
+A: I don't know, man. I spent a lot on those Carmelo Anthony tickets and memorabilia, but with the way the team's playing, I'm starting to wonder if it was worth it.I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.
+B: I get it, A. It's tough when the team's not performing as well as you'd hoped. But remember, it's not just about the current season. Carmelo's had an incredible career, and that memorabilia will always have value.
+
+Turn 2
+A: Yeah, I guess you're right. It's just frustrating to see them struggle after investing so much.
+B: Totally understandable. But think of it this way: you're supporting a player you admire and have some great memories tied to those items. Plus, teams go through ups and downs. They might turn it around soon.",negative,2024-09-13T17:44:19.236000+00:00,"What was the person's sentiment when they said ""I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season."" during the conversation?","Turn 1
+A: I don't know, man. I spent a lot on those Carmelo Anthony tickets and memorabilia, but with the way the team's playing, I'm starting to wonder if it was worth it.I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.
+B: I get it, A. It's tough when the team's not performing as well as you'd hoped. But remember, it's not just about the current season. Carmelo's had an incredible career, and that memorabilia will always have value.
+
+Turn 2
+A: Yeah, I guess you're right. It's just frustrating to see them struggle after investing so much.
+B: Totally understandable. But think of it this way: you're supporting a player you admire and have some great memories tied to those items. Plus, teams go through ups and downs. They might turn it around soon.",I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.,negative
+"Turn 1
+A: I can't even see straight anymore. I think I've read this same paragraph five times.
+B: You look exhausted, A. Let's take a quick break. A few minutes away from the screen might help.
+
+Turn 2
+A: I don't know if a break will cut it. Im so tired that Zulu is the 1st word that pops in my mind I feel like my brain is turning to mush.
+B: That's exactly why we need to step away for a bit. A short walk or some fresh air could make a big difference.",ambiguous,2024-09-13T17:39:17.189000+00:00,"What was the person's sentiment when they said ""Im so tired that Zulu is the 1st word that pops in my mind"" during the conversation?","Turn 1
+A: I can't even see straight anymore. I think I've read this same paragraph five times.
+B: You look exhausted, A. Let's take a quick break. A few minutes away from the screen might help.
+
+Turn 2
+A: I don't know if a break will cut it. Im so tired that Zulu is the 1st word that pops in my mind I feel like my brain is turning to mush.
+B: That's exactly why we need to step away for a bit. A short walk or some fresh air could make a big difference.",Im so tired that Zulu is the 1st word that pops in my mind,ambiguous
+"Turn 1
+A: I can't wait for tonight's episode! can it be tomorrow already i want to watch big brotherI wish the day would just fly by.
+B: I know, right? The last episode ended on such a cliffhanger. I wonder what will happen next.
+
+Turn 2
+A: Same here! I have a feeling there's going to be a big twist.
+B: Me too. Let's grab some snacks on the way home so we're all set for our watch party.",positive,2024-09-13T17:42:23.207000+00:00,"What was the person's sentiment when they said ""can it be tomorrow already i want to watch big brother"" during the conversation?","Turn 1
+A: I can't wait for tonight's episode! can it be tomorrow already i want to watch big brotherI wish the day would just fly by.
+B: I know, right? The last episode ended on such a cliffhanger. I wonder what will happen next.
+
+Turn 2
+A: Same here! I have a feeling there's going to be a big twist.
+B: Me too. Let's grab some snacks on the way home so we're all set for our watch party.",can it be tomorrow already i want to watch big brother,positive
+"Turn 1
+A: I watched Ant-Man again last weekend, and it was interesting to see how everyone stayed glued to their seats for the after-credits scenes.
+B: Oh, I love those! They always add a little extra to the movie. Did you notice anything different this time?
+
+Turn 2
+A: Yeah, it seemed like more people knew to stay until the very end. In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits sceneThe first time I saw it, half the audience left before the credits finished.
+B: That's funny. I guess word gets around. I always make sure to stay, especially with Marvel movies. Have you seen any other good ones lately?",neutral,2024-09-13T17:42:47.791000+00:00,"What was the person's sentiment when they said ""In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits scene"" during the conversation?","Turn 1
+A: I watched Ant-Man again last weekend, and it was interesting to see how everyone stayed glued to their seats for the after-credits scenes.
+B: Oh, I love those! They always add a little extra to the movie. Did you notice anything different this time?
+
+Turn 2
+A: Yeah, it seemed like more people knew to stay until the very end. In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits sceneThe first time I saw it, half the audience left before the credits finished.
+B: That's funny. I guess word gets around. I always make sure to stay, especially with Marvel movies. Have you seen any other good ones lately?",In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits scene,neutral
+"Turn 1
+A: I can't wait for tomorrow's game! Chelsea's been in great form lately. Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win! Do you think they'll keep the momentum going?
+B: Yeah, they've been impressive. But you never know with football. Who are they up against again?
+
+Turn 2
+A: They're playing against Liverpool. It's going to be a tough match, but I have a good feeling about it.
+B: Liverpool's always a challenge, but if Chelsea plays like they did last week, they definitely have a shot. Should be an exciting game!",positive,2024-09-13T17:46:42.269000+00:00,"What was the person's sentiment when they said ""Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win!"" during the conversation?","Turn 1
+A: I can't wait for tomorrow's game! Chelsea's been in great form lately. Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win! Do you think they'll keep the momentum going?
+B: Yeah, they've been impressive. But you never know with football. Who are they up against again?
+
+Turn 2
+A: They're playing against Liverpool. It's going to be a tough match, but I have a good feeling about it.
+B: Liverpool's always a challenge, but if Chelsea plays like they did last week, they definitely have a shot. Should be an exciting game!",Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win!,positive
+"Turn 1
+A: Oh look, it's that legendary disaster of a baseball movie. ""Hey, the 2nd worst baseball movie is on Reelz right now. Should we subject ourselves to it for a laugh?
+B: You mean the one with the cringe-worthy acting and plot holes big enough to drive a truck through? Absolutely.
+
+Turn 2
+A: Perfect. Let's see if it's as hilariously awful as everyone says.
+B: I'm ready. This is going to be a train wreck we can't look away from.",negative,2024-09-13T17:38:51.601000+00:00,"What was the person's sentiment when they said """"Hey, the 2nd worst baseball movie is on Reelz right now."" during the conversation?","Turn 1
+A: Oh look, it's that legendary disaster of a baseball movie. ""Hey, the 2nd worst baseball movie is on Reelz right now. Should we subject ourselves to it for a laugh?
+B: You mean the one with the cringe-worthy acting and plot holes big enough to drive a truck through? Absolutely.
+
+Turn 2
+A: Perfect. Let's see if it's as hilariously awful as everyone says.
+B: I'm ready. This is going to be a train wreck we can't look away from.","""Hey, the 2nd worst baseball movie is on Reelz right now.",negative
+"Turn 1
+A: You know, I was thinking about Bernie Sanders the other day. Do you know where he went to college?
+B: Hmm, I think he went to the University of Chicago. Not entirely sure, though. Why do you ask?
+
+Turn 2
+A: Just curious. I know he's been in politics for a long time, but I wonder what he did before that.1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office
+B: Yeah, I think he was involved in civil rights activism and some other community work. It's interesting how those early experiences shaped his political views.",neutral,2024-09-13T17:44:43.046000+00:00,"What was the person's sentiment when they said ""1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office"" during the conversation?","Turn 1
+A: You know, I was thinking about Bernie Sanders the other day. Do you know where he went to college?
+B: Hmm, I think he went to the University of Chicago. Not entirely sure, though. Why do you ask?
+
+Turn 2
+A: Just curious. I know he's been in politics for a long time, but I wonder what he did before that.1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office
+B: Yeah, I think he was involved in civil rights activism and some other community work. It's interesting how those early experiences shaped his political views.","1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office",neutral
+"Turn 1
+A: Good morning, B! Ready for the long weekend?"" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!
+B: Morning, A! Absolutely, I can't wait. Got any plans?
+
+Turn 2
+A: Just some relaxing and maybe a little hiking. How about you?
+B: Sounds great! I'm planning to visit family. Have a fantastic weekend and stay safe!",positive,2024-09-13T17:41:49.612000+00:00,"What was the person's sentiment when they said """" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!"" during the conversation?","Turn 1
+A: Good morning, B! Ready for the long weekend?"" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!
+B: Morning, A! Absolutely, I can't wait. Got any plans?
+
+Turn 2
+A: Just some relaxing and maybe a little hiking. How about you?
+B: Sounds great! I'm planning to visit family. Have a fantastic weekend and stay safe!",""" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!",positive
+"Turn 1
+A: Ugh, why do they always have to cut to commercials right when we're in the middle of something interesting? Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!
+B: Yeah, it can be annoying, but it's just a part of watching live TV. What were you saying about Dana White?
+
+Turn 2
+A: Right, so as I was saying, I think his management style is really polarizing. Some people love it, but others think he's too aggressive.
+B: True, he's definitely a controversial figure. I guess that's part of what makes him so interesting to talk about.",negative,2024-09-13T17:45:13.842000+00:00,"What was the person's sentiment when they said ""Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!"" during the conversation?","Turn 1
+A: Ugh, why do they always have to cut to commercials right when we're in the middle of something interesting? Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!
+B: Yeah, it can be annoying, but it's just a part of watching live TV. What were you saying about Dana White?
+
+Turn 2
+A: Right, so as I was saying, I think his management style is really polarizing. Some people love it, but others think he's too aggressive.
+B: True, he's definitely a controversial figure. I guess that's part of what makes him so interesting to talk about.",Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!,negative
+"Turn 1
+A: It's so frustrating how the media always blows things out of proportion, especially when it involves black women. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley Did you see how they covered the Nicki and Miley thing?
+B: Yeah, it's like they can't wait to paint Nicki as the aggressor. It's so biased and unfair.
+
+Turn 2
+A: Exactly! They never give her the benefit of the doubt. It's always the same old stereotypes being pushed.
+B: Totally. And it's not just about Nicki. This kind of coverage affects how people view all black women. It's exhausting.",negative,2024-09-13T17:41:20.744000+00:00,"What was the person's sentiment when they said ""The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley"" during the conversation?","Turn 1
+A: It's so frustrating how the media always blows things out of proportion, especially when it involves black women. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley Did you see how they covered the Nicki and Miley thing?
+B: Yeah, it's like they can't wait to paint Nicki as the aggressor. It's so biased and unfair.
+
+Turn 2
+A: Exactly! They never give her the benefit of the doubt. It's always the same old stereotypes being pushed.
+B: Totally. And it's not just about Nicki. This kind of coverage affects how people view all black women. It's exhausting.",The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley,negative
