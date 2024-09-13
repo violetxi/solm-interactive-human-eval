@@ -1,143 +1,151 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-23,"Turn 1
-A: I believe that the data clearly shows a significant impact of human activities on climate change. Ignoring this is irresponsible.
-B: You're misrepresenting my position. I never said we should ignore human impact; I just think we need a balanced approach that also considers economic factors. You're creating a strawman argument.
-
-Turn 2
-A: I don't think you understand what a strawman argument is.Not at all. I'm not going to argue with someone who doesn't understand what a strawman is. I'm not misrepresenting your position; I'm addressing the broader issue. But if this is how the conversation is going to go, I don't see the point in continuing.
-B: It's frustrating that you feel that way, but I think it's important to clarify our positions accurately. Maybe we can revisit this when we're both less frustrated.",Not at all. I'm not going to argue with someone who doesn't understand what a strawman is.,negative,2,"Yes, A's response in turn 2 is negative. A dismisses B's understanding and expresses a refusal to continue the conversation, which indicates frustration and a negative tone.",1,True,826
-19,"Turn 1
-A: You remember that puppet show we watched at the theme park? There was this one puppet that pretended to be a lion and claimed it had I ate my mommy and daddy""eaten"" its puppet parents!
-B: Oh my gosh, that's hilarious! I can just imagine the kids' reactions to that.
-
-Turn 2
-A: Yeah, the kids were all gasping and laughing at the same time. It was such a funny twist!
-B: Sounds like it was a great show. I love how they can make something so silly and unexpected.",I ate my mommy and daddy,neutral,1,A was recounting a memory of a puppet show and describing a specific moment from it. The tone appears to be neutral as A is simply sharing an observation without expressing strong emotions.,1,True,472
-6,"Turn 1
-A: Hey B, I noticed you have a really unique way of tackling problems. I'm curious, how do you usually approach a new challenge?
-B: Thanks, A! I usually start by breaking down the problem into smaller parts and then look for patterns or similarities to things I've solved before. It helps me manage the complexity and find a starting point.
-
-Turn 2
-A: That makes a lot of sense. What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine Do you have any specific techniques or tools you use to identify those patterns?
-B: I often use mind maps to visualize the problem and its components. It helps me see connections that aren't immediately obvious. Plus, I like to bounce ideas off others to get different perspectives.",What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine,neutral,2,"A's statement ""What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine"" shows curiosity and a desire to understand B's approach better. It doesn't convey any strong positive or negative sentiment, but rather a neutral and inquisitive tone.",1,True,781
-13,"Turn 1
-A: ""Hey B, I just wrapped up the final report for the project. It took a lot of late nights, but it's finally done!""
-B: ""That's fantastic, A! You did an amazing job. Your hard work really paid off. Let's keep this momentum going and make sure we stay on track for the next phase.""
-
-Turn 2
-A: ""Thanks, B! I appreciate the support. Well done dude! Seriously :) But keep it up, don't lose this momentum. I'll start prepping for the next steps right away.""
-B: ""Sounds great, A. If you need any help or run into any issues, just let me know. We're in this together!""","Well done dude! Seriously :) But keep it up, don't lose this momentum.",positive,2,"Yes, A was being positive. A expressed appreciation for B's support and encouraged B to maintain the momentum, which indicates a positive and supportive attitude.",1,True,568
-71,"Turn 1
-A: Ugh, I just had another customer complain about having to create an Apple Account to use their new iPhone. It's so frustrating dealing with these complaints all the time. I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.
-B: I know what you mean. It feels like every other customer has the same issue. I usually try to explain the benefits, like how it helps with security and accessing all the Apple services, but it doesn't always help.
-
-Turn 2
-A: Yeah, I do that too, but some people just don't want to hear it. They get so annoyed. Do you have any other tips for handling these situations?
-B: Sometimes, I find it helps to walk them through the setup process step-by-step. It makes it less overwhelming for them, and they appreciate the extra help. Plus, it usually calms them down a bit.",I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.,negative,1,"Yes, I agree. A's statement expresses frustration and negativity about dealing with customer complaints regarding the need to set up an Apple Account for their iPhones.",1,True,890
-18,"Turn 1
-A: I just wanted to thank you for suggesting the DBQ activity and pairing the students for collaborative work. Thank you! I ended up assigning a dbq and paired students up It really made a difference in my class.
-B: I'm so glad to hear that! DBQs can be really engaging, and collaborative work often brings out the best in students. How did they respond to it?
-
-Turn 2
-A: They were much more engaged and seemed to enjoy working together to analyze the documents. It sparked some great discussions.
-B: That's fantastic! It's always rewarding to see students actively participating. If you need any more ideas or resources, feel free to ask.",Thank you! I ended up assigning a dbq and paired students up,positive,1,"Yes, A was being positive. A expressed gratitude and shared that the DBQ activity and pairing students up made a positive difference in the class.",1,True,646
-25,"Turn 1
-A: You know, we had a really interesting discussion about theodicy in my study group last night. It's such a complex topic, trying to understand why a benevolent God would allow suffering.
-B: That does sound like a deep and challenging subject. It's one of those questions that has puzzled people for centuries, hasn't it?
-
-Turn 2
-A: Absolutely. There are so many different perspectives and interpretations. I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it. Some find comfort in the idea that suffering has a purpose, even if we can't always see it.
-B: I can see how that might be reassuring for some. It's definitely a topic that invites a lot of thoughtful reflection.","I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it.",neutral,2,"A's statement ""I have no faith, but the theodicy problem has multiple answers, I’m not too concerned with it."" indicates a neutral stance. A acknowledges the complexity of the topic and the existence of multiple perspectives without expressing strong personal concern or emotional investment.",1,True,722
-41,"Turn 1
-A: Wow, these documents are incredible! I can't believe you found a map from the 1930s showing where my great-grandparents lived.
-B: I'm glad you like them! It took some digging, but I thought you'd appreciate seeing the old neighborhood layout and those records.
-
-Turn 2
-A: Absolutely, this is amazing. I've always wondered about the exact location of their house in 1938. Thank you for sharing this. I found my house in 1938. Very fascinating stuff :) This map really brings their story to life.
-B: It's fascinating, isn't it? There's so much history in these old documents. I'm happy I could help you uncover a piece of your family's past.",Thank you for sharing this. I found my house in 1938. Very fascinating stuff :),positive,2,"Yes, A was being positive. They expressed amazement and gratitude for the documents and the map, indicating that they found the information fascinating and valuable.",1,True,649
 61,"Turn 1
-A: ""So, I've been thinking about how we can streamline the initial loan application process. What if we integrate a more intuitive online form that guides users step-by-step and pre-fills some of their information based on their existing accounts?""
-
-B: ""That sounds fantastic, A! I love the idea of making it easier for our customers right from the start. It could really cut down on the time they spend filling out forms and reduce errors. Have you thought about how we might handle the data security aspects of this?""
+A: The bot has been really effective in handling the bulk of our routine tasks, but I've noticed it struggles with minor changes in input formats. I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?This has caused a few hiccups in our workflow.
+B: That's a good point. We need the bot to be more adaptable to variations. Do you have any specific examples or suggestions on how we can improve this?
 
 Turn 2
-A: ""Absolutely, B. Data security is a top priority. We could implement multi-factor authentication and ensure that all data is encrypted both in transit and at rest. Great! I hope we can make our loan system work better Plus, we can add real-time monitoring to detect any suspicious activity.""
+A: Sure, for instance, when the date format changes slightly, the bot fails to recognize it and throws an error. Maybe we could implement a more flexible parsing mechanism?
+B: That makes sense. Let's prioritize enhancing the bot's input validation and parsing logic. I'll schedule a session to brainstorm solutions with the team. Thanks for bringing this up.","I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?",polite,1,"Yes, A was being polite. A acknowledged the bot's effectiveness and usefulness before pointing out the issue and suggesting a possible improvement. This approach shows consideration and politeness.",1,True,875
+38,"Turn 1
+A: Hey B, I noticed you've been reverting my edits without engaging on the discussion page. Hey, if you want to assert that a cite does not say what it clearly does say, how about actually coming to the discussion page to discuss it, rather than treating edit summaries like a discussion space? Why the hell am I the one being accused of edit warring, when I'm the only one actually willing to talk on the discussion page? Can we please discuss this there to find a solution that works for both of us?
+B: I understand your point, A, but I think the edit summaries are sufficient for now. Your changes are problematic, and I believe it's important to address them directly.
 
-B: ""Perfect, that covers the security concerns well. I'm really excited about these changes. If we can get this right, it will not only improve customer satisfaction but also make our internal processes much more efficient. Let's start mapping out the implementation plan and get the team's input on this.""",Great! I hope we can make our loan system work better,positive,2,"Yes, A was being positive. A expressed enthusiasm about improving the loan system and addressed the security concerns effectively, showing optimism about the potential benefits of the proposed changes.",1,True,1136
+Turn 2
+A: I appreciate your feedback, but edit summaries don't allow for a detailed conversation. Let's move this to the discussion page so we can fully understand each other's perspectives and avoid further conflict.
+B: Alright, I see your point. I'll join you on the discussion page to talk this through. Let's find a way to resolve this constructively.","Hey, if you want to assert that a cite does not say what it clearly does say, how about actually coming to the discussion page to discuss it, rather than treating edit summaries like a discussion space? Why the hell am I the one being accused of edit warring, when I'm the only one actually willing to talk on the discussion page?",impolite,1,"Yes, I agree that A was being impolite. The use of phrases like ""how about actually coming to the discussion page"" and ""Why the hell am I the one being accused of edit warring"" conveys frustration and a confrontational tone, which can be perceived as impolite.",1,True,1036
+130,"Turn 1
+A: ""B, can you hurry up? You've been in there forever, and I really need to use the bathroom.""
+B: ""I'm sorry, A. I'm having a bit of a rough time in here. I'll be out as soon as I can.""
+
+Turn 2
+A: ""I get that, but it's been almost an hour. Are you unable to pee with a half filled bladder??? Can you at least try to speed things up?""
+B: ""I understand you're frustrated. I'll do my best to finish quickly. Just give me a few more minutes, please.""",Are you unable to pee with a half filled bladder???,impolite,2,"Yes, A's comment ""Are you unable to pee with a half filled bladder???"" comes across as impatient and dismissive of B's situation, which can be considered impolite.",1,True,453
+59,"Turn 1
+A: Hi B, I noticed you don't have an email linked to your Wikipedia account. I see that you don't have an account linked to the Wikipedia email. Would you be able to send me a message so that we can talk off Wikipedia? For some of our project updates and sensitive discussions, it might be easier to communicate privately. Would you be open to sharing your email or using a messaging app?
+
+B: Hi A, I understand the need for private communication. I don't mind sharing my email for this purpose. You can reach me at [B's email]. Is that okay?
+
+Turn 2
+A: Perfect, thanks for that. I'll send you an email shortly with the details we need to discuss. Looking forward to our continued collaboration!
+
+B: Sounds good, A. I'll keep an eye out for your email. Let's make this project a success!",I see that you don't have an account linked to the Wikipedia email. Would you be able to send me a message so that we can talk off Wikipedia?,polite,1,"Yes, A was being polite. A acknowledged B's current setup and respectfully asked if B would be open to sharing an email or using a messaging app for private communication.",1,True,794
+46,"Turn 1
+A: Hey B, do you have a minute? I tried setting up a subpage on the wiki for our project, but I'm not sure if I did it right. I was trying to create a subpage. Could you please make it a subpage for me?
+B: Sure, A. I'd be happy to help. Can you show me what you've done so far?
+
+Turn 2
+A: Here it is. I created the subpage under the main project page, but I'm not sure if the structure and links are correct.
+B: Let's take a look. Ah, I see what you did. The content looks good, but the link needs to be formatted slightly differently. Let me show you how to adjust it.",I was trying to create a subpage. Could you please make it a subpage for me?,polite,1,"Yes, A was being polite. A asked B if they had a minute and then requested help in a courteous manner.",1,True,576
+2,"Turn 1
+A: The 100th Indy 500 was absolutely incredible! The atmosphere, the history, everything was just perfect.
+B: I get that it was a big deal, but isn't it a bit misleading to call it the 100th race? I read there were interruptions during the World Wars, so technically, it hasn't been held 100 times consecutively.
+
+Turn 2
+A: Sure, there were interruptions, but it's still the 100th running of the event. The race was advertised and billed as the 100th Indy 500. Are you saying the promoters and Indycar are liars?The legacy and tradition are what matter most.
+B: I understand the tradition, but promoting it as the 100th without acknowledging those gaps feels a bit disingenuous. It's important to be accurate about history.",The race was advertised and billed as the 100th Indy 500. Are you saying the promoters and Indycar are liars?,impolite,2,"Yes, A's response can be seen as impolite because it escalates the conversation by suggesting that B is accusing the promoters and Indycar of being liars, which is a strong and confrontational statement. B was merely pointing out a historical inaccuracy, not making an accusation of dishonesty.",1,True,730
 68,"Turn 1
-A: Sometimes I feel really isolated because I'm an atheist. It seems like everyone around me is religious, and it's hard to find people who understand my perspective.That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.
-B: I get that. It's actually the opposite for me. There are a lot of atheists in my area, and it's made a huge difference in my social life. I feel like I belong and can be myself without any judgment.
+A: Thanks for sharing those findings about Fahnbulleh. I really appreciate the effort you put into it. Nice work! Since you dug up some information on Fahnbulleh, I'm curious u2014 do you know what relation he is to Ambassador Henry Fahnbulleh, whom Tubman accused of an attempted coup? Could you clarify how Fahnbulleh is related to Ambassador Henry Fahnbulleh, especially in the context of that significant political incident?
+
+B: Sure, no problem. Fahnbulleh is actually a common surname in Liberia, but in this case, Ambassador Henry Fahnbulleh is indeed related to the Fahnbulleh I mentioned. Henry Fahnbulleh was involved in the 1980 coup that overthrew President Tolbert, and his political activities have had a lasting impact on Liberian politics.
 
 Turn 2
-A: That sounds amazing. I wish I had that kind of community. It must be nice to have friends who share your beliefs and experiences.
-B: It really is. Maybe you could try finding online groups or forums where you can connect with like-minded people. It might help you feel less alone.",That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.,positive,1,"A's statement ""That's sad. I'm 16 and where I am there are loads of atheists my age. It's great."" is actually a mix of empathy and positivity. A acknowledges the sadness of feeling isolated but then shares a positive personal experience to offer hope. So, A is being positive in the latter part of the statement.",1,True,748
-78,"Turn 1
-A: Oh my gosh, that cat just face-planted into the wall! How does it even manage that?I love this ahahah
-B: I know, right? It's like it forgot how to cat for a second. I can't stop laughing!
+A: That makes sense. So, the Fahnbulleh you mentioned earlier, is he directly involved in the same political circles as Ambassador Henry Fahnbulleh, or is his influence more indirect?
+
+B: The Fahnbulleh I mentioned earlier is more of a contemporary figure who has been influenced by the political legacy of Ambassador Henry Fahnbulleh. While they may not be directly involved in the same events, the historical context and political environment shaped by Henry Fahnbulleh's actions have certainly impacted his work and perspectives.","Nice work! Since you dug up some information on Fahnbulleh, I'm curious u2014 do you know what relation he is to Ambassador Henry Fahnbulleh, whom Tubman accused of an attempted coup?",polite,1,"Yes, A was being polite. A thanked B for sharing the findings and appreciated the effort put into it, which indicates politeness and gratitude.",1,True,1303
+75,"Turn 1
+A: Hi B, I hope you're doing well. I recently made an edit to the ""History of Science"" article to align it with the style guidelines, but it was reverted by another user. Could you help explain to them why following these guidelines is important? I think your experience could really help resolve this smoothly.
+
+B: Hi A, I'm doing well, thanks for asking. I understand the situation. I'd be happy to help. Could you provide me with the details of your edit and the user who reverted it? That way, I can address the issue more effectively.
 
 Turn 2
-A: Seriously, I needed this laugh. Thanks for sharing it.
-B: Anytime! It's always more fun to watch these with you. We should do this more often.",I love this ahahah,positive,1,"Yes, A was being positive. The phrase ""I love this ahahah"" indicates that A is amused and enjoying the situation, which is a positive reaction.",1,True,351
-33,"Turn 1
-A: Remember that summer we spent working at the local ice cream shop? We had so much fun, and it felt like we didn't have a care in the world.
-B: Oh, absolutely! I can still taste those free sundaes we made for ourselves after closing. Life was so much simpler back then.
+A: Sure, I added a section to improve the chronological flow and cited a reliable source, but User X reverted it, saying it was unnecessary. I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such? I just want to ensure we're all on the same page regarding the guidelines.
+
+B: Got it. I'll reach out to User X and explain the importance of maintaining a consistent style and the value of your contribution. I'll emphasize collaboration and see if we can find a middle ground. Thanks for bringing this to my attention, A.",I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such?,polite,2,"Yes, A was being polite. A acknowledged the reversion of their edit and respectfully asked B to use their expertise to explain the importance of following the style guidelines to User X. A's request was framed in a courteous manner, indicating a desire for collaborative resolution.",1,True,1165
+30,"Turn 1
+A: Hey B, glad I could help you out with that info. How's everything going?No worries, thanks for doing that. Nice to hear from you again - new username for 2013?
+B: Thanks again, A! It really made a difference. By the way, did you change your username for the new year? It looks different.
 
 Turn 2
-A: Yeah, and we didn't have to worry about bills or deadlines. Before all of the BS lol Just hanging out, making a little money, and enjoying the sunshine.
-B: Exactly. Now it's all about juggling work, responsibilities, and trying to find time for ourselves. Those were the days, weren't they?",Before all of the BS lol,positive,2,"Yes, A was being positive. A was reminiscing about the carefree and enjoyable times they had working at the ice cream shop, highlighting the simplicity and fun of those days compared to their current responsibilities.",1,True,580
-50,"Turn 1
-A: Hey B, have you had any issues with the software lately?
-B: Not recently. There was a glitch about a month ago, but it got fixed pretty quickly.
+A: Yeah, I thought it was time for a fresh start. New year, new username! How do you like it?
+B: I love it! It suits you. Here's to new beginnings and more great conversations ahead!","No worries, thanks for doing that. Nice to hear from you again - new username for 2013?",polite,1,"Yes, A was being polite by acknowledging B's gratitude and expressing pleasure in hearing from B again. This shows a courteous and friendly demeanor.",1,True,488
+8,"Turn 1
+A: Hey B, I noticed you seemed upset earlier. Is everything okay?
+B: Honestly, A, I'm frustrated that you made changes to the links without waiting for us to agree as a team. It feels like you disregarded our process.
 
 Turn 2
-A: Oh, that's good to hear. Yes had the problem a month or so ago but has since gone away What was the problem?
-B: It was a bug that caused some data to not save properly, but the update they pushed out took care of it.",Yes had the problem a month or so ago but has since gone away,neutral,2,"A's statement ""Yes had the problem a month or so ago but has since gone away"" is factual and does not convey any particular emotion or bias. It simply acknowledges the issue and its resolution.",1,True,382
-73,"Turn 1
-A: Thanks for explaining all that, B. It sounds like this software could really streamline our work. Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it? How much space does it need for installation?
-B: You're welcome, A! The software requires about 2 GB of free space. Do you think your system can handle that?
+A: I understand your frustration, B. Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?I thought the changes were minor and wouldn't need a full discussion. I didn't mean to overstep.
+B: I get that, but even small changes can have a big impact. Let's make sure we all agree before making any more updates, okay?","Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?",impolite,2,"Yes, I agree that A was being impolite. The phrase ""Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?"" comes off as confrontational and accusatory, especially since B had already expressed frustration and a desire for team agreement. A's response does not acknowledge B's feelings and instead shifts blame back to B.",1,True,625
+16,"Turn 1
+A: Hey B! I just finished reading the book you sent me. It was such a thoughtful gift, thank you so much! I have already read this - thank you very much for this kind gesture, dear friend. What's up with you? How have you been?
+
+B: Hey A! I'm so glad you liked it. I thought it might be something you'd enjoy. I've been doing alright, just busy with work and trying to find some time to relax. How about you?
 
 Turn 2
-A: I think so, but I'll double-check to be sure. Is there anything else I should be aware of before installing it?
-B: Just make sure your operating system is up to date and you have a stable internet connection for the initial setup. Other than that, you should be good to go!",Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?,positive,1,"Yes, A was being positive. A expressed gratitude and appreciation for the explanation provided by B, indicating a positive and enthusiastic attitude towards the software.",1,True,669
-3,"Turn 1
-A: Did you hear about the new update in our game? They added a whole new dungeon and the difficulty has been ramped up!
-B: Really? That sounds awesome! I've been on a break, but this might just be the push I needed to dive back in.
+A: I've been good, just juggling a few projects here and there. Your gift was a perfect break from all the chaos. Anything exciting happening on your end?
+
+B: Not much, just the usual grind. But I did start a new hobby—I've been trying my hand at painting. It's been a fun way to unwind. We should catch up properly soon!","I have already read this - thank you very much for this kind gesture, dear friend. What's up with you?",polite,1,"Yes, I agree. A was being polite by expressing gratitude for the thoughtful gift, even though they had already read the book. This shows appreciation and kindness towards B's gesture.",1,True,745
+22,"Turn 1
+A: Hey, can I ask you something about the 2:00 am news brief? Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world? Is it always called ""Eyewitness News"" every night?
+B: Yeah, it's ""Eyewitness News"" every night at 2:00 am. It's a quick update on the latest headlines.
 
 Turn 2
-A: You should definitely check it out. Triggered:: Welp guess it's time for me to re-up lolThe new boss is insane, and the loot drops are totally worth it.
-B: Alright, you've convinced me. Time to dust off my gear and jump back into the action!",Triggered:: Welp guess it's time for me to re-up lol,positive,2,"Yes, A was being positive. A was expressing excitement about the new update and encouraging B to check it out, which indicates a positive sentiment.",1,True,491
-74,"Turn 1
-A: ""B, we need to talk. I've noticed you've been leaving dirty dishes and food scraps around the apartment for days. It's attracting pests and the smell is unbearable. You're disgusting Can you please clean up after yourself?""
-B: ""I'm really sorry, A. I've been swamped with work and just haven't had the time. I didn't realize it had gotten that bad.""
+A: Got it. And does it always use the ""Move Closer to Your World"" theme music?
+B: Absolutely, that theme is a staple for our news segments. You'll hear it every time.","Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?",polite,1,"Yes, A was being polite by starting the conversation with ""Good day, sorry to bother you,"" which shows consideration and respect for the other person's time.",1,True,539
+72,"Turn 1
+A: Hey B, I wanted to revisit our discussion about the project's direction. I still have some concerns about the timeline and resource allocation. I feel like we might be spreading ourselves too thin.
+B: I appreciate you bringing this up again, A. I understand your concerns. Can you elaborate a bit more on which areas you think need more focus?
 
 Turn 2
-A: ""I understand you're busy, but this is a shared space and we both need to keep it livable. Can we agree on a system to make sure this doesn't happen again?""
-B: ""Absolutely. I'll make it a priority to clean up right after eating, and maybe we can set up a cleaning schedule to keep things in check. Thanks for bringing it up.""",You're disgusting,negative,1,"Yes, I agree. A's statement ""You're disgusting"" is a negative and harsh comment directed at B, which indicates a negative sentiment.",1,True,696
-25,"Turn 1
-A: I'm glad I could help you with finding out how to check your court date. If you have any other questions, feel free to ask.Thank you! I call on Monday to find out when I have court
-B: Thank you so much! I really appreciate it. I'll make sure to call on Monday to get the specific details.
+A: Sure, I think the marketing strategy is taking up a lot of our resources, which might be better spent on product development at this stage. I hope this makes my concerns clearer. Perhaps we can work together to resolve them? What do you think about reallocating some of the budget to the development team?
+B: That makes sense. Let's review the budget together and see where we can make adjustments. I'm open to finding a balance that ensures both areas get the attention they need.",I hope this makes my concerns clearer. Perhaps we can work together to resolve them?,polite,2,"Yes, A was being polite. A expressed their concerns clearly and constructively, and also suggested working together to find a solution, which indicates a collaborative and respectful approach.",1,True,846
+36,"Turn 1
+A: Hey B, I've noticed that our current discussion isn't really bringing out any new ideas. I've asked participants to shift the discussion away from Karchmar--that discussion isn't producing any new arguments or sources. Would you be able to contribute some thoughts as to where we might go on the topic of collaboration (i.e., tomorrow)? Do you have any thoughts on how we can shift the focus to something more productive, maybe around collaboration for the next session?
+B: I agree, it feels like we're going in circles. How about we introduce a brainstorming activity where participants can share their experiences with successful collaborations? That might spark some fresh insights.
 
 Turn 2
-A: You're welcome! Just make sure to have your case number handy when you call. It will make the process quicker.
-B: Got it, I'll have it ready. Thanks again for your assistance. Have a great day!",Thank you! I call on Monday to find out when I have court,positive,1,"Yes, A was being positive. A expressed gratitude and acknowledged the help received, indicating a positive sentiment.",1,True,503
-20,"Turn 1
-A: I just don't get why you're settling for this temporary job, B. It doesn't offer any long-term security, and you deserve better.
-B: I understand your concern, A, but this job gives me immediate income and valuable experience. Plus, it's a stepping stone to something bigger.
+A: That sounds like a great idea. We could even break them into smaller groups to discuss specific challenges they've faced and how they overcame them. What do you think?
+B: Absolutely, smaller groups would encourage more participation. We can then reconvene and have each group present their key takeaways. This way, we can gather a variety of perspectives and solutions.","I've asked participants to shift the discussion away from Karchmar--that discussion isn't producing any new arguments or sources. Would you be able to contribute some thoughts as to where we might go on the topic of collaboration (i.e., tomorrow)?",polite,1,"Yes, A was being polite. A acknowledged the current discussion's lack of productivity and respectfully asked B for their thoughts on how to shift the focus to a more productive topic, specifically collaboration.",1,True,1076
+79,"Turn 1
+A: Hey B, I just finished the first draft of the new feature module. Could you take a look and let me know what you think?
+B: Sure, I'd be happy to. Send it over, and I'll review it this afternoon. Anything specific you want me to focus on?
 
 Turn 2
-A: But what if you get stuck in a cycle of temporary gigs? Borrowed time is stupidYou need stability and a clear path forward.
-B: I hear you, but right now, this job is helping me build my skills and network. It's a calculated risk, and I'm confident it will pay off in the long run.",Borrowed time is stupid,negative,2,"Yes, A was being negative. A expressed concerns about the lack of long-term security and stability in B's temporary job, and the phrase ""Borrowed time is stupid"" further emphasizes A's negative view on the situation.",1,True,576
-15,"Turn 1
-A: I can't believe it, B. I just found out I didn't pass the exam. I studied so hard for it, and now it feels like all that effort was for nothing.
-B: Oh no, A! I'm so sorry to hear that. I know how much this meant to you. Are you okay? This must be really tough.
+A: Thanks! I'm particularly concerned about the efficiency of the algorithm and whether the code is following best practices. Just now I created this stub. Could you have a look at it, and try to improve it?
+B: Got it. I'll pay special attention to those areas and get back to you with some feedback. Great job getting this done so quickly!","Just now I created this stub. Could you have a look at it, and try to improve it?",polite,2,"Yes, A was being polite by acknowledging B's willingness to help and by asking for feedback in a considerate manner.",1,True,596
+19,"Turn 1
+A: Hey B, could you take a look at this article related to our project? Yep, no worries. What's the article? I could really use your feedback.
+B: Sure, I'd be happy to help! Can you send me the article or give me more details about it?
 
 Turn 2
-A: Honestly, I'm devastated. I thought I had it in the bag, but now I just feel like a failure. Holy shit bro What am I going to do now?
-B: You're not a failure, A. This is just a setback, not the end. We'll figure out a plan together. Maybe there's a way to retake the exam or explore other options. You're stronger than you think.",Holy shit bro,negative,2,"Yes, I agree that A was being negative. A expressed feelings of devastation and self-doubt, indicating a negative emotional state.",1,True,611
-55,"Turn 1
-A: Ugh, this hunting game is driving me nuts! The character keeps saying I'm missing my shots, but I swear I'm hitting the targets. He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!
-B: That sounds frustrating. Maybe there's a glitch or something? Have you checked if there's an update or patch available?
+A: Great, thanks! I'll email it to you right now. It's about the latest trends in our industry and how they might impact our strategy.
+B: Sounds interesting. I'll review it and get back to you with my thoughts by the end of the day.","Yep, no worries. What's the article?",polite,1,"Yes, I agree. A was being polite by acknowledging B's willingness to help and expressing gratitude before asking for feedback on the article.",1,True,483
+105,"Turn 1
+A: I don't appreciate being accused of not doing my part, B. What do you mean? How am I supposed to vindicate myself of this ridiculous accusation? I've been working hard on my tasks.
+B: It just seems like some of your deliverables are behind schedule, and it's affecting the team's progress.
 
 Turn 2
-A: Yeah, I thought of that. I even recalibrated my controller, but it's still off. It's like the game isn't recognizing my efforts at all.
-B: That's really annoying. Maybe you could try reaching out to the game's support team? They might have a solution or at least acknowledge the issue.",He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!,negative,1,"Yes, A was being negative. They expressed frustration and self-criticism about their performance in the game, indicating a negative sentiment.",1,True,665
+A: I understand the concern, but I've been facing some unexpected challenges. Maybe we can discuss how to address these issues together?
+B: Fair enough. Let's find a way to support each other and get back on track. We can review the tasks after the meeting.",What do you mean? How am I supposed to vindicate myself of this ridiculous accusation?,impolite,1,"A's response, ""What do you mean? How am I supposed to vindicate myself of this ridiculous accusation?"" can be seen as defensive and confrontational, which may come across as impolite. The use of words like ""ridiculous accusation"" suggests a strong emotional reaction and a lack of willingness to understand B's perspective initially.",1,True,565
+34,"Turn 1
+A: I sent over the research you asked for. Did you get a chance to review it?
+B: Yes, I did. But I'm concerned about the accuracy of some of the data and the timing. We needed this earlier to make a well-informed decision.
+
+Turn 2
+A: I worked hard to gather that information, and I submitted it as soon as I could. I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway? It's frustrating to hear that it's not good enough.
+B: I understand you're frustrated, but we need to ensure the data is reliable and timely. Let's figure out how we can address these issues together.","I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway?",impolite,2,"Yes, A's response can be considered impolite. A's tone is defensive and confrontational, implying that B is being unreasonable and dismissive of A's efforts. This kind of response can escalate tension rather than fostering a collaborative resolution.",1,True,638
+70,"Turn 1
+A: Hey B, I was going through the citations and noticed that the date of a cited source is mentioned both in the inline text and in the footnote. Do you think it might be redundant to have it in both places?
+
+B: Hmm, I see what you mean. It could make the document look cleaner if we remove the inline date reference. What do you suggest?
+
+Turn 2
+A: I was thinking we could just keep the date in the footnote since it's already detailed there. That is, I would remove the inline reference to the date of the cited source, since it's given in the actual footnote. Is that OK with you? It would streamline the text a bit. Are you okay with that change?
+
+B: Yes, that sounds good to me. Let's go ahead and make that adjustment. Thanks for checking in with me!","That is, I would remove the inline reference to the date of the cited source, since it's given in the actual footnote. Is that OK with you?",polite,2,"Yes, A was being polite by asking for B's opinion and approval before making a change to the document. This shows consideration and respect for B's input.",1,True,763
+147,"Turn 1
+A: B, can we talk for a minute? I've been feeling like you're constantly undermining my contributions in our meetings. ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time? It's starting to affect my confidence and our working relationship.
+B: I'm sorry you feel that way, A. That was never my intention. I thought I was providing constructive feedback to help us improve the project. Can you give me specific examples of when you felt undermined?
+
+Turn 2
+A: Sure, like in the last meeting when I suggested the new marketing strategy, you immediately pointed out potential flaws without acknowledging the positives. It felt dismissive.
+B: I see. I didn't realize it came across that way. I genuinely value your ideas and was trying to anticipate challenges. I'll make an effort to be more supportive and balanced in my feedback moving forward.","ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time?",impolite,1,"Yes, I agree that A was being impolite. The phrase ""ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me?"" is accusatory and suggests that B has malicious intent, which is a strong and potentially offensive assumption to make without clear evidence.",1,True,927
