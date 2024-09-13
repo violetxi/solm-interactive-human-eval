@@ -97,18 +97,22 @@ function App() {
   }, [currentDataset]);
 
   useEffect(() => {
-    if (questions.length > 0) {
-      const currentQuestion = questions[currentQuestionIndex];
-      const choices = currentQuestion.isAttentionCheck
-        ? [
-            { label: 'True', value: 'True' },
-            { label: 'False', value: 'False' }
-          ]
-        : choiceOrderMap[currentDataset]; // Use dataset-specific order of choices
-
-      setShuffledChoices(choices); // No shuffle for regular questions, using predefined order
-    }
-  }, [currentQuestionIndex, questions, currentDataset]);
+    loadCSV(`data/${currentDataset}`)
+      .then((data) => {
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        .map(item => ({
+          question: `Was the person intended to be polite when they said "${item.original_data}" in the conversation?`,
+          statement: item.conversation,
+          note: item.note || '',
+          isAttentionCheck: false
+        }));
+        const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
+        setQuestions(allQuestions);
+      })
+      .catch((error) => {
+        console.error('Error loading CSV:', error);
+      });
+  }, [currentDataset]); // Re-run when currentDataset changes
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -145,6 +149,18 @@ function App() {
 
   const handleDemographicsComplete = async (demographicsData) => {
     console.log('Demographics survey completed');
+  };
+
+  const parseConversation = (conversation) => {
+    return conversation.split('\n').map((line, index) => {
+      const trimmedLine = line.trim();
+      if (trimmedLine.startsWith('A:')) {
+        return { speaker: 'A', content: trimmedLine.substring(2).trim() };
+      } else if (trimmedLine.startsWith('B:')) {
+        return { speaker: 'B', content: trimmedLine.substring(2).trim() };
+      }
+      return null;
+    }).filter(Boolean);
   };
 
   const currentQuestion = questions[currentQuestionIndex]?.question || 'Loading...';

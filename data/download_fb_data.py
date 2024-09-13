@@ -94,18 +94,20 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-SemT6_Abortion-2'
     # current_data_prefix = 'Full-SemT6_Abortion-3'
 
+    # # Sentiment
     # current_data_prefix = 'Full-SemT6_Sentiment-1'
     # current_data_prefix = 'Full-SemT6_Sentiment-2'
     # current_data_prefix = 'Full-SemT6_Sentiment-3'
-
+    current_data_prefix = 'Full-SemT6_Sentiment-4'
+    
     # # Politeness
     # current_data_prefix = 'Full-Politeness-1'
     # current_data_prefix = 'Full-Politeness-2'
     # current_data_prefix = 'Full-Politeness-3'
     # current_data_prefix = 'Full-Politeness-4'
     # current_data_prefix = 'Full-Politeness-5'
-    current_data_prefix = 'Full-Politeness-6'
-    
+    # current_data_prefix = 'Full-Politeness-6'
+
     """ Chinese Datasets """
     # current_data_prefix = 'CSTANCE-ch-1'
     # current_data_prefix = 'Full-SIMS-ch-1'    

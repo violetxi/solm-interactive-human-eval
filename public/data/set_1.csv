@@ -1,173 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-36,"Turn 1
-A: Hi, I appreciate your help earlier, but I'm still having trouble finding the product. Could you guide me a bit more?
-
-B: Of course! Can you please tell me the name or type of product you're looking for? I'll do my best to assist you further.
-
-Turn 2
-A: I'm looking for the ""Eco-friendly Bamboo Toothbrush"" but can't seem to locate it in the oral care section.Thanks, but I am now having trouble finding it. Any suggestions?
-
-B: No problem. Let me check for you. Ah, I see it now. It's actually listed under the ""Sustainable Products"" category. You can find it by navigating to the main menu, selecting ""Sustainable Products,"" and then looking under ""Personal Care.""","Thanks, but I am now having trouble finding it. Any suggestions?",polite,2,"Yes, A was being polite. They expressed appreciation for the help earlier and used polite language when asking for further assistance.",1,True,675
-98,"Turn 1
-A: Hey B! It's been a while. I saw your recent edits on Wikipedia and thought I'd check in. Seeing you back on Wikipedia after a long time. How are you doing, and is everyone you know safe? How have you been holding up with everything going on lately?
-B: Hi A! Great to hear from you. I've been managing okay, just trying to stay busy with some new projects. How about you? How have you been?
+42,"Turn 1
+A: ""I'm so excited for my birthday this weekend! We're going to that big concert downtown. I've been waiting for this for months!""
+B: ""No way, that's awesome! I've heard it's going to be an amazing show. Who are you going with?""
 
 Turn 2
-A: I'm doing alright, thanks. Keeping busy with work and family. It's been a crazy few months, hasn't it? I'm glad to see you're still active on Wikipedia. Anything interesting you're working on?
-B: Yeah, it's been quite a ride. I'm currently diving into some historical articles, trying to improve their accuracy. It's been a good distraction. We should catch up more often!","Seeing you back on Wikipedia after a long time. How are you doing, and is everyone you know safe?",polite,1,"Yes, A was being polite. A expressed concern for B's well-being and the safety of B's acquaintances, which is a considerate and polite way to check in on someone.",1,True,783
-129,"Turn 1
-A: Hi B, I wanted to apologize for the multiple edits on the article about the local wildlife. I've been trying to revert some persistent vandalism but seem to be having trouble getting it right. Could you advise me on the best way to handle this?
-
-B: No problem, A. I appreciate your efforts to keep the page clean. When reverting vandalism, it's best to use the ""undo"" function for each specific change. If the vandalism is extensive, you might want to revert to a previous clean version of the page. Does that help?
-
-Turn 2
-A: That makes sense, thanks. I got the page fixed. Sorry I had to do it several times on the page but it wouldn't let me revert it to before the IP user vandalized it how do you do that?I was worried about losing any legitimate edits in the process. Is there a way to ensure I don't accidentally remove any good contributions?
-
-B: Yes, you can compare the versions before reverting to make sure no valid edits are lost. Also, consider leaving a note in the edit summary explaining the reason for the revert. If you're still unsure, feel free to ask for a second opinion before making the changes.",I got the page fixed. Sorry I had to do it several times on the page but it wouldn't let me revert it to before the IP user vandalized it how do you do that?,polite,2,"Yes, A was being polite. A apologized for the multiple edits and expressed concern about potentially removing legitimate contributions, which shows consideration and politeness.",1,True,1130
-24,"Turn 1
-A: Hi B, I hope you're doing well. I'm working on setting up a new task force and could really use some advice on creating banners and quality charts. Hello im trying to make a task force for the Empire of Brazil with some people but we dont know how to make the actually task force stuff like the banner and how to make the quality chart template to see what class each article is. Im asking if you can help make it since i saw you made WikiProject Dam? Could you help me out?
-
-B: Hi A! Sure, I'd be happy to help. For banners, you'll want to use a simple, recognizable design that represents your task force's focus. As for quality charts, it's important to set clear criteria for each quality level. Do you have any specific ideas or examples you're working with?
+A: ""I'm going with Sarah. We both love the band, and we've been planning this since the tickets went on sale. gonna go see Justin bieber with dylan in March on my birthday!!!!""
+B: ""That sounds like so much fun! I'm a little jealous, but I'm really happy for you. You'll have to tell me all about it afterward!""",gonna go see Justin bieber with dylan in March on my birthday!!!!,positive,2,"Yes, A was being positive. They expressed excitement about their upcoming birthday plans and the concert they are attending with Sarah. Additionally, they mentioned another exciting plan to see Justin Bieber with Dylan in March, which further indicates their positive and enthusiastic mood.",1,True,554
+107,"Turn 1
+A: Ugh, I'm having a hard time downloading the latest edition of the September publication for the monthly report. Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes? It's really frustrating.
+B: Oh no, that sounds annoying. Have you tried accessing it through a different browser or clearing your cache?
 
 Turn 2
-A: Thanks, B! I was thinking of using a color scheme that matches our main project and incorporating an icon related to our topic. For the quality charts, I'm not sure where to start with the criteria. Any tips on what to include?
-
-B: That sounds like a great start for the banner. For the quality charts, consider including criteria like article completeness, sourcing, formatting, and neutrality. You can look at existing task forces for inspiration. Feel free to share your drafts, and I can give more detailed feedback.",Hello im trying to make a task force for the Empire of Brazil with some people but we dont know how to make the actually task force stuff like the banner and how to make the quality chart template to see what class each article is. Im asking if you can help make it since i saw you made WikiProject Dam?,polite,1,"Yes, A was being polite. A started the conversation with a friendly greeting and expressed hope that B is doing well. A also acknowledged B's expertise by mentioning the WikiProject Dam and politely asked for help.",1,True,1305
-131,"Turn 1
-A: ""I've already fixed those typos you mentioned. I had that fixed before you oranged me, I swears it! :) Are you not familiar with the technique of doubling your edit count using typos? Maybe you should focus on the content instead of nitpicking every little mistake.""
-B: ""I understand, but attention to detail is important. We want this project to be the best it can be, right?""
-
-Turn 2
-A: ""Sure, but it feels like you're just looking for things to criticize. It's frustrating.""
-B: ""I get that, and I'm not trying to be critical. Let's work together to make sure everything is polished. We both want this to succeed.""","I had that fixed before you oranged me, I swears it! :) Are you not familiar with the technique of doubling your edit count using typos?",impolite,1,"Yes, A's comment can be seen as impolite. The phrase ""I had that fixed before you oranged me, I swears it! :)"" comes off as defensive and sarcastic. Additionally, the mention of ""doubling your edit count using typos"" implies that B is being overly critical or nitpicky, which can be interpreted as dismissive of B's efforts to ensure quality.",1,True,626
-104,"Turn 1
-A: Hi B, do you have a moment to chat? Interrobang mentioned that you might benefit from some mentorship while they're away, and I wanted to see if you'd be comfortable with me stepping in to help. Interrobang has asked me if I would also help mentor you when he is not around. I said that I would gladly help out if it was ok with you?
-
-B: Hi A, sure, I have a few minutes. I appreciate you reaching out. I think having a mentor could be really helpful. What kind of support are you thinking about?
-
-Turn 2
-A: Great to hear. I was thinking we could start with regular check-ins to discuss your projects and any challenges you're facing. We can also go over any specific skills or areas you want to develop. How does that sound to you?
-
-B: That sounds perfect. I could definitely use some guidance on project management and improving my presentation skills. Thanks for offering to help, A. I look forward to working with you.",Interrobang has asked me if I would also help mentor you when he is not around. I said that I would gladly help out if it was ok with you?,polite,1,"Yes, I agree that A was being polite. A asked for B's comfort and consent before stepping in as a mentor, which shows consideration and respect for B's feelings and preferences.",1,True,932
-80,"Turn 1
-A: Hi B, I just finished installing VandalProof and I'm not sure what to do next. I recently was approved for VandalProof, and I installed everything and stuff, but I'm confused on how it is actually run, like what do I click to start it. Could you please help me a little? Could you guide me on how to get started with the basics?
-
-B: Hi A, of course! First, open VandalProof and log in with your credentials. Once you're in, you'll see the dashboard. From there, you can start by setting up your monitoring preferences. Click on the ""Settings"" icon in the top right corner to customize your alerts and filters.
-
-Turn 2
-A: Thanks, B! I see the dashboard now. What should I focus on after setting up my preferences?
-
-B: Great! After setting your preferences, head over to the ""Monitor"" tab. This is where you'll see real-time updates on the content you're tracking. You can review flagged items and take actions like approving, editing, or reporting them. If you need more detailed guidance, the ""Help"" section has some useful tutorials and FAQs.","I recently was approved for VandalProof, and I installed everything and stuff, but I'm confused on how it is actually run, like what do I click to start it. Could you please help me a little?",polite,1,"Yes, A was being polite. They used phrases like ""Could you please help me a little?"" which indicates a polite request for assistance.",1,True,1053
-101,"Turn 1
-A: Hi B, I hope you're doing well! I wanted to let you know that I'll be traveling to Outer Mongolia next month for a mix of work and leisure. I'll be visiting Ulaanbaatar, the Gobi Desert, and a few other spots. If you happen to be in the area or have any plans to visit, it would be great to catch up in person. Let me know!
-
-B: Hi A, that sounds like an amazing trip! I don't have any immediate plans to visit Outer Mongolia, but it's definitely on my bucket list. I'll check my schedule and see if I can make it work. It would be fantastic to meet up and discuss our project in person.
-
-Turn 2
-A: That would be wonderful, B! I'll be in Ulaanbaatar from the 10th to the 15th, and then heading to the Gobi Desert until the 20th. I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet? If you can make it, we could coordinate a meeting during those dates. Looking forward to it!
-
-B: Thanks for the details, A. I'll see if I can arrange my schedule to join you in Ulaanbaatar. It would be a great opportunity to collaborate and also enjoy some time exploring the area together. I'll keep you posted!","I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet?",polite,2,"Yes, I agree. A was being polite by providing detailed information about their travel schedule and expressing a willingness to coordinate a meeting with B. This shows consideration and a desire to accommodate B's availability.",1,True,1137
-71,"Turn 1
-A: Hey B, I've been thinking about the situation with Alex. Given the recent improvements and the feedback we've received, I believe the block we placed on his project access might no longer be necessary. What are your thoughts on lifting it?
-
-B: I understand where you're coming from, A. Alex has shown some progress, but I'm still a bit cautious. Do you have specific examples of his improvements that we can discuss?
-
-Turn 2
-A: Absolutely. For instance, his recent contributions to the marketing strategy were well-received, and he's been more proactive in team meetings. Plus, the issues that led to the block seem to have been resolved. The block seems to no longer be necessary or productive. If I were to bring a motion to get them unblocked, would you support it? I think it's worth reconsidering.
-
-B: Those are good points. If we can ensure there's a clear plan for monitoring his performance moving forward, I'd be open to discussing lifting the block. Let's set up a meeting to go over the details and make a final decision.","The block seems to no longer be necessary or productive. If I were to bring a motion to get them unblocked, would you support it?",polite,2,"Yes, A was being polite. A provided specific examples of Alex's improvements and respectfully asked for B's support in reconsidering the block, showing consideration for B's opinion and a willingness to discuss further.",1,True,1042
-93,"Turn 1
-A: Hi Thunderbrand, I noticed my image has been flagged for deletion. Hi Thunderbrand, thanks for letting me know that the image I uploaded is on IFD. Can I ask though, why is the image being deleted? Could you please explain why it's on the IFD list?
-
-B: Hi A, sure thing. The image was flagged because it doesn't comply with our platform's copyright policy. It appears to be a non-original work without proper attribution or permission from the original creator.
-
-Turn 2
-A: I see, thanks for the clarification. Is there a way I can provide the necessary attribution or permission to keep the image?
-
-B: Yes, if you can provide verifiable proof of permission from the original creator or proper attribution that meets our guidelines, we can reconsider the deletion. Please upload the documentation or attribution details to the image's page.","Hi Thunderbrand, thanks for letting me know that the image I uploaded is on IFD. Can I ask though, why is the image being deleted?",polite,1,"Yes, A was being polite. They thanked Thunderbrand for the information and asked their question in a respectful manner.",1,True,849
-123,"Turn 1
-A: Thank you so much for the training session, B. I really appreciate your guidance.
-B: You're welcome, A. I'm glad I could help. How are you feeling about everything so far?
-
-Turn 2
-A: I'm feeling more confident, but I know I'll have questions as I get more into the work. Thank you much! May I call upon you if I make mistakes or need help, then, please? Would it be alright if I reach out to you for further help or clarification?
-B: Absolutely, A. Don't hesitate to ask. We're all here to support each other, and I'm happy to assist whenever you need it.","Thank you much! May I call upon you if I make mistakes or need help, then, please?",polite,2,"Yes, A was being polite. A expressed gratitude for the training session and asked for permission to seek further help in a courteous manner.",1,True,565
-11,"Turn 1
-A: Hi B, I hope you're doing well. I wanted to discuss our project details, but my office restricts IRC access during work hours. I'm in Japan timezone - and at work now - and most IRC is totally blocked through work proxies. Can we do a weekend? Would it be possible for us to schedule a discussion over the weekend when I have more flexibility?
-
-B: Hi A, I'm doing well, thanks! I understand your situation. I'm generally free on weekends. How about we set a time for Saturday morning your time? That should be Friday evening for me.
-
-Turn 2
-A: That sounds perfect, B. Let's plan for Saturday at 10 AM my time, which should be 6 PM your time. Does that work for you?
-
-B: Yes, that works for me. I'll mark it on my calendar. Looking forward to our discussion. Thanks for accommodating the time difference!",I'm in Japan timezone - and at work now - and most IRC is totally blocked through work proxies. Can we do a weekend?,polite,1,"Yes, A was being polite. A explained their situation regarding the restrictions at work and proposed an alternative time for the discussion, showing consideration for B's schedule as well.",1,True,813
-21,"Turn 1
-A: ""Hey B, what's up? You seem tense.""
-B: ""A, we need to talk. Your constant interruptions during meetings and missing deadlines are really affecting the team. I've already reported this, but nothing's changed.""
-
-Turn 2
-A: ""I didn't realize it was that big of a deal. You really want off here, dont you? I've already posted the incident on the incident board and you still are keeping it up?I thought I was just being myself.""
-B: ""It's a big deal for all of us. We need you to be more considerate and reliable. Can you work on that, please?""","You really want off here, dont you? I've already posted the incident on the incident board and you still are keeping it up?",impolite,2,"Yes, A's response can be considered impolite. Instead of acknowledging B's concerns and showing a willingness to improve, A dismisses the issue and implies that B has ulterior motives (""You really want off here, don't you?""). This response is defensive and does not address the problem constructively.",1,True,548
+A: I tried switching browsers, but I haven't cleared my cache yet. Do you think that might help?
+B: It could. If that doesn't work, I can show you a workaround using a different method to download it. Just let me know.",Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes?,negative,1,"Yes, I agree. A was expressing frustration and negativity about their difficulty in downloading the publication, which is evident from their use of words like ""Ugh"" and ""really frustrating.""",1,True,592
 120,"Turn 1
-A: Hi B, I'm a bit confused about the guidelines for using images in our project. Are there different rules for self-created images versus those we source from elsewhere?
-
-B: Hi A! Yes, there are different rules. Self-created images are generally easier to use because you own the rights. For sourced images, you need to ensure they are either in the public domain or have a compatible license, and you must provide proper attribution.
-
-Turn 2
-A: Got it, thanks! I hope I don't upset anyone by jumping in univited, but why are self-created images any different than those found elsewhere so long as they comply with all of the non-free content criteria? Is this caveat hiding in a talk page archive somewhere? So, if I create an image myself, do I need to add any specific tags or information when uploading it?
-
-B: Yes, when you upload a self-created image, you should tag it as ""self-created"" and include a brief description. It's also good practice to mention that you are the author and specify the license under which you're releasing it.","I hope I don't upset anyone by jumping in univited, but why are self-created images any different than those found elsewhere so long as they comply with all of the non-free content criteria? Is this caveat hiding in a talk page archive somewhere?",polite,2,"Yes, A was being polite. A expressed concern about potentially upsetting others by ""jumping in uninvited,"" which indicates a consideration for others' feelings and a polite approach to the conversation.",1,True,1050
-39,"Turn 1
-A: Hi B, I hope you're well. I applied for the vandalism prevention role a while back, but I haven't received any updates. Hi, I was removed from the request for approval list at the vandalproof, and not put on either the approved or denied lists. Could you tell me why, please? Could you let me know the status of my application?
-
-B: Hi A, thanks for reaching out. I apologize for the delay. We've been reviewing a high volume of applications, and yours is still under consideration. I'll check on its current status and get back to you shortly.
+A: I've been so swamped with work lately that I completely forgot about Pi Day this year. ""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh"" I usually bake a pie and everything.
+B: Oh no, that's a bummer! I missed it too because of a project deadline. It's frustrating when work gets in the way of the fun stuff.
 
 Turn 2
-A: Thank you for the update, B. Is there anything else I can provide or clarify to help expedite the process?
-
-B: I appreciate your offer, A. At this point, we have all the information we need. I'll prioritize your application and ensure you receive a response within the next few days. Thanks for your patience.","Hi, I was removed from the request for approval list at the vandalproof, and not put on either the approved or denied lists. Could you tell me why, please?",polite,1,"Yes, A was being polite. A expressed hope for B's well-being and asked for clarification in a respectful manner without showing frustration or impatience.",1,True,874
-8,"Turn 1
-A: Hi B, thanks again for helping with my username change! I just noticed that my new username is already taken on the Swedish Wikipedia. Could you advise me on what to do next?
-
-B: Hi A, you're welcome! For the issue on the Swedish Wikipedia, you can request a global rename to ensure your username is consistent across all Wikimedia projects. I can guide you through the process if you'd like.
-
-Turn 2
-A: That would be great, thank you! Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that? Could you please let me know how to start the global rename request?
-
-B: Sure! You can start by visiting the Global Rename Request page on Meta-Wiki. There, you'll need to fill out a form with your current username and the desired new username. If you encounter any issues, feel free to reach out to me for further assistance.","Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that?",polite,2,"Yes, A was being polite. A expressed gratitude for the help received and politely asked for further assistance regarding the username issue on Swedish Wikipedia.",1,True,993
-33,"Turn 1
-A: Thanks for the initial feedback! I was wondering, how long should the introductory section of an article be?
-
-B: Great question! The introduction should be concise but informative, typically around 3-4 paragraphs. It should provide a clear overview of the topic without going into too much detail.
-
-Turn 2
-A: That makes sense. Ah, thanks! Btw, IS THERE any kind of guideline for FAs in regard to lede length somewhere? Should I include any specific elements in the introduction?
-
-B: Yes, it's good to include a brief summary of the topic, its significance, and any key points that will be covered in the article. This helps set the stage for the reader and provides context for the rest of the content.","Ah, thanks! Btw, IS THERE any kind of guideline for FAs in regard to lede length somewhere?",polite,2,"Yes, A was being polite. The use of ""Ah, thanks!"" indicates gratitude, and the follow-up question is asked in a courteous manner.",1,True,712
+A: Yeah, I was really looking forward to it. I even had a new recipe I wanted to try. Maybe we can plan something together next year to make sure we don't miss it.
+B: That sounds like a great idea! Let's put it on our calendars now so we can remind each other. We could even make it a little tradition.","""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh""",negative,1,"A was expressing disappointment and frustration about missing Pi Day, which is evident from their statement about being swamped with work and forgetting about the event. The mention of missing International Talk Like a Pirate Day for the third year in a row adds to the sense of frustration. Therefore, A's sentiment can be considered negative.",1,True,677
 54,"Turn 1
-A: Hey B! Long time no see on here. Hey how are you? Now I can't find you online, where are you lol? Did you get abducted by aliens or something? 😜 Everything okay?
-
-B: Haha, no alien abductions, I promise! Just been swamped with work and needed a bit of a digital detox. How have you been?
-
-Turn 2
-A: Phew, glad to hear it! I was starting to worry. I've been good, just missing our chats. Anything exciting happen during your detox?
-
-B: Not much, just catching up on some reading and enjoying the offline world. But I missed our chats too! Let's catch up soon.","Hey how are you? Now I can't find you online, where are you lol?",polite,1,"Yes, A was being polite. A expressed concern for B's well-being and showed interest in B's whereabouts in a friendly and humorous manner.",1,True,568
-125,"Turn 1
-A: Hey B! It's been a while since we last saw you in the editing community. Your meticulous edits and insightful comments are really missed by everyone. How have you been?
-
-B: Hi A! Thanks for reaching out. I've been swamped with work and personal stuff lately, but I'm doing okay. I miss the community too. How's everything going there?
+A: ""Hey, have you heard about Kevin Hart's new stand-up special? It's supposed to be hilarious! kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!"" We should definitely go see it when it premieres.""
+B: ""Oh, really? I haven't heard about it yet. But you know I'm always up for a good laugh. When's it coming out?""
 
 Turn 2
-A: Totally understand, life can get pretty hectic. The community is doing well, but it's just not the same without your contributions. Those of us who've been here the whole time are pretty incredulous about it also. :) We miss your fine editing style and hope you come back sometime -- keep looking in on us now and then, at least? We'd love to have you back whenever you're ready, even if it's just to pop in and say hi.
+A: ""It's premiering next Friday night. I can already imagine us laughing our heads off. You in?""
+B: ""Absolutely! Count me in. It'll be a great way to unwind after the week. Can't wait!""","kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!""",positive,1,"Yes, A was being positive. A expressed excitement and enthusiasm about Kevin Hart's new stand-up special, indicating that they are looking forward to it and encouraging B to join them.",1,True,549
+5,"Turn 1
+A: Did you see Jason Russell's recent interview? He opened up about his mental health struggles during the KONY2012 campaign.
+B: No, I haven't seen it yet. That must have been intense for him. What did he say?
 
-B: That means a lot, A. I'll definitely try to make some time to rejoin and catch up with everyone. Thanks for the encouragement!","Those of us who've been here the whole time are pretty incredulous about it also. :) We miss your fine editing style and hope you come back sometime -- keep looking in on us now and then, at least?",polite,2,"Yes, A was being polite. A expressed understanding of B's situation, complimented B's contributions, and warmly invited B to return whenever possible.",1,True,906
+Turn 2
+A: He talked about the immense pressure and how it led to a breakdown. KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity It was really eye-opening to hear about the human side of it all.
+B: Wow, that sounds really tough. It's easy to forget that public figures go through such personal challenges too.",KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity,neutral,2,"A's statement in turn 2 is factual and informative, providing details about Jason Russell's experience without expressing a personal opinion or emotional tone. This indicates a neutral stance.",1,True,594
+95,"Turn 1
+A: I'm thinking of taking a weekend trip to the mountains. It's been ages since I had a proper getaway.
+B: That sounds amazing! I went hiking there last year, and the views were breathtaking. Do you have a specific spot in mind?
+
+Turn 2
+A: Not yet, but I'm leaning towards that new cabin resort everyone's been talking about. This next Superbowl is on my (21st) birthday. Random fact of the day. It looks cozy.
+B: Oh, I've heard great things about that place! Just make sure to book early; it fills up fast.",This next Superbowl is on my (21st) birthday. Random fact of the day.,neutral,2,"Yes, I agree. A's statement about the Superbowl coinciding with their birthday is a neutral fact and doesn't convey any strong emotion or opinion. It seems to be an offhand comment rather than an expression of a particular sentiment.",1,True,514
+109,"Turn 1
+A: I can't believe iKON's debut might be delayed again. im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US I've been counting down the days, and now this happens.
+B: I know, it's really disappointing. But maybe it's for the best. They might need more time to perfect everything.
+
+Turn 2
+A: I guess you're right. I just feel so invested in this, you know? I've been following every update.
+B: Totally get it. But think about how amazing it'll be when they finally debut. All this waiting will make it even more special.",im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US,negative,1,"Yes, A was expressing frustration and disappointment about the potential delay of iKON's debut. The use of phrases like ""im going to b so pissed"" and ""can YG STOP PULLING A FRANK OCEAN ON US"" indicates a negative sentiment.",1,True,573
+112,"Turn 1
+A: ""Can you believe this? They're making a big deal out of some celebrity's new haircut. Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!""
+B: ""Seriously? It's like they have nothing better to report on.""
+
+Turn 2
+A: ""I know, right? There are so many more important things happening in the world.""
+B: ""Exactly. It's just ridiculous how much attention this stuff gets.""",Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!,negative,1,"Yes, A was being negative. A expresses frustration and disbelief about the trivial news being reported, specifically mentioning their annoyance with the focus on a celebrity's new haircut and Justin Bieber's new find.",1,True,458
+8,"Turn 1
+A: I finally watched the movie adaptation of that book we read in high school. Remember ""The Lost Journey""?
+B: Oh, really? I've been meaning to watch it. How was it?
+
+Turn 2
+A: Honestly, I was pretty disappointed. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me"" They changed so much from the book, especially the ending. It just didn't have the same impact.
+B: That's a shame. I guess it's always tough to capture the essence of a book in a movie. They often have to cut or alter things to fit the runtime.","""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""",negative,2,"Yes, I agree. A expressed disappointment with the movie adaptation of ""The Lost Journey"" by saying they were ""pretty disappointed"" and that the changes, especially the ending, didn't have the same impact as the book. This indicates a negative sentiment.",1,True,583
+105,"Turn 1
+A: I can't believe Paul McCartney is finally coming to Detroit! I've been waiting for this for years.
+B: That's amazing! But you seem a bit down about it. What's up?
+
+Turn 2
+A: The ticket prices are just way too high. What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars I can't afford to go, and it's really bumming me out.
+B: I totally get it. It's so frustrating when money gets in the way of something you love. Maybe we can find a way to make it work together?",What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the high ticket prices, which is evident from the use of strong language and the overall tone of the message.",1,True,542
+20,"Turn 1
+A: ""Hey, guess what? I've got a big match coming up this weekend in Petrolia! Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out! You should totally come and watch.""
+B: ""That sounds awesome! You know I wouldn't miss it for the world. What time does it start?""
+
+Turn 2
+A: ""It's at 7 PM on Saturday. I'm really pumped for this one; it's going to be a tough match.""
+B: ""I'll be there cheering you on! You've got this, A. I can't wait to see you in action!""",Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out!,positive,1,"Yes, A was being positive. They expressed excitement and anticipation for the upcoming match, which indicates a positive attitude.",1,True,497
+81,"Turn 1
+A: Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?
+B: Seriously, it's ridiculous. My grocery bill has doubled, and now this? What's next, a tax on breathing?
+
+Turn 2
+A: At this rate, we'll be living in cardboard boxes. Maybe we should start a commune or something.
+B: Honestly, that doesn't sound half bad. At least we'd have each other's company while we figure out how to survive this madness.",like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?,negative,1,"Yes, A was being negative. The statement ""Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent?"" expresses frustration and disbelief about the increasing rent, which is a negative sentiment.",1,True,527
+26,"Turn 1
+A: You won't believe the new smartphones I saw at the expo! The latest models have these incredible foldable screens that are so seamless, you can barely see the crease.
+B: Really? That sounds amazing! I've been curious about foldable screens but wasn't sure if they were practical yet. Did you get to try one out?
+
+Turn 2
+A: Yeah, I did! The responsiveness was impressive, and the transition between folded and unfolded modes was super smooth. Plus, the battery life has significantly improved. I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.
+B: That sounds like a game-changer. I might have to consider upgrading sooner than I thought. Did you see any other cool features?",I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.,positive,2,"Yes, A was being positive. A expressed excitement about the new foldable screens and mentioned that the responsiveness and battery life were impressive. Additionally, A showed interest in the new Galaxy Note 5, indicating a positive outlook towards the new technology.",1,True,725
+119,"Turn 1
+A: I can't believe Justin would do this to me. He's been spreading lies about me, and I'm done with it. I think the only way to make him stop is to confront him, maybe even fight him.
+B: I get that you're angry, but fighting isn't going to solve anything. It could just make things worse for you. Let's think of another way to handle this.
+
+Turn 2
+A: But what else can I do? He needs to know he can't get away with this. I'm going to fight Justin tomorrow during lunch idc idc dcIf I don't stand up to him, he'll just keep doing it.
+B: I understand, but there are other ways to stand up for yourself. We can talk to a teacher or a counselor. They can help mediate and put an end to the rumors without anyone getting hurt.",I'm going to fight Justin tomorrow during lunch idc idc dc,negative,2,"Yes, I agree that A was being negative. A's statement about fighting Justin indicates a confrontational and aggressive approach to the situation, which is generally considered a negative response.",1,True,728
+33,"Turn 1
+A: I just got my new smartphone set up! The screen is so vibrant, and the setup process was surprisingly smooth.
+B: That's awesome! What model did you get? I'm curious about the new features it has.
+
+Turn 2
+A: I went with the latest Galaxy model. Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)The camera is supposed to be incredible, and I can't wait to test out the night mode.
+B: Nice choice! I've heard great things about its battery life too. Let me know how it holds up after a full day of use.","Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)",positive,2,"Yes, A was being positive. A expressed excitement about the new smartphone's vibrant screen and smooth setup process, and showed enthusiasm about testing the camera and other features.",1,True,552
+68,"Turn 1
+A: Did you see the latest update from the Supreme Court? They've set the execution date for next month.What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.
+B: Yes, I saw that. It's going to be interesting to see how the clemency plea plays out. Do you think the President will intervene?
+
+Turn 2
+A: It's hard to say. The political climate is pretty tense right now, and this case has garnered a lot of public attention. The legal arguments for clemency are compelling, though.
+B: True, and the international pressure might also influence the decision. It's a complex situation with significant implications for future cases.",What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.,neutral,1,"Yes, I agree. A was being neutral in their statement. They were simply providing information about the Supreme Court's decision and asking a question about the clemency plea without expressing any personal opinion or bias.",1,True,681
+114,"Turn 1
+A: I started watching this great series on Amazon Prime, but after a few seasons, they wanted me to pay extra to keep watching. Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF. It's so frustrating!
+B: Ugh, I know what you mean. That happened to me with a show on Hulu. Just when I was getting into it, they put the new season behind a paywall.
+
+Turn 2
+A: It's like they lure you in with a few free episodes and then hit you with extra charges. I wish they were more upfront about it.
+B: Exactly! It feels like a bait-and-switch. I've started checking reviews and forums before committing to a new show now.","Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF.",negative,1,"Yes, A was expressing frustration and negativity towards Amazon Prime for their practice of charging extra after a few seasons of a show. The use of strong language and the phrase ""FUCK OFF"" clearly indicates a negative sentiment.",1,True,696
+11,"Turn 1
+A: I finally watched Magic Mike XXL last weekend, and I was surprised by how much I enjoyed it! Im mind blown after watching Magic Mike XXL for the 1st time It was so entertaining.
+B: Right? I saw it a while back and didn't expect to like it as much as I did. The dance scenes were incredible!
+
+Turn 2
+A: Absolutely! That scene where they perform to ""Pony"" was just amazing. I couldn't stop laughing and cheering.
+B: Oh, I know! And Joe Manganiello's convenience store dance? Hilarious and so well done. We should definitely watch it together sometime!",Im mind blown after watching Magic Mike XXL for the 1st time,positive,1,"Yes, A was being positive. They expressed surprise and enjoyment, describing the movie as ""entertaining"" and mentioning that they were ""mind blown"" in a positive context.",1,True,559
 27,"Turn 1
-A: Wow, B, these findings are incredible! I can see how much effort you put into this report. I'm currently swamped with the final touches on our project, but I can't wait to dive into this later. An excellent news, indeed! I don't have time to have a look at it right now (busy with the fr FA), but do they have something on Gndevank? By the way, did you come across anything related to Gndevank in your research?
-
-B: Thanks, A! I'm glad you find it exciting. I understand you're busy, no rush. Actually, yes, I did find some intriguing references to Gndevank. There's a section in the report that discusses its historical significance and some newly uncovered artifacts. I think you'll find it quite fascinating.
+A: Man, I can't wait for McGregor's fight next week. Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! He's gonna destroy his opponent. You can just see the fear in the other guy's eyes.
+B: Yeah, McGregor's definitely got that intimidation factor. But you never know, his opponent might surprise us. It's MMA, anything can happen.
 
 Turn 2
-A: That's fantastic to hear! Gndevank has always been a point of interest for me. I'll make sure to prioritize that section when I get a chance. Thanks for pointing it out, B. Your work always brings new insights to our field.
+A: True, but McGregor's striking is on another level. I mean, did you see his last fight? The precision and power were insane.
+B: Absolutely, his striking is top-notch. But I think his ground game could use some work. If his opponent can take him down, it might be a different story.","Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!",positive,1,"Yes, A was being positive about Conor McGregor. A expressed excitement and confidence in McGregor's abilities, and even mentioned celebrating their half Irishness in a cheerful manner.",1,True,719
+40,"Turn 1
+A: The commentators tonight are really on point. They add so much to the game.
+B: Yeah, they're good. But I still miss the voices we grew up with. Those guys were legends and their commentary is tied to so many of my Monday night memories.
 
-B: I'm happy to help, A. I look forward to hearing your thoughts on it once you've had the time to review. Good luck with your project, and let me know if you need any assistance.","An excellent news, indeed! I don't have time to have a look at it right now (busy with the fr FA), but do they have something on Gndevank?",polite,1,"Yes, A was being polite. Despite being busy, A expressed excitement and appreciation for B's work, and showed interest in a specific part of the report, which indicates politeness and respect for B's efforts.",1,True,1137
+Turn 2
+A: Absolutely, there was something special about their style. Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football It's like their voices were the soundtrack to our football nights.
+B: Exactly. It's amazing how a voice can bring back so many memories. Those were the days, huh?",Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football,positive,2,"Yes, A was being positive. A expressed appreciation for the special style of Frank Gifford and Al Michaels and mentioned how their voices were the soundtrack to their football nights, which indicates fondness and positive sentiment.",1,True,572

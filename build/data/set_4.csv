@@ -1,160 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-74,"Turn 1
-A: Look, B, it's really simple. Just think of it as a probability problem, not about the doors or their numbers.Corrections, make that four terms: I pick a car and swap, I pick a goat and swap, I pick a car and do not swap, I pick a goat and do not swap. Who cares about doors or door numbers?
-B: I get that, A, but your tone is making it hard to focus. Can we take a step back?
+8,"Turn 1
+A: Hey, do you have any plans after work? I heard that Jake is in town.
+B: Oh, really? I didn't know that. I was thinking of grabbing a drink somewhere. Do you know where he might be hanging out?
 
 Turn 2
-A: I'm sorry, B. I didn't mean to come off that way. Let's try again from the basics, okay?
-B: Thanks, A. I appreciate it. Let's start over and take it slow.","Corrections, make that four terms: I pick a car and swap, I pick a goat and swap, I pick a car and do not swap, I pick a goat and do not swap. Who cares about doors or door numbers?",impolite,1,"Yes, I agree that A was being impolite. A's tone comes off as dismissive and condescending, especially with the phrase ""Who cares about doors or door numbers?"" This can make B feel belittled or not taken seriously.",1,True,551
-69,"Turn 1
-A: I noticed you had some questions about my recent edits. I followed the exact name of the chart as per our guidelines. If you need more details, you might want to check with Lil-Unique; they can provide further clarification.
-B: I understand, but I was hoping you could explain your thought process. It would help me understand the changes better and ensure we're on the same page.
-
-Turn 2
-A: Look, I just did what the chart specified. Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?I don't see why this is such a big deal. Lil-Unique can give you the full rundown if you still have doubts.
-B: Alright, I'll reach out to Lil-Unique. I just wanted to make sure we're aligned, that's all. Thanks for pointing me in the right direction.","Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?",impolite,2,"Yes, I agree that A was being impolite. The tone of A's response in Turn 2 comes across as dismissive and defensive. Instead of providing a clear and helpful explanation, A repeatedly directs B to Lil-Unique and expresses frustration, which can be perceived as impolite.",1,True,902
-37,"Turn 1
-A: I can't believe you just said that. Do you really think my work is that bad?
-B: I'm just being honest, A. We need to improve if we want to meet the deadline. 
-
-Turn 2
-A: There's a difference between being honest and being unnecessarily harsh. What the hell? Bitter much? What's your problem?
-B: My problem is that we're running out of time, and I need you to step up. I'm not trying to be mean, but we have to get this right.",What the hell? Bitter much?,impolite,2,"Yes, A's response ""What the hell? Bitter much?"" is impolite. It shows frustration and a lack of professionalism, especially in a work-related context. A could have expressed their feelings in a more constructive manner.",1,True,435
-22,"Turn 1
-A: Hey B, I was thinking we could meet up this weekend to brainstorm ideas for our environmental project. Yes, but not this week as I have university exams. Perhaps next week (or you want this to be a lead-up story for Earth Day)? What do you think?
-B: That sounds great, A! But I'm currently swamped with exams. How about we plan something around Earth Day? It would be a perfect time to align our project with the event.
-
-Turn 2
-A: Earth Day is a fantastic idea! It gives us some time to prepare and make a bigger impact. Let's touch base after your exams to finalize the details.
-B: Perfect, thanks for understanding. I'll be more available then, and we can make our project really stand out. Looking forward to it!","Yes, but not this week as I have university exams. Perhaps next week (or you want this to be a lead-up story for Earth Day)?",polite,1,"Yes, A was being polite. A acknowledged B's busy schedule with exams and suggested an alternative plan that would work better for both of them, showing consideration and flexibility.",1,True,725
-58,"Turn 1
-A: I've added a lot of new material to the article, but I don't see why we need to include references for every single point. It's slowing us down.
-B: I understand your frustration, but references are crucial for maintaining the credibility and quality of our work. It's part of the publication standards we agreed to follow.
-
-Turn 2
-A: If you think references are so important, why don't you add them yourself? If you don't agree with this approach, you can ether add the references yourself, or delete the added material and I will go elsewhere and write something else, and you can take over doing the anti-tank warfare article 'properly'. Ok? Or maybe you should just take over the whole project.
-B: I'm not trying to undermine your contributions. How about we split the task? I can help with adding references to the new sections you've written, and we can review the final draft together.","If you don't agree with this approach, you can ether add the references yourself, or delete the added material and I will go elsewhere and write something else, and you can take over doing the anti-tank warfare article 'properly'. Ok?",impolite,2,"Yes, A's tone and choice of words suggest frustration and a lack of cooperation. Phrases like ""you can either add the references yourself, or delete the added material"" and ""maybe you should just take over the whole project"" indicate a confrontational and dismissive attitude, which can be considered impolite.",1,True,901
-40,"Turn 1
-A: Hi B, I hope you're doing well. I just submitted a draft of my latest research article for peer review. I have just put the article to peer review. Would you care to take a look? Given your expertise in this area, would you be willing to take a look and provide some feedback?
-B: Hi A, I'm doing well, thanks. I'd be happy to review your article. Just send it over, and I'll make sure to go through it as soon as I can.
-
-Turn 2
-A: Great, thank you so much! I'll email you the draft right away. I really appreciate your help with this.
-B: No problem at all, A. Looking forward to reading it. I'll get back to you with my comments soon.",I have just put the article to peer review. Would you care to take a look?,polite,1,"Yes, A was being polite. A expressed appreciation for B's expertise and kindly requested B's feedback on the research article, which is a courteous and respectful way to ask for assistance.",1,True,644
-5,"Turn 1
-A: Hi, I'm looking to buy a new lens and was hoping you could recommend something versatile for different types of photography, like macro, landscape, and portraits.
-B: Sure! For versatility, I'd suggest looking at a 24-70mm f/2.8 lens. It offers a good range for wide-angle shots, which is great for landscapes, and the zoom can handle portraits well. For macro, you might need a dedicated macro lens, but the 24-70mm can still get you pretty close.
-
-Turn 2
-A: That sounds like a good option. I want to purchase a macro lens and was hoping for some guidance from you. Apart from being good in macro, can it be used to take good pictures of landscape and portraits? Do you think it would be a good investment for someone still learning, or should I start with something more basic?
-B: The 24-70mm f/2.8 is a bit of an investment, but it's a fantastic all-around lens that can grow with you as you improve. If you're looking for something more budget-friendly to start, a 50mm f/1.8 is also very versatile and great for portraits and general use, though it won't cover macro or wide-angle as well.","I want to purchase a macro lens and was hoping for some guidance from you. Apart from being good in macro, can it be used to take good pictures of landscape and portraits?",polite,2,"Yes, A was being polite. They expressed their interest in purchasing a macro lens and asked for guidance in a respectful manner, showing consideration for B's expertise and advice.",1,True,1103
-55,"Turn 1
-A: Adobe Illustrator is fantastic for creating vector graphics, which are essential for logos, icons, and any design that needs to be scaled without losing quality.
-B: Thank you for explaining that! How does Illustrator compare to Adobe InDesign? I'm curious about when to use each tool.
-
-Turn 2
-A: Great question! Thank you for your answer about Illustrator. How does Adobe Illustrator compare with InDesign? While Illustrator is best for creating individual graphic elements, InDesign is designed for layout and multi-page documents, like magazines, brochures, and books. It's excellent for handling large amounts of text and integrating graphics.
-B: That makes sense. So, I should use InDesign for projects that involve a lot of text and multiple pages, and Illustrator for detailed graphic work?
-
-A: Exactly. Think of Illustrator as your go-to for creating the artwork and InDesign as the tool to bring all those elements together in a cohesive layout.
-B: Got it, thanks! That really helps clarify when to use each program.",Thank you for your answer about Illustrator. How does Adobe Illustrator compare with InDesign?,polite,2,"Yes, A was being polite. A acknowledged B's previous response and then smoothly transitioned into providing more information about the comparison between Illustrator and InDesign.",1,True,1034
-35,"Turn 1
-A: Hi B, I really appreciate the feedback you gave on my article. It was incredibly helpful. Thank you for the response on my user page. Would you be willing to add a few words to the FAC candidacy? Would you be willing to formally support the FAC nomination by adding a few supportive words to the candidacy discussion page?
-B: Hi A, I'm glad my feedback was useful! I'd be happy to take a closer look at the FAC page and add my support if everything looks good.
-
-Turn 2
-A: Thank you so much, B! Your endorsement would mean a lot, especially given your experience. Let me know if you need any more information or if there are any other improvements I should make.
-B: No problem, A. I'll review the FAC page later today and add my comments. If I spot anything else that could be improved, I'll let you know. Good luck with the nomination!",Thank you for the response on my user page. Would you be willing to add a few words to the FAC candidacy?,polite,1,"Yes, A was being polite. A expressed gratitude for B's feedback and respectfully asked for further assistance with the FAC candidacy.",1,True,845
-115,"Turn 1
-A: Hi B, I hope you're doing well. I noticed that the article on our platform about the new project management tool is quite sparse. In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors. What shall I do next? Given your expertise, I thought it might be beneficial for us to collaborate on enhancing it. What do you think?
-
-B: Hi A, I'm doing well, thanks for asking. I agree, the article could definitely use more detail. I'd be happy to work with you on this. How about we start by outlining the key sections we need to expand?
-
-Turn 2
-A: That sounds like a great plan. I was thinking we could start with an overview of the tool's features, followed by a section on best practices for implementation. Does that align with your thoughts?
-
-B: Absolutely, that aligns perfectly. Let's also include a section on common pitfalls and troubleshooting tips. I'll draft the outline and share it with you by the end of the day. How does that sound?
-
-A: Perfect, looking forward to it. Thanks, B!","In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors. What shall I do next?",polite,1,"Yes, I agree. A was being polite by acknowledging the sparse information and expressing a desire to work constructively with B and others to improve the article. A's approach is collaborative and respectful, which indicates politeness.",1,True,1208
-51,"Turn 1
-A: Hey B, I just saw your write-up on the South African cricket teams. Great job! I was planning to tackle that myself, but you beat me to it. Thanks for the articles on South African cricket teams - I was planning to do them myself but I really appreciate that you've done them. By the way, where did you find the information on what regions the teams represent? What sources did you use? I'd love to learn more and maybe help out with any additional research.
-
-B: Thanks, A! I used a mix of historical archives, recent sports journals, and some interviews with former players. I can share my notes and sources with you if you're interested. There's always more to uncover, so your help would be fantastic.
-
-Turn 2
-A: That would be awesome, B. I appreciate it. Maybe we can collaborate on expanding the section about the team's evolution over the decades. I have some contacts who might provide unique insights.
-
-B: Sounds like a plan, A. Let's set up a meeting to go over our combined resources and outline the next steps. Your contacts could add a valuable perspective to our work.","Thanks for the articles on South African cricket teams - I was planning to do them myself but I really appreciate that you've done them. By the way, where did you find the information on what regions the teams represent?",polite,1,"Yes, A was being polite. A acknowledged B's work positively and expressed appreciation for the effort B put into the articles. A also showed interest in B's sources and offered to collaborate, which indicates a respectful and cooperative attitude.",1,True,1091
-45,"Turn 1
-A: ""B, I just went through your draft, and honestly, it's really hard to follow. Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings? It feels all over the place.""
-B: ""Oh, I see. I was trying to capture all my thoughts quickly. Do you have any specific suggestions on how I can improve it?""
-
-Turn 2
-A: ""Maybe start by organizing your main points into clear sections. It would make it much easier to understand.""
-B: ""Got it. I'll work on restructuring it. Thanks for the feedback, A.""","Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings?",impolite,1,"Yes, A's comment ""Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings?"" can be considered impolite. The use of ""Yeeesh"" and the rhetorical question imply a negative judgment in a somewhat dismissive manner, which could be perceived as lacking tact.",1,True,534
-42,"Turn 1
-A: Hi B, I followed your instructions to resolve the warnings on the webpage, but it seems they're still showing up. Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening? Could you take another look and advise on what might be going wrong?
-
-B: Sure, A. Let's see what's happening. Can you send me the specific warnings you're seeing and any recent changes you made to the code?
-
-Turn 2
-A: Absolutely, I'll send over the error log and a summary of the changes I implemented based on your guidance. Thanks for your help!
-
-B: Got it, A. I'll review the details and get back to you with some additional steps or adjustments we can try. Hang tight!",Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening?,polite,1,"Yes, A was being polite. Despite the frustration of the warnings still appearing, A thanked B for the information and asked for further assistance in a courteous manner.",1,True,703
-4,"Turn 1
-A: Hey B, I just finished reviewing your draft. Great job on the thorough analysis! I think we should consider adding a section on the practical implications of our findings. It's important to make sure our work is accessible to a broader audience without losing accuracy or getting too technical. Thanks again. Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?
-
-B: Thanks, A! I appreciate the feedback. I agree, highlighting the practical implications could really enhance the article. Do you have any specific suggestions on how we can balance accessibility with precision?
-
-Turn 2
-A: Absolutely. We could start by summarizing the key points in simpler terms and then provide a more detailed explanation in a separate section. This way, readers can choose the level of detail they're comfortable with. What do you think?
-
-B: That sounds like a solid plan. I'll draft a summary and a detailed section, and we can review them together to ensure they complement each other well. Thanks for the guidance, A!",Thanks again. Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?,polite,1,"Yes, I agree. A was being polite by acknowledging B's hard work and providing constructive feedback in a respectful manner. A's approach was to engage B in the process of improving the article collaboratively.",1,True,1125
-133,"Turn 1
-A: Hey B, I hope you're doing well. I just ran into an issue with Opera Mini on my phone—it's blocked, and I can't access our project documents. Could you help me figure out what's going on?
-
-B: Hi A, sure thing! It sounds like it might be a network restriction or a browser-specific issue. Have you tried accessing the documents using a different browser or device?
-
-Turn 2
-A: I haven't tried another browser yet. I usually use Opera Mini because it's faster on my phone. Someone has Blocked the whole Opera mini Browser, as you know even i use my Mobile-Opera for editing. can you please help? Do you think switching browsers could solve the problem?
-
-B: It's worth a shot. Sometimes network policies block certain browsers. Try using Chrome or Firefox on your phone and see if you can access the documents. If that doesn't work, we can look into other solutions.","Someone has Blocked the whole Opera mini Browser, as you know even i use my Mobile-Opera for editing. can you please help?",polite,2,"Yes, A was being polite. A acknowledged the issue and asked for help in a respectful manner, without showing frustration or blame.",1,True,872
-6,"Turn 1
-A: I don't understand why you keep saying I'm insensitive, B. I've always tried to be considerate in our interactions.
-B: It's not just about what you say, A. It's how you say it. Sometimes your tone comes off as dismissive, even if you don't mean it that way.
-
-Turn 2
-A: I really don't see it that way, but if that's how it comes across, I apologize. No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested? Can you give me an example so I can understand better?
-B: Sure, like in the last meeting, when I brought up the client feedback, you immediately shot it down without acknowledging my point. It felt like you weren't valuing my input.","No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested?",impolite,2,"Yes, I agree that A was being impolite. The phrase ""No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested?"" comes off as defensive and dismissive. It implies that B is overreacting or misinterpreting A's actions, which can be seen as invalidating B's feelings and concerns.",1,True,722
+A: Not sure, but I heard he might be at The Blue Note. Where is going to be at tonight in Detroit? It's his favorite spot.
+B: That makes sense. Want to check it out together? We might run into him there.",Where is going to be at tonight in Detroit?,neutral,2,"The statement ""Where is going to be at tonight in Detroit?"" appears to be a typo or an incomplete sentence. However, based on the context, A is trying to figure out Jake's location, which is a neutral inquiry. There is no strong positive or negative sentiment expressed.",1,True,414
 39,"Turn 1
-A: ""Oh, another fitness plan? How long do you think this one will last?Eh. Awesome as in you are going to be more active?""
-B: ""Actually, I'm really committed this time. I've set some realistic goals and even joined a group for support.""
+A: Ugh, I can't believe how much work we have this week. Not going to be able to watch TVD live!!!!! I have two fucking tests tomorrow and a lit homework. FML I haven't even had time to catch up on our favorite show.
+B: Yeah, it's been pretty brutal. I feel you. Maybe we can binge-watch it this weekend once things calm down a bit?
 
 Turn 2
-A: ""Sure, we'll see how long that enthusiasm sticks around.""
-B: ""I appreciate your concern, but I'm determined to make this work. You'll see.""",Eh. Awesome as in you are going to be more active?,impolite,1,"Yes, A's comment ""Oh, another fitness plan? How long do you think this one will last?"" comes off as dismissive and skeptical, which can be considered impolite. It suggests doubt about B's commitment and success.",1,True,394
-31,"Turn 1
-A: ""I really think these accounts are sockpuppets. The patterns are too suspicious to ignore.I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?""
-B: ""I understand your concerns, but I haven't seen enough evidence to be convinced. They seem genuine to me.""
+A: That sounds like a plan. I just need to get through this mountain of assignments first. Thanks for understanding.
+B: No worries, we're in this together. Let me know if you need any help or just want to take a break and chat.",Not going to be able to watch TVD live!!!!! I have two fucking tests tomorrow and a lit homework. FML,negative,1,"Yes, A was expressing frustration and negativity about the amount of work and the inability to watch their favorite show live. The use of strong language and the phrase ""FML"" (which stands for ""fuck my life"") indicates a negative sentiment.",1,True,575
+60,"Turn 1
+A: You know, after watching that documentary on Israel, I have to say, their culture is just fascinating. The history, the resilience—it's really something. I love Israel. Love the Jews. So I may make a terrible Nazi. :(
+B: Yeah, I remember you mentioning your trip there. It's great to see you so enthusiastic. Just don't go converting on me now!
 
 Turn 2
-A: ""Well, let's just wait for the investigation results then. I'm sure they'll prove my point.""
-B: ""Alright, let's see what the investigation reveals. In the meantime, let's focus on what we can verify.""","I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?",impolite,1,"A's statement ""I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?"" can be seen as dismissive and condescending, especially with the use of ""m'kay,"" which can come across as patronizing. This tone can be perceived as impolite.",1,True,510
-64,"Turn 1
-A: Hey B, I just wanted to say how much I appreciate all the work you've put into the data analysis. Your insights have been invaluable. I'm happy to help with the documentation, though I know I won't be able to match your level of detail.
-
-B: Thanks, A. I really appreciate that. Your help with the documentation would be great. By the way, I noticed you were having some trouble with the new algorithm. Do you want to go over it together?
+A: Ha! Don't worry, I'm not planning on changing my name to Moshe anytime soon. But seriously, there's so much to admire.
+B: Absolutely. It's always good to broaden your horizons. Plus, it gives you more material for your self-deprecating jokes!",I love Israel. Love the Jews. So I may make a terrible Nazi. :(,positive,1,"Yes, A was being positive. A expressed admiration for Israel's culture, history, and resilience, which are all positive sentiments. The self-deprecating joke about being a ""terrible Nazi"" was meant to highlight the contrast between their positive feelings and the negative connotations associated with Nazis.",1,True,608
+118,"Turn 1
+A: You know, I'm really uncomfortable with how the sports community is handling the allegations against that athlete. It feels like they're more concerned about their image than addressing the issue seriously.
+B: I get what you mean. It's frustrating to see the media and organizations tiptoe around it. They should be setting a higher standard for accountability.
 
 Turn 2
-A: Absolutely, that would be fantastic. I was stuck on optimizing the performance metrics. Up to you - I see myself picking off one or two every now and then but nowhere near the level of work NortyNort is doing now. By the way, I have an open CCI request that I want a second opinion on - could you please help?Your expertise could really help me get past this hurdle.
+A: Exactly. It's like they're afraid to take a stand because of the athlete's status. I've been thinking about it... Does anyone else find it disturbing how Kane may face rape charges and GM's are calling on his availability? But shouldn't ethics and responsibility come first, regardless of who it is?
+B: Absolutely. If they don't address these issues head-on, it sends the wrong message. Athletes are role models, and the organizations have a duty to uphold integrity in sports.",I've been thinking about it... Does anyone else find it disturbing how Kane may face rape charges and GM's are calling on his availability?,negative,2,"Yes, A was being negative. A expressed discomfort and concern about how the sports community is handling serious allegations against an athlete, indicating dissatisfaction with the prioritization of the athlete's availability over ethical considerations.",1,True,860
+53,"Turn 1
+A: I can't believe we're finally going to see Messi play tomorrow! im just excited to see messi tomorrow I've been counting down the days.
+B: Same here! It's like a dream come true. I just hope he scores a goal or two. That would be amazing.
 
-B: No problem, let's set up a time to dive into it. I'm sure we can figure it out together. How about tomorrow afternoon?","Up to you - I see myself picking off one or two every now and then but nowhere near the level of work NortyNort is doing now. By the way, I have an open CCI request that I want a second opinion on - could you please help?",polite,2,"Yes, A was being polite. A acknowledges B's superior work and expresses willingness to help with documentation, even though A feels they can't match B's level of detail. Additionally, A politely asks for B's help with the CCI request, showing respect for B's expertise.",1,True,948
+Turn 2
+A: Absolutely! And I can't wait to see how he pairs up with the rest of the team. It's going to be electric.
+B: For sure. Plus, the atmosphere in the stadium is going to be insane. We should get there early to soak it all in.",im just excited to see messi tomorrow,positive,1,"Yes, A was being positive. A expressed excitement and anticipation about seeing Messi play, which are positive emotions.",1,True,482
+7,"Turn 1
+A: Ugh, I missed the show again last night because of those high school football games. I haven't been able to watch TVD live these days due to Football. Every Thurs there is high school FB going on at 8pm. Like WTF! It's so frustrating!
+B: Oh no, that sucks! I know how much you look forward to watching it live.
+
+Turn 2
+A: Yeah, it's just not the same catching up later. I wish they would reschedule the games or something.
+B: Totally get it. Maybe you could record the show and watch it as soon as the game ends? At least you wouldn't miss anything.",I haven't been able to watch TVD live these days due to Football. Every Thurs there is high school FB going on at 8pm. Like WTF!,negative,1,"Yes, A was expressing frustration and negativity about not being able to watch their favorite show live due to the high school football games. The use of phrases like ""Ugh,"" ""Like WTF!"" and ""It's so frustrating!"" clearly indicates a negative sentiment.",1,True,559
+53,"Turn 1
+A: I've been craving pancakes all week. I want IHOP tomorrow morning How about we go out for breakfast tomorrow?
+B: That sounds perfect! I love pancakes. Where should we go?
+
+Turn 2
+A: There's this new place downtown that I've been wanting to try. They have great reviews.
+B: Awesome, let's meet there at 9 AM. Can't wait!",I want IHOP tomorrow morning,positive,1,"Yes, A was being positive. A expressed excitement about craving pancakes and suggested going out for breakfast, which indicates a positive and enthusiastic attitude.",1,True,329
+32,"Turn 1
+A: Hey, are you excited for the weekend? I can't wait to see everyone again, especially Ethan. Remember that crazy night we all had in Ventura?
+B: Oh, absolutely! That was such a blast. I've been looking forward to this reunion for weeks. It'll be great to catch up with Ethan and the rest of the gang.
+
+Turn 2
+A: Totally! I hope we can recreate some of that Ventura magic. i just remember ethan making me laugh so much in ventura so i think that's why i'm excited to be reunited tomorrow hahaha Do you know if Ethan is bringing his famous homemade salsa again?
+B: I heard he is! That salsa was a hit last time. This weekend is going to be epic.",i just remember ethan making me laugh so much in ventura so i think that's why i'm excited to be reunited tomorrow hahaha,positive,2,"Yes, A was being positive. A expressed excitement about the upcoming reunion and fondly recalled a fun memory involving Ethan, which indicates a positive sentiment.",1,True,652
+54,"Turn 1
+A: I can't wait for Nash and Skylynn's new video on Thursday. Their last one was hilarious! ""Nash is bae, Nash is life but Skash (Skylynn and Nash) videos are just the whole package. Thursday hurry up pls 2""
+B: I know, right? Their pranks always crack me up. Thursdays have become my favorite day of the week because of them.
+
+Turn 2
+A: Same here! I love how they always come up with something unexpected. Remember the one where they tried to bake a cake without any instructions?
+B: Oh, that was epic! I was laughing so hard. I wonder what they'll do next. Their videos always make my week so much better.","""Nash is bae, Nash is life but Skash (Skylynn and Nash) videos are just the whole package. Thursday hurry up pls 2""",positive,1,"Yes, A was being positive. They expressed excitement and anticipation for Nash and Skylynn's new video, describing their content as hilarious and eagerly looking forward to Thursday.",1,True,613
+58,"Turn 1
+A: I recently watched a beauty pageant, and I was really impressed by the achievements of some of the past winners.
+B: Oh, that's awesome! Did you know Olivia Jordan is one of the few who has won both Miss World - United States and Miss USA? It's such a rare and impressive feat in the pageant world.
+
+Turn 2
+A: Wow, I didn't know that! Olivia Jordan - only the 2nd woman in history to win BOTH titles - Miss World -United States and Miss USA. She... It must take a lot of dedication and talent to achieve something like that.
+B: Absolutely. Olivia's journey is really inspiring. She not only excelled in pageantry but also used her platform to advocate for important causes. It's amazing to see how much impact one person can have.",Olivia Jordan - only the 2nd woman in history to win BOTH titles - Miss World -United States and Miss USA. She...,positive,2,"Yes, A was being positive. A expressed amazement and admiration for Olivia Jordan's achievements, highlighting the rarity and impressiveness of winning both titles.",1,True,739
+5,"Turn 1
+A: Hey B, thanks for your kind words! Always great to hear from a fellow Liverpudlian. How's it going?""Thank you for the message. I'm very proud to be a Liverpudlian, may i get your follback?
+B: Wow, I can't believe you replied! It's going great, thanks. Liverpool pride all the way! Any chance of a follow-back?
+
+Turn 2
+A: Absolutely, mate! Just followed you back. Keep the Liverpool spirit alive!
+B: Thanks so much! This means a lot. You'll never walk alone!","""Thank you for the message. I'm very proud to be a Liverpudlian, may i get your follback?",positive,1,"Yes, A was being positive. A expressed gratitude for B's kind words and showed enthusiasm about their shared identity as Liverpudlians.",1,True,467
+68,"Turn 1
+A: It's really heartening to see some leaders stepping up to help refugees. It gives me hope in humanity.
+B: Absolutely. Angela Merkel's policies, for instance, have been so inspiring. She really showed what compassionate leadership looks like.
+
+Turn 2
+A: Yes, Merkel's approach was a beacon of hope during such turbulent times. I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her I wish more leaders would follow her example.
+B: Me too. If more leaders embraced that kind of empathy and action, imagine the positive change we could see globally.",I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her,positive,2,"Yes, A was being positive. A expressed gratitude and admiration for Angela Merkel's compassionate actions towards refugees, highlighting her as an example of humanity and wishing blessings upon her.",1,True,625
+45,"Turn 1
+A: I'm feeling a bit tired today, but thinking about the weekend is keeping me going.
+B: Oh, nice! What do you have planned?
+
+Turn 2
+A: It's going to be a busy one! One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend! I'm going to a concert on Friday, a football game on Saturday, and a draft party on Sunday.
+B: Wow, that sounds like a blast! Who's playing at the concert?",One more day of work tomorrow. Then Jason Aldean Concert!! Off Friday and Monday. Bills game Friday! Draft Sunday. Bring on this weekend!,positive,2,"Yes, A was being positive. They expressed excitement about their upcoming plans, including a concert, a football game, and a draft party, which indicates a positive and enthusiastic outlook.",1,True,465
+26,"Turn 1
+A: Hey, there's this event next weekend that I think you'd love. It's a cultural food festival, and all the proceeds go to local community projects.
+B: That sounds amazing! I love trying new foods, and it's great that it supports a good cause. Do you want to go together?
+
+Turn 2
+A: Absolutely! I was hoping you'd be interested. ""Great cooking class on Nov 2, led by refugee chefs! Organised by the hosted by and Parliament on King."" We can explore the different food stalls and maybe even volunteer a bit.
+B: Perfect! I'm in. It'll be fun to experience the festival and contribute to the community at the same time.","""Great cooking class on Nov 2, led by refugee chefs! Organised by the hosted by and Parliament on King.""",positive,2,"Yes, I agree. A was being positive by expressing excitement about the event and suggesting additional activities like exploring food stalls and volunteering, which shows enthusiasm and a positive attitude towards the event.",1,True,623
 70,"Turn 1
-A: I've been thinking about our Mars geology project, and I believe we could improve the way we manage the timelines of geological events. Hi. Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier? What if we centralized the timeline into a single template? It would streamline updates and ensure consistency across all our web pages.
-
-B: That sounds like a solid idea, A. Consistency is crucial for our project. How do you envision implementing this template, and what kind of updates would it require from the team?
+A: I'm so excited for this weekend! I'm turning 21, and I've got a bunch of fun stuff planned. We're going out Thursday and Friday nights, and then on Saturday, we're going to the Giants-Jets game at MetLife Stadium.
+B: That sounds amazing! Happy early birthday! Have you thought about where you want to go out? I know a few great spots that would be perfect for celebrating.
 
 Turn 2
-A: We could create a master template that includes all the key events and milestones. Each web page would then reference this template, so any changes we make would automatically reflect across all pages. The team would just need to update the master template instead of individual pages.
+A: Thanks! I was thinking of starting at that new rooftop bar downtown on Thursday, and then maybe hitting up a couple of clubs on Friday. Oney Thursday and Friday, MetLife for Giants-Jets Saturday. Shaping up to be one hell of a 21st birthday weekend with What do you think?
+B: That sounds perfect! The rooftop bar has a great vibe, and I know a DJ who's playing at one of the clubs on Friday. I can get us on the guest list if you want. Plus, the football game will be the perfect way to cap off the weekend!","Oney Thursday and Friday, MetLife for Giants-Jets Saturday. Shaping up to be one hell of a 21st birthday weekend with",positive,2,"Yes, A was being positive. They expressed excitement about their plans for the weekend, including going out to a rooftop bar and clubs, and attending a football game. The phrase ""Shaping up to be one hell of a 21st birthday weekend"" indicates a positive and enthusiastic outlook.",1,True,901
+56,"Turn 1
+A: Did you know it's National Hot Dog Day today? ""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza."" I'm thinking of trying some new food combinations.
+B: Oh, that's perfect! And it's also two-slice Thursday. How about we combine the two and make a chili cheese hot dog pizza?
 
-B: I like the approach. It would definitely save time and reduce errors. Let's discuss this with the rest of the team in our next meeting and see how we can integrate it into our workflow.","Hi. Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier?",polite,1,"Yes, I agree. A was being polite by asking for permission and considering the team's input before making a change. This shows respect for the team's collaborative process.",1,True,1105
+Turn 2
+A: That sounds amazing! We could use some spicy sausage and top it with cheddar and jalapeños.
+B: Absolutely! Let's grab some ingredients during lunch and make it a fun, themed meal. This is going to be epic!","""Today is National Hot Dog Day. I feel that since it is also two-slice Thursday, should've had a chili cheese hot dog pizza.""",positive,1,"Yes, I agree. A was being positive in suggesting a fun and creative food combination to celebrate National Hot Dog Day and two-slice Thursday.",1,True,574
+40,"Turn 1
+A: Remember how we used to look forward to Monday nights? I always enjoyed watching Monday Night Football when Frank Gifford and company called the games. The commentators back then had such a unique charm and excitement.
+B: Absolutely! There was something magical about their voices. They really knew how to make every game feel like a big event.
+
+Turn 2
+A: Yeah, and they had this incredible ability to tell stories that made you feel connected to the players and the game.
+B: Exactly! It's like they were part of the experience, not just narrating it. Those were the golden days of sports broadcasting for sure.",I always enjoyed watching Monday Night Football when Frank Gifford and company called the games.,positive,1,"Yes, A was being positive. A expressed enjoyment and fond memories of watching Monday Night Football, highlighting the unique charm and excitement of the commentators.",1,True,621
+41,"Turn 1
+A: Hey B! Guess what? I went to a Foo Fighters concert with Ginger last night, and it was AMAZING! Welcome to the 21st century, cuz! Ginger and I saw Foo Fighters last Sunday, here's a pic.
+B: No way! That sounds incredible! How was the crowd? Did they play your favorite song?
+
+Turn 2
+A: The crowd was wild, and yes, they played ""Everlong""! I got a great pic of the stage. Check this out!
+B: Wow, that looks epic! I wish I could've been there with you guys. We need to catch a concert together soon!","Welcome to the 21st century, cuz! Ginger and I saw Foo Fighters last Sunday, here's a pic.",positive,1,"Yes, I agree that A was being positive. A was excitedly sharing their experience of attending a Foo Fighters concert and even provided a picture to share the moment with B.",1,True,507
+64,"Turn 1
+A: I just bought the VIP tickets for the concert at Oracle Arena on December 5th! So excited! 🎉tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle
+B: No way! That sounds amazing! I was thinking about getting tickets too. How much were the VIP ones?
+
+Turn 2
+A: They were a bit pricey, but totally worth it for the best view and early entry. You should definitely get one!
+B: You've convinced me! I'm in. This is going to be epic! Can't wait to rock out with you! 🎸",tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle,positive,1,"Yes, A was being positive. They expressed excitement about buying VIP tickets for the concert and used enthusiastic language and emojis to convey their anticipation.",1,True,532
+78,"Turn 1
+A: I just saw a photo of Chris Evans, and wow, he looks amazing! he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight I'm thinking of starting his new show tonight.
+B: Oh, Chris Evans is great! His new show is fantastic. I binged it last weekend and couldn't stop watching.
+
+Turn 2
+A: Really? That sounds promising. What's your favorite part about the show?
+B: The storyline is gripping, and Chris's performance is top-notch. Plus, there are some really funny moments. You'll love it!",he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight,positive,1,"Yes, I agree. A's comment about Chris Evans being a ""very good looking guy"" and expressing excitement about watching his new show indicates a positive sentiment.",1,True,518

@@ -1,151 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-61,"Turn 1
-A: The bot has been really effective in handling the bulk of our routine tasks, but I've noticed it struggles with minor changes in input formats. I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?This has caused a few hiccups in our workflow.
-B: That's a good point. We need the bot to be more adaptable to variations. Do you have any specific examples or suggestions on how we can improve this?
+57,"Turn 1
+A: I'm really excited about tomorrow. I think I might finally tell them how I feel.I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga
+B: That's awesome! You should definitely go for it. What's your plan?
 
 Turn 2
-A: Sure, for instance, when the date format changes slightly, the bot fails to recognize it and throws an error. Maybe we could implement a more flexible parsing mechanism?
-B: That makes sense. Let's prioritize enhancing the bot's input validation and parsing logic. I'll schedule a session to brainstorm solutions with the team. Thanks for bringing this up.","I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?",polite,1,"Yes, A was being polite. A acknowledged the bot's effectiveness and usefulness before pointing out the issue and suggesting a possible improvement. This approach shows consideration and politeness.",1,True,875
-38,"Turn 1
-A: Hey B, I noticed you've been reverting my edits without engaging on the discussion page. Hey, if you want to assert that a cite does not say what it clearly does say, how about actually coming to the discussion page to discuss it, rather than treating edit summaries like a discussion space? Why the hell am I the one being accused of edit warring, when I'm the only one actually willing to talk on the discussion page? Can we please discuss this there to find a solution that works for both of us?
-B: I understand your point, A, but I think the edit summaries are sufficient for now. Your changes are problematic, and I believe it's important to address them directly.
+A: I was thinking of taking them to that new art exhibit and then maybe grabbing dinner afterward. It feels like the perfect setting to open up.
+B: That sounds perfect. Just be yourself and let the moment guide you. You've got this!",I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga,positive,1,"Yes, A was being positive. They expressed excitement about the upcoming day and the possibility of sharing their feelings, which indicates a hopeful and positive outlook.",1,True,476
+52,"Turn 1
+A: Did you hear about the new game, LawBreakers? It looks pretty cool.
+B: Yeah, but I'm bummed it's only coming out on PC. I really wanted to play it on my console.
 
 Turn 2
-A: I appreciate your feedback, but edit summaries don't allow for a detailed conversation. Let's move this to the discussion page so we can fully understand each other's perspectives and avoid further conflict.
-B: Alright, I see your point. I'll join you on the discussion page to talk this through. Let's find a way to resolve this constructively.","Hey, if you want to assert that a cite does not say what it clearly does say, how about actually coming to the discussion page to discuss it, rather than treating edit summaries like a discussion space? Why the hell am I the one being accused of edit warring, when I'm the only one actually willing to talk on the discussion page?",impolite,1,"Yes, I agree that A was being impolite. The use of phrases like ""how about actually coming to the discussion page"" and ""Why the hell am I the one being accused of edit warring"" conveys frustration and a confrontational tone, which can be perceived as impolite.",1,True,1036
-130,"Turn 1
-A: ""B, can you hurry up? You've been in there forever, and I really need to use the bathroom.""
-B: ""I'm sorry, A. I'm having a bit of a rough time in here. I'll be out as soon as I can.""
+A: Don't lose hope just yet. ""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 - Sometimes games get ported to consoles after their initial release. There's still a chance it might come to your platform.
+B: Really? That would be awesome! I'll keep my fingers crossed then. Thanks for the heads-up!","""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 -",positive,2,"Yes, A was being positive. A was trying to reassure B by suggesting that there is still a possibility that LawBreakers might be released on consoles in the future.",1,True,505
+21,"Turn 1
+A: Ugh, why do they always have to cut to commercials right when we're in the middle of something interesting? Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!
+B: Yeah, it can be annoying, but it's just a part of watching live TV. What were you saying about Dana White?
 
 Turn 2
-A: ""I get that, but it's been almost an hour. Are you unable to pee with a half filled bladder??? Can you at least try to speed things up?""
-B: ""I understand you're frustrated. I'll do my best to finish quickly. Just give me a few more minutes, please.""",Are you unable to pee with a half filled bladder???,impolite,2,"Yes, A's comment ""Are you unable to pee with a half filled bladder???"" comes across as impatient and dismissive of B's situation, which can be considered impolite.",1,True,453
-59,"Turn 1
-A: Hi B, I noticed you don't have an email linked to your Wikipedia account. I see that you don't have an account linked to the Wikipedia email. Would you be able to send me a message so that we can talk off Wikipedia? For some of our project updates and sensitive discussions, it might be easier to communicate privately. Would you be open to sharing your email or using a messaging app?
-
-B: Hi A, I understand the need for private communication. I don't mind sharing my email for this purpose. You can reach me at [B's email]. Is that okay?
-
-Turn 2
-A: Perfect, thanks for that. I'll send you an email shortly with the details we need to discuss. Looking forward to our continued collaboration!
-
-B: Sounds good, A. I'll keep an eye out for your email. Let's make this project a success!",I see that you don't have an account linked to the Wikipedia email. Would you be able to send me a message so that we can talk off Wikipedia?,polite,1,"Yes, A was being polite. A acknowledged B's current setup and respectfully asked if B would be open to sharing an email or using a messaging app for private communication.",1,True,794
-46,"Turn 1
-A: Hey B, do you have a minute? I tried setting up a subpage on the wiki for our project, but I'm not sure if I did it right. I was trying to create a subpage. Could you please make it a subpage for me?
-B: Sure, A. I'd be happy to help. Can you show me what you've done so far?
+A: Right, so as I was saying, I think his management style is really polarizing. Some people love it, but others think he's too aggressive.
+B: True, he's definitely a controversial figure. I guess that's part of what makes him so interesting to talk about.",Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!,negative,1,"Yes, A was being negative. The use of phrases like ""Ugh,"" ""stupid ass,"" and the sarcastic ""k? thanks!"" indicate frustration and annoyance with the interruption caused by the commercial.",1,True,610
+66,"Turn 1
+A: I'm so pumped for the game tonight! Can't wait to hit the stadium club and cheer for Galaxy. I really think we have a good shot against Dallas.
+B: Yeah, I hope so. Dallas has been pretty strong this season, though. I'm a bit worried about our defense.
 
 Turn 2
-A: Here it is. I created the subpage under the main project page, but I'm not sure if the structure and links are correct.
-B: Let's take a look. Ah, I see what you did. The content looks good, but the link needs to be formatted slightly differently. Let me show you how to adjust it.",I was trying to create a subpage. Could you please make it a subpage for me?,polite,1,"Yes, A was being polite. A asked B if they had a minute and then requested help in a courteous manner.",1,True,576
-2,"Turn 1
-A: The 100th Indy 500 was absolutely incredible! The atmosphere, the history, everything was just perfect.
-B: I get that it was a big deal, but isn't it a bit misleading to call it the 100th race? I read there were interruptions during the World Wars, so technically, it hasn't been held 100 times consecutively.
+A: I get that, but we've been improving a lot lately. Plus, the home crowd energy will definitely give us an edge. Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!
+B: True, the atmosphere at the stadium club is always electric. Let's hope it fires up the team. See you there!",Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!,positive,2,"Yes, A was being positive. A expressed excitement and confidence about the game, mentioned the improvement of their team, and showed enthusiasm about cheering for their team at the stadium club.",1,True,612
+47,"Turn 1
+A: I can't even see straight anymore. I think I've read this same paragraph five times.
+B: You look exhausted, A. Let's take a quick break. A few minutes away from the screen might help.
 
 Turn 2
-A: Sure, there were interruptions, but it's still the 100th running of the event. The race was advertised and billed as the 100th Indy 500. Are you saying the promoters and Indycar are liars?The legacy and tradition are what matter most.
-B: I understand the tradition, but promoting it as the 100th without acknowledging those gaps feels a bit disingenuous. It's important to be accurate about history.",The race was advertised and billed as the 100th Indy 500. Are you saying the promoters and Indycar are liars?,impolite,2,"Yes, A's response can be seen as impolite because it escalates the conversation by suggesting that B is accusing the promoters and Indycar of being liars, which is a strong and confrontational statement. B was merely pointing out a historical inaccuracy, not making an accusation of dishonesty.",1,True,730
-68,"Turn 1
-A: Thanks for sharing those findings about Fahnbulleh. I really appreciate the effort you put into it. Nice work! Since you dug up some information on Fahnbulleh, I'm curious u2014 do you know what relation he is to Ambassador Henry Fahnbulleh, whom Tubman accused of an attempted coup? Could you clarify how Fahnbulleh is related to Ambassador Henry Fahnbulleh, especially in the context of that significant political incident?
-
-B: Sure, no problem. Fahnbulleh is actually a common surname in Liberia, but in this case, Ambassador Henry Fahnbulleh is indeed related to the Fahnbulleh I mentioned. Henry Fahnbulleh was involved in the 1980 coup that overthrew President Tolbert, and his political activities have had a lasting impact on Liberian politics.
-
-Turn 2
-A: That makes sense. So, the Fahnbulleh you mentioned earlier, is he directly involved in the same political circles as Ambassador Henry Fahnbulleh, or is his influence more indirect?
-
-B: The Fahnbulleh I mentioned earlier is more of a contemporary figure who has been influenced by the political legacy of Ambassador Henry Fahnbulleh. While they may not be directly involved in the same events, the historical context and political environment shaped by Henry Fahnbulleh's actions have certainly impacted his work and perspectives.","Nice work! Since you dug up some information on Fahnbulleh, I'm curious u2014 do you know what relation he is to Ambassador Henry Fahnbulleh, whom Tubman accused of an attempted coup?",polite,1,"Yes, A was being polite. A thanked B for sharing the findings and appreciated the effort put into it, which indicates politeness and gratitude.",1,True,1303
-75,"Turn 1
-A: Hi B, I hope you're doing well. I recently made an edit to the ""History of Science"" article to align it with the style guidelines, but it was reverted by another user. Could you help explain to them why following these guidelines is important? I think your experience could really help resolve this smoothly.
-
-B: Hi A, I'm doing well, thanks for asking. I understand the situation. I'd be happy to help. Could you provide me with the details of your edit and the user who reverted it? That way, I can address the issue more effectively.
+A: I don't know if a break will cut it. Im so tired that Zulu is the 1st word that pops in my mind I feel like my brain is turning to mush.
+B: That's exactly why we need to step away for a bit. A short walk or some fresh air could make a big difference.",Im so tired that Zulu is the 1st word that pops in my mind,negative,2,"Yes, I agree. A's statement about being so tired that ""Zulu is the 1st word that pops in my mind"" indicates a level of frustration and mental exhaustion, which can be interpreted as a negative sentiment.",1,True,455
+6,"Turn 1
+A: It's so frustrating how the media always blows things out of proportion, especially when it involves black women. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley Did you see how they covered the Nicki and Miley thing?
+B: Yeah, it's like they can't wait to paint Nicki as the aggressor. It's so biased and unfair.
 
 Turn 2
-A: Sure, I added a section to improve the chronological flow and cited a reliable source, but User X reverted it, saying it was unnecessary. I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such? I just want to ensure we're all on the same page regarding the guidelines.
-
-B: Got it. I'll reach out to User X and explain the importance of maintaining a consistent style and the value of your contribution. I'll emphasize collaboration and see if we can find a middle ground. Thanks for bringing this to my attention, A.",I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such?,polite,2,"Yes, A was being polite. A acknowledged the reversion of their edit and respectfully asked B to use their expertise to explain the importance of following the style guidelines to User X. A's request was framed in a courteous manner, indicating a desire for collaborative resolution.",1,True,1165
-30,"Turn 1
-A: Hey B, glad I could help you out with that info. How's everything going?No worries, thanks for doing that. Nice to hear from you again - new username for 2013?
-B: Thanks again, A! It really made a difference. By the way, did you change your username for the new year? It looks different.
-
-Turn 2
-A: Yeah, I thought it was time for a fresh start. New year, new username! How do you like it?
-B: I love it! It suits you. Here's to new beginnings and more great conversations ahead!","No worries, thanks for doing that. Nice to hear from you again - new username for 2013?",polite,1,"Yes, A was being polite by acknowledging B's gratitude and expressing pleasure in hearing from B again. This shows a courteous and friendly demeanor.",1,True,488
-8,"Turn 1
-A: Hey B, I noticed you seemed upset earlier. Is everything okay?
-B: Honestly, A, I'm frustrated that you made changes to the links without waiting for us to agree as a team. It feels like you disregarded our process.
+A: Exactly! They never give her the benefit of the doubt. It's always the same old stereotypes being pushed.
+B: Totally. And it's not just about Nicki. This kind of coverage affects how people view all black women. It's exhausting.",The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley,negative,1,"Yes, I agree. A is expressing frustration and negativity about how the media portrays black women, specifically mentioning that Nicki Minaj will be unfairly labeled as the ""angry black woman"" in contrast to Miley Cyrus being seen as the ""poor white girl."" This indicates a negative sentiment towards the media's biased coverage.",1,True,623
+10,"Turn 1
+A: I can't wait for tonight's episode! can it be tomorrow already i want to watch big brotherI wish the day would just fly by.
+B: I know, right? The last episode ended on such a cliffhanger. I wonder what will happen next.
 
 Turn 2
-A: I understand your frustration, B. Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?I thought the changes were minor and wouldn't need a full discussion. I didn't mean to overstep.
-B: I get that, but even small changes can have a big impact. Let's make sure we all agree before making any more updates, okay?","Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?",impolite,2,"Yes, I agree that A was being impolite. The phrase ""Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?"" comes off as confrontational and accusatory, especially since B had already expressed frustration and a desire for team agreement. A's response does not acknowledge B's feelings and instead shifts blame back to B.",1,True,625
-16,"Turn 1
-A: Hey B! I just finished reading the book you sent me. It was such a thoughtful gift, thank you so much! I have already read this - thank you very much for this kind gesture, dear friend. What's up with you? How have you been?
-
-B: Hey A! I'm so glad you liked it. I thought it might be something you'd enjoy. I've been doing alright, just busy with work and trying to find some time to relax. How about you?
-
-Turn 2
-A: I've been good, just juggling a few projects here and there. Your gift was a perfect break from all the chaos. Anything exciting happening on your end?
-
-B: Not much, just the usual grind. But I did start a new hobby—I've been trying my hand at painting. It's been a fun way to unwind. We should catch up properly soon!","I have already read this - thank you very much for this kind gesture, dear friend. What's up with you?",polite,1,"Yes, I agree. A was being polite by expressing gratitude for the thoughtful gift, even though they had already read the book. This shows appreciation and kindness towards B's gesture.",1,True,745
-22,"Turn 1
-A: Hey, can I ask you something about the 2:00 am news brief? Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world? Is it always called ""Eyewitness News"" every night?
-B: Yeah, it's ""Eyewitness News"" every night at 2:00 am. It's a quick update on the latest headlines.
+A: Same here! I have a feeling there's going to be a big twist.
+B: Me too. Let's grab some snacks on the way home so we're all set for our watch party.",can it be tomorrow already i want to watch big brother,positive,1,"Yes, A was being positive. A's excitement about watching the next episode of ""Big Brother"" and their wish for the day to fly by so they can watch it sooner indicates a positive sentiment.",1,True,389
+9,"Turn 1
+A: I watched Ant-Man again last weekend, and it was interesting to see how everyone stayed glued to their seats for the after-credits scenes.
+B: Oh, I love those! They always add a little extra to the movie. Did you notice anything different this time?
 
 Turn 2
-A: Got it. And does it always use the ""Move Closer to Your World"" theme music?
-B: Absolutely, that theme is a staple for our news segments. You'll hear it every time.","Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?",polite,1,"Yes, A was being polite by starting the conversation with ""Good day, sorry to bother you,"" which shows consideration and respect for the other person's time.",1,True,539
-72,"Turn 1
-A: Hey B, I wanted to revisit our discussion about the project's direction. I still have some concerns about the timeline and resource allocation. I feel like we might be spreading ourselves too thin.
-B: I appreciate you bringing this up again, A. I understand your concerns. Can you elaborate a bit more on which areas you think need more focus?
+A: Yeah, it seemed like more people knew to stay until the very end. In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits sceneThe first time I saw it, half the audience left before the credits finished.
+B: That's funny. I guess word gets around. I always make sure to stay, especially with Marvel movies. Have you seen any other good ones lately?",In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits scene,neutral,2,A's statement indicates a neutral observation about their experience watching the movie for the second time. They are simply noting the difference in audience behavior without expressing any strong emotions or opinions.,1,True,674
+3,"Turn 1
+A: I can't wait for tomorrow's game! Chelsea's been in great form lately. Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win! Do you think they'll keep the momentum going?
+B: Yeah, they've been impressive. But you never know with football. Who are they up against again?
 
 Turn 2
-A: Sure, I think the marketing strategy is taking up a lot of our resources, which might be better spent on product development at this stage. I hope this makes my concerns clearer. Perhaps we can work together to resolve them? What do you think about reallocating some of the budget to the development team?
-B: That makes sense. Let's review the budget together and see where we can make adjustments. I'm open to finding a balance that ensures both areas get the attention they need.",I hope this makes my concerns clearer. Perhaps we can work together to resolve them?,polite,2,"Yes, A was being polite. A expressed their concerns clearly and constructively, and also suggested working together to find a solution, which indicates a collaborative and respectful approach.",1,True,846
-36,"Turn 1
-A: Hey B, I've noticed that our current discussion isn't really bringing out any new ideas. I've asked participants to shift the discussion away from Karchmar--that discussion isn't producing any new arguments or sources. Would you be able to contribute some thoughts as to where we might go on the topic of collaboration (i.e., tomorrow)? Do you have any thoughts on how we can shift the focus to something more productive, maybe around collaboration for the next session?
-B: I agree, it feels like we're going in circles. How about we introduce a brainstorming activity where participants can share their experiences with successful collaborations? That might spark some fresh insights.
-
-Turn 2
-A: That sounds like a great idea. We could even break them into smaller groups to discuss specific challenges they've faced and how they overcame them. What do you think?
-B: Absolutely, smaller groups would encourage more participation. We can then reconvene and have each group present their key takeaways. This way, we can gather a variety of perspectives and solutions.","I've asked participants to shift the discussion away from Karchmar--that discussion isn't producing any new arguments or sources. Would you be able to contribute some thoughts as to where we might go on the topic of collaboration (i.e., tomorrow)?",polite,1,"Yes, A was being polite. A acknowledged the current discussion's lack of productivity and respectfully asked B for their thoughts on how to shift the focus to a more productive topic, specifically collaboration.",1,True,1076
+A: They're playing against Liverpool. It's going to be a tough match, but I have a good feeling about it.
+B: Liverpool's always a challenge, but if Chelsea plays like they did last week, they definitely have a shot. Should be an exciting game!",Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win!,positive,1,"Yes, A was being positive. They expressed excitement and optimism about Chelsea's performance and the upcoming game.",1,True,561
 79,"Turn 1
-A: Hey B, I just finished the first draft of the new feature module. Could you take a look and let me know what you think?
-B: Sure, I'd be happy to. Send it over, and I'll review it this afternoon. Anything specific you want me to focus on?
+A: I don't know, man. I spent a lot on those Carmelo Anthony tickets and memorabilia, but with the way the team's playing, I'm starting to wonder if it was worth it.I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.
+B: I get it, A. It's tough when the team's not performing as well as you'd hoped. But remember, it's not just about the current season. Carmelo's had an incredible career, and that memorabilia will always have value.
 
 Turn 2
-A: Thanks! I'm particularly concerned about the efficiency of the algorithm and whether the code is following best practices. Just now I created this stub. Could you have a look at it, and try to improve it?
-B: Got it. I'll pay special attention to those areas and get back to you with some feedback. Great job getting this done so quickly!","Just now I created this stub. Could you have a look at it, and try to improve it?",polite,2,"Yes, A was being polite by acknowledging B's willingness to help and by asking for feedback in a considerate manner.",1,True,596
-19,"Turn 1
-A: Hey B, could you take a look at this article related to our project? Yep, no worries. What's the article? I could really use your feedback.
-B: Sure, I'd be happy to help! Can you send me the article or give me more details about it?
+A: Yeah, I guess you're right. It's just frustrating to see them struggle after investing so much.
+B: Totally understandable. But think of it this way: you're supporting a player you admire and have some great memories tied to those items. Plus, teams go through ups and downs. They might turn it around soon.",I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.,negative,1,"Yes, A was expressing frustration and doubt about their investment in Carmelo Anthony memorabilia due to the team's poor performance. This indicates a negative sentiment.",1,True,844
+67,"Turn 1
+A: Any exciting plans coming up?lol I can't wait.. and I'm going to see Janet Jackson next Thursday
+B: Oh, absolutely! I'm going to see Janet Jackson next Thursday. I can't wait!
 
 Turn 2
-A: Great, thanks! I'll email it to you right now. It's about the latest trends in our industry and how they might impact our strategy.
-B: Sounds interesting. I'll review it and get back to you with my thoughts by the end of the day.","Yep, no worries. What's the article?",polite,1,"Yes, I agree. A was being polite by acknowledging B's willingness to help and expressing gratitude before asking for feedback on the article.",1,True,483
-105,"Turn 1
-A: I don't appreciate being accused of not doing my part, B. What do you mean? How am I supposed to vindicate myself of this ridiculous accusation? I've been working hard on my tasks.
-B: It just seems like some of your deliverables are behind schedule, and it's affecting the team's progress.
+A: That sounds amazing! Have you seen her live before?
+B: No, this will be my first time. I've heard her shows are incredible, so I'm really looking forward to it!",lol I can't wait.. and I'm going to see Janet Jackson next Thursday,positive,1,"Yes, A was being positive. The use of ""lol"" and the phrase ""I can't wait"" indicate excitement and anticipation, which are positive emotions.",1,True,357
+44,"Turn 1
+A: Good morning, B! Ready for the long weekend?"" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!
+B: Morning, A! Absolutely, I can't wait. Got any plans?
 
 Turn 2
-A: I understand the concern, but I've been facing some unexpected challenges. Maybe we can discuss how to address these issues together?
-B: Fair enough. Let's find a way to support each other and get back on track. We can review the tasks after the meeting.",What do you mean? How am I supposed to vindicate myself of this ridiculous accusation?,impolite,1,"A's response, ""What do you mean? How am I supposed to vindicate myself of this ridiculous accusation?"" can be seen as defensive and confrontational, which may come across as impolite. The use of words like ""ridiculous accusation"" suggests a strong emotional reaction and a lack of willingness to understand B's perspective initially.",1,True,565
-34,"Turn 1
-A: I sent over the research you asked for. Did you get a chance to review it?
-B: Yes, I did. But I'm concerned about the accuracy of some of the data and the timing. We needed this earlier to make a well-informed decision.
+A: Just some relaxing and maybe a little hiking. How about you?
+B: Sounds great! I'm planning to visit family. Have a fantastic weekend and stay safe!",""" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!",positive,1,"Yes, A was being positive. A greeted B warmly, wished them a happy Friday, and extended good wishes for a safe and awesome Labor Day weekend.",1,True,354
+73,"Turn 1
+A: I just traded in my computer for an iPad. Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop. It's so much more portable!
+B: That's awesome! Funny enough, your uncle mentioned there's an announcement soon that might drop iPad prices. 
 
 Turn 2
-A: I worked hard to gather that information, and I submitted it as soon as I could. I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway? It's frustrating to hear that it's not good enough.
-B: I understand you're frustrated, but we need to ensure the data is reliable and timely. Let's figure out how we can address these issues together.","I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway?",impolite,2,"Yes, A's response can be considered impolite. A's tone is defensive and confrontational, implying that B is being unreasonable and dismissive of A's efforts. This kind of response can escalate tension rather than fostering a collaborative resolution.",1,True,638
-70,"Turn 1
-A: Hey B, I was going through the citations and noticed that the date of a cited source is mentioned both in the inline text and in the footnote. Do you think it might be redundant to have it in both places?
-
-B: Hmm, I see what you mean. It could make the document look cleaner if we remove the inline date reference. What do you suggest?
-
-Turn 2
-A: I was thinking we could just keep the date in the footnote since it's already detailed there. That is, I would remove the inline reference to the date of the cited source, since it's given in the actual footnote. Is that OK with you? It would streamline the text a bit. Are you okay with that change?
-
-B: Yes, that sounds good to me. Let's go ahead and make that adjustment. Thanks for checking in with me!","That is, I would remove the inline reference to the date of the cited source, since it's given in the actual footnote. Is that OK with you?",polite,2,"Yes, A was being polite by asking for B's opinion and approval before making a change to the document. This shows consideration and respect for B's input.",1,True,763
-147,"Turn 1
-A: B, can we talk for a minute? I've been feeling like you're constantly undermining my contributions in our meetings. ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time? It's starting to affect my confidence and our working relationship.
-B: I'm sorry you feel that way, A. That was never my intention. I thought I was providing constructive feedback to help us improve the project. Can you give me specific examples of when you felt undermined?
+A: Really? That's great news! Maybe I got in at the right time or can snag some accessories on the cheap.
+B: Exactly! Either way, it sounds like you made a smart move. Keep an eye out for those deals.",Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop.,positive,1,"Yes, A was being positive. A expressed excitement about the portability of the iPad and mentioned the potential for price drops due to an upcoming announcement, which suggests optimism about the decision.",1,True,518
+52,"Turn 1
+A: Hey, I heard about what happened at work today. I'm really sorry you had to go through that. Remember, setbacks are just stepping stones to something better.
+B: Thanks, A. It was a rough day, and I can't help but feel a bit down about it. It's hard to see the silver lining right now.
 
 Turn 2
-A: Sure, like in the last meeting when I suggested the new marketing strategy, you immediately pointed out potential flaws without acknowledging the positives. It felt dismissive.
-B: I see. I didn't realize it came across that way. I genuinely value your ideas and was trying to anticipate challenges. I'll make an effort to be more supportive and balanced in my feedback moving forward.","ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time?",impolite,1,"Yes, I agree that A was being impolite. The phrase ""ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me?"" is accusatory and suggests that B has malicious intent, which is a strong and potentially offensive assumption to make without clear evidence.",1,True,927
+A: I get it, B. But you've always bounced back stronger from tough situations. This is just a temporary bump in the road. Tryna make tomorrow much better You've got so much potential, and I know you'll come out of this even better.
+B: I appreciate your confidence in me. It means a lot. I'll try to keep that in mind and focus on the positives. Thanks for being there for me.",Tryna make tomorrow much better,positive,2,"Yes, A was being positive. A was encouraging B by reminding them of their resilience and potential, and suggesting that tomorrow can be better.",1,True,678
+77,"Turn 1
+A: You know, I was thinking about Bernie Sanders the other day. Do you know where he went to college?
+B: Hmm, I think he went to the University of Chicago. Not entirely sure, though. Why do you ask?
+
+Turn 2
+A: Just curious. I know he's been in politics for a long time, but I wonder what he did before that.1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office
+B: Yeah, I think he was involved in civil rights activism and some other community work. It's interesting how those early experiences shaped his political views.","1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office",neutral,2,A's statement appears to be neutral as it simply provides information about Bernie Sanders' educational background and career path without expressing any strong opinions or emotions.,1,True,615
+72,"Turn 1
+A: Hey, do you have any plans for tomorrow?Are you going to go to Levi's tomorrow??
+B: Not much, just thinking about checking out Levi's. They might have some new arrivals.
+
+Turn 2
+A: Oh, nice! I was actually planning to go there too. Maybe we can go together?
+B: Sounds great! Let's meet up around noon and make a day of it.",Are you going to go to Levi's tomorrow??,neutral,1,"Yes, I agree. A's question ""Are you going to go to Levi's tomorrow??"" is neutral and simply seeks information about B's plans without expressing any particular emotion or bias.",1,True,332
+50,"Turn 1
+A: Oh look, it's that legendary disaster of a baseball movie. ""Hey, the 2nd worst baseball movie is on Reelz right now. Should we subject ourselves to it for a laugh?
+B: You mean the one with the cringe-worthy acting and plot holes big enough to drive a truck through? Absolutely.
+
+Turn 2
+A: Perfect. Let's see if it's as hilariously awful as everyone says.
+B: I'm ready. This is going to be a train wreck we can't look away from.","""Hey, the 2nd worst baseball movie is on Reelz right now.",negative,1,"A's comment about the movie being the ""2nd worst baseball movie"" and suggesting to watch it ""for a laugh"" indicates a negative view of the movie's quality. The use of ""legendary disaster"" further emphasizes the negative sentiment.",1,True,437
+17,"Turn 1
+A: I'm so pumped for the big run on Sunday! I just need to find some new music to keep me motivated. Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.
+B: That's awesome! Have you tried the latest playlist on Spotify? It's got some great tracks for running.
+
+Turn 2
+A: No, I haven't checked it out yet. Do you have any specific songs you recommend from it?
+B: Definitely! ""Runaway"" by Galantis always gets me going, and ""Blinding Lights"" by The Weeknd has a great beat for keeping pace.","Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.",positive,1,"Yes, A was being positive. They expressed excitement about the upcoming run and were actively seeking suggestions to enhance their experience.",1,True,552
+46,"Turn 1
+A: I've been binge-watching ""The Vampire Diaries"" lately, and I'm totally hooked! I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries! I'm planning to write a blog post about it this weekend.
+B: That sounds fun! What's got you so excited about the show?
+
+Turn 2
+A: The characters are so complex, and the plot twists keep me on the edge of my seat. Plus, the supernatural elements are really well done.
+B: Nice! I might have to check it out. I'm thinking of going hiking this weekend. Any good trails you recommend?",I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!,positive,1,"Yes, A was being positive. They expressed excitement about binge-watching ""The Vampire Diaries"" and mentioned their plan to write a blog post about it, indicating enthusiasm and a positive attitude towards the show.",1,True,575
+43,"Turn 1
+A: You won't believe it, but I finally got to see that live performance by our favorite artist on TV last week. It was absolutely breathtaking!
+B: Oh wow, that sounds amazing! I can only imagine how incredible it must have been. What was the highlight for you?
+
+Turn 2
+A: Honestly, the whole performance was fantastic, but there was this one song where they hit this high note perfectly. It gave me chills! omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show
+B: I know exactly what you mean. I had a similar experience when I saw them live a few years ago. It's like they have this magical ability to connect with the audience on such a deep level.",omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show,positive,2,"Yes, I agree. A's statement about sitting on the floor and bawling over Shawn's performance indicates a strong emotional reaction, which in this context seems to be a positive one, driven by the impact of the performance.",1,True,711
