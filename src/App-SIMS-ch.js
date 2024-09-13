@@ -3,7 +3,7 @@ import Papa from 'papaparse';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from './firebaseConfig'; // 导入Firebase配置
 import Instructions from './Instructions'; // 导入Instructions组件
-import Demographics from './Demographics'; // 导入Demographics组件
+import Demographics from './Demographics'; // 导入人口统计组件
 import './App.css';
 
 // 加载CSV文件的函数
@@ -32,6 +32,29 @@ const shuffleArray = (array) => {
   return shuffledArray;
 };
 
+// 根据不同数据集定义特定的选项顺序
+const choiceOrderMap = {
+  'set_4.csv': [
+    { label: '模糊', value: '模糊' },
+    { label: '积极', value: '积极' },
+    { label: '消极', value: '消极' },
+    { label: '中性', value: '中性' }    
+  ],
+  'set_5.csv': [
+    { label: '消极', value: '消极' },
+    { label: '积极', value: '积极' },
+    { label: '中性', value: '中性' },
+    { label: '模糊', value: '模糊' }
+  ],
+  'set_6.csv': [
+    { label: '中性', value: '中性' },
+    { label: '积极', value: '积极' },
+    { label: '消极', value: '消极' },
+    { label: '模糊', value: '模糊' }
+  ]
+  // Add more datasets if needed
+};
+
 const attentionChecks = [
   { question: "请确定以下陈述是正确还是错误的。", statement: "1 + 1 = 2", note: "", correctAnswer: "正确", isAttentionCheck: true },
   { question: "请确定以下陈述是正确还是错误的。", statement: "玛丽对她的假期感到兴奋，但由于工作不得不取消。玛丽对这种情况可能感到兴奋。", note: "", correctAnswer: "错误", isAttentionCheck: true },
@@ -49,28 +72,43 @@ function App() {
   // 人口统计内容
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
+  const [currentDataset, setCurrentDataset] = useState('set_1.csv'); // 跟踪正在使用的数据集
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
 
   useEffect(() => {
-    loadCSV('data/set_1.csv')
+    loadCSV(`data/${currentDataset}`)
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
-        .map(item => ({
-          question: `当一个人在对话中说"${item.original_data}"时，他们的情感是什么？`,
-          statement: item.conversation,
-          note: item.note || '',
-          isAttentionCheck: false
-        }));
+          .map(item => ({
+            question: `当一个人在对话中说"${item.original_data}"时，他们的情感是什么？`,
+            statement: item.conversation,
+            note: item.note || '',
+            isAttentionCheck: false
+          }));
         const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
         setQuestions(allQuestions);
       })
       .catch((error) => {
         console.error('加载CSV时出错:', error);
       });
-  }, []);
+  }, [currentDataset]);
+
+  useEffect(() => {
+    if (questions.length > 0) {
+      const currentQuestion = questions[currentQuestionIndex];
+      const choices = currentQuestion.isAttentionCheck
+        ? [
+            { label: '正确', value: 'True' },
+            { label: '错误', value: 'False' }
+          ]
+        : choiceOrderMap[currentDataset]; // 根据数据集使用特定顺序的选项
+
+      setShuffledChoices(choices); // 对于常规问题不再打乱，使用预定义顺序
+    }
+  }, [currentQuestionIndex, questions, currentDataset]);
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -90,11 +128,15 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `Full-SIMS-ch-1-${prolificID}`;
+
+      // 从数据集文件名中提取set号 (例如, 'set_1.csv' -> '1')
+      const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
+      // 更新Prolific ID，使用数据集的set号
+      let updatedProlificID = `Full-SIMS-ch-${setNumber}-${prolificID}`;
+      
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('响应已记录:', response);
 
-      // 确保在记录响应后调用此函数
       handleNextQuestion();
     } catch (e) {
       console.error('添加文档时出错: ', e);
@@ -102,7 +144,6 @@ function App() {
   };
 
   const handleDemographicsComplete = async (demographicsData) => {
-    // 处理人口统计调查的完成
     console.log('人口统计调查已完成');
   };
 
@@ -160,18 +201,16 @@ function App() {
               </>
             ) : (
               <>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('积极')}>
-                  积极的
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('消极')}>
-                  消极的
-                </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('中性')}>
-                  中性的
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                  模糊
-                </button>
+                {choiceOrderMap[currentDataset]?.map((choice, index) => (
+                  <button
+                    key={index}
+                    className="App-link"
+                    style={{ marginRight: '25px' }}
+                    onClick={() => logResponse(choice.value)}
+                  >
+                    {choice.label}
+                  </button>
+                ))}
               </>
             )}
           </div>

@@ -32,6 +32,27 @@ const shuffleArray = (array) => {
   return shuffledArray;
 };
 
+// Map dataset filenames to specific order of choices
+const choiceOrderMap = {
+  'set_4.csv': [
+    { label: 'In favor of abortion', value: 'favoring' },
+    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' },
+    { label: 'Against abortion', value: 'against' }
+  ],
+  'set_5.csv': [
+    { label: 'Against abortion', value: 'against' },
+    { label: 'In favor of abortion', value: 'favoring' },
+    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' }
+  ],
+  'set_6.csv': [
+    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' },
+    { label: 'In favor of abortion', value: 'favoring' },
+    { label: 'Against abortion', value: 'against' }
+  ],
+  // Add more datasets if needed
+};
+
+
 const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
@@ -49,16 +70,17 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
+  const [currentDataset, setCurrentDataset] = useState('set_3.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
 
   useEffect(() => {
-    loadCSV('data/set_3.csv')
+    loadCSV(`data/${currentDataset}`)
       .then((data) => {
-        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '').
-        map(item => ({
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        .map(item => ({
           question: `What was the person's stance on abortion when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
@@ -70,7 +92,21 @@ function App() {
       .catch((error) => {
         console.error('Error loading CSV:', error);
       });
-  }, []);
+  }, [currentDataset]); // Re-run when currentDataset changes
+
+  useEffect(() => {
+    if (questions.length > 0) {
+      const currentQuestion = questions[currentQuestionIndex];
+      const choices = currentQuestion.isAttentionCheck
+        ? [
+            { label: 'True', value: 'True' },
+            { label: 'False', value: 'False' }
+          ]
+        : choiceOrderMap[currentDataset]; // Use dataset-specific order of choices
+
+      setShuffledChoices(choices); // No shuffle for regular questions, using predefined order
+    }
+  }, [currentQuestionIndex, questions, currentDataset]);
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -90,11 +126,15 @@ function App() {
         response: response,
         timestamp: new Date(),
       };
-      let updatedProlificID = `Full-SemT6_Abortion-3-${prolificID}`;    // this is actually abortion.. need to be careful with the keys
+
+      // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
+      const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
+      // Update Prolific ID using just the number from the dataset
+      let updatedProlificID = `Full-SemT6_Abortion-${setNumber}-${prolificID}`;
+      
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
 
-      // Ensure this is called after logging the response
       handleNextQuestion();
     } catch (e) {
       console.error('Error adding document: ', e);
@@ -102,7 +142,6 @@ function App() {
   };
 
   const handleDemographicsComplete = async (demographicsData) => {
-    // Handle completion of the demographics survey
     console.log('Demographics survey completed');
   };
 
@@ -160,15 +199,16 @@ function App() {
               </>
             ) : (
               <>
-               <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('favoring')}>
-                In favor of abortion
-                </button>
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('against')}>
-                Against abortion
-                </button>               
-                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('ambiguous')}>
-                 Ambiguous
-                </button>
+                {choiceOrderMap[currentDataset]?.map((choice, index) => (
+                  <button
+                    key={index}
+                    className="App-link"
+                    style={{ marginRight: '25px' }}
+                    onClick={() => logResponse(choice.value)}
+                  >
+                    {choice.label}
+                  </button>
+                ))}
               </>
             )}
           </div>

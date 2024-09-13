@@ -1,0 +1,273 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I can't believe Rashford missed that again. I'm losing my patience a little with rashford He's usually so reliable in front of goal.
+B: Yeah, it's frustrating. Maybe he's just going through a rough patch. It happens to the best of them.
+
+Turn 2
+A: I hope you're right. We really need him to step up if we're going to make a serious run this season.
+B: Absolutely. Maybe a bit of rest or a change in tactics could help him get back on track. Let's hope the coach has a plan.",Sarcastic,2024-09-13T03:27:52.079000+00:00,"Was the person intended to be sarcastic when ""I'm losing my patience a little with rashford"" was said during the conversation?","Turn 1
+A: I can't believe Rashford missed that again. I'm losing my patience a little with rashford He's usually so reliable in front of goal.
+B: Yeah, it's frustrating. Maybe he's just going through a rough patch. It happens to the best of them.
+
+Turn 2
+A: I hope you're right. We really need him to step up if we're going to make a serious run this season.
+B: Absolutely. Maybe a bit of rest or a change in tactics could help him get back on track. Let's hope the coach has a plan.",I'm losing my patience a little with rashford,Sarcastic
+"Turn 1
+A: Did you see that match? Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while. West Ham really showed up today! What a game!
+B: Yeah, yeah, I saw it. Tough one for us, but I have to admit, your guys played well.
+
+Turn 2
+A: Antonio was on fire! That goal was a beauty. You have to give him credit.
+B: True, he was impressive. But don't get too comfortable, we'll get you next time.",Not Sarcastic,2024-09-13T03:29:32.020000+00:00,"Was the person intended to be sarcastic when ""Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while."" was said during the conversation?","Turn 1
+A: Did you see that match? Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while. West Ham really showed up today! What a game!
+B: Yeah, yeah, I saw it. Tough one for us, but I have to admit, your guys played well.
+
+Turn 2
+A: Antonio was on fire! That goal was a beauty. You have to give him credit.
+B: True, he was impressive. But don't get too comfortable, we'll get you next time.","Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while.",Not Sarcastic
+"Turn 1
+A: Did you catch Andrew Neil's latest interview? His stance was surprisingly authoritarian, especially given how he's always criticized others for similar behavior. Quite ironic how people such as Andrew Neil labelled me a stalinist whilst he himself becomes one
+B: Yeah, I saw that. It's quite ironic, isn't it? He used to be the one calling out heavy-handed tactics, and now he's the one exhibiting them.
+
+Turn 2
+A: Exactly. It makes you question the consistency of these media figures. If someone like Neil can flip so drastically, what does that say about media credibility?
+B: It definitely undermines trust. When public personas shift like this, it blurs the line between genuine belief and opportunism. It's a worrying trend for journalism.",Not Sarcastic,2024-09-13T03:22:01.872000+00:00,"Was the person intended to be sarcastic when ""Quite ironic how people such as Andrew Neil labelled me a stalinist whilst he himself becomes one"" was said during the conversation?","Turn 1
+A: Did you catch Andrew Neil's latest interview? His stance was surprisingly authoritarian, especially given how he's always criticized others for similar behavior. Quite ironic how people such as Andrew Neil labelled me a stalinist whilst he himself becomes one
+B: Yeah, I saw that. It's quite ironic, isn't it? He used to be the one calling out heavy-handed tactics, and now he's the one exhibiting them.
+
+Turn 2
+A: Exactly. It makes you question the consistency of these media figures. If someone like Neil can flip so drastically, what does that say about media credibility?
+B: It definitely undermines trust. When public personas shift like this, it blurs the line between genuine belief and opportunism. It's a worrying trend for journalism.",Quite ironic how people such as Andrew Neil labelled me a stalinist whilst he himself becomes one,Not Sarcastic
+"Turn 1
+A: I heard someone say the COVID-19 vaccine can turn you into a magnet. Can you believe that?
+B: Oh, absolutely! And next thing you know, we'll all be sticking to our refrigerators like those souvenir magnets.
+
+Turn 2
+A: It's crazy how people come up with these things. can't believe the covid vaccine made me lose a limb. i thought being tracked was the only side effect It's like they don't even try to check the facts.
+B: Yeah, because who needs science when you have a cousin's friend's neighbor's Facebook post, right?",Sarcastic,2024-09-13T03:26:35.317000+00:00,"Was the person intended to be sarcastic when ""can't believe the covid vaccine made me lose a limb. i thought being tracked was the only side effect"" was said during the conversation?","Turn 1
+A: I heard someone say the COVID-19 vaccine can turn you into a magnet. Can you believe that?
+B: Oh, absolutely! And next thing you know, we'll all be sticking to our refrigerators like those souvenir magnets.
+
+Turn 2
+A: It's crazy how people come up with these things. can't believe the covid vaccine made me lose a limb. i thought being tracked was the only side effect It's like they don't even try to check the facts.
+B: Yeah, because who needs science when you have a cousin's friend's neighbor's Facebook post, right?",can't believe the covid vaccine made me lose a limb. i thought being tracked was the only side effect,Sarcastic
+"Turn 1
+A: It's frustrating to see how wealth disparity keeps growing. The rich are getting richer, and the poor are struggling more than ever. Did you see the latest report on land ownership? It's shocking how concentrated it is. Why aren't we finding a way to distribute our lovely country fairly?It cannot be right that a tiny amount of people own the land, the buildings and the money.
+B: Absolutely, it's like the system is designed to keep the wealth in the hands of a few. We need more policies that promote equitable distribution and support for the underprivileged.
+
+Turn 2
+A: Exactly. It's not just about charity; it's about creating a fair system where everyone has a chance to succeed. We need to push for reforms that address these structural issues.
+B: I agree. Maybe we should start by advocating for more progressive taxation and better access to education and healthcare. Those could be game-changers for so many people.",Not Sarcastic,2024-09-13T03:23:31.445000+00:00,"Was the person intended to be sarcastic when ""Why aren't we finding a way to distribute our lovely country fairly?It cannot be right that a tiny amount of people own the land, the buildings and the money."" was said during the conversation?","Turn 1
+A: It's frustrating to see how wealth disparity keeps growing. The rich are getting richer, and the poor are struggling more than ever. Did you see the latest report on land ownership? It's shocking how concentrated it is. Why aren't we finding a way to distribute our lovely country fairly?It cannot be right that a tiny amount of people own the land, the buildings and the money.
+B: Absolutely, it's like the system is designed to keep the wealth in the hands of a few. We need more policies that promote equitable distribution and support for the underprivileged.
+
+Turn 2
+A: Exactly. It's not just about charity; it's about creating a fair system where everyone has a chance to succeed. We need to push for reforms that address these structural issues.
+B: I agree. Maybe we should start by advocating for more progressive taxation and better access to education and healthcare. Those could be game-changers for so many people.","Why aren't we finding a way to distribute our lovely country fairly?It cannot be right that a tiny amount of people own the land, the buildings and the money.",Not Sarcastic
+"Turn 1
+A: ""Honey, I really love being interrupted every five minutes while I'm trying to relax.""Love it when I get disturbed three times in the bath to be asked where things in the house are!!
+B: ""Sorry, I just can't find the spatula. Do you know where it is?""
+
+Turn 2
+A: ""Check the second drawer on the left. And maybe we can save the rest of the questions for after my bath?""
+B: ""Got it. I'll try to manage on my own for a bit. Enjoy your bath!""",Sarcastic,2024-09-13T03:28:43.499000+00:00,"Was the person intended to be sarcastic when ""Love it when I get disturbed three times in the bath to be asked where things in the house are!!"" was said during the conversation?","Turn 1
+A: ""Honey, I really love being interrupted every five minutes while I'm trying to relax.""Love it when I get disturbed three times in the bath to be asked where things in the house are!!
+B: ""Sorry, I just can't find the spatula. Do you know where it is?""
+
+Turn 2
+A: ""Check the second drawer on the left. And maybe we can save the rest of the questions for after my bath?""
+B: ""Got it. I'll try to manage on my own for a bit. Enjoy your bath!""",Love it when I get disturbed three times in the bath to be asked where things in the house are!!,Sarcastic
+"Turn 1
+A: You know, wearing a mask has been a lifesaver in this freezing weather. It keeps my face so much warmer during the walk to work. Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work
+B: I totally agree! I didn't expect it, but it's like having a mini scarf for my face. Makes the commute a bit more bearable.
+
+Turn 2
+A: Exactly! Plus, it's nice not having to deal with the biting wind on my cheeks. I might keep wearing it even after winter.
+B: Same here. It's funny how something meant for health reasons turned out to be a great winter accessory too.",Not Sarcastic,2024-09-13T03:25:16.360000+00:00,"Was the person intended to be sarcastic when ""Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work"" was said during the conversation?","Turn 1
+A: You know, wearing a mask has been a lifesaver in this freezing weather. It keeps my face so much warmer during the walk to work. Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work
+B: I totally agree! I didn't expect it, but it's like having a mini scarf for my face. Makes the commute a bit more bearable.
+
+Turn 2
+A: Exactly! Plus, it's nice not having to deal with the biting wind on my cheeks. I might keep wearing it even after winter.
+B: Same here. It's funny how something meant for health reasons turned out to be a great winter accessory too.",Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work,Not Sarcastic
+"Turn 1
+A: ""I can't believe it! Just when I'm finally about to go to Paris, they introduce new COVID-19 testing requirements. So kind of the government to introduce 900 new covid tests right before I fly to Paris x Perfect timing, right?""
+B: ""Ugh, that's so frustrating. I heard about that. It seems like they always find a way to complicate things.""
+
+Turn 2
+A: ""Seriously, it's like they have a radar for my plans. Now I have to figure out where to get tested and hope it doesn't delay my trip.""
+B: ""I get it. Maybe you can check if there are any rapid testing centers near you? That might save you some time and stress.""",Sarcastic,2024-09-13T03:29:15.033000+00:00,"Was the person intended to be sarcastic when ""So kind of the government to introduce 900 new covid tests right before I fly to Paris x"" was said during the conversation?","Turn 1
+A: ""I can't believe it! Just when I'm finally about to go to Paris, they introduce new COVID-19 testing requirements. So kind of the government to introduce 900 new covid tests right before I fly to Paris x Perfect timing, right?""
+B: ""Ugh, that's so frustrating. I heard about that. It seems like they always find a way to complicate things.""
+
+Turn 2
+A: ""Seriously, it's like they have a radar for my plans. Now I have to figure out where to get tested and hope it doesn't delay my trip.""
+B: ""I get it. Maybe you can check if there are any rapid testing centers near you? That might save you some time and stress.""",So kind of the government to introduce 900 new covid tests right before I fly to Paris x,Sarcastic
+"Turn 1
+A: Honestly, this new job isn't what I expected. I feel like I'm just another cog in the machine, and no one really appreciates what I bring to the table.
+B: That sounds tough. What exactly is making you feel that way?
+
+Turn 2
+A: It's just that at my old job, I felt respected and valued. People actually listened to my ideas. Can't wait to go back to my old job and be treated like an actual person and be respected again.. Here, it's like I'm invisible.
+B: I get that. Have you thought about talking to your manager or maybe even considering going back to your old job?",Not Sarcastic,2024-09-13T03:23:00.719000+00:00,"Was the person intended to be sarcastic when ""Can't wait to go back to my old job and be treated like an actual person and be respected again.."" was said during the conversation?","Turn 1
+A: Honestly, this new job isn't what I expected. I feel like I'm just another cog in the machine, and no one really appreciates what I bring to the table.
+B: That sounds tough. What exactly is making you feel that way?
+
+Turn 2
+A: It's just that at my old job, I felt respected and valued. People actually listened to my ideas. Can't wait to go back to my old job and be treated like an actual person and be respected again.. Here, it's like I'm invisible.
+B: I get that. Have you thought about talking to your manager or maybe even considering going back to your old job?",Can't wait to go back to my old job and be treated like an actual person and be respected again..,Not Sarcastic
+"Turn 1
+A: ""I can't believe it, I've been looking forward to this trip to Poland for months, and now it looks like the government might impose new lockdown measures right after Christmas. I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!""
+B: ""Yeah, that really sucks. I can understand why you're so frustrated. It's like they have a radar for ruining plans.""
+
+Turn 2
+A: ""Seriously, it's like they wait until everyone is excited and then drop the bomb. I just hope they don't announce anything until after New Year's.""
+B: ""Fingers crossed. Maybe you'll get lucky and they'll hold off. In the meantime, let's enjoy this coffee and try not to stress too much.""",Sarcastic,2024-09-13T03:25:05.969000+00:00,"Was the person intended to be sarcastic when ""I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!"" was said during the conversation?","Turn 1
+A: ""I can't believe it, I've been looking forward to this trip to Poland for months, and now it looks like the government might impose new lockdown measures right after Christmas. I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!""
+B: ""Yeah, that really sucks. I can understand why you're so frustrated. It's like they have a radar for ruining plans.""
+
+Turn 2
+A: ""Seriously, it's like they wait until everyone is excited and then drop the bomb. I just hope they don't announce anything until after New Year's.""
+B: ""Fingers crossed. Maybe you'll get lucky and they'll hold off. In the meantime, let's enjoy this coffee and try not to stress too much.""",I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!,Sarcastic
+"Turn 1
+A: Ah, Mondays. The best day of the week, right?Been looking forward to today all weekend.  Mondays are the best.  I feel fresh and ready to start the week.  SAID NO ONE EVER!!
+B: Absolutely, nothing like starting the week with a mountain of emails and a half-empty coffee pot.
+
+Turn 2
+A: At least we have the coffee machine to keep us going.
+B: True, though I think it needs more caffeine than we do at this point.",Sarcastic,2024-09-13T03:27:10.489000+00:00,"Was the person intended to be sarcastic when ""Been looking forward to today all weekend.  Mondays are the best.  I feel fresh and ready to start the week.  SAID NO ONE EVER!!"" was said during the conversation?","Turn 1
+A: Ah, Mondays. The best day of the week, right?Been looking forward to today all weekend.  Mondays are the best.  I feel fresh and ready to start the week.  SAID NO ONE EVER!!
+B: Absolutely, nothing like starting the week with a mountain of emails and a half-empty coffee pot.
+
+Turn 2
+A: At least we have the coffee machine to keep us going.
+B: True, though I think it needs more caffeine than we do at this point.",Been looking forward to today all weekend.  Mondays are the best.  I feel fresh and ready to start the week.  SAID NO ONE EVER!!,Sarcastic
+"Turn 1
+A: You know, it's like every team we face brings their A-game just for us. Did you notice how aggressive their midfield was today?
+B: Absolutely. It's like they were determined to shut down our playmakers. Speaking of which, don't you think it's time for Rodriguez to get some rest? He looked exhausted out there.
+
+Turn 2
+A: Yeah, Rodriguez has been running on fumes lately. We can't afford to burn him out before the playoffs. Things ralfie must have learned today. 
+1) everyone plays against us as if they are  in the a European up final. 
+2) Rashford needs a rest (ie dropping)
+3) Fred is quality. On the bright side, did you see how well Martinez handled the pressure? He was a rock in defense.
+B: Martinez was phenomenal. If he keeps this up, he might just be our key player for the rest of the season. We really need that kind of stability at the back.",Ambiguous,2024-09-13T03:25:48.325000+00:00,"Was the person intended to be sarcastic when ""Things ralfie must have learned today. 
+1) everyone plays against us as if they are  in the a European up final. 
+2) Rashford needs a rest (ie dropping)
+3) Fred is quality."" was said during the conversation?","Turn 1
+A: You know, it's like every team we face brings their A-game just for us. Did you notice how aggressive their midfield was today?
+B: Absolutely. It's like they were determined to shut down our playmakers. Speaking of which, don't you think it's time for Rodriguez to get some rest? He looked exhausted out there.
+
+Turn 2
+A: Yeah, Rodriguez has been running on fumes lately. We can't afford to burn him out before the playoffs. Things ralfie must have learned today. 
+1) everyone plays against us as if they are  in the a European up final. 
+2) Rashford needs a rest (ie dropping)
+3) Fred is quality. On the bright side, did you see how well Martinez handled the pressure? He was a rock in defense.
+B: Martinez was phenomenal. If he keeps this up, he might just be our key player for the rest of the season. We really need that kind of stability at the back.",,Ambiguous
+"Turn 1
+A: Wow, that was such an amazing performance! The kids really put their hearts into it.
+B: Absolutely, they were fantastic. I was especially impressed by the lead actor's energy and presence on stage.
+
+Turn 2
+A: I'm thinking of posting about it on social media to spread the word. I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
+Please retweet if you saw the production and agree with me. It'd be great to get more people to support these young talents.
+B: That's a great idea! I'll share your post too. The community should definitely know about this incredible talent.",Not Sarcastic,2024-09-13T03:21:25.302000+00:00,"Was the person intended to be sarcastic when ""I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
+Please retweet if you saw the production and agree with me."" was said during the conversation?","Turn 1
+A: Wow, that was such an amazing performance! The kids really put their hearts into it.
+B: Absolutely, they were fantastic. I was especially impressed by the lead actor's energy and presence on stage.
+
+Turn 2
+A: I'm thinking of posting about it on social media to spread the word. I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
+Please retweet if you saw the production and agree with me. It'd be great to get more people to support these young talents.
+B: That's a great idea! I'll share your post too. The community should definitely know about this incredible talent.",,Not Sarcastic
+"Turn 1
+A: This weather has been a real headache lately, hasn't it? Tough few weeks so far with the snow and rain! My commute took twice as long this morning.
+B: Tell me about it. I had to reschedule two meetings because half the team couldn't make it in on time.
+
+Turn 2
+A: It's been a challenge for sure. I even had to work from home a couple of days last week because the roads were so bad.
+B: Same here. At least we're all in the same boat. Hopefully, things will clear up soon.",Not Sarcastic,2024-09-13T03:23:55.478000+00:00,"Was the person intended to be sarcastic when ""Tough few weeks so far with the snow and rain!"" was said during the conversation?","Turn 1
+A: This weather has been a real headache lately, hasn't it? Tough few weeks so far with the snow and rain! My commute took twice as long this morning.
+B: Tell me about it. I had to reschedule two meetings because half the team couldn't make it in on time.
+
+Turn 2
+A: It's been a challenge for sure. I even had to work from home a couple of days last week because the roads were so bad.
+B: Same here. At least we're all in the same boat. Hopefully, things will clear up soon.",Tough few weeks so far with the snow and rain!,Not Sarcastic
+"Turn 1
+A: Ugh, dealing with that car insurance claim was such a nightmare. I spent hours on the phone just trying to get a straight answer.
+B: I hear you. I had a similar issue last year when I got into a fender bender. It's like they make it intentionally confusing.
+
+Turn 2
+A: Seriously! It's moments like these that make me realize how much adulting can suck sometimes. You know you've become an adult when you have to argue nonsense stuff with 20 different phone numbers of your car insurance company. Remember when our biggest worry was finishing homework on time?
+B: Oh, absolutely. Now it's all about bills, insurance, and figuring out taxes. But hey, at least we can laugh about it over coffee, right?",Sarcastic,2024-09-13T03:26:07.974000+00:00,"Was the person intended to be sarcastic when ""You know you've become an adult when you have to argue nonsense stuff with 20 different phone numbers of your car insurance company."" was said during the conversation?","Turn 1
+A: Ugh, dealing with that car insurance claim was such a nightmare. I spent hours on the phone just trying to get a straight answer.
+B: I hear you. I had a similar issue last year when I got into a fender bender. It's like they make it intentionally confusing.
+
+Turn 2
+A: Seriously! It's moments like these that make me realize how much adulting can suck sometimes. You know you've become an adult when you have to argue nonsense stuff with 20 different phone numbers of your car insurance company. Remember when our biggest worry was finishing homework on time?
+B: Oh, absolutely. Now it's all about bills, insurance, and figuring out taxes. But hey, at least we can laugh about it over coffee, right?",You know you've become an adult when you have to argue nonsense stuff with 20 different phone numbers of your car insurance company.,Sarcastic
+"Turn 1
+A: Oh, you know, life's just been absolutely fantastic! Lost my job, my relationship's a mess, and I'm pretty sure my plants are plotting against me. my life is great lmaooooo. Couldn't be better! *laughs exaggeratedly*
+B: *smiles sympathetically* That sounds rough, A. You don't have to put on a brave face for me. What's really going on?
+
+Turn 2
+A: *sighs* Honestly, it's been tough. I'm just trying to keep it together, but it feels like everything's falling apart.
+B: I'm here for you, A. Let's talk it through. Maybe we can figure out some steps to make things a bit easier.",Sarcastic,2024-09-13T03:22:33.798000+00:00,"Was the person intended to be sarcastic when ""my life is great lmaooooo."" was said during the conversation?","Turn 1
+A: Oh, you know, life's just been absolutely fantastic! Lost my job, my relationship's a mess, and I'm pretty sure my plants are plotting against me. my life is great lmaooooo. Couldn't be better! *laughs exaggeratedly*
+B: *smiles sympathetically* That sounds rough, A. You don't have to put on a brave face for me. What's really going on?
+
+Turn 2
+A: *sighs* Honestly, it's been tough. I'm just trying to keep it together, but it feels like everything's falling apart.
+B: I'm here for you, A. Let's talk it through. Maybe we can figure out some steps to make things a bit easier.",my life is great lmaooooo.,Sarcastic
+"Turn 1
+A: ""I can't shake this feeling, you know? If we don't win tomorrow, we might actually get relegated. Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far It's been such a rough season.""
+B: ""I hear you, mate. Every game feels like a final now. But remember, we've seen them pull off miracles before. We just need to keep the faith.""
+
+Turn 2
+A: ""Yeah, but this time it feels different. The team's been struggling with injuries, and our defense has been shaky at best.""
+B: ""True, but we've got some key players back now. If they can step up, we might just have a fighting chance. Let's hope for the best and cheer them on tomorrow.""",Not Sarcastic,2024-09-13T03:29:59.672000+00:00,"Was the person intended to be sarcastic when ""Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far"" was said during the conversation?","Turn 1
+A: ""I can't shake this feeling, you know? If we don't win tomorrow, we might actually get relegated. Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far It's been such a rough season.""
+B: ""I hear you, mate. Every game feels like a final now. But remember, we've seen them pull off miracles before. We just need to keep the faith.""
+
+Turn 2
+A: ""Yeah, but this time it feels different. The team's been struggling with injuries, and our defense has been shaky at best.""
+B: ""True, but we've got some key players back now. If they can step up, we might just have a fighting chance. Let's hope for the best and cheer them on tomorrow.""",Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far,Not Sarcastic
+"Turn 1
+A: ""Unbelievable! ""Does Salah want to score today, even my grand mother could have scored that open goal!"" Even my grandma could've scored that one!""
+B: ""Yeah, maybe we should sign her up for the team. She might just be our secret weapon!""
+
+Turn 2
+A: ""At this rate, we might need all the help we can get.""
+B: ""True, but hey, there's still time for a comeback. Let's keep the faith!""",Sarcastic,2024-09-13T03:27:47.829000+00:00,"Was the person intended to be sarcastic when """"Does Salah want to score today, even my grand mother could have scored that open goal!"""" was said during the conversation?","Turn 1
+A: ""Unbelievable! ""Does Salah want to score today, even my grand mother could have scored that open goal!"" Even my grandma could've scored that one!""
+B: ""Yeah, maybe we should sign her up for the team. She might just be our secret weapon!""
+
+Turn 2
+A: ""At this rate, we might need all the help we can get.""
+B: ""True, but hey, there's still time for a comeback. Let's keep the faith!""",,Sarcastic
+"Turn 1
+A: ""I've got my appointment for the COVID-19 booster shot later today.""I'm heading out to snag my COVID-19 inoculation! Thanks government mandate! Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!
+B: ""Oh, another one? At this rate, we'll need a booster every time we sneeze.""
+
+Turn 2
+A: ""Yeah, I know it feels like a lot, but I'd rather be safe than sorry.""
+B: ""Sure, because nothing says 'safety' like a never-ending cycle of jabs.""",Sarcastic,2024-09-13T03:30:10.283000+00:00,"Was the person intended to be sarcastic when ""I'm heading out to snag my COVID-19 inoculation! Thanks government mandate! Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!"" was said during the conversation?","Turn 1
+A: ""I've got my appointment for the COVID-19 booster shot later today.""I'm heading out to snag my COVID-19 inoculation! Thanks government mandate! Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!
+B: ""Oh, another one? At this rate, we'll need a booster every time we sneeze.""
+
+Turn 2
+A: ""Yeah, I know it feels like a lot, but I'd rather be safe than sorry.""
+B: ""Sure, because nothing says 'safety' like a never-ending cycle of jabs.""","I'm heading out to snag my COVID-19 inoculation! Thanks government mandate! Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!",Sarcastic
+"Turn 1
+A: So, after all the sleepless nights and student loans, they just cancel our graduation ceremony. Fantastic, right? I mean, who needs closure or a sense of accomplishment anyway? I absolutely loveee not getting a graduation ceremony after I spent 3 years on my degree and ended up over £50,000 in debt
+B: Yeah, it's really disappointing. I was looking forward to celebrating with everyone. But I guess they had no choice with everything going on.
+
+Turn 2
+A: Still, it feels like a slap in the face. We put in so much effort, and now we don't even get to walk across the stage.
+B: I get it. It's frustrating. Maybe we can plan our own little celebration? It won't be the same, but at least we can mark the occasion somehow.",Sarcastic,2024-09-13T03:29:22.936000+00:00,"Was the person intended to be sarcastic when ""I absolutely loveee not getting a graduation ceremony after I spent 3 years on my degree and ended up over £50,000 in debt"" was said during the conversation?","Turn 1
+A: So, after all the sleepless nights and student loans, they just cancel our graduation ceremony. Fantastic, right? I mean, who needs closure or a sense of accomplishment anyway? I absolutely loveee not getting a graduation ceremony after I spent 3 years on my degree and ended up over £50,000 in debt
+B: Yeah, it's really disappointing. I was looking forward to celebrating with everyone. But I guess they had no choice with everything going on.
+
+Turn 2
+A: Still, it feels like a slap in the face. We put in so much effort, and now we don't even get to walk across the stage.
+B: I get it. It's frustrating. Maybe we can plan our own little celebration? It won't be the same, but at least we can mark the occasion somehow.","I absolutely loveee not getting a graduation ceremony after I spent 3 years on my degree and ended up over £50,000 in debt",Sarcastic
