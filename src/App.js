@@ -73,7 +73,7 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_5.csv'); // Keep track of which dataset is being used
+  const [currentDataset, setCurrentDataset] = useState('set_6.csv'); // Keep track of which dataset is being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
