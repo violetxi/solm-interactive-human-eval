@@ -42,23 +42,25 @@ const attentionChecks = [
 // Map dataset filenames to specific order of choices
 const choiceOrderMap = {
   'set_4.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic'},
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' }
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' }
   ],
   'set_5.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' }
+    { label: 'Negative', value: 'negative' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Neutral', value: 'neutral' }
   ],
   'set_6.csv': [
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' }
+    { label: 'Neutral', value: 'neutral' },
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' }
   ],
-  // Add more datasets if needed
+  // Add more sets if needed
 };
-
 function App() {
   // instruction content
   const [showInstructions, setShowInstructions] = useState(true);
