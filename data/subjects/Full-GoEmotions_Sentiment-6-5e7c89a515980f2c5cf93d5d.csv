@@ -1,0 +1,277 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Ugh, this headache is killing me. Crap. I need more Excedrin. STAT.I don't know how I'm going to finish this project on time.
+B: That sounds rough. Do you need some Excedrin? I think I have some in my desk.
+
+Turn 2
+A: That would be amazing, thank you. I just need something to get through the next few hours.
+B: No problem. Also, maybe take a quick five-minute break? Sometimes stepping away helps clear your head a bit.",negative,2024-09-13T12:36:30.413000+00:00,"What was the person's sentiment when they said ""Crap. I need more Excedrin. STAT."" during the conversation?","Turn 1
+A: Ugh, this headache is killing me. Crap. I need more Excedrin. STAT.I don't know how I'm going to finish this project on time.
+B: That sounds rough. Do you need some Excedrin? I think I have some in my desk.
+
+Turn 2
+A: That would be amazing, thank you. I just need something to get through the next few hours.
+B: No problem. Also, maybe take a quick five-minute break? Sometimes stepping away helps clear your head a bit.",Crap. I need more Excedrin. STAT.,negative
+"Turn 1
+A: You know, the problem of evil is one of the most compelling arguments against the existence of an all-powerful, all-good deity. How do you reconcile the existence of so much suffering in the world with the idea of a benevolent God?
+
+B: It's definitely a tough question. I think some people argue that suffering is a necessary part of free will or that it serves a greater purpose we can't fully understand. Personally, I don't subscribe to any religious beliefs, but I find those perspectives interesting to consider.
+
+Turn 2
+A: Right, the free will defense is a common one. I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it. But then, it raises more questions, like why an omnipotent being couldn't create a world where free will exists without so much suffering. It's a bit of a philosophical rabbit hole.
+
+B: Absolutely, and it seems like every answer just leads to more questions. Maybe that's why these debates have persisted for centuries. It's fascinating to see how different cultures and philosophies tackle the same fundamental issues in such varied ways.",neutral,2024-09-13T12:40:34.712000+00:00,"What was the person's sentiment when they said ""I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it."" during the conversation?","Turn 1
+A: You know, the problem of evil is one of the most compelling arguments against the existence of an all-powerful, all-good deity. How do you reconcile the existence of so much suffering in the world with the idea of a benevolent God?
+
+B: It's definitely a tough question. I think some people argue that suffering is a necessary part of free will or that it serves a greater purpose we can't fully understand. Personally, I don't subscribe to any religious beliefs, but I find those perspectives interesting to consider.
+
+Turn 2
+A: Right, the free will defense is a common one. I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it. But then, it raises more questions, like why an omnipotent being couldn't create a world where free will exists without so much suffering. It's a bit of a philosophical rabbit hole.
+
+B: Absolutely, and it seems like every answer just leads to more questions. Maybe that's why these debates have persisted for centuries. It's fascinating to see how different cultures and philosophies tackle the same fundamental issues in such varied ways.","I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it.",neutral
+"Turn 1
+A: You know, it was so packed at the networking event last night. At one point, I found myself practically shoulder-to-shoulder with that famous industry guy, John Smith. He was so close to me x
+B: Oh really? That must have been interesting. Did you get a chance to talk to him?
+
+Turn 2
+A: Not really, I was too focused on trying to make my way through the crowd without spilling my drink. It was just funny how close we were standing.
+B: Yeah, those events can get pretty chaotic. At least you got a good story out of it!",neutral,2024-09-13T12:39:29.345000+00:00,"What was the person's sentiment when they said ""He was so close to me x"" during the conversation?","Turn 1
+A: You know, it was so packed at the networking event last night. At one point, I found myself practically shoulder-to-shoulder with that famous industry guy, John Smith. He was so close to me x
+B: Oh really? That must have been interesting. Did you get a chance to talk to him?
+
+Turn 2
+A: Not really, I was too focused on trying to make my way through the crowd without spilling my drink. It was just funny how close we were standing.
+B: Yeah, those events can get pretty chaotic. At least you got a good story out of it!",He was so close to me x,neutral
+"Turn 1
+A: I just heard about the accident. I really hope Sam is okay. It's hard not knowing anything for sure.
+B: Yeah, it's really unsettling. I heard they were taken to the hospital, but we haven't gotten any updates yet. Let's try to stay positive.
+
+Turn 2
+A: You're right. Until we hear something official, we should keep our hopes up. I'm going to hold out hope for something minor even though it looked really bad. Just going to wait for the official news. Sam's a fighter, after all.
+B: Absolutely. And if there's anything we can do to help, we'll be ready. Let's just keep each other informed if we hear anything new.",positive,2024-09-13T12:38:56.729000+00:00,"What was the person's sentiment when they said ""I'm going to hold out hope for something minor even though it looked really bad. Just going to wait for the official news."" during the conversation?","Turn 1
+A: I just heard about the accident. I really hope Sam is okay. It's hard not knowing anything for sure.
+B: Yeah, it's really unsettling. I heard they were taken to the hospital, but we haven't gotten any updates yet. Let's try to stay positive.
+
+Turn 2
+A: You're right. Until we hear something official, we should keep our hopes up. I'm going to hold out hope for something minor even though it looked really bad. Just going to wait for the official news. Sam's a fighter, after all.
+B: Absolutely. And if there's anything we can do to help, we'll be ready. Let's just keep each other informed if we hear anything new.",I'm going to hold out hope for something minor even though it looked really bad. Just going to wait for the official news.,positive
+"Turn 1
+A: I've been sleeping so much better lately since I upgraded my bedding. It's made a world of difference.
+B: Really? I've been having trouble sleeping. What did you change?
+
+Turn 2
+A: I got a new mattress and some high-quality sheets. The mattress is super supportive, and the sheets are so soft. I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging It's like sleeping on a cloud.
+B: That sounds amazing. I might have to look into that. What brand did you go with?",positive,2024-09-13T12:41:26.378000+00:00,"What was the person's sentiment when they said ""I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging"" during the conversation?","Turn 1
+A: I've been sleeping so much better lately since I upgraded my bedding. It's made a world of difference.
+B: Really? I've been having trouble sleeping. What did you change?
+
+Turn 2
+A: I got a new mattress and some high-quality sheets. The mattress is super supportive, and the sheets are so soft. I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging It's like sleeping on a cloud.
+B: That sounds amazing. I might have to look into that. What brand did you go with?",I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging,positive
+"Turn 1
+A: Hey, I was thinking, since my place is pretty close to where we're planning to go, why don't we all stay at my house for the weekend? All the ladies can stay at my place. It has plenty of space, and it would be much easier for everyone.
+B: That sounds perfect! It would definitely make things simpler, and it would be great for all of us to stay together. Thanks so much for offering!
+
+Turn 2
+A: No problem at all! I'll make sure to set up the guest rooms and get everything ready. We can even have a barbecue in the backyard if the weather's nice.
+B: That sounds amazing! I'll let the others know. This is going to be such a fun trip. Thanks again, A, you're the best!",positive,2024-09-13T12:37:43.864000+00:00,"What was the person's sentiment when they said ""All the ladies can stay at my place."" during the conversation?","Turn 1
+A: Hey, I was thinking, since my place is pretty close to where we're planning to go, why don't we all stay at my house for the weekend? All the ladies can stay at my place. It has plenty of space, and it would be much easier for everyone.
+B: That sounds perfect! It would definitely make things simpler, and it would be great for all of us to stay together. Thanks so much for offering!
+
+Turn 2
+A: No problem at all! I'll make sure to set up the guest rooms and get everything ready. We can even have a barbecue in the backyard if the weather's nice.
+B: That sounds amazing! I'll let the others know. This is going to be such a fun trip. Thanks again, A, you're the best!",All the ladies can stay at my place.,positive
+"Turn 1
+A: ""Not again! Oh god another injuryThis team just can't catch a break with these injuries.""
+B: ""I know, it's like we're cursed this season. Every time we start to get some momentum, someone else goes down.""
+
+Turn 2
+A: ""It's so frustrating. We had such high hopes at the beginning of the season.""
+B: ""Yeah, it's tough to watch. Hopefully, the backups can step up and keep us in the game.""",negative,2024-09-13T12:37:56.112000+00:00,"What was the person's sentiment when they said ""Oh god another injury"" during the conversation?","Turn 1
+A: ""Not again! Oh god another injuryThis team just can't catch a break with these injuries.""
+B: ""I know, it's like we're cursed this season. Every time we start to get some momentum, someone else goes down.""
+
+Turn 2
+A: ""It's so frustrating. We had such high hopes at the beginning of the season.""
+B: ""Yeah, it's tough to watch. Hopefully, the backups can step up and keep us in the game.""",Oh god another injury,negative
+"Turn 1
+A: Cologne was absolutely amazing! The cathedral there is just breathtaking, and the whole city has such a vibrant energy. I love koln
+B: That sounds incredible! What was your favorite part about Cologne?
+
+Turn 2
+A: Definitely the local festivals. I was lucky enough to catch the Cologne Carnival, and it was such a blast—everyone was in costume, and the streets were filled with music and dancing.
+B: Wow, that must have been so much fun! Did you get to try any local food while you were there?",positive,2024-09-13T12:35:47.981000+00:00,"What was the person's sentiment when they said ""I love koln"" during the conversation?","Turn 1
+A: Cologne was absolutely amazing! The cathedral there is just breathtaking, and the whole city has such a vibrant energy. I love koln
+B: That sounds incredible! What was your favorite part about Cologne?
+
+Turn 2
+A: Definitely the local festivals. I was lucky enough to catch the Cologne Carnival, and it was such a blast—everyone was in costume, and the streets were filled with music and dancing.
+B: Wow, that must have been so much fun! Did you get to try any local food while you were there?",I love koln,positive
+"Turn 1
+A: I've been feeling really uneasy about my relationship with Chris lately. They've been acting so distant and secretive. I don't know what to think.
+B: I'm sorry you're feeling this way, A. Have you noticed any specific changes in their behavior that are worrying you?
+
+Turn 2
+A: Yeah, they've been coming home late without any explanation and seem to be glued to their phone all the time. She is probably cheating on you. :( It's like they're hiding something from me.
+B: That does sound concerning. I hate to say it, but do you think there's a chance they might be seeing someone else? It might be worth having an honest conversation with them about how you're feeling.",negative,2024-09-13T12:38:32.446000+00:00,"What was the person's sentiment when they said ""She is probably cheating on you. :("" during the conversation?","Turn 1
+A: I've been feeling really uneasy about my relationship with Chris lately. They've been acting so distant and secretive. I don't know what to think.
+B: I'm sorry you're feeling this way, A. Have you noticed any specific changes in their behavior that are worrying you?
+
+Turn 2
+A: Yeah, they've been coming home late without any explanation and seem to be glued to their phone all the time. She is probably cheating on you. :( It's like they're hiding something from me.
+B: That does sound concerning. I hate to say it, but do you think there's a chance they might be seeing someone else? It might be worth having an honest conversation with them about how you're feeling.",She is probably cheating on you. :(,negative
+"Turn 1
+A: We need to pick up some meats for the barbecue. Do you have any recommendations on where to shop?
+B: Yeah, I've had great experiences with Safeway. Their meat selection is top-notch and pretty affordable compared to other places.
+
+Turn 2
+A: That sounds perfect. I'll add Safeway to our list. I trust Safeway over Great Canadian Superstore for my meats. I know I'm not alone in that regard. Safeway has some pretty good cheaper meats. Anything specific you recommend from there?
+B: Definitely check out their marinated tri-tip. It's always a hit at my gatherings.",positive,2024-09-13T12:39:37.096000+00:00,"What was the person's sentiment when they said ""I trust Safeway over Great Canadian Superstore for my meats. I know I'm not alone in that regard. Safeway has some pretty good cheaper meats."" during the conversation?","Turn 1
+A: We need to pick up some meats for the barbecue. Do you have any recommendations on where to shop?
+B: Yeah, I've had great experiences with Safeway. Their meat selection is top-notch and pretty affordable compared to other places.
+
+Turn 2
+A: That sounds perfect. I'll add Safeway to our list. I trust Safeway over Great Canadian Superstore for my meats. I know I'm not alone in that regard. Safeway has some pretty good cheaper meats. Anything specific you recommend from there?
+B: Definitely check out their marinated tri-tip. It's always a hit at my gatherings.",I trust Safeway over Great Canadian Superstore for my meats. I know I'm not alone in that regard. Safeway has some pretty good cheaper meats.,positive
+"Turn 1
+A: I'm really thrilled about the new branding for our product. The fresh look and the expanded features are going to resonate so well with our users. Life Hack Attack has become Attack Everyone's Life and Hack. I love it.
+B: Absolutely! The feedback we've been getting is fantastic. I think the new design really captures the essence of what we're trying to achieve.
+
+Turn 2
+A: And the best part is, we've managed to keep the core functionality intact while making it more user-friendly. It's a win-win.
+B: Totally agree. Plus, the new marketing strategy should help us reach a much broader audience. I can't wait to see how it all unfolds.",positive,2024-09-13T12:40:55.929000+00:00,"What was the person's sentiment when they said ""Life Hack Attack has become Attack Everyone's Life and Hack. I love it."" during the conversation?","Turn 1
+A: I'm really thrilled about the new branding for our product. The fresh look and the expanded features are going to resonate so well with our users. Life Hack Attack has become Attack Everyone's Life and Hack. I love it.
+B: Absolutely! The feedback we've been getting is fantastic. I think the new design really captures the essence of what we're trying to achieve.
+
+Turn 2
+A: And the best part is, we've managed to keep the core functionality intact while making it more user-friendly. It's a win-win.
+B: Totally agree. Plus, the new marketing strategy should help us reach a much broader audience. I can't wait to see how it all unfolds.",Life Hack Attack has become Attack Everyone's Life and Hack. I love it.,positive
+"Turn 1
+A: We need to keep in mind that our critical milestone is 243 days away. Remindme! 243 days It's crucial we stay on track.
+B: Got it. I'll set a reminder for the team and make sure we have regular check-ins to monitor our progress.
+
+Turn 2
+A: Perfect. Let's also ensure we have a buffer for any unexpected delays.
+B: Absolutely. I'll build in some contingency time and update the timeline accordingly.",neutral,2024-09-13T12:41:10.163000+00:00,"What was the person's sentiment when they said ""Remindme! 243 days"" during the conversation?","Turn 1
+A: We need to keep in mind that our critical milestone is 243 days away. Remindme! 243 days It's crucial we stay on track.
+B: Got it. I'll set a reminder for the team and make sure we have regular check-ins to monitor our progress.
+
+Turn 2
+A: Perfect. Let's also ensure we have a buffer for any unexpected delays.
+B: Absolutely. I'll build in some contingency time and update the timeline accordingly.",Remindme! 243 days,neutral
+"Turn 1
+A: I'm glad I could help you out with that issue. It looked pretty frustrating.
+B: Thank you so much! I was really stuck, and your advice made all the difference. I don't know what I would have done without you.
+
+Turn 2
+A: Anytime! :) thank you!If you run into any more problems, just let me know.
+B: I definitely will. Thanks again, I really appreciate it!",positive,2024-09-13T12:40:41.529000+00:00,"What was the person's sentiment when they said "":) thank you!"" during the conversation?","Turn 1
+A: I'm glad I could help you out with that issue. It looked pretty frustrating.
+B: Thank you so much! I was really stuck, and your advice made all the difference. I don't know what I would have done without you.
+
+Turn 2
+A: Anytime! :) thank you!If you run into any more problems, just let me know.
+B: I definitely will. Thanks again, I really appreciate it!",:) thank you!,positive
+"Turn 1
+A: Hey B, I wanted to give you an update on the report. I've made good progress, but I'm running into a bit of a roadblock. We're missing some key data from the last quarter's sales figures. Do you have any idea where we can get those?
+
+B: Thanks for the update, A. I think the sales team should have that data. I can reach out to them and see if they can provide it. How soon do you need it?
+
+Turn 2
+A: That would be great, B. If we could get it by the end of the day, that would keep us on track. I have 3 words. More Material Needed. Also, I noticed we're low on some of the visual assets for the presentation. Do you know if the design team has any templates we can use?
+
+B: I'll check with the design team about the templates and get back to you as soon as possible. Let's aim to have everything ready by tomorrow morning so we can review it together. Sound good?
+
+A: Perfect, thanks for your help, B. I'll keep working on the other sections in the meantime.
+
+B: No problem, A. I'll update you as soon as I have the information. Let's make sure we stay on top of this.",negative,2024-09-13T12:35:35.082000+00:00,"What was the person's sentiment when they said ""I have 3 words. More Material Needed."" during the conversation?","Turn 1
+A: Hey B, I wanted to give you an update on the report. I've made good progress, but I'm running into a bit of a roadblock. We're missing some key data from the last quarter's sales figures. Do you have any idea where we can get those?
+
+B: Thanks for the update, A. I think the sales team should have that data. I can reach out to them and see if they can provide it. How soon do you need it?
+
+Turn 2
+A: That would be great, B. If we could get it by the end of the day, that would keep us on track. I have 3 words. More Material Needed. Also, I noticed we're low on some of the visual assets for the presentation. Do you know if the design team has any templates we can use?
+
+B: I'll check with the design team about the templates and get back to you as soon as possible. Let's aim to have everything ready by tomorrow morning so we can review it together. Sound good?
+
+A: Perfect, thanks for your help, B. I'll keep working on the other sections in the meantime.
+
+B: No problem, A. I'll update you as soon as I have the information. Let's make sure we stay on top of this.",I have 3 words. More Material Needed.,negative
+"Turn 1
+A: Ugh, this chair is really not as comfortable as I thought it would be.Probably, I knew this lawn chair was a bad idea.
+B: Oh no, are you okay? You look like you're in pain.
+
+Turn 2
+A: Yeah, my back is starting to hurt. I regret not testing it out before buying.
+B: That's a bummer. It's always tricky with furniture. Maybe we can find a way to make it more comfortable or look into returning it.",negative,2024-09-13T12:40:46.213000+00:00,"What was the person's sentiment when they said ""Probably, I knew this lawn chair was a bad idea."" during the conversation?","Turn 1
+A: Ugh, this chair is really not as comfortable as I thought it would be.Probably, I knew this lawn chair was a bad idea.
+B: Oh no, are you okay? You look like you're in pain.
+
+Turn 2
+A: Yeah, my back is starting to hurt. I regret not testing it out before buying.
+B: That's a bummer. It's always tricky with furniture. Maybe we can find a way to make it more comfortable or look into returning it.","Probably, I knew this lawn chair was a bad idea.",negative
+"Turn 1
+A: You know, New Haven has this incredible nighttime scenery that I think you'd love. The city lights give off this cool, futuristic vibe, especially around the Yale campus and the downtown area. New Haven has tons of locations that have strong cyber punk-y vibes at night!
+B: Really? That sounds intriguing. I do love places with a unique atmosphere. What makes it so special at night?
+
+Turn 2
+A: Well, the way the modern architecture blends with the historic buildings under the city lights is just stunning. Plus, there are some great spots with neon signs and art installations that really pop after dark.
+B: That sounds perfect! I'm definitely in for a trip to New Haven. Can't wait to see it for myself.",positive,2024-09-13T12:41:38.978000+00:00,"What was the person's sentiment when they said ""New Haven has tons of locations that have strong cyber punk-y vibes at night!"" during the conversation?","Turn 1
+A: You know, New Haven has this incredible nighttime scenery that I think you'd love. The city lights give off this cool, futuristic vibe, especially around the Yale campus and the downtown area. New Haven has tons of locations that have strong cyber punk-y vibes at night!
+B: Really? That sounds intriguing. I do love places with a unique atmosphere. What makes it so special at night?
+
+Turn 2
+A: Well, the way the modern architecture blends with the historic buildings under the city lights is just stunning. Plus, there are some great spots with neon signs and art installations that really pop after dark.
+B: That sounds perfect! I'm definitely in for a trip to New Haven. Can't wait to see it for myself.",New Haven has tons of locations that have strong cyber punk-y vibes at night!,positive
+"Turn 1
+A: Can you believe how well the new player has been fitting in? It's like he's been with the team for years! so glad we picked this guy up. was absolutely terrified when we played against him. dude was in the zone.
+B: I know, right? His performance has been incredible. That last game-winning goal was just what we needed.
+
+Turn 2
+A: Exactly! And his defensive skills have really tightened up our backline. I think he's the missing piece we've been looking for.
+B: Totally agree. If he keeps this up, we might actually have a shot at the championship this year.",positive,2024-09-13T12:37:35.562000+00:00,"What was the person's sentiment when they said ""so glad we picked this guy up. was absolutely terrified when we played against him. dude was in the zone."" during the conversation?","Turn 1
+A: Can you believe how well the new player has been fitting in? It's like he's been with the team for years! so glad we picked this guy up. was absolutely terrified when we played against him. dude was in the zone.
+B: I know, right? His performance has been incredible. That last game-winning goal was just what we needed.
+
+Turn 2
+A: Exactly! And his defensive skills have really tightened up our backline. I think he's the missing piece we've been looking for.
+B: Totally agree. If he keeps this up, we might actually have a shot at the championship this year.",so glad we picked this guy up. was absolutely terrified when we played against him. dude was in the zone.,positive
+"Turn 1
+A: Your brother seems like a really cool guy. You have a nice bro.I enjoyed talking to him.
+B: Thanks! He's always been good at making friends. I'm glad you two hit it off.
+
+Turn 2
+A: Yeah, he's got a great sense of humor. You must have a lot of fun together.
+B: We do! He's always been the life of the party. It's nice to see others appreciate that too.",positive,2024-09-13T12:39:03.314000+00:00,"What was the person's sentiment when they said ""You have a nice bro."" during the conversation?","Turn 1
+A: Your brother seems like a really cool guy. You have a nice bro.I enjoyed talking to him.
+B: Thanks! He's always been good at making friends. I'm glad you two hit it off.
+
+Turn 2
+A: Yeah, he's got a great sense of humor. You must have a lot of fun together.
+B: We do! He's always been the life of the party. It's nice to see others appreciate that too.",You have a nice bro.,positive
+"Turn 1
+A: I just can't believe I have to take this medication for the rest of my life. It's so overwhelming.
+B: I can only imagine how tough that must be. It's a big adjustment, but I'm here for you. Have you talked to the doctor about all your concerns?
+
+Turn 2
+A: Yeah, I did. They said it's the best way to manage my condition, but it still feels like a lot to handle. And then you're stuck on that medication for life, sounds like a scary trade-off.
+B: It's completely normal to feel that way. Maybe we can look into some support groups or resources together? It might help to talk to others who are going through the same thing.",negative,2024-09-13T12:39:10.779000+00:00,"What was the person's sentiment when they said ""And then you're stuck on that medication for life, sounds like a scary trade-off."" during the conversation?","Turn 1
+A: I just can't believe I have to take this medication for the rest of my life. It's so overwhelming.
+B: I can only imagine how tough that must be. It's a big adjustment, but I'm here for you. Have you talked to the doctor about all your concerns?
+
+Turn 2
+A: Yeah, I did. They said it's the best way to manage my condition, but it still feels like a lot to handle. And then you're stuck on that medication for life, sounds like a scary trade-off.
+B: It's completely normal to feel that way. Maybe we can look into some support groups or resources together? It might help to talk to others who are going through the same thing.","And then you're stuck on that medication for life, sounds like a scary trade-off.",negative
+"Turn 1
+A: Hey B, I know you didn't mean anything by it, but that joke you made earlier touched on a sensitive topic for me. I'm autistic and I'd appreciate if you remove that comment. Thanks. Could you please avoid making comments like that in the future?
+B: Oh, I'm really sorry, A. I didn't realize it was a sensitive issue. Thanks for letting me know. I'll definitely be more careful.
+
+Turn 2
+A: I appreciate your understanding. It's important for me to feel comfortable while we're working together.
+B: Absolutely, A. Your comfort is important to me too. Let's keep the communication open, and if there's anything else, just let me know.",negative,2024-09-13T12:36:04.282000+00:00,"What was the person's sentiment when they said ""I'm autistic and I'd appreciate if you remove that comment. Thanks."" during the conversation?","Turn 1
+A: Hey B, I know you didn't mean anything by it, but that joke you made earlier touched on a sensitive topic for me. I'm autistic and I'd appreciate if you remove that comment. Thanks. Could you please avoid making comments like that in the future?
+B: Oh, I'm really sorry, A. I didn't realize it was a sensitive issue. Thanks for letting me know. I'll definitely be more careful.
+
+Turn 2
+A: I appreciate your understanding. It's important for me to feel comfortable while we're working together.
+B: Absolutely, A. Your comfort is important to me too. Let's keep the communication open, and if there's anything else, just let me know.",I'm autistic and I'd appreciate if you remove that comment. Thanks.,negative
