@@ -35,21 +35,24 @@ const shuffleArray = (array) => {
 // Map dataset filenames to specific order of choices
 const choiceOrderMap = {
   'set_4.csv': [
-    { label: 'Polite', value: 'Polite' },
-    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
-    { label: 'Impolite', value: 'Impolite' }
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' }
   ],
   'set_5.csv': [
-    { label: 'Impolite', value: 'Impolite' },
-    { label: 'Polite', value: 'Polite' },
-    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' }
+    { label: 'Negative', value: 'negative' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Neutral', value: 'neutral' },
+    { label: 'Ambiguous', value: 'ambiguous' }
   ],
   'set_6.csv': [
-    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
-    { label: 'Polite', value: 'Polite' },
-    { label: 'Impolite', value: 'Impolite' }
+    { label: 'Neutral', value: 'neutral' },
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' }
   ],
-  // Add more datasets with different choice orders if needed
+  // Add more datasets if needed
 };
 
 const attentionChecks = [
@@ -69,7 +72,7 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_6.csv'); // Track the dataset being used
+  const [currentDataset, setCurrentDataset] = useState('set_4.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
@@ -79,37 +82,33 @@ function App() {
     loadCSV(`data/${currentDataset}`)
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
-        .map(item => ({
-          question: `Was the person intended to be polite when they said "${item.original_data}" in the conversation?`,
-          statement: item.conversation,
-          note: item.note || '',
-          isAttentionCheck: false
-        }));
+          .map(item => ({
+            question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
+            statement: item.conversation,
+            note: item.note || '',
+            isAttentionCheck: false
+          }));
         const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
         setQuestions(allQuestions);
       })
       .catch((error) => {
         console.error('Error loading CSV:', error);
       });
-  }, [currentDataset]); // Re-run when currentDataset changes
+  }, [currentDataset]);
 
   useEffect(() => {
-    loadCSV(`data/${currentDataset}`)
-      .then((data) => {
-        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
-        .map(item => ({
-          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
-          statement: item.conversation,
-          note: item.note || '',
-          isAttentionCheck: false
-        }));
-        const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
-        setQuestions(allQuestions);
-      })
-      .catch((error) => {
-        console.error('Error loading CSV:', error);
-      });
-  }, [currentDataset]); // Re-run when currentDataset changes
+    if (questions.length > 0) {
+      const currentQuestion = questions[currentQuestionIndex];
+      const choices = currentQuestion.isAttentionCheck
+        ? [
+            { label: 'True', value: 'True' },
+            { label: 'False', value: 'False' }
+          ]
+        : choiceOrderMap[currentDataset]; // Use dataset-specific order of choices
+
+      setShuffledChoices(choices); // No shuffle for regular questions, using predefined order
+    }
+  }, [currentQuestionIndex, questions, currentDataset]);
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -133,7 +132,7 @@ function App() {
       // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
       const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
       // Update Prolific ID using just the number from the dataset
-      let updatedProlificID = `Full-Politeness-${setNumber}-${prolificID}`;
+      let updatedProlificID = `Full-SemT6_Sentiment-${setNumber}-${prolificID}`;
       
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
@@ -146,18 +145,6 @@ function App() {
 
   const handleDemographicsComplete = async (demographicsData) => {
     console.log('Demographics survey completed');
-  };
-
-  const parseConversation = (conversation) => {
-    return conversation.split('\n').map((line, index) => {
-      const trimmedLine = line.trim();
-      if (trimmedLine.startsWith('A:')) {
-        return { speaker: 'A', content: trimmedLine.substring(2).trim() };
-      } else if (trimmedLine.startsWith('B:')) {
-        return { speaker: 'B', content: trimmedLine.substring(2).trim() };
-      }
-      return null;
-    }).filter(Boolean);
   };
 
   const currentQuestion = questions[currentQuestionIndex]?.question || 'Loading...';
@@ -187,7 +174,7 @@ function App() {
               </p>
             ))}
             {isAttentionCheck && <p>{currentStatement}</p>}
-          </div>
+          </div>          
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
