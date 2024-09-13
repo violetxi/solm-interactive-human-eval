@@ -1,0 +1,271 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: It's just so frustrating, you know? I read this article about the crisis in Yemen, and it's heartbreaking. There are so many resources in wealthier countries, yet people are still suffering so much. Why isn't more being done to help?
+
+B: I know what you mean. It feels like there's a huge disconnect. Sometimes it seems like the political and logistical barriers are just too overwhelming, but it's hard to accept that as an excuse when lives are at stake.
+
+Turn 2
+A: Exactly. It makes me wonder if people are just turning a blind eye because it's not happening in their backyard. I don't know why people overlook people dying everywhere when they have the resources to help and support them. But how can we be okay with that? We have the means to make a difference.
+
+B: It's a tough reality. I think part of the problem is that people feel powerless or unsure of how to help. Maybe if there were more awareness and clearer ways to contribute, more people would get involved. We need to find ways to bridge that gap.",Not Sarcastic,2024-09-13T00:08:05.672000+00:00,"Was the person intended to be sarcastic when ""I don't know why people overlook people dying everywhere when they have the resources to help and support them."" was said during the conversation?","Turn 1
+A: It's just so frustrating, you know? I read this article about the crisis in Yemen, and it's heartbreaking. There are so many resources in wealthier countries, yet people are still suffering so much. Why isn't more being done to help?
+
+B: I know what you mean. It feels like there's a huge disconnect. Sometimes it seems like the political and logistical barriers are just too overwhelming, but it's hard to accept that as an excuse when lives are at stake.
+
+Turn 2
+A: Exactly. It makes me wonder if people are just turning a blind eye because it's not happening in their backyard. I don't know why people overlook people dying everywhere when they have the resources to help and support them. But how can we be okay with that? We have the means to make a difference.
+
+B: It's a tough reality. I think part of the problem is that people feel powerless or unsure of how to help. Maybe if there were more awareness and clearer ways to contribute, more people would get involved. We need to find ways to bridge that gap.",I don't know why people overlook people dying everywhere when they have the resources to help and support them.,Not Sarcastic
+"Turn 1
+A: It was really touching how everyone shared their memories during the speeches last night. The farewell meet at Glasgow was emotional :')You could feel the deep connection and sadness in the room.
+B: Absolutely. The atmosphere was so genuine and heartfelt. It was one of those moments that really stays with you.
+
+Turn 2
+A: I especially loved how even the quietest people had something meaningful to say. It showed how much our friend meant to everyone.
+B: Yes, and it was clear that every word came from the heart. It was a beautiful send-off, and I'm sure our friend felt truly appreciated.",Not Sarcastic,2024-09-13T00:05:41.156000+00:00,"Was the person intended to be sarcastic when ""The farewell meet at Glasgow was emotional :')"" was said during the conversation?","Turn 1
+A: It was really touching how everyone shared their memories during the speeches last night. The farewell meet at Glasgow was emotional :')You could feel the deep connection and sadness in the room.
+B: Absolutely. The atmosphere was so genuine and heartfelt. It was one of those moments that really stays with you.
+
+Turn 2
+A: I especially loved how even the quietest people had something meaningful to say. It showed how much our friend meant to everyone.
+B: Yes, and it was clear that every word came from the heart. It was a beautiful send-off, and I'm sure our friend felt truly appreciated.",The farewell meet at Glasgow was emotional :'),Not Sarcastic
+"Turn 1
+A: Can you believe some people actually think the Omicron variant is part of some grand conspiracy?
+B: Oh, totally. I mean, clearly the virus has a calendar and decided to make a dramatic entrance just in time for the holidays. 
+
+Turn 2
+A: Right? And the name Omicron sounds like something out of a sci-fi movie. I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas! 
+B: Exactly! Next thing you know, they'll be saying it's an alien plot to take over the world.",Sarcastic,2024-09-13T00:10:20.067000+00:00,"Was the person intended to be sarcastic when ""I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas!"" was said during the conversation?","Turn 1
+A: Can you believe some people actually think the Omicron variant is part of some grand conspiracy?
+B: Oh, totally. I mean, clearly the virus has a calendar and decided to make a dramatic entrance just in time for the holidays. 
+
+Turn 2
+A: Right? And the name Omicron sounds like something out of a sci-fi movie. I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas! 
+B: Exactly! Next thing you know, they'll be saying it's an alien plot to take over the world.",I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas!,Sarcastic
+"Turn 1
+A: I can't believe I missed the concert. I've been looking forward to it for months.
+B: I know, it was incredible. The energy in the crowd was just insane, and the band was on fire. You would have loved it.
+
+Turn 2
+A: I would have done anything to be there. i would've sold my kidney to be there It sounds like it was a once-in-a-lifetime experience.
+B: It really was. But don't worry, we'll catch the next one together. I'll make sure of it.",Sarcastic,2024-09-13T00:09:22.814000+00:00,"Was the person intended to be sarcastic when ""i would've sold my kidney to be there"" was said during the conversation?","Turn 1
+A: I can't believe I missed the concert. I've been looking forward to it for months.
+B: I know, it was incredible. The energy in the crowd was just insane, and the band was on fire. You would have loved it.
+
+Turn 2
+A: I would have done anything to be there. i would've sold my kidney to be there It sounds like it was a once-in-a-lifetime experience.
+B: It really was. But don't worry, we'll catch the next one together. I'll make sure of it.",i would've sold my kidney to be there,Sarcastic
+"Turn 1
+A: Ugh, this power outage is such a bummer. sometimes it seems like there's nothing to do when the power is outI was really looking forward to watching that movie.
+B: Yeah, it's a shame. But hey, we can still have fun. How about we play a board game or just chat for a while?
+
+Turn 2
+A: Hmm, a board game sounds good. It's been a while since we played one. Do you have any preferences?
+B: Let's go with something classic like Scrabble. It'll be fun to see who can come up with the best words in this candlelight.",Not Sarcastic,2024-09-13T00:04:01.479000+00:00,"Was the person intended to be sarcastic when ""sometimes it seems like there's nothing to do when the power is out"" was said during the conversation?","Turn 1
+A: Ugh, this power outage is such a bummer. sometimes it seems like there's nothing to do when the power is outI was really looking forward to watching that movie.
+B: Yeah, it's a shame. But hey, we can still have fun. How about we play a board game or just chat for a while?
+
+Turn 2
+A: Hmm, a board game sounds good. It's been a while since we played one. Do you have any preferences?
+B: Let's go with something classic like Scrabble. It'll be fun to see who can come up with the best words in this candlelight.",sometimes it seems like there's nothing to do when the power is out,Not Sarcastic
+"Turn 1
+A: You know, if I could visit any fictional world, I'd love to experience a magical Christmas at Hogwarts. If there's one fictional place I could go, Christmas at Hogwarts would be that place Just imagine the Great Hall all decorated with enchanted snow and those massive Christmas trees!
+B: Oh, that would be incredible! The feasts, the decorations, and the cozy common rooms. I can almost smell the Christmas pudding now.
+
+Turn 2
+A: Right? And the idea of getting presents delivered by owls and spending the holidays with friends in such a magical place sounds perfect.
+B: Absolutely. Plus, the idea of exploring the castle during the holidays, with all its hidden secrets and festive charm, is just too good to pass up.",Not Sarcastic,2024-09-13T00:01:47.623000+00:00,"Was the person intended to be sarcastic when ""If there's one fictional place I could go, Christmas at Hogwarts would be that place"" was said during the conversation?","Turn 1
+A: You know, if I could visit any fictional world, I'd love to experience a magical Christmas at Hogwarts. If there's one fictional place I could go, Christmas at Hogwarts would be that place Just imagine the Great Hall all decorated with enchanted snow and those massive Christmas trees!
+B: Oh, that would be incredible! The feasts, the decorations, and the cozy common rooms. I can almost smell the Christmas pudding now.
+
+Turn 2
+A: Right? And the idea of getting presents delivered by owls and spending the holidays with friends in such a magical place sounds perfect.
+B: Absolutely. Plus, the idea of exploring the castle during the holidays, with all its hidden secrets and festive charm, is just too good to pass up.","If there's one fictional place I could go, Christmas at Hogwarts would be that place",Not Sarcastic
+"Turn 1
+A: I've been feeling so overwhelmed with this project at work. It's like no matter how much effort I put in, I can't seem to make any progress. I've completely lost my will power.  If anyone finds it please can you return it. I'm just exhausted.
+B: I can imagine how tough that must be. You've always been so dedicated, and it's frustrating when things don't go as planned. But remember, it's okay to take a break and recharge.
+
+Turn 2
+A: Thanks, I really needed to hear that. Sometimes I feel like I'm just spinning my wheels and not getting anywhere.
+B: You're doing your best, and that's what matters. Maybe breaking the project into smaller tasks could help make it feel more manageable. And don't forget, I'm here if you need to vent or need any help.",Ambiguous,2024-09-13T00:02:25.012000+00:00,"Was the person intended to be sarcastic when ""I've completely lost my will power.  If anyone finds it please can you return it."" was said during the conversation?","Turn 1
+A: I've been feeling so overwhelmed with this project at work. It's like no matter how much effort I put in, I can't seem to make any progress. I've completely lost my will power.  If anyone finds it please can you return it. I'm just exhausted.
+B: I can imagine how tough that must be. You've always been so dedicated, and it's frustrating when things don't go as planned. But remember, it's okay to take a break and recharge.
+
+Turn 2
+A: Thanks, I really needed to hear that. Sometimes I feel like I'm just spinning my wheels and not getting anywhere.
+B: You're doing your best, and that's what matters. Maybe breaking the project into smaller tasks could help make it feel more manageable. And don't forget, I'm here if you need to vent or need any help.",I've completely lost my will power.  If anyone finds it please can you return it.,Ambiguous
+"Turn 1
+A: You know, these political scandals often serve as a smokescreen. So often a scandal comes out to cover up something else that's going on… They grab all the headlines and keep people distracted from more pressing issues.
+B: Really? I always thought they were just about exposing corruption or misconduct. What kind of issues do you think they're trying to divert attention from?
+
+Turn 2
+A: Well, it could be anything from economic problems to policy failures. For instance, while everyone's focused on the scandal, there might be significant legislation being passed quietly or economic data being released that would otherwise cause public outcry.
+B: That makes sense. So, it's like a strategic move to control the narrative and keep the public's focus away from more damaging topics?",Not Sarcastic,2024-09-13T00:09:55.851000+00:00,"Was the person intended to be sarcastic when ""So often a scandal comes out to cover up something else that's going on…"" was said during the conversation?","Turn 1
+A: You know, these political scandals often serve as a smokescreen. So often a scandal comes out to cover up something else that's going on… They grab all the headlines and keep people distracted from more pressing issues.
+B: Really? I always thought they were just about exposing corruption or misconduct. What kind of issues do you think they're trying to divert attention from?
+
+Turn 2
+A: Well, it could be anything from economic problems to policy failures. For instance, while everyone's focused on the scandal, there might be significant legislation being passed quietly or economic data being released that would otherwise cause public outcry.
+B: That makes sense. So, it's like a strategic move to control the narrative and keep the public's focus away from more damaging topics?",So often a scandal comes out to cover up something else that's going on…,Not Sarcastic
+"Turn 1
+A: ""I guess the 'maximum capacity' sign is just a suggestion now, huh? yeah man just walk right in. clearly you can read the sign that says ""only two patients inside at once"" when there are already four people in here cant you""
+B: ""Oh, sorry, I didn't see it. I'll wait outside.""
+
+Turn 2
+A: ""Thanks, it's just really cramped in here.""
+B: ""No problem, hope you get seen soon.""",Sarcastic,2024-09-13T00:08:31.424000+00:00,"Was the person intended to be sarcastic when ""yeah man just walk right in. clearly you can read the sign that says ""only two patients inside at once"" when there are already four people in here cant you"" was said during the conversation?","Turn 1
+A: ""I guess the 'maximum capacity' sign is just a suggestion now, huh? yeah man just walk right in. clearly you can read the sign that says ""only two patients inside at once"" when there are already four people in here cant you""
+B: ""Oh, sorry, I didn't see it. I'll wait outside.""
+
+Turn 2
+A: ""Thanks, it's just really cramped in here.""
+B: ""No problem, hope you get seen soon.""",yeah man just walk right in. clearly you can read the sign that says ,Sarcastic
+"Turn 1
+A: I just... I can't talk about it right now. no cause i wanna cry now It's too much.
+B: It's okay, you don't have to explain. I'm here for you, whatever you need.
+
+Turn 2
+A: Thanks, I just need some time to clear my head.
+B: Take all the time you need. I'm not going anywhere.",Not Sarcastic,2024-09-13T00:06:07.223000+00:00,"Was the person intended to be sarcastic when ""no cause i wanna cry now"" was said during the conversation?","Turn 1
+A: I just... I can't talk about it right now. no cause i wanna cry now It's too much.
+B: It's okay, you don't have to explain. I'm here for you, whatever you need.
+
+Turn 2
+A: Thanks, I just need some time to clear my head.
+B: Take all the time you need. I'm not going anywhere.",no cause i wanna cry now,Not Sarcastic
+"Turn 1
+A: ""You know, I always plan to start a new fitness routine every Monday, but by Wednesday, I'm back to my old habits.""
+B: ""Oh, really? I thought your fitness routine was just thinking about it while eating a donut.""
+
+Turn 2
+A: ""Hey, I do more than just think about it! Sometimes I lay in bed and think about how today will be the day I make my life better. Exercise, drinking water, eating healthy. Then I wake up. I even bought new workout clothes last month.""
+B: ""And let me guess, they're still in the bag with the tags on, right?""",Sarcastic,2024-09-13T00:03:39.345000+00:00,"Was the person intended to be sarcastic when ""Sometimes I lay in bed and think about how today will be the day I make my life better. Exercise, drinking water, eating healthy. Then I wake up."" was said during the conversation?","Turn 1
+A: ""You know, I always plan to start a new fitness routine every Monday, but by Wednesday, I'm back to my old habits.""
+B: ""Oh, really? I thought your fitness routine was just thinking about it while eating a donut.""
+
+Turn 2
+A: ""Hey, I do more than just think about it! Sometimes I lay in bed and think about how today will be the day I make my life better. Exercise, drinking water, eating healthy. Then I wake up. I even bought new workout clothes last month.""
+B: ""And let me guess, they're still in the bag with the tags on, right?""","Sometimes I lay in bed and think about how today will be the day I make my life better. Exercise, drinking water, eating healthy. Then I wake up.",Sarcastic
+"Turn 1
+A: I was at the grocery store yesterday and saw so many people without masks. It's like they don't care about the health advisories at all. I'm so glad that smart people are still refusing to wear masks in shops. Thanks to their selflessness it highlights that if we just ignore something it'll go away – don't know why we haven't all tried it.
+B: Oh, sure, because ignoring the problem will definitely make it go away. Brilliant strategy, right?
+
+Turn 2
+A: I know, it's frustrating. You'd think after all this time, people would take it more seriously.
+B: Exactly. It's not that hard to wear a mask. It's just common sense and basic courtesy at this point.",Sarcastic,2024-09-13T00:06:36.941000+00:00,"Was the person intended to be sarcastic when ""I'm so glad that smart people are still refusing to wear masks in shops. Thanks to their selflessness it highlights that if we just ignore something it'll go away – don't know why we haven't all tried it."" was said during the conversation?","Turn 1
+A: I was at the grocery store yesterday and saw so many people without masks. It's like they don't care about the health advisories at all. I'm so glad that smart people are still refusing to wear masks in shops. Thanks to their selflessness it highlights that if we just ignore something it'll go away – don't know why we haven't all tried it.
+B: Oh, sure, because ignoring the problem will definitely make it go away. Brilliant strategy, right?
+
+Turn 2
+A: I know, it's frustrating. You'd think after all this time, people would take it more seriously.
+B: Exactly. It's not that hard to wear a mask. It's just common sense and basic courtesy at this point.",I'm so glad that smart people are still refusing to wear masks in shops. Thanks to their selflessness it highlights that if we just ignore something it'll go away – don't know why we haven't all tried it.,Sarcastic
+"Turn 1
+A: These gas prices are killing my budget. I hate paying so much for gas.I feel like I'm spending way more than I used to just to get to work.
+B: Tell me about it. It's really adding up. I've been trying to find ways to cut back on other expenses, but it's tough.
+
+Turn 2
+A: Yeah, same here. I've been thinking about maybe cooking more at home instead of eating out. It might save a bit.
+B: That's a good idea. I've also been considering biking to work a couple of days a week. It could save on gas and be a good workout too.",Not Sarcastic,2024-09-13T00:07:06.630000+00:00,"Was the person intended to be sarcastic when ""I hate paying so much for gas."" was said during the conversation?","Turn 1
+A: These gas prices are killing my budget. I hate paying so much for gas.I feel like I'm spending way more than I used to just to get to work.
+B: Tell me about it. It's really adding up. I've been trying to find ways to cut back on other expenses, but it's tough.
+
+Turn 2
+A: Yeah, same here. I've been thinking about maybe cooking more at home instead of eating out. It might save a bit.
+B: That's a good idea. I've also been considering biking to work a couple of days a week. It could save on gas and be a good workout too.",I hate paying so much for gas.,Not Sarcastic
+"Turn 1
+A: ""Oh, did you read that article claiming traditional gender roles are the backbone of a healthy society? I think men are better than women, they provide for us. We should thank them more often for being protectors. Next, they'll be telling us we should all go back to using typewriters and carrier pigeons.""
+B: *laughs* ""Right? It's like they want to rewind the clock a few centuries. I can't believe people still buy into that nonsense.""
+
+Turn 2
+A: ""Exactly. It's like they completely ignore the progress we've made. Gender equality isn't just a 'nice-to-have'; it's essential for a fair and just society.""
+B: ""Absolutely. And it's not just about fairness; it's about tapping into everyone's potential. Why limit what people can achieve based on outdated stereotypes?""",Sarcastic,2024-09-13T00:05:18.401000+00:00,"Was the person intended to be sarcastic when ""I think men are better than women, they provide for us. We should thank them more often for being protectors."" was said during the conversation?","Turn 1
+A: ""Oh, did you read that article claiming traditional gender roles are the backbone of a healthy society? I think men are better than women, they provide for us. We should thank them more often for being protectors. Next, they'll be telling us we should all go back to using typewriters and carrier pigeons.""
+B: *laughs* ""Right? It's like they want to rewind the clock a few centuries. I can't believe people still buy into that nonsense.""
+
+Turn 2
+A: ""Exactly. It's like they completely ignore the progress we've made. Gender equality isn't just a 'nice-to-have'; it's essential for a fair and just society.""
+B: ""Absolutely. And it's not just about fairness; it's about tapping into everyone's potential. Why limit what people can achieve based on outdated stereotypes?""","I think men are better than women, they provide for us. We should thank them more often for being protectors.",Sarcastic
+"Turn 1
+A: ""Last night at Wimbledon was fantastic, wasn't it? Great night with good people at Wimbledon along with AGS EC1 DO1 and the members in good form recognising the challenges ahead It was great to see everyone so relaxed and enjoying themselves outside of work.""
+B: ""Absolutely, it was a nice change of pace. I think it really helped strengthen our team bond. Did you catch the match between Federer and Nadal? It was incredible!""
+
+Turn 2
+A: ""Yes, that was a highlight for sure. And speaking of team bonding, I think it's going to be crucial as we tackle the upcoming project. We need to be as cohesive as we were last night.""
+B: ""I agree. The way we supported each other at the event should translate well into our work. Let's make sure we keep that positive energy going as we prepare for the next big challenge.""",Not Sarcastic,2024-09-13T00:09:00.813000+00:00,"Was the person intended to be sarcastic when ""Great night with good people at Wimbledon along with AGS EC1 DO1 and the members in good form recognising the challenges ahead"" was said during the conversation?","Turn 1
+A: ""Last night at Wimbledon was fantastic, wasn't it? Great night with good people at Wimbledon along with AGS EC1 DO1 and the members in good form recognising the challenges ahead It was great to see everyone so relaxed and enjoying themselves outside of work.""
+B: ""Absolutely, it was a nice change of pace. I think it really helped strengthen our team bond. Did you catch the match between Federer and Nadal? It was incredible!""
+
+Turn 2
+A: ""Yes, that was a highlight for sure. And speaking of team bonding, I think it's going to be crucial as we tackle the upcoming project. We need to be as cohesive as we were last night.""
+B: ""I agree. The way we supported each other at the event should translate well into our work. Let's make sure we keep that positive energy going as we prepare for the next big challenge.""",Great night with good people at Wimbledon along with AGS EC1 DO1 and the members in good form recognising the challenges ahead,Not Sarcastic
+"Turn 1
+A: ""I see you're quite impressed with how everyone's following the new policies.""
+B: ""Absolutely! It's amazing to see such a positive response. I think it's really making a difference.""
+
+Turn 2
+A: ""Oh, sure, because nothing says 'efficient workplace' like doubling the paperwork and adding extra meetings.I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times""
+B: ""Well, I guess it depends on how you look at it. I think the structure helps keep things organized.""",Sarcastic,2024-09-13T00:01:13.659000+00:00,"Was the person intended to be sarcastic when ""I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times"" was said during the conversation?","Turn 1
+A: ""I see you're quite impressed with how everyone's following the new policies.""
+B: ""Absolutely! It's amazing to see such a positive response. I think it's really making a difference.""
+
+Turn 2
+A: ""Oh, sure, because nothing says 'efficient workplace' like doubling the paperwork and adding extra meetings.I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times""
+B: ""Well, I guess it depends on how you look at it. I think the structure helps keep things organized.""",I would like to offer my complete support for the new rules as they have obviously supported the public by sticking to them at all times,Sarcastic
+"Turn 1
+A: Wow, look at all this snow! It's perfect for the festival. Brrrr it's cold outside...
+
+I love it! I can't wait to go ice skating!
+B: Yeah, it does look pretty nice. I'm more excited about checking out the holiday market, though.
+
+Turn 2
+A: Oh, definitely! I heard they have some amazing hot cocoa there. We should grab some after skating.
+B: Sounds like a plan. I'm looking forward to spending the day with you, no matter what we do.",Not Sarcastic,2024-09-13T00:07:21.724000+00:00,"Was the person intended to be sarcastic when ""Brrrr it's cold outside...
+
+I love it!"" was said during the conversation?","Turn 1
+A: Wow, look at all this snow! It's perfect for the festival. Brrrr it's cold outside...
+
+I love it! I can't wait to go ice skating!
+B: Yeah, it does look pretty nice. I'm more excited about checking out the holiday market, though.
+
+Turn 2
+A: Oh, definitely! I heard they have some amazing hot cocoa there. We should grab some after skating.
+B: Sounds like a plan. I'm looking forward to spending the day with you, no matter what we do.",,Not Sarcastic
+"Turn 1
+A: ""Oh, Anthony Taylor was so 'fair' today, wasn't he? Another classic performance. Anthony Taylor is such a fair referee, I wish he was put in charge of more chelsea matches""
+B: ""Seriously, it's like he has a personal vendetta against us. How does he keep getting these matches?""
+
+Turn 2
+A: ""I know, right? That penalty decision was a joke. It's like he doesn't even try to hide his bias.""
+B: ""And don't get me started on that red card. It's infuriating how he always seems to find a way to mess things up for us.""",Sarcastic,2024-09-13T00:02:45.788000+00:00,"Was the person intended to be sarcastic when ""Anthony Taylor is such a fair referee, I wish he was put in charge of more chelsea matches"" was said during the conversation?","Turn 1
+A: ""Oh, Anthony Taylor was so 'fair' today, wasn't he? Another classic performance. Anthony Taylor is such a fair referee, I wish he was put in charge of more chelsea matches""
+B: ""Seriously, it's like he has a personal vendetta against us. How does he keep getting these matches?""
+
+Turn 2
+A: ""I know, right? That penalty decision was a joke. It's like he doesn't even try to hide his bias.""
+B: ""And don't get me started on that red card. It's infuriating how he always seems to find a way to mess things up for us.""","Anthony Taylor is such a fair referee, I wish he was put in charge of more chelsea matches",Sarcastic
+"Turn 1
+A: Looks like it's going to rain again today. Oh what a surprise BBC weather says it's raining in Manchester! in Manchester!The forecast says showers all afternoon.
+B: Shocking. Rain in Manchester? Who would've guessed?
+
+Turn 2
+A: I know, right? We should just start carrying umbrellas permanently.
+B: Or maybe invest in a canoe for the commute.",Sarcastic,2024-09-13T00:03:02.097000+00:00,"Was the person intended to be sarcastic when ""Oh what a surprise BBC weather says it's raining in Manchester! in Manchester!"" was said during the conversation?","Turn 1
+A: Looks like it's going to rain again today. Oh what a surprise BBC weather says it's raining in Manchester! in Manchester!The forecast says showers all afternoon.
+B: Shocking. Rain in Manchester? Who would've guessed?
+
+Turn 2
+A: I know, right? We should just start carrying umbrellas permanently.
+B: Or maybe invest in a canoe for the commute.",Oh what a surprise BBC weather says it's raining in Manchester! in Manchester!,Sarcastic
+"Turn 1
+A: You won't believe it, the restaurant was a total letdown.
+B: No way! After all that hype? What happened?
+
+Turn 2
+A: The service was slow, and the food was just... meh. I went to the best restaurant today for dinner. It was absolutely amazing. My steak was cold and the fries were rock solid. I expected my food to be mouth watering and it sure was when I had to wash each bite down with my drink.I think my homemade pasta is better.
+B: Oh no, that's tragic! At least you have a funny story to tell now.",Sarcastic,2024-09-13T00:04:28.356000+00:00,"Was the person intended to be sarcastic when ""I went to the best restaurant today for dinner. It was absolutely amazing. My steak was cold and the fries were rock solid. I expected my food to be mouth watering and it sure was when I had to wash each bite down with my drink."" was said during the conversation?","Turn 1
+A: You won't believe it, the restaurant was a total letdown.
+B: No way! After all that hype? What happened?
+
+Turn 2
+A: The service was slow, and the food was just... meh. I went to the best restaurant today for dinner. It was absolutely amazing. My steak was cold and the fries were rock solid. I expected my food to be mouth watering and it sure was when I had to wash each bite down with my drink.I think my homemade pasta is better.
+B: Oh no, that's tragic! At least you have a funny story to tell now.",I went to the best restaurant today for dinner. It was absolutely amazing. My steak was cold and the fries were rock solid. I expected my food to be mouth watering and it sure was when I had to wash each bite down with my drink.,Sarcastic
