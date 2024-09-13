@@ -1,0 +1,265 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I just saw Ashley Bloomfield talking about a rare side effect of the COVID-19 vaccine. It's making me even more hesitant to get it.
+B: I understand your concern, but remember that all medications have potential side effects. The key is that the benefits of the vaccine far outweigh the risks, especially with how effective it is at preventing severe illness.
+
+Turn 2
+A: I get that, but it still worries me. Ashley Bloomfield ""we need to ensure that COSUMERS are well informed of this rare side effect and know when to seek help."" -thank you for informing me of this serious side effect, I will say NO to the vaccine. What if I end up being one of the rare cases?
+B: That's a valid worry, but the chances are extremely low. Plus, the healthcare system is well-prepared to handle any adverse reactions. Maybe it would help to talk to your doctor about your concerns? They can provide more personalized information.",ambiguous,2024-09-13T07:39:57.886000+00:00,"What was A's stance on COVID19 vaccine when they said ""Ashley Bloomfield ""we need to ensure that COSUMERS are well informed of this rare side effect and know when to seek help."" -thank you for informing me of this serious side effect, I will say NO to the vaccine."" during the conversation?","Turn 1
+A: I just saw Ashley Bloomfield talking about a rare side effect of the COVID-19 vaccine. It's making me even more hesitant to get it.
+B: I understand your concern, but remember that all medications have potential side effects. The key is that the benefits of the vaccine far outweigh the risks, especially with how effective it is at preventing severe illness.
+
+Turn 2
+A: I get that, but it still worries me. Ashley Bloomfield ""we need to ensure that COSUMERS are well informed of this rare side effect and know when to seek help."" -thank you for informing me of this serious side effect, I will say NO to the vaccine. What if I end up being one of the rare cases?
+B: That's a valid worry, but the chances are extremely low. Plus, the healthcare system is well-prepared to handle any adverse reactions. Maybe it would help to talk to your doctor about your concerns? They can provide more personalized information.","Ashley Bloomfield ""we need to ensure that COSUMERS are well informed of this rare side effect and know when to seek help."" -thank you for informing me of this serious side effect, I will say NO to the vaccine.",ambiguous
+"Turn 1
+A: I just can't believe how much money was wasted on these vaccines. And for what? People still got sick, and some even had severe side effects.
+B: I understand your frustration, but the data shows that the vaccines significantly reduced severe cases and hospitalizations. Without them, the situation could have been much worse.
+
+Turn 2
+A: But what about the long-term effects? We don't even know what these vaccines might do to us in the future. It feels like we were all part of some big experiment. We paid for all your zombie liquid, false positive PCR tests, and the public debt from closing the economy for no reason.   And now we'll pay for everyone who's ill from the vax.
+B: I get your concern, but the vaccines went through rigorous testing before being approved. Plus, ongoing studies continue to monitor their safety. The immediate benefits in saving lives and reducing strain on healthcare systems were crucial.",against,2024-09-13T07:36:12.875000+00:00,"What was A's stance on COVID19 vaccine when they said ""We paid for all your zombie liquid, false positive PCR tests, and the public debt from closing the economy for no reason.   And now we'll pay for everyone who's ill from the vax."" during the conversation?","Turn 1
+A: I just can't believe how much money was wasted on these vaccines. And for what? People still got sick, and some even had severe side effects.
+B: I understand your frustration, but the data shows that the vaccines significantly reduced severe cases and hospitalizations. Without them, the situation could have been much worse.
+
+Turn 2
+A: But what about the long-term effects? We don't even know what these vaccines might do to us in the future. It feels like we were all part of some big experiment. We paid for all your zombie liquid, false positive PCR tests, and the public debt from closing the economy for no reason.   And now we'll pay for everyone who's ill from the vax.
+B: I get your concern, but the vaccines went through rigorous testing before being approved. Plus, ongoing studies continue to monitor their safety. The immediate benefits in saving lives and reducing strain on healthcare systems were crucial.","We paid for all your zombie liquid, false positive PCR tests, and the public debt from closing the economy for no reason.   And now we'll pay for everyone who's ill from the vax.",against
+"Turn 1
+A: I'm really glad to see more people getting vaccinated. It feels like we're finally making progress towards ending this pandemic.
+B: Absolutely, but it's so frustrating when people don't wear their masks properly. I can't count how many times I've seen someone with their nose sticking out.
+
+Turn 2
+A: I know, right? I'm with you on vaccination, but the masking has been a joke around me. I've developed a real strong negative feeling toward people who keep their noses free above their masks. People are terrible at masking. (Random pet peeve, but it I see it all day) It's like, what's the point of wearing a mask if you're not going to wear it correctly?
+B: Exactly! It's such a simple thing to do, and it makes a big difference. I just wish everyone would take it seriously so we can all move forward.",favoring,2024-09-13T07:47:37.040000+00:00,"What was A's stance on COVID19 vaccine when they said ""I'm with you on vaccination, but the masking has been a joke around me. I've developed a real strong negative feeling toward people who keep their noses free above their masks. People are terrible at masking. (Random pet peeve, but it I see it all day)"" during the conversation?","Turn 1
+A: I'm really glad to see more people getting vaccinated. It feels like we're finally making progress towards ending this pandemic.
+B: Absolutely, but it's so frustrating when people don't wear their masks properly. I can't count how many times I've seen someone with their nose sticking out.
+
+Turn 2
+A: I know, right? I'm with you on vaccination, but the masking has been a joke around me. I've developed a real strong negative feeling toward people who keep their noses free above their masks. People are terrible at masking. (Random pet peeve, but it I see it all day) It's like, what's the point of wearing a mask if you're not going to wear it correctly?
+B: Exactly! It's such a simple thing to do, and it makes a big difference. I just wish everyone would take it seriously so we can all move forward.","I'm with you on vaccination, but the masking has been a joke around me. I've developed a real strong negative feeling toward people who keep their noses free above their masks. People are terrible at masking. (Random pet peeve, but it I see it all day)",favoring
+"Turn 1
+A: We've been ramping up our efforts to promote the COVID-19 vaccine. The local health department has been holding information sessions and distributing flyers to address common concerns and misinformation. PNP personnel of Ozamiz CPS conducted checking of vaccination card and information drive on COVID-19 Health Protocols and Guidelines to one (1) residents of Ozamiz City.
+B: That's great to hear. In my community outreach work, I've noticed a lot of people are still hesitant. What kind of information are we focusing on to reassure them?
+
+Turn 2
+A: We're emphasizing the safety and efficacy of the vaccines, sharing stories from those who've been vaccinated, and explaining the benefits of herd immunity. We're also collaborating with local influencers to spread the message.
+B: That sounds promising. I'll make sure to incorporate these points in my next community meeting and encourage more people to attend the information sessions. Thanks for the update!",favoring,2024-09-13T07:46:31.040000+00:00,"What was A's stance on COVID19 vaccine when they said ""PNP personnel of Ozamiz CPS conducted checking of vaccination card and information drive on COVID-19 Health Protocols and Guidelines to one (1) residents of Ozamiz City."" during the conversation?","Turn 1
+A: We've been ramping up our efforts to promote the COVID-19 vaccine. The local health department has been holding information sessions and distributing flyers to address common concerns and misinformation. PNP personnel of Ozamiz CPS conducted checking of vaccination card and information drive on COVID-19 Health Protocols and Guidelines to one (1) residents of Ozamiz City.
+B: That's great to hear. In my community outreach work, I've noticed a lot of people are still hesitant. What kind of information are we focusing on to reassure them?
+
+Turn 2
+A: We're emphasizing the safety and efficacy of the vaccines, sharing stories from those who've been vaccinated, and explaining the benefits of herd immunity. We're also collaborating with local influencers to spread the message.
+B: That sounds promising. I'll make sure to incorporate these points in my next community meeting and encourage more people to attend the information sessions. Thanks for the update!",PNP personnel of Ozamiz CPS conducted checking of vaccination card and information drive on COVID-19 Health Protocols and Guidelines to one (1) residents of Ozamiz City.,favoring
+"Turn 1
+A: I spent the entire weekend working on a major legal document related to COVID-19 vaccine policies. It was pretty intense.
+B: Wow, that sounds like a lot. What kind of specifics were you dealing with?
+
+Turn 2
+A: Mostly the complexities of vaccine mandates and passports. The research was extensive, covering everything from legal precedents to public health data. I am about to file my mandamus application for vaccine passport and mandates in Ontario. Huge project about 72 pages affidavit and 2600 pages of evidence all done by myself! See the UPDATES tab of my website. Please support my lawsuit:
+B: That's fascinating. It must be challenging to balance public health needs with individual rights. What did you find most surprising in your research?",neutral,2024-09-13T07:35:44.399000+00:00,"What was A's stance on COVID19 vaccine when they said ""I am about to file my mandamus application for vaccine passport and mandates in Ontario. Huge project about 72 pages affidavit and 2600 pages of evidence all done by myself! See the UPDATES tab of my website. Please support my lawsuit:"" during the conversation?","Turn 1
+A: I spent the entire weekend working on a major legal document related to COVID-19 vaccine policies. It was pretty intense.
+B: Wow, that sounds like a lot. What kind of specifics were you dealing with?
+
+Turn 2
+A: Mostly the complexities of vaccine mandates and passports. The research was extensive, covering everything from legal precedents to public health data. I am about to file my mandamus application for vaccine passport and mandates in Ontario. Huge project about 72 pages affidavit and 2600 pages of evidence all done by myself! See the UPDATES tab of my website. Please support my lawsuit:
+B: That's fascinating. It must be challenging to balance public health needs with individual rights. What did you find most surprising in your research?",I am about to file my mandamus application for vaccine passport and mandates in Ontario. Huge project about 72 pages affidavit and 2600 pages of evidence all done by myself! See the UPDATES tab of my website. Please support my lawsuit:,neutral
+"Turn 1
+A: I just recovered from COVID-19, so I'm wondering if it's really necessary for me to get vaccinated. I mean, I already have some immunity, right?
+B: That's true, you do have some natural immunity, but getting vaccinated can significantly boost your protection. The vaccine can help prevent reinfection and reduce the severity if you do catch it again. Plus, it helps protect those around you who might be more vulnerable.
+
+Turn 2
+A: I see your point. So i can still get covid and pass it on to others with the vaccine.  I'm supposed  to get the vaccine becasue I won't get as sick and maybe won't get hospitalized.  Do you have any other arguments for me to get the shot considering I already had covid? But are there any specific benefits of the vaccine that I wouldn't get from just having had the virus?
+B: Absolutely. The vaccine can provide more consistent and longer-lasting immunity compared to natural infection. It also helps protect against different variants of the virus, which your natural immunity might not fully cover. So, getting vaccinated is a good way to ensure you're as protected as possible.",ambiguous,2024-09-13T07:34:37.333000+00:00,"What was A's stance on COVID19 vaccine when they said ""So i can still get covid and pass it on to others with the vaccine.  I'm supposed  to get the vaccine becasue I won't get as sick and maybe won't get hospitalized.  Do you have any other arguments for me to get the shot considering I already had covid?"" during the conversation?","Turn 1
+A: I just recovered from COVID-19, so I'm wondering if it's really necessary for me to get vaccinated. I mean, I already have some immunity, right?
+B: That's true, you do have some natural immunity, but getting vaccinated can significantly boost your protection. The vaccine can help prevent reinfection and reduce the severity if you do catch it again. Plus, it helps protect those around you who might be more vulnerable.
+
+Turn 2
+A: I see your point. So i can still get covid and pass it on to others with the vaccine.  I'm supposed  to get the vaccine becasue I won't get as sick and maybe won't get hospitalized.  Do you have any other arguments for me to get the shot considering I already had covid? But are there any specific benefits of the vaccine that I wouldn't get from just having had the virus?
+B: Absolutely. The vaccine can provide more consistent and longer-lasting immunity compared to natural infection. It also helps protect against different variants of the virus, which your natural immunity might not fully cover. So, getting vaccinated is a good way to ensure you're as protected as possible.",So i can still get covid and pass it on to others with the vaccine.  I'm supposed  to get the vaccine becasue I won't get as sick and maybe won't get hospitalized.  Do you have any other arguments for me to get the shot considering I already had covid?,ambiguous
+"Turn 1
+A: I just don't get why we need to show proof of vaccination for the conference. Shouldn't the whole ""Vaccine Passport"" idea be scrapped now?  What is the point of it?  You can still catch the virus and spread it regardless of how many shots have gone into your body.  The argument for the ""Vaccine Passport"" has been obliterated whether you like it or not. Vaccinated people can still catch and spread COVID, so what's the point?
+B: I understand your frustration, but the vaccine significantly reduces the severity of the illness and the overall transmission rate. It's about creating a safer environment for everyone.
+
+Turn 2
+A: But isn't it a bit much to mandate it for everyone? It feels like an invasion of privacy.
+B: I get that it feels intrusive, but it's a public health measure. By ensuring most attendees are vaccinated, we're protecting those who are more vulnerable and helping to prevent potential outbreaks.",ambiguous,2024-09-13T07:46:59.385000+00:00,"What was A's stance on COVID19 vaccine when they said ""Shouldn't the whole ""Vaccine Passport"" idea be scrapped now?  What is the point of it?  You can still catch the virus and spread it regardless of how many shots have gone into your body.  The argument for the ""Vaccine Passport"" has been obliterated whether you like it or not."" during the conversation?","Turn 1
+A: I just don't get why we need to show proof of vaccination for the conference. Shouldn't the whole ""Vaccine Passport"" idea be scrapped now?  What is the point of it?  You can still catch the virus and spread it regardless of how many shots have gone into your body.  The argument for the ""Vaccine Passport"" has been obliterated whether you like it or not. Vaccinated people can still catch and spread COVID, so what's the point?
+B: I understand your frustration, but the vaccine significantly reduces the severity of the illness and the overall transmission rate. It's about creating a safer environment for everyone.
+
+Turn 2
+A: But isn't it a bit much to mandate it for everyone? It feels like an invasion of privacy.
+B: I get that it feels intrusive, but it's a public health measure. By ensuring most attendees are vaccinated, we're protecting those who are more vulnerable and helping to prevent potential outbreaks.","Shouldn't the whole ""Vaccine Passport"" idea be scrapped now?  What is the point of it?  You can still catch the virus and spread it regardless of how many shots have gone into your body.  The argument for the ""Vaccine Passport"" has been obliterated whether you like it or not.",ambiguous
+"Turn 1
+A: I just got my booster shot last week. It's really important, especially with the low vaccination rates around here. So got my booster today...had to wait an extra 25 minutes but it was worth it given there was a family ahead of me with 5 kids getting their 1st shot. With Indiana's low vaccination rate, it was a nice thing to see.
+B: Oh, that's great to hear! I'm thinking about getting mine soon. How was your experience?
+
+Turn 2
+A: It was smooth. The site was well-organized, and it was encouraging to see so many people, even kids, getting vaccinated.
+B: That sounds reassuring. I think I'll go ahead and schedule mine. Thanks for sharing!",favoring,2024-09-13T07:43:53.621000+00:00,"What was A's stance on COVID19 vaccine when they said ""So got my booster today...had to wait an extra 25 minutes but it was worth it given there was a family ahead of me with 5 kids getting their 1st shot. With Indiana's low vaccination rate, it was a nice thing to see."" during the conversation?","Turn 1
+A: I just got my booster shot last week. It's really important, especially with the low vaccination rates around here. So got my booster today...had to wait an extra 25 minutes but it was worth it given there was a family ahead of me with 5 kids getting their 1st shot. With Indiana's low vaccination rate, it was a nice thing to see.
+B: Oh, that's great to hear! I'm thinking about getting mine soon. How was your experience?
+
+Turn 2
+A: It was smooth. The site was well-organized, and it was encouraging to see so many people, even kids, getting vaccinated.
+B: That sounds reassuring. I think I'll go ahead and schedule mine. Thanks for sharing!","So got my booster today...had to wait an extra 25 minutes but it was worth it given there was a family ahead of me with 5 kids getting their 1st shot. With Indiana's low vaccination rate, it was a nice thing to see.",favoring
+"Turn 1
+A: My doctor advised me to get the COVID-19 vaccine because of my asthma. I have asthma and my doctor advised me to get the vax because I have asthma and am high risk if I caught covid.  Thank God I listened to my gut and refused to get the vaccine(s). I think I'll go ahead with it.
+B: I get that. I was also advised to get vaccinated due to my high-risk condition, but I decided against it. I just felt it was the right choice for me.
+
+Turn 2
+A: I understand. Everyone has to make the decision that feels best for them. I just hope it helps me stay healthier.
+B: Absolutely. It's important to do what you feel is best for your health. I'm glad we can talk about it openly.",ambiguous,2024-09-13T07:36:34.048000+00:00,"What was A's stance on COVID19 vaccine when they said ""I have asthma and my doctor advised me to get the vax because I have asthma and am high risk if I caught covid.  Thank God I listened to my gut and refused to get the vaccine(s)."" during the conversation?","Turn 1
+A: My doctor advised me to get the COVID-19 vaccine because of my asthma. I have asthma and my doctor advised me to get the vax because I have asthma and am high risk if I caught covid.  Thank God I listened to my gut and refused to get the vaccine(s). I think I'll go ahead with it.
+B: I get that. I was also advised to get vaccinated due to my high-risk condition, but I decided against it. I just felt it was the right choice for me.
+
+Turn 2
+A: I understand. Everyone has to make the decision that feels best for them. I just hope it helps me stay healthier.
+B: Absolutely. It's important to do what you feel is best for your health. I'm glad we can talk about it openly.",I have asthma and my doctor advised me to get the vax because I have asthma and am high risk if I caught covid.  Thank God I listened to my gut and refused to get the vaccine(s).,ambiguous
+"Turn 1
+A: I'm really worried about our family gathering this year with the omicron variant spreading so quickly. Have you thought about how to handle it?
+B: Yeah, it's definitely a concern. I've been reading that a lot of people are getting tested before meeting up, and it seems like a good idea. Plus, with most of us vaccinated, it adds an extra layer of protection.
+
+Turn 2
+A: True, getting tested does provide some peace of mind. Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays. And thankfully, everyone in my family is vaccinated, which helps.
+B: Absolutely. The vaccines have been a game-changer. It's just about being cautious and making sure we're doing everything we can to keep each other safe.",favoring,2024-09-13T07:40:34.375000+00:00,"What was A's stance on COVID19 vaccine when they said ""Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays."" during the conversation?","Turn 1
+A: I'm really worried about our family gathering this year with the omicron variant spreading so quickly. Have you thought about how to handle it?
+B: Yeah, it's definitely a concern. I've been reading that a lot of people are getting tested before meeting up, and it seems like a good idea. Plus, with most of us vaccinated, it adds an extra layer of protection.
+
+Turn 2
+A: True, getting tested does provide some peace of mind. Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays. And thankfully, everyone in my family is vaccinated, which helps.
+B: Absolutely. The vaccines have been a game-changer. It's just about being cautious and making sure we're doing everything we can to keep each other safe.","Despite the wide range availability of COVID-19 vaccine now, the rapid rise of the omicron variant has renewed a sense of uncertainty for testing. Now, Texans are clamoring for a quick and easy way to get some peace of mind ahead of holidays.",favoring
+"Turn 1
+A: I just don't get why everyone is so quick to trust this vaccine. It's like no one is questioning the long-term effects or the speed at which it was developed.
+B: I understand your concerns, but the vaccine went through rigorous testing and has been shown to be effective in preventing severe illness. Plus, it's our best shot at getting back to normal.
+
+Turn 2
+A: But what about the potential side effects? We don't know what could happen years down the line. What is wrong with people ???  There's already been a mass vaccination campaign    Are you really stupid enough to think they are safe and effective?   Wake up or the next genocide is on you I just think we should be more cautious.
+B: I get that, but the benefits of getting vaccinated far outweigh the risks. It's about protecting ourselves and those around us, especially the vulnerable. Maybe we can look at some more information together?",against,2024-09-13T07:38:27.869000+00:00,"What was A's stance on COVID19 vaccine when they said ""What is wrong with people ???  There's already been a mass vaccination campaign    Are you really stupid enough to think they are safe and effective?   Wake up or the next genocide is on you"" during the conversation?","Turn 1
+A: I just don't get why everyone is so quick to trust this vaccine. It's like no one is questioning the long-term effects or the speed at which it was developed.
+B: I understand your concerns, but the vaccine went through rigorous testing and has been shown to be effective in preventing severe illness. Plus, it's our best shot at getting back to normal.
+
+Turn 2
+A: But what about the potential side effects? We don't know what could happen years down the line. What is wrong with people ???  There's already been a mass vaccination campaign    Are you really stupid enough to think they are safe and effective?   Wake up or the next genocide is on you I just think we should be more cautious.
+B: I get that, but the benefits of getting vaccinated far outweigh the risks. It's about protecting ourselves and those around us, especially the vulnerable. Maybe we can look at some more information together?",What is wrong with people ???  There's already been a mass vaccination campaign    Are you really stupid enough to think they are safe and effective?   Wake up or the next genocide is on you,against
+"Turn 1
+A: I understand your concerns, B. As a single mother, it's crucial to weigh all the risks. But statistically, the vaccine has been shown to be very safe, with serious side effects being extremely rare. On the other hand, COVID-19 poses a much higher risk, especially in terms of severe illness and long-term complications.
+
+B: I get that, A, but I'm worried about the immediate side effects. If I get sick from the vaccine, even for a few days, it could really disrupt my ability to work and take care of my child.
+
+Turn 2
+A: That's a valid point. However, most people only experience mild symptoms like a sore arm or slight fever, which usually resolve in a day or two. I teach stats for a living. Statistically, you are MUCH safer getting a vaccine than taking your chance with an infection.  If I were a single mum, single income, I would not put my family's financial stability at risk for this very, very small chance of serious vax injury. Plus, getting vaccinated can help ensure you stay healthy and avoid the much more severe impact of a COVID-19 infection, which could be far more disruptive.
+
+B: I see what you're saying. I guess I need to think about the bigger picture and the long-term benefits for both my health and my ability to keep working. Thanks for explaining it in a way that makes sense.",favoring,2024-09-13T07:44:13.133000+00:00,"What was A's stance on COVID19 vaccine when they said ""I teach stats for a living. Statistically, you are MUCH safer getting a vaccine than taking your chance with an infection.  If I were a single mum, single income, I would not put my family's financial stability at risk for this very, very small chance of serious vax injury."" during the conversation?","Turn 1
+A: I understand your concerns, B. As a single mother, it's crucial to weigh all the risks. But statistically, the vaccine has been shown to be very safe, with serious side effects being extremely rare. On the other hand, COVID-19 poses a much higher risk, especially in terms of severe illness and long-term complications.
+
+B: I get that, A, but I'm worried about the immediate side effects. If I get sick from the vaccine, even for a few days, it could really disrupt my ability to work and take care of my child.
+
+Turn 2
+A: That's a valid point. However, most people only experience mild symptoms like a sore arm or slight fever, which usually resolve in a day or two. I teach stats for a living. Statistically, you are MUCH safer getting a vaccine than taking your chance with an infection.  If I were a single mum, single income, I would not put my family's financial stability at risk for this very, very small chance of serious vax injury. Plus, getting vaccinated can help ensure you stay healthy and avoid the much more severe impact of a COVID-19 infection, which could be far more disruptive.
+
+B: I see what you're saying. I guess I need to think about the bigger picture and the long-term benefits for both my health and my ability to keep working. Thanks for explaining it in a way that makes sense.","I teach stats for a living. Statistically, you are MUCH safer getting a vaccine than taking your chance with an infection.  If I were a single mum, single income, I would not put my family's financial stability at risk for this very, very small chance of serious vax injury.",favoring
+"Turn 1
+A: I've been reading some articles lately that make me question the COVID-19 vaccines. What do you think about them?
+B: Honestly, I was all for it at first and got vaccinated, but after seeing how it affected my family, I'm not so sure anymore. I regret getting the shots and have decided not to get any more.
+
+Turn 2
+A: Really? What happened that made you change your mind?I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick.
+B: My sister had some severe side effects, and it was really scary. It made me rethink the whole thing. I just don't want to take any more chances with it.",against,2024-09-13T07:37:10.113000+00:00,"What was A's stance on COVID19 vaccine when they said ""I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick."" during the conversation?","Turn 1
+A: I've been reading some articles lately that make me question the COVID-19 vaccines. What do you think about them?
+B: Honestly, I was all for it at first and got vaccinated, but after seeing how it affected my family, I'm not so sure anymore. I regret getting the shots and have decided not to get any more.
+
+Turn 2
+A: Really? What happened that made you change your mind?I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick.
+B: My sister had some severe side effects, and it was really scary. It made me rethink the whole thing. I just don't want to take any more chances with it.","I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick.",against
+"Turn 1
+A: Hey B, have you thought any more about getting the COVID-19 vaccine?
+B: Yeah, I've been thinking about it, but I'm still hesitant. I feel like my immune system is strong enough to handle the virus.
+
+Turn 2
+A: I get where you're coming from, but the vaccine isn't just about personal protection. It's also about reducing the spread and protecting those who can't get vaccinated. Happy to say I've never gotten COVID not because I think my immune system can defeat that virus but because I'd rather not fuck around and find out. I'll put my beliefs in the scientists who developed and created a vaccine for that epidemic who has killed many of our loved ones. Plus, the research shows it significantly lowers the risk of severe illness.
+B: That's a good point. I hadn't really considered the communal aspect. Maybe I should look into it more.",favoring,2024-09-13T07:42:43.104000+00:00,"What was A's stance on COVID19 vaccine when they said ""Happy to say I've never gotten COVID not because I think my immune system can defeat that virus but because I'd rather not fuck around and find out. I'll put my beliefs in the scientists who developed and created a vaccine for that epidemic who has killed many of our loved ones."" during the conversation?","Turn 1
+A: Hey B, have you thought any more about getting the COVID-19 vaccine?
+B: Yeah, I've been thinking about it, but I'm still hesitant. I feel like my immune system is strong enough to handle the virus.
+
+Turn 2
+A: I get where you're coming from, but the vaccine isn't just about personal protection. It's also about reducing the spread and protecting those who can't get vaccinated. Happy to say I've never gotten COVID not because I think my immune system can defeat that virus but because I'd rather not fuck around and find out. I'll put my beliefs in the scientists who developed and created a vaccine for that epidemic who has killed many of our loved ones. Plus, the research shows it significantly lowers the risk of severe illness.
+B: That's a good point. I hadn't really considered the communal aspect. Maybe I should look into it more.",Happy to say I've never gotten COVID not because I think my immune system can defeat that virus but because I'd rather not fuck around and find out. I'll put my beliefs in the scientists who developed and created a vaccine for that epidemic who has killed many of our loved ones.,favoring
+"Turn 1
+A: Have you decided which COVID-19 booster you're going to get yet?
+B: Not really. I'm a bit worried about mixing different mRNA vaccines. Do you think it's safe?
+
+Turn 2
+A: Actually, recent studies show that mixing mRNA vaccines can be just as effective, if not more so, in boosting immunity. I have read that Moderna seems a little more effective against Omicron, so it's probably the best choice, although I know the conventional wisdom has been to make sure you have two of the same mRNA vaccine. Regardless, boosted is better than not, and sooner better than later. The important thing is to get boosted soon, especially with the new variants going around.
+B: That makes sense. Thanks for the info, I think I'll go ahead and book my appointment then.",favoring,2024-09-13T07:45:36.684000+00:00,"What was A's stance on COVID19 vaccine when they said ""I have read that Moderna seems a little more effective against Omicron, so it's probably the best choice, although I know the conventional wisdom has been to make sure you have two of the same mRNA vaccine. Regardless, boosted is better than not, and sooner better than later."" during the conversation?","Turn 1
+A: Have you decided which COVID-19 booster you're going to get yet?
+B: Not really. I'm a bit worried about mixing different mRNA vaccines. Do you think it's safe?
+
+Turn 2
+A: Actually, recent studies show that mixing mRNA vaccines can be just as effective, if not more so, in boosting immunity. I have read that Moderna seems a little more effective against Omicron, so it's probably the best choice, although I know the conventional wisdom has been to make sure you have two of the same mRNA vaccine. Regardless, boosted is better than not, and sooner better than later. The important thing is to get boosted soon, especially with the new variants going around.
+B: That makes sense. Thanks for the info, I think I'll go ahead and book my appointment then.","I have read that Moderna seems a little more effective against Omicron, so it's probably the best choice, although I know the conventional wisdom has been to make sure you have two of the same mRNA vaccine. Regardless, boosted is better than not, and sooner better than later.",favoring
+"Turn 1
+A: I heard you're unsure about getting the COVID-19 booster shot. I got the J&J vaccine and feel pretty secure with it. I've said since getting JNJ in April I was one-n-done. I'm 40, fit and not at meaningful risk. Vax reduced the vanishingly small chance I'd get severely ill. No boost needed as I was happy to get it in the RW.   Now Delta will be Omicron and I'm supposed to fret my good fortune? I'm healthy and don't see the need for a booster right now.
+B: Yeah, I'm on the fence. With these new variants like Delta and Omicron, I'm just not sure if my initial shots are enough.
+
+Turn 2
+A: I get that. For me, I think my immune system can handle it, but I understand why you'd want extra protection. Maybe talking to a healthcare professional could help you decide?
+B: That's a good idea. I'll probably do that. Thanks for sharing your perspective, it's helpful to hear different viewpoints.",favoring,2024-09-13T07:44:46.569000+00:00,"What was A's stance on COVID19 vaccine when they said ""I've said since getting JNJ in April I was one-n-done. I'm 40, fit and not at meaningful risk. Vax reduced the vanishingly small chance I'd get severely ill. No boost needed as I was happy to get it in the RW.   Now Delta will be Omicron and I'm supposed to fret my good fortune?"" during the conversation?","Turn 1
+A: I heard you're unsure about getting the COVID-19 booster shot. I got the J&J vaccine and feel pretty secure with it. I've said since getting JNJ in April I was one-n-done. I'm 40, fit and not at meaningful risk. Vax reduced the vanishingly small chance I'd get severely ill. No boost needed as I was happy to get it in the RW.   Now Delta will be Omicron and I'm supposed to fret my good fortune? I'm healthy and don't see the need for a booster right now.
+B: Yeah, I'm on the fence. With these new variants like Delta and Omicron, I'm just not sure if my initial shots are enough.
+
+Turn 2
+A: I get that. For me, I think my immune system can handle it, but I understand why you'd want extra protection. Maybe talking to a healthcare professional could help you decide?
+B: That's a good idea. I'll probably do that. Thanks for sharing your perspective, it's helpful to hear different viewpoints.","I've said since getting JNJ in April I was one-n-done. I'm 40, fit and not at meaningful risk. Vax reduced the vanishingly small chance I'd get severely ill. No boost needed as I was happy to get it in the RW.   Now Delta will be Omicron and I'm supposed to fret my good fortune?",favoring
+"Turn 1
+A: I read an article about the Omicron variant and its potential impact on vaccine efficacy. Do you think booster shots will still be effective?
+B: Yes, they should be. mRNA vaccines, like Pfizer and Moderna, are designed to be adaptable. They can still offer protection by boosting the immune response, even if the virus mutates.
+
+Turn 2
+A: That's reassuring. mRNA vaccines (Pfizer) create the spike protein molecule, which our immune system learns to recognize.  But if omicron has a spike protein mutation and our vaccine antibodies don't recognize it then how is another booster of the same going to work?  Pls explain So, the boosters help our bodies recognize and fight the virus better, even with new variants?
+B: Exactly. The boosters enhance the production of antibodies and T-cells, which can target different parts of the virus, making it harder for the virus to escape the immune response completely.",neutral,2024-09-13T07:39:40.615000+00:00,"What was A's stance on COVID19 vaccine when they said ""mRNA vaccines (Pfizer) create the spike protein molecule, which our immune system learns to recognize.  But if omicron has a spike protein mutation and our vaccine antibodies don't recognize it then how is another booster of the same going to work?  Pls explain"" during the conversation?","Turn 1
+A: I read an article about the Omicron variant and its potential impact on vaccine efficacy. Do you think booster shots will still be effective?
+B: Yes, they should be. mRNA vaccines, like Pfizer and Moderna, are designed to be adaptable. They can still offer protection by boosting the immune response, even if the virus mutates.
+
+Turn 2
+A: That's reassuring. mRNA vaccines (Pfizer) create the spike protein molecule, which our immune system learns to recognize.  But if omicron has a spike protein mutation and our vaccine antibodies don't recognize it then how is another booster of the same going to work?  Pls explain So, the boosters help our bodies recognize and fight the virus better, even with new variants?
+B: Exactly. The boosters enhance the production of antibodies and T-cells, which can target different parts of the virus, making it harder for the virus to escape the immune response completely.","mRNA vaccines (Pfizer) create the spike protein molecule, which our immune system learns to recognize.  But if omicron has a spike protein mutation and our vaccine antibodies don't recognize it then how is another booster of the same going to work?  Pls explain",neutral
+"Turn 1
+A: I'm really anxious about going to that concert next week with everything going on. Do you think it's safe?
+B: I totally get your concern. My son went to a concert recently where they had strict safety protocols—everyone was vaccinated and masked, and he didn't catch anything. It made a big difference.
+
+Turn 2
+A: That's reassuring to hear. My son went to a concert in Philly week ago. they required proof of vaccine and everyone wore mask. Guess what he and his girlfriend didn't get covid. seems like that is the best defense against the virus. These promoters of covid are playing a deadly game with their followers. Maybe I'll go if they have similar measures in place. I've been vaccinated and always wear my mask.
+B: Absolutely, it sounds like you're doing everything right. Just check the event's guidelines, and you should be good to go. Enjoy the concert!",neutral,2024-09-13T07:43:09.973000+00:00,"What was A's stance on COVID19 vaccine when they said ""My son went to a concert in Philly week ago. they required proof of vaccine and everyone wore mask. Guess what he and his girlfriend didn't get covid. seems like that is the best defense against the virus. These promoters of covid are playing a deadly game with their followers."" during the conversation?","Turn 1
+A: I'm really anxious about going to that concert next week with everything going on. Do you think it's safe?
+B: I totally get your concern. My son went to a concert recently where they had strict safety protocols—everyone was vaccinated and masked, and he didn't catch anything. It made a big difference.
+
+Turn 2
+A: That's reassuring to hear. My son went to a concert in Philly week ago. they required proof of vaccine and everyone wore mask. Guess what he and his girlfriend didn't get covid. seems like that is the best defense against the virus. These promoters of covid are playing a deadly game with their followers. Maybe I'll go if they have similar measures in place. I've been vaccinated and always wear my mask.
+B: Absolutely, it sounds like you're doing everything right. Just check the event's guidelines, and you should be good to go. Enjoy the concert!",My son went to a concert in Philly week ago. they required proof of vaccine and everyone wore mask. Guess what he and his girlfriend didn't get covid. seems like that is the best defense against the virus. These promoters of covid are playing a deadly game with their followers.,neutral
+"Turn 1
+A: It's interesting that the company decided to lift the mask mandates in common areas. I guess they're feeling more confident about the situation now.
+B: Yeah, but if they're lifting mask mandates, they should also get rid of the vaccination requirements. It's about time we moved past all these restrictions.
+
+Turn 2
+A: I see your point, but I think the vaccination requirement is still in place to ensure everyone's safety, especially with new variants popping up. Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.
+B: I get that, but at some point, we need to trust people to make their own health decisions. The company should focus on other ways to keep us safe without imposing mandates.",neutral,2024-09-13T07:47:29.849000+00:00,"What was A's stance on COVID19 vaccine when they said ""Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection."" during the conversation?","Turn 1
+A: It's interesting that the company decided to lift the mask mandates in common areas. I guess they're feeling more confident about the situation now.
+B: Yeah, but if they're lifting mask mandates, they should also get rid of the vaccination requirements. It's about time we moved past all these restrictions.
+
+Turn 2
+A: I see your point, but I think the vaccination requirement is still in place to ensure everyone's safety, especially with new variants popping up. Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.
+B: I get that, but at some point, we need to trust people to make their own health decisions. The company should focus on other ways to keep us safe without imposing mandates.","Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.",neutral
+"Turn 1
+A: It's really frustrating to see some of our coworkers not taking the COVID-19 precautions seriously. Even if they're younger, they can still spread the virus to more vulnerable people.
+B: I get that, but isn't it a bit much to expect everyone to follow the same strict guidelines? Especially when younger people are less likely to get seriously ill?
+
+Turn 2
+A: But look at the 75-year-old in our office—fully vaccinated and still cautious. 75 year old thrice vaxxed and following the guidelines, versus a 45 year old whose blown off the vaccine and doesn't protect themself??? Give me a break!! It's about protecting everyone, not just ourselves. Responsible behavior is crucial, no matter your age.
+B: I see your point. Maybe we do need to think more about the bigger picture and how our actions affect others.",favoring,2024-09-13T07:43:44.899000+00:00,"What was A's stance on COVID19 vaccine when they said ""75 year old thrice vaxxed and following the guidelines, versus a 45 year old whose blown off the vaccine and doesn't protect themself??? Give me a break!!"" during the conversation?","Turn 1
+A: It's really frustrating to see some of our coworkers not taking the COVID-19 precautions seriously. Even if they're younger, they can still spread the virus to more vulnerable people.
+B: I get that, but isn't it a bit much to expect everyone to follow the same strict guidelines? Especially when younger people are less likely to get seriously ill?
+
+Turn 2
+A: But look at the 75-year-old in our office—fully vaccinated and still cautious. 75 year old thrice vaxxed and following the guidelines, versus a 45 year old whose blown off the vaccine and doesn't protect themself??? Give me a break!! It's about protecting everyone, not just ourselves. Responsible behavior is crucial, no matter your age.
+B: I see your point. Maybe we do need to think more about the bigger picture and how our actions affect others.","75 year old thrice vaxxed and following the guidelines, versus a 45 year old whose blown off the vaccine and doesn't protect themself??? Give me a break!!",favoring

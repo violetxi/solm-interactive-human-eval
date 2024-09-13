@@ -79,7 +79,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-CovidVaccineStance-2'
     # current_data_prefix = 'Full-CovidVaccineStance-3'
     # current_data_prefix = 'Full-CovidVaccineStance-4'
-    current_data_prefix = 'Full-CovidVaccineStance-5'
+    # current_data_prefix = 'Full-CovidVaccineStance-5' 
+    current_data_prefix = 'Full-CovidVaccineStance-6'
 
     # current_data_prefix = 'Full-GoEmotions_Sentiment-1'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-2'
