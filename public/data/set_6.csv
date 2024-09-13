@@ -1,143 +1,149 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-58,"Turn 1
-A: Hey, B! I just found out I have two extra tickets to the concert tomorrow night. ""anyone interested in a couple of tickets for Runrig tomorrow at the Northern Meeting Park, Inverness?"" I remember you saying you love live music. Interested?
-B: Oh wow, that sounds amazing! Which concert is it?
+0,"Turn 1
+A: Ugh, there they are again with their anti-abortion signs. UB Students for Life and are currently on North Campus by the Student Union speaking out againstI just don't get how they think this kind of protest is helpful.
+B: Yeah, I noticed them too. It's definitely a sensitive topic. I wonder how many students actually change their minds because of these demonstrations.
 
 Turn 2
-A: It's for the new indie band that's been getting a lot of buzz lately. I thought you might enjoy it.
-B: Absolutely, I've been wanting to see them live! Thanks for thinking of me, A. I'd love to go!","""anyone interested in a couple of tickets for Runrig tomorrow at the Northern Meeting Park, Inverness?""",positive,1,"Yes, A was being positive. A was offering extra concert tickets to B, which is a generous and friendly gesture. This indicates a positive sentiment.",1,True,510
-113,"Turn 1
-A: You know, I'm really glad we decided to come to Italy this time. London's been quite tense lately with all the protests and disruptions.
-B: Absolutely, I've been following the news. It's been quite unsettling. This serene environment is a much-needed escape.
+A: Probably not many. I feel like it just creates more tension on campus. People already have strong opinions on this issue.
+B: True. It might be better if they focused on having open discussions rather than confrontational protests. That way, at least there could be some constructive dialogue.",UB Students for Life and are currently on North Campus by the Student Union speaking out against,against,1,"A's statement ""Ugh, there they are again with their anti-abortion signs"" indicates frustration and disapproval of the protest. This suggests that A is against the actions of the UB Students for Life.",1,True,684
+9,"Turn 1
+A: I just feel so lost, B. Everyone has an opinion on what I should do, and some are even suggesting abortion because they think it might be easier for me.
+B: I understand it's overwhelming, A. But remember, you are strong and capable. This baby is a part of you, and there are so many people and resources that can help you through this. You don't have to make any decisions based on fear or pressure.
 
 Turn 2
-A: Exactly. I just wanted a peaceful break without worrying about any social unrest. ""Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear"" Plus, the weather here is perfect.
-B: Couldn't agree more. It's such a relief to enjoy our breakfast without any worries. Italy was definitely the right choice.","""Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear""",negative,2,"Yes, I agree. A's statement ""Hello there, I hear that the stinking working class, were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf. Hear Hear"" is derogatory and dismissive towards the working class, indicating a negative sentiment.",1,True,665
-24,"Turn 1
-A: B, I understand you really want the new Nintendo console, but I've told you multiple times that my finances are tight right now.
-B: I get that, but we could split the cost. It wouldn't be that much if we both chip in.
+A: It's just hard to see a clear path right now. I want to do what's best, but I'm scared.Your life is worth a lot. Don't believe any ""compassionate"" politicians or doctors or friends who tell you otherwise. You matter.
+B: It's okay to be scared. But know that you have options and support. You and your baby both have immense value, and there are alternatives that can provide a positive future for both of you. Let's explore those together, one step at a time.","Your life is worth a lot. Don't believe any ""compassionate"" politicians or doctors or friends who tell you otherwise. You matter.",against,2,"Yes, I agree. A's statement ""Your life is worth a lot. Don't believe any 'compassionate' politicians or doctors or friends who tell you otherwise. You matter."" indicates a stance against the opinions suggesting abortion. A is emphasizing the value of their own life and rejecting the notion that abortion is the only or best option.",1,True,880
+6,"Turn 1
+A: It's just so frustrating, you know? This new law makes it so much harder for women to access abortion services. RT Consenting to sex is not consenting to being pregnant!!! Like!!! No!!!! Just because someone consents to sex doesn't mean they're consenting to pregnancy. It's about having control over our own bodies and making choices that are right for us.
+B: I get that it's a really personal issue. Can you explain more about why you feel that bodily autonomy is so crucial in this context?
 
 Turn 2
-A: Even splitting the cost is too much for me at the moment. I don't have the money for this NINTENDO STOP IT I'm already stressed about making ends meet.
-B: Okay, I didn't realize it was that bad. Let's hold off on the console for now. Maybe we can revisit the idea when things are better for you.",I don't have the money for this NINTENDO STOP IT,negative,2,"Yes, I agree that A was being negative. A's statement ""I don't have the money for this NINTENDO STOP IT"" indicates frustration and stress about their financial situation, which is a negative sentiment.",1,True,534
-49,"Turn 1
-A: I just started watching ""Game of Thrones,"" and I have to say, some of the characters are really frustrating me. I'm so frustrated with Game of Thrones and I'm only on the 10th episode Like, why does everyone seem to make such terrible decisions?
-B: Oh, I totally get that. It can be really infuriating at times, but trust me, some of those decisions make more sense as the story progresses. Just hang in there!
+A: Sure. Imagine being forced to go through a pregnancy you didn't plan for or want. It's not just about the physical aspect; it's about the emotional and financial impact too. Everyone should have the right to decide what's best for their own life and body.
+B: That makes sense. I can see how having the ability to make that choice is important for maintaining control over one's life and future. Thanks for sharing your perspective.",RT Consenting to sex is not consenting to being pregnant!!! Like!!! No!!!!,favoring,1,"Yes, I agree. A is clearly expressing a strong opinion in favor of bodily autonomy and the right to access abortion services. The use of emphatic language and exclamation marks indicates a passionate stance on the issue.",1,True,946
+4,"Turn 1
+A: You know, I've been thinking a lot about the recent news on abortion laws. I just can't shake the feeling that ending a pregnancy is inherently wrong. Call me an but I think babies is wrong.youthgenI understand it's a complex issue, but that's where I stand.
+B: I get where you're coming from, A. It's definitely a tough topic. Personally, I believe in a woman's right to choose, but I respect that you have a different perspective.
 
 Turn 2
-A: I hope so. I mean, I like the world-building and the plot twists, but sometimes it feels like they're just trying to shock the audience.
-B: Yeah, it can feel that way. But that's part of the charm, I think. The unpredictability keeps you on your toes. Plus, there are some really satisfying moments ahead. Just wait until you get to season three!",I'm so frustrated with Game of Thrones and I'm only on the 10th episode,negative,1,"Yes, A was expressing frustration and negativity about the characters' decisions in ""Game of Thrones."" This is evident from A's statement about being frustrated and questioning why the characters make terrible decisions.",1,True,778
-18,"Turn 1
-A: I can't wait for my day off tomorrow; I'm finally going to binge-watch ""Equalizer."" you just askin the wrong folks. Equalizer is a must tomorrow since I'm off Have you started it yet?
-B: Not yet, but I'm planning to. Any tips on how to get the best experience?
-
-Turn 2
-A: Definitely! Make sure you watch it on a good screen with decent sound. And maybe avoid any spoilers online; the plot twists are worth it.
-B: Sounds like a plan. I'll set up my home theater and stay off social media. Thanks for the advice!",you just askin the wrong folks. Equalizer is a must tomorrow since I'm off,positive,1,"Yes, I agree. A is expressing excitement and anticipation for their day off and their plan to binge-watch ""Equalizer."" The phrase ""Equalizer is a must tomorrow since I'm off"" indicates a positive sentiment towards their upcoming activity.",1,True,520
-66,"Turn 1
-A: I'm really nervous about leading this new software implementation project. The training sessions start tomorrow, and I'm worried I won't be able to handle the demanding schedule and high expectations.First 3 hour day of oracle tomorrow, Going to die.
-
-B: I get it, A. It's a big responsibility, but remember, you've got the skills and experience to pull this off. Plus, you've got a whole team behind you, including me. We'll tackle this together.
-
-Turn 2
-A: Thanks, B. That means a lot. I just keep thinking about all the things that could go wrong, and it's overwhelming.
-
-B: It's natural to feel that way, but try to focus on one step at a time. You've prepared well, and if any issues come up, we'll find solutions together. You've got this, and we're all here to support you.","First 3 hour day of oracle tomorrow, Going to die.",negative,1,"Yes, A was expressing negativity and anxiety about the upcoming training session and the overall project. The phrase ""Going to die"" indicates a high level of stress and worry.",1,True,790
-45,"Turn 1
-A: ""I just read that our new draft pick might be dealing with a lingering injury. This could really mess up our season plans. Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec...""
-B: ""Seriously? That's a bummer. We were counting on him to strengthen our defense. Do they know how bad it is?""
-
-Turn 2
-A: ""Not sure yet, but it sounds like it could be significant. I hope it's not another setback like last year.""
-B: ""Yeah, we can't afford another season of injuries. Let's hope it's just a precaution and nothing too serious.""",Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec...,negative,1,"Yes, A was being negative. The statement about the draft pick dealing with a lingering injury and the failed drug test suggests concern and disappointment, which are negative sentiments.",1,True,577
-35,"Turn 1
-A: Corey is going on a road trip this weekend.
-B: Oh, nice. Any idea where he's headed?
-
-Turn 2
-A: Not sure, but he mentioned he might be listening to some classic rock on the drive. Corey continues his journey in and there may be some Fleetwood Mac in the...
-B: Sounds like a good time. Classic rock is always a solid choice for a road trip.",Corey continues his journey in and there may be some Fleetwood Mac in the...,neutral,2,"A's statement about Corey listening to classic rock, including Fleetwood Mac, on his road trip is factual and does not convey any particular emotion or opinion. Therefore, it is neutral.",1,True,349
-30,"Turn 1
-A: I know it's tough with the group splitting up, but I think I'm going to support both the remaining members and the one who left. i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know. It feels like the best way to keep the peace and maybe even help them reconcile someday.
-B: I get where you're coming from, but it's hard for me to support the one who left. It feels like a betrayal to the group and to us as fans. How do you manage to stay neutral?
-
-Turn 2
-A: I guess I just see it as them all being human and having their reasons. Plus, I still love the music they all create, whether together or apart. Maybe showing support for everyone can remind them of the good times and bring them back together.
-B: That's a good point. I hadn't thought about it that way. Maybe I'll try to be more open-minded and see if I can appreciate their individual efforts too. It might be a healthier way to cope with the split.",i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know.,positive,1,"Yes, A was being positive. A expressed a hopeful and supportive attitude towards both the remaining group members and the one who left, suggesting that the split might be necessary for their friendship and that supporting both sides could help maintain peace and possibly lead to reconciliation.",1,True,1008
-48,"Turn 1
-A: Hey B! Just wanted to let you know I'm super excited to see you race on Sunday. You've been training so hard, and I can't wait to cheer you on!
-B: Thanks, A! Your support means a lot to me. I'm a bit nervous, but knowing you'll be there really helps.
-
-Turn 2
-A: You've got this, B! All those early morning runs and tough workouts are going to pay off. Cant wait to see you up here. I will be at the race on sun I'll be there with a big sign and lots of energy!
-B: Haha, I can always count on you to bring the enthusiasm. See you at the finish line!",Cant wait to see you up here. I will be at the race on sun,positive,2,"Yes, A was being positive. A expressed excitement and encouragement for B's upcoming race, showing support and enthusiasm.",1,True,558
-36,"Turn 1
-A: Hey! You HAVE to watch this new show I found, it's so good! Do you watch Styled To Rock? Fucking lav it! Oh also let's do something on Saturday then I'm going back to Sheff :) x We should totally binge it together on Saturday before I head back to Sheffield.
-B: Omg, that sounds perfect! I've been looking for something new to watch. What's it called?
-
-Turn 2
-A: It's called ""Mystery Lane."" Trust me, you'll be hooked after the first episode. Plus, it'll be great to hang out before I leave.
-B: Can't wait! I'll bring snacks. It's been too long since we had a proper catch-up.",Do you watch Styled To Rock? Fucking lav it! Oh also let's do something on Saturday then I'm going back to Sheff :) x,positive,1,"Yes, A was being positive. They expressed excitement about the show ""Styled To Rock"" and suggested doing something fun together on Saturday before heading back to Sheffield, which indicates a positive and enthusiastic tone.",1,True,586
-69,"Turn 1
-A: Did you hear that the non-profit with the controversial past is giving a talk about that notorious warlord next week? Invisible Children is at my school tomorrow to talk about Joseph Kony. You kind of lost your credibility when your leader ran around naked.
-B: Yeah, I heard. Given their previous scandal with their leader, I'm not sure how credible they are. Do you think it's worth attending?
-
-Turn 2
-A: I get your point, but it might still be interesting to hear their perspective, even if we take it with a grain of salt.
-B: True, it could be a chance to ask some tough questions and see how they handle it. Maybe we should go and see for ourselves.",Invisible Children is at my school tomorrow to talk about Joseph Kony. You kind of lost your credibility when your leader ran around naked.,negative,1,"Yes, A was being negative. A mentioned the controversial past of the non-profit and specifically pointed out the scandal involving their leader, which suggests a critical view of the organization's credibility.",1,True,663
-28,"Turn 1
-A: Wow, that first episode was intense! I can't wait to see what happens next.I need to see the 2nd episode of AHS now
-B: I know, right? The ending was such a cliffhanger. Do you want to watch the next episode now?
-
-Turn 2
-A: Absolutely! Let's grab some snacks and get comfortable. This show is so addictive.
-B: Great idea. I'll make some popcorn. This is going to be a fun night!",I need to see the 2nd episode of AHS now,positive,1,"Yes, A was being positive. The statement ""Wow, that first episode was intense! I can't wait to see what happens next. I need to see the 2nd episode of AHS now"" shows excitement and eagerness to continue watching the show.",1,True,387
+A: Thanks for understanding, B. I know my view isn't the most popular, but I just feel strongly about the sanctity of life. It's hard to reconcile sometimes.
+B: It is a difficult balance. I think what's important is that we can have these conversations openly and respectfully, even if we don't see eye to eye. It helps us understand each other better.",Call me an but I think babies is wrong.youthgen,against,1,"Yes, I agree. A is expressing a strong opinion against abortion, indicating that they believe ending a pregnancy is inherently wrong. This aligns with the sentiment of being against abortion.",1,True,803
 23,"Turn 1
-A: My kids are so excited for the next Sharknado movie. ""My kids look forward to the Sharknado movies, because they are awesomely horrible....and we need April! They find them hilariously entertaining.
-B: Oh, mine too! There's something so uniquely charming about those movies, isn't there?
+A: The discussion in bioethics was intense today. Just laid down the law on abortion in my bioethics class.I presented my arguments against abortion, focusing on the moral status of the fetus and the potential for life.
+B: That sounds challenging. How did your classmates react to your points?
 
 Turn 2
-A: Absolutely! They love the over-the-top action and the quirky characters. It's become a bit of a family tradition to watch them together.
-B: Same here! We always end up laughing so much. It's great to have something fun and light-hearted to look forward to.","""My kids look forward to the Sharknado movies, because they are awesomely horrible....and we need April!",positive,1,"Yes, A was being positive. A's statement about the Sharknado movies being ""awesomely horrible"" suggests a playful and affectionate appreciation for the movies' over-the-top nature. Additionally, A mentions that their kids find the movies hilariously entertaining, which indicates a positive sentiment.",1,True,565
-76,"Turn 1
-A: I just finished the second season of our favorite show last night.
-B: Oh, that's awesome! I'm so excited for the third season. I can't wait to see what happens next!
+A: It was a mixed bag. Some agreed with my perspective, emphasizing the sanctity of life, while others argued for women's autonomy and the complexities of individual circumstances.
+B: It's definitely a tough topic with strong opinions on both sides. Did you feel like the discussion was productive overall?",Just laid down the law on abortion in my bioethics class.,against,1,"Yes, I agree. A mentioned that they presented arguments against abortion, focusing on the moral status of the fetus and the potential for life, which indicates a stance against abortion.",1,True,615
+0,"Turn 1
+A: I think it's important for everyone to have a say in abortion laws, regardless of gender. These decisions impact society as a whole.
+B: But it's women's bodies and lives that are directly affected. Men shouldn't have the final say in healthcare choices that don't impact them personally.
 
 Turn 2
-A: Same here! The cliffhanger at the end of season two was intense. 3rd season Dance Academy means to me : going crazy! I love it and can't wait :))) I wonder how they'll resolve it.
-B: I know, right? I love how the show keeps us on our toes. It's going to be a long wait, but totally worth it!",3rd season Dance Academy means to me : going crazy! I love it and can't wait :))),positive,2,"Yes, A was being positive. They expressed excitement and enthusiasm about the upcoming third season of Dance Academy, indicating that they love the show and are eagerly anticipating its return.",1,True,478
-15,"Turn 1
-A: Hey, have you heard about that new all-female band covering Iron Maiden songs? I stumbled upon their video last night, and they are incredible!
-B: No way, that sounds awesome! I love Iron Maiden. What's the name of the band?
-
-Turn 2
-A: They're called ""Maiden's Wrath."" Friday! How can you argue with 5 beautiful women who sound this good playing Iron Maiden!Their rendition of ""The Trooper"" is mind-blowing. You should definitely check it out.
-B: I will! Thanks for the recommendation. It's always great to find new talent, especially when they put a fresh spin on classic songs.",Friday! How can you argue with 5 beautiful women who sound this good playing Iron Maiden!,positive,2,"Yes, A was being positive. A is expressing excitement and admiration for the band ""Maiden's Wrath,"" highlighting their talent and the impressive quality of their performance.",1,True,589
+A: I understand that, but as a society, we need to consider all perspectives to create fair laws. I am a man, but I feel most qualified to make healthcare decisions for women. It's not just about individual rights; it's about collective responsibility.
+B: Collective responsibility should include respecting women's autonomy over their own bodies. Men can support, but they shouldn't dictate what women can or cannot do with their healthcare.","I am a man, but I feel most qualified to make healthcare decisions for women.",against,2,"Yes, I agree. A's statement, ""I am a man, but I feel most qualified to make healthcare decisions for women,"" suggests that A believes men should have a significant role in making decisions about women's healthcare, which goes against the idea that women should have autonomy over their own bodies.",1,True,748
 27,"Turn 1
-A: Guess what? I just got tickets to see Janet Jackson live next month! I'm so excited; I've been waiting for this for ages. ""Janet Jackson - """"No Sleeep"""" Feat. J. Cole can't wait to see this live October 25th where are you?
-B: That's awesome! I know how much you love her music. Do you have an extra ticket, or are you going with someone else?
+A: You know, watching that documentary just reinforced my belief that every unborn child has the potential to make a huge impact on the world. I wonder if ever wonder if the pregnant they denied accurate to could have been the one to cure cancer. Imagine if one of those lives could have been the person to cure cancer.
+
+B: I see where you're coming from, and it's a powerful thought. But what about the situations where the mother's health is at risk or other complex circumstances? It's not always so clear-cut.
 
 Turn 2
-A: I actually have an extra ticket and was hoping you'd want to come with me. It would be so much fun to experience it together!
-B: That sounds like a blast! Let me check my schedule, but I'm definitely interested. It would be great to see her perform live.","""Janet Jackson - """"No Sleeep"""" Feat. J. Cole can't wait to see this live October 25th where are you?",positive,1,"Yes, A was being positive. They expressed excitement about getting tickets to see Janet Jackson live, which is something they've been looking forward to for a long time.",1,True,618
-59,"Turn 1
-A: I'm so excited for this weekend! There's a live music event at The Horn in St. Albans, and Black Noise is playing. Tomorrow I'll be throwing myself around to Black Noise. Come and do the same at The Horn St.Albans from 7:30pm You should totally come with me!
-B: That sounds awesome! What time does it start?
+A: I get that, and those situations are incredibly tough. I just feel that we should give every potential life a chance, because we never know what they might achieve.
+
+B: That's a fair point. It's definitely a complicated issue with a lot of layers. I think it's important to consider all perspectives and the individual circumstances involved.",I wonder if ever wonder if the pregnant they denied accurate to could have been the one to cure cancer.,favoring,1,"Yes, I agree. A is expressing a belief that every unborn child has the potential to make a significant impact, such as curing cancer, which indicates a favoring stance towards giving every potential life a chance.",1,True,874
+6,"Turn 1
+A: I just can't understand how you can support something that ends an innocent life. the premeditated taking of an innocent human life is 1st degree murder, and you know it. To me, abortion is no different from murder.
+B: I get that you feel strongly about this, but it's not that simple. Women need to have control over their own bodies and make decisions that are best for their circumstances.
 
 Turn 2
-A: It kicks off at 7:30 pm. Trust me, you'll love Black Noise—they're amazing live.
-B: Count me in! I've been wanting to check out some new music. This will be fun!",Tomorrow I'll be throwing myself around to Black Noise. Come and do the same at The Horn St.Albans from 7:30pm,positive,1,"Yes, A was being positive. A expressed excitement about the upcoming live music event and enthusiastically invited B to join, indicating a positive and eager attitude.",1,True,490
-42,"Turn 1
-A: Hi Taimouraga, I apologize for the delay in getting back to you. Dear Taimouraga, Thank you for contacting. Apologies for the late reply. Yes the Centers were open at the 4th day of Eid.""I wanted to confirm that the centers were indeed open during the holiday period.
-B: Thank you for the update! That's great to hear. I was worried I might have missed the opportunity to visit.
+A: But what about the unborn child's right to life? Shouldn't that be protected above all else?
+B: It's a tough balance, but we have to consider the woman's health, her future, and the fact that every situation is unique. It's not just about one life; it's about the quality of life for everyone involved.","the premeditated taking of an innocent human life is 1st degree murder, and you know it.",against,1,"Yes, A is clearly against abortion, as evidenced by their strong language equating it to first-degree murder and emphasizing the protection of the unborn child's right to life.",1,True,716
+25,"Turn 1
+A: Restrictive abortion laws are just another way for conservatives to exert control over individual freedoms. In 1776 we killed the conservatives, freed ourselves from that crap It's reminiscent of the American Revolution, where colonists fought against oppressive conservative rule. We should be resisting these attempts to control women's reproductive rights just as fiercely.
+B: I understand your perspective, but I believe that these laws are necessary to uphold moral and ethical standards. It's not about control; it's about protecting the sanctity of life. We have a responsibility to consider the moral implications of our actions.
 
 Turn 2
-A: No problem at all. If you need any further assistance or have more questions, feel free to reach out.
-B: Will do, thanks again for your help!","Dear Taimouraga, Thank you for contacting. Apologies for the late reply. Yes the Centers were open at the 4th day of Eid.""",positive,1,"Yes, A was being positive. A confirmed that the centers were open during the holiday period, which is good news for B, and also apologized for the delay in response, showing a considerate and helpful attitude.",1,True,541
+A: But isn't it also our responsibility to ensure that women have the freedom to make decisions about their own bodies? Just as the colonists sought freedom from oppressive rule, women today should have the autonomy to make choices without government interference.
+B: While personal freedom is important, we must also weigh it against the potential harm to unborn children. It's a complex issue, and we need to find a balance that respects both individual rights and moral considerations.","In 1776 we killed the conservatives, freed ourselves from that crap",against,1,"Yes, A was expressing opposition to restrictive abortion laws, comparing them to oppressive conservative rule during the American Revolution. A is advocating for women's autonomy and freedom from government interference.",1,True,1144
+7,"Turn 1
+A: It's really frustrating how the pro-life movement keeps pushing laws that restrict women's rights. It feels like they're not considering the real-life implications for women.
+B: I understand your frustration, but for me, it's about personal choices. I've never had an abortion, and my stance is based on my own experiences, not about imposing beliefs on others.
+
+Turn 2
+A: I get that, but the issue is that these laws affect everyone, not just those who share your personal choices. - I guess this means you're happy for me to be pro-life as I never aborted any of my own children? It's about ensuring that all women have the freedom to make their own decisions.
+B: I see your point. It's a complex issue, and I think it's important to find a balance where we respect individual choices while also considering the broader societal impact.",- I guess this means you're happy for me to be pro-life as I never aborted any of my own children?,against,2,"A's statement ""- I guess this means you're happy for me to be pro-life as I never aborted any of my own children?"" seems to be a rhetorical question aimed at highlighting the difference between personal choices and imposing those choices on others. A is emphasizing that while B's personal choice to be pro-life is respected, the issue at hand is about ensuring all women have the freedom to make their own decisions. This indicates that A is against the restrictive laws being pushed by the pro-life movement.",1,True,848
+12,"Turn 1
+A: I can't believe how ignorant and hateful those people are. I am about to deck these 2 bitches in the fucking mouth. They have no idea what it's like to be in a situation where you have to make such a difficult choice.
+B: I know, it's infuriating. They just spout off their opinions without any empathy or understanding. It's like they don't even see women as real people with real struggles.
+
+Turn 2
+A: Exactly! And the misinformation they spread is so dangerous. It's like they don't care about the actual facts or the well-being of women at all.
+B: Yeah, it's all about control for them. But we can't let their negativity get to us. We have to keep standing up for what's right and supporting each other.",I am about to deck these 2 bitches in the fucking mouth.,against,1,"Yes, I agree. A is expressing strong anger and frustration towards the people they are talking about, indicating that they are against those individuals and their views.",1,True,716
+52,"Turn 1
+A: I just don't understand how we can sit back and hope things will get better. Pray?? You want me to PRAY that abortions and dangerous facilities remain unchecked?? We need stricter regulations on abortion clinics to ensure safety and ethical standards. It's not enough to just have faith.
+B: I get where you're coming from, but I believe that over-regulating can create more barriers for women seeking necessary care. Sometimes, too many rules can do more harm than good.
+
+Turn 2
+A: But without concrete actions, we're leaving too much to chance. We need to be proactive to protect both patients and healthcare providers.
+B: I agree that safety is crucial, but we also need to trust that the system can adapt and improve without imposing overly restrictive measures. Balance is key.",Pray?? You want me to PRAY that abortions and dangerous facilities remain unchecked??,against,1,"Yes, I agree. A is expressing frustration and disbelief at the idea of relying solely on prayer to address the issue of unsafe abortion facilities. A is advocating for stricter regulations to ensure safety and ethical standards, indicating a proactive stance against leaving the situation unchecked.",1,True,791
 2,"Turn 1
-A: I heard there's an exciting event at Irving Plaza this Saturday, and there are still a few spots left on the guest list. Irving Plaza NYC Blackout Saturday night. Got limited spots left on the guest list. Tweet me why you think you deserve them
-B: Really? That sounds awesome! How do I get on the list?
+A: It's so exhausting dealing with all the hate on Twitter. Every time I post something about abortion rights, I get flooded with nasty comments from right-wing users. It's not Monday on Twitter until some right wing troll sends me a video of an abortion
+B: I can imagine how draining that must be. It's really unfair that you have to put up with that just for expressing your views. 
 
 Turn 2
-A: You just need to explain why you deserve a spot. It could be a fun way to spend Saturday night.
-B: I'll give it a shot! Thanks for the heads-up, A.",Irving Plaza NYC Blackout Saturday night. Got limited spots left on the guest list. Tweet me why you think you deserve them,neutral,1,A was providing information about the event and how to get on the guest list without expressing any personal feelings or opinions. This indicates a neutral stance.,1,True,471
+A: Yeah, it's like they don't even want to have a real conversation, just attack. It makes me worry about how polarized everything has become.
+B: Absolutely. The online harassment is just a symptom of the larger issue. It's scary how divided we are, especially on something as important as abortion rights.",It's not Monday on Twitter until some right wing troll sends me a video of an abortion,favoring,1,"Yes, I agree. A is expressing frustration with right-wing users who oppose abortion rights, indicating that A is in favor of abortion rights.",1,True,706
+0,"Turn 1
+A: I just feel so lost, you know? Everyone has an opinion about what I should do, and it's making everything so much harder.
+B: I understand, A. It's a deeply personal decision, and only you can truly know what's best for you. Remember, whatever you decide, it's your choice and it's valid.
+
+Turn 2
+A: Thanks, B. It's just hard to tune out all the noise and focus on what I really want. When is abortion a responsible choice? When a woman chooses it to be
+B: Take your time, and don't rush into anything. I'm here for you, no matter what you decide. Your feelings and circumstances are what matter most.",When is abortion a responsible choice? When a woman chooses it to be,favoring,2,"Yes, A's statement ""When is abortion a responsible choice? When a woman chooses it to be"" indicates that A is favoring the perspective that the decision to have an abortion is a personal and valid choice for a woman to make based on her own circumstances and judgment.",1,True,610
+49,"Turn 1
+A: I'm really torn about how to address abortion in my campaign. It's such a divisive issue, and I want to be respectful of all viewpoints. Life is sacred on all levels. Abortion does not compute with my philosophy. Kate Mulgrew (Red on ) How do you think I should approach it?
+
+B: I understand your dilemma. For me, the sanctity of life is paramount. I believe that life begins at conception, and that belief shapes my pro-life stance. It's important to communicate your values clearly, but also to listen to and respect differing opinions.
+
+Turn 2
+A: That's a good point. I want to be honest about my views but also open to dialogue. How do you think I can balance that without alienating voters who might disagree?
+
+B: You could emphasize your commitment to supporting women and families, regardless of your stance on abortion. Show that you care about comprehensive solutions, like better access to healthcare and education, which can resonate with a broader audience. It's about finding common ground while staying true to your principles.",Life is sacred on all levels. Abortion does not compute with my philosophy. Kate Mulgrew (Red on ),against,1,"Yes, based on the context, A is expressing a viewpoint against abortion by stating ""Life is sacred on all levels. Abortion does not compute with my philosophy.""",1,True,1051
+8,"Turn 1
+A: I just can't agree with that public figure's view on abortion. To me, a fetus is a human being from the moment of conception. RT NEW video: ""I'm not seeing it as a human being."" Ignoring that fact feels like disregarding the value of human life.
+B: I see where you're coming from. But what about situations where the mother's health is at risk or other complex circumstances? How do you reconcile those?
+
+Turn 2
+A: Those are definitely tough situations, and I believe they need careful consideration. However, I think we should still start from the premise that the fetus is a human life and then navigate those complexities with that in mind.
+B: That makes sense. It's a challenging issue with a lot of nuances. I appreciate you sharing your perspective; it gives me a lot to think about.","RT NEW video: ""I'm not seeing it as a human being.""",against,1,"Yes, I agree. A is expressing disagreement with the public figure's view on abortion, specifically highlighting that they believe a fetus is a human being from the moment of conception, which contrasts with the public figure's statement in the video.",1,True,799
+2,"Turn 1
+A: Given the recent legislative changes, it's crucial to consider the data on the risks associated with abortion procedures. Using business risk assessment models, we can see that the potential dangers are significant and should be a major factor in our policy recommendations.
+
+B: I understand your concern about risks, but focusing solely on that aspect overlooks the importance of women's autonomy and the broader context of reproductive health. We need to consider the full spectrum of impacts, including the benefits of allowing women to make their own choices.
+
+Turn 2
+A: While I agree that women's autonomy is important, the data shows that there are substantial health risks involved. we discussed how Business calculates risk factors. Drew was attacking inferring life is at risk. I invoked Shouldn't we prioritize minimizing these risks in our policy discussions?
+
+B: Minimizing risks is important, but we also need to balance that with respecting women's rights to make informed decisions about their own bodies. Policies should empower women with comprehensive information and access to safe healthcare options, rather than restricting their choices based on risk assessments alone.",we discussed how Business calculates risk factors. Drew was attacking inferring life is at risk. I invoked,against,2,"Yes, I agree. A is emphasizing the health risks associated with abortion procedures and suggesting that these risks should be a major factor in policy recommendations. This stance can be interpreted as being against prioritizing women's autonomy over the perceived health risks.",1,True,1201
+3,"Turn 1
+A: You know, I was born prematurely, and my parents were told I might not make it. But here I am, and that's why I believe every life has value, no matter the circumstances.
+B: That's really powerful, A. I can see why you feel so strongly about it. It's such a complex issue, though, and I sometimes struggle to form a clear opinion.
+
+Turn 2
+A: I get that, B. It's not an easy topic. I just think about how different things could have been if my parents had made a different choice. I was born 4 months premature... I'm perfectly fine, somehow killing babies is legal in this country. It makes me appreciate life even more.
+B: I understand. Hearing your story definitely gives me a lot to think about. It's important to consider all perspectives, especially personal ones like yours.","I was born 4 months premature... I'm perfectly fine, somehow killing babies is legal in this country.",against,2,"Yes, I agree. A's statement about being born prematurely and then mentioning ""somehow killing babies is legal in this country"" indicates a strong stance against abortion.",1,True,790
+44,"Turn 1
+A: I can't believe some GOP members actually voted for that bill. It's like they're abandoning our core principles.
+B: I get that you're upset, but maybe they saw it as a compromise to get other important things passed. Politics is often about give and take.
+
+Turn 2
+A: But compromising on something as fundamental as abortion rights? I don't know about you, but I didn't vote for the GOP to capitulate to the Dems. That feels like a betrayal to me.
+B: I understand where you're coming from, but maybe they thought it was the best way to address a broader range of issues. It's a tough balance to strike.","I don't know about you, but I didn't vote for the GOP to capitulate to the Dems.",against,2,"Yes, A is expressing strong disapproval of the GOP members' decision to vote for the bill, which they see as a capitulation to the Democrats and a betrayal of core principles.",1,True,611
+35,"Turn 1
+A: ""Representative B, how can you support a bill that claims to protect religious freedom but seems to allow for late-term abortions? This is deeply troubling to many of us who value the sanctity of life. You sponsored the religious freedom bill. What is this bill that allows killing full term babies in NY?""
+
+B: ""I understand your concerns, A. The bill is designed to ensure that individuals can practice their religious beliefs without government interference. It is not intended to promote or permit late-term abortions, but rather to protect religious rights. We are working on clarifying the language to address these misunderstandings.""
+
+Turn 2
+A: ""But don't you see how the current wording could be exploited? It feels like a loophole that undermines our moral values. We need stronger assurances that this won't lead to more abortions.""
+
+B: ""I hear you, and I assure you that was never the intention. We are committed to revising the bill to make it clear that it does not support or enable late-term abortions. Your feedback is crucial, and we will take it into account to ensure the bill aligns with our community's values.""",You sponsored the religious freedom bill. What is this bill that allows killing full term babies in NY?,against,1,"Yes, A is expressing strong opposition to the bill, particularly due to concerns that it could be interpreted as allowing late-term abortions, which A finds deeply troubling.",1,True,1142

@@ -1,0 +1,141 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+101,"Turn 1
+A: Ugh, I've been stuck at this airport for two days now because of the storm. It's so frustrating!
+B: That sounds awful. I'm really sorry you're going through this. Is there any update on when you might be able to leave?
+
+Turn 2
+A: They just told us we might have to fly to a different city and wait out the storm there. Day 2 stuck in the Taipei airport. Possibly going to LA to wait out the storm. Didn't think I'd make it to Cali for the 1st time this way This wasn't part of my plan at all.
+B: Wow, that's really unexpected. Hang in there. If you need anything or just want to vent, I'm here for you.",Day 2 stuck in the Taipei airport. Possibly going to LA to wait out the storm. Didn't think I'd make it to Cali for the 1st time this way,negative,2,"Yes, A was being negative. They expressed frustration about being stuck in the airport for two days and mentioned that going to LA was not part of their plan, indicating disappointment and dissatisfaction with the situation.",1,True,612
+15,"Turn 1
+A: I heard our favorite singer is going to be on ""Live with Kelly and Michael"" tomorrow! ""I feel like tomorrow on Live with Kelly and Michael, they're gonna show the video of Shawn singing I Don't Even Know Your Name, I'm excited!""
+B: Really? That's awesome! I can't wait to see what they talk about.
+
+Turn 2
+A: I know, right? I hope they perform one of their new songs.
+B: That would be amazing. We should definitely watch it together and discuss it afterward.","""I feel like tomorrow on Live with Kelly and Michael, they're gonna show the video of Shawn singing I Don't Even Know Your Name, I'm excited!""",positive,1,"Yes, A was being positive. A expressed excitement about the upcoming appearance of their favorite singer on the show and the possibility of seeing a video of Shawn singing.",1,True,468
+85,"Turn 1
+A: I'm really worried about our defense for the next game. I don't think Christensen has been in great form lately. Really hope Chelsea start Baba instead of Ivanovic on Saturday, he's literally aged about 5 years over the summer
+B: Yeah, I get what you mean. Maybe it's time to give Chalobah a start. He's been solid whenever he's played.
+
+Turn 2
+A: Exactly! Chalobah brings a lot of energy and seems more reliable right now. Plus, his passing is pretty sharp.
+B: True, and with our current strategy, having someone who can distribute the ball well from the back could make a big difference. Let's hope Tuchel sees it the same way.","Really hope Chelsea start Baba instead of Ivanovic on Saturday, he's literally aged about 5 years over the summer",negative,1,"Yes, A was being negative. A expressed concern about the defense and criticized Ivanovic by saying he has aged significantly over the summer, implying a decline in his performance.",1,True,639
+2,"Turn 1
+A: Did you do anything interesting over the weekend?
+B: Yeah, I watched the movie adaptation of that book I told you about.
+
+Turn 2
+A: Oh, really? How was it? I know you usually have strong opinions about these adaptations. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""
+B: It was a mixed bag. Some parts were well done, but they made a lot of changes that didn't sit well with me. It just didn't capture the essence of the book.","""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""",negative,2,"Yes, I agree. A's statement about ""Paper Towns"" indicates a negative sentiment. They mention that the movie was ""good I guess"" but immediately follow it with a complaint about the numerous changes compared to the book, which bothered them.",1,True,507
+108,"Turn 1
+A: Ugh, I shouldn't have taken that nap before the party. I thought it would help, but I feel even more exhausted now. ""In retrospect, the prefunk nap and midnight Red Bull may have been a poor decision.
+B: Yeah, I noticed you were struggling to stay awake. Maybe the energy drink at midnight wasn't the best idea either.
+
+Turn 2
+A: Definitely not. It gave me a quick boost, but now I feel like I'm crashing hard.
+B: I get it. Next time, maybe just stick to coffee earlier in the evening. It seems to work better for me.","""In retrospect, the prefunk nap and midnight Red Bull may have been a poor decision.",negative,1,"Yes, A was being negative. A expressed regret and dissatisfaction with their decision to take a nap and drink a Red Bull at midnight, indicating that these actions had adverse effects.",1,True,527
+78,"Turn 1
+A: You know, I've kind of lost interest in Kpop lately. looks like I'm done with Kpop guys I've been exploring other genres and activities.
+B: Oh, really? That's interesting. What have you been getting into instead?
+
+Turn 2
+A: I've been listening to a lot of indie rock and also started taking up painting.
+B: That sounds cool! It's always nice to try new things and see where they take you.",looks like I'm done with Kpop guys,neutral,1,"A's statement ""looks like I'm done with Kpop guys"" suggests a sense of finality and a shift in interest, but it doesn't convey strong positive or negative emotions. It seems more like a neutral observation about their changing interests.",1,True,398
+100,"Turn 1
+A: Ugh, I just found out that our professor is playing Kpop in class this Thursday. that sucks. I'm forced to listen to Kpop on Thursday class. I guess my cells in brain are going to die out. I really can't stand it.
+B: Oh, that sounds rough. I guess it's not your thing, huh?
+
+Turn 2
+A: Yeah, it's just not my style at all. I wish they would pick something else.
+B: Maybe you can bring headphones and listen to your own music during the activity? It might help you get through it.",that sucks. I'm forced to listen to Kpop on Thursday class. I guess my cells in brain are going to die out.,negative,1,"Yes, I agree. A's statement ""that sucks"" and ""I guess my cells in brain are going to die out"" clearly indicate a negative sentiment towards the situation of having to listen to Kpop in class.",1,True,488
+7,"Turn 1
+A: Guess what? I finally found a new job with better hours!
+B: That's amazing! Congratulations! When do you start?
+
+Turn 2
+A: Thanks! I start next week, and tomorrow is my last early shift at Dunkin. Tomorrow is my last day waking up at 5:30 in the morning to work at Dunkin and I couldn't be happier
+B: Wow, that's fantastic news! I'm so happy for you. You deserve it after all those early mornings.",Tomorrow is my last day waking up at 5:30 in the morning to work at Dunkin and I couldn't be happier,positive,2,"Yes, A was being positive. A expressed happiness about finding a new job with better hours and mentioned being happy about not having to wake up early anymore.",1,True,407
+111,"Turn 1
+A: Ugh, my console's been acting up again. It keeps freezing in the middle of my games, and it's driving me nuts.
+B: That sucks. Have you tried checking for any system updates or maybe clearing some cache? Sometimes that helps.
+
+Turn 2
+A: Yeah, I did both, but it didn't make much of a difference. my PS4 died last night. I press the power button once it beeps, nothing happens. 2nd time beeps blue light comes on but nothing"" I'm starting to think it might be a hardware issue.
+B: Could be. Maybe it's overheating? Have you checked the vents and made sure it's getting enough airflow?","my PS4 died last night. I press the power button once it beeps, nothing happens. 2nd time beeps blue light comes on but nothing""",negative,2,"Yes, I agree. A's statement ""my PS4 died last night. I press the power button once it beeps, nothing happens. 2nd time beeps blue light comes on but nothing"" indicates frustration and disappointment, which are negative emotions.",1,True,592
+71,"Turn 1
+A: We had such a great family dinner last night! The food was amazing, and everyone was in such good spirits.
+B: That sounds wonderful! I'm glad you're having a good time. What's on the agenda for tomorrow?
+
+Turn 2
+A: We're planning to attend this event where Harris English will be. Lovely meal with the fam Day four at tomorrow come on Harris English It should be really fun!
+B: Wow, that's exciting! I've heard he's a great golfer. You'll have to tell me all about it afterward.",Lovely meal with the fam Day four at tomorrow come on Harris English,positive,2,"Yes, A was being positive. They expressed excitement about attending an event with Harris English and mentioned having a lovely meal with their family, which indicates a positive sentiment.",1,True,488
+62,"Turn 1
+A: I'm really looking forward to tomorrow. I've got a jiujitsu class in the morning and then the big UFC event in the evening. Jiujitsu tomorrow - then ufc 155 - it's gonna be a great day I can already tell
+B: That sounds awesome! I was planning to watch the fight too. Who are you rooting for?
+
+Turn 2
+A: I'm backing Oliveira. His ground game is just incredible. How about you?
+B: I'm all in for Gaethje. His striking is on another level. Should be an epic fight!",Jiujitsu tomorrow - then ufc 155 - it's gonna be a great day I can already tell,positive,1,"Yes, A was being positive. They expressed excitement and anticipation for both their jiujitsu class and the UFC event, indicating they are looking forward to the day.",1,True,471
+104,"Turn 1
+A: I can't believe how Congress is handling these deadlines. It's like they're playing a game with critical issues.
+B: Yeah, I noticed you seemed pretty upset. What's the latest that's got you so frustrated?
+
+Turn 2
+A: It's the Iran deal and the funding for Planned Parenthood. MT My 1st read of the day from Congress returns to tight deadlines, key farts on Iran deal, Planned Parenthood They keep pushing things to the last minute, and it's just so irresponsible.
+B: I hear you. It feels like they're not taking these issues seriously enough. Do you think there's any chance they'll get it together in time?","MT My 1st read of the day from Congress returns to tight deadlines, key farts on Iran deal, Planned Parenthood",negative,2,"Yes, A was being negative. A expressed frustration with Congress's handling of critical issues like the Iran deal and Planned Parenthood funding, describing their actions as irresponsible and likening them to playing a game with important deadlines.",1,True,616
+32,"Turn 1
+A: Imagine if Kanye West starred in the next season of ""True Detective."" Can you picture him as a brooding detective?
+B: Oh man, that would be wild! He'd probably have some epic monologues about the nature of reality and fame.
+
+Turn 2
+A: And you know he'd insist on doing the soundtrack too. Every episode would have a new Kanye track. I hope Kanye West is the lead on the 3rd season of true detective. Because this script is writing itself.
+B: Totally! It would be like a mix of intense crime drama and a Kanye concert. I'd watch that in a heartbeat.",I hope Kanye West is the lead on the 3rd season of true detective. Because this script is writing itself.,positive,2,"A's statement about Kanye West being the lead on the 3rd season of ""True Detective"" and the script writing itself suggests enthusiasm and excitement about the idea. This indicates a positive sentiment.",1,True,558
+65,"Turn 1
+A: Hey, did you hear about the local soccer game tonight? They're having a special promotion for the first 1,000 attendees. ""We're excited to have MYSA's support behind tomorrow night's game! First 1,000 people in the doors get a mini soccer ball!""
+B: Really? That sounds awesome! I was just thinking about what to do this evening. What time does it start?
+
+Turn 2
+A: It kicks off at 7 PM. I was planning to get there early to make sure I get in on the promotion. Want to join me?
+B: Absolutely! Let's meet up around 6:30 then. It'll be great to catch the game together and maybe grab some snacks beforehand.","""We're excited to have MYSA's support behind tomorrow night's game! First 1,000 people in the doors get a mini soccer ball!""",positive,1,"Yes, A was being positive. A was sharing exciting news about a special promotion at the local soccer game, which is generally a positive and enthusiastic statement.",1,True,615
+43,"Turn 1
+A: I'm not sure if I can make it to the ICC tomorrow. Ion think I'm going to ICC tomorrow.I have a few other things lined up.
+B: I understand. Do you think you might be able to join later in the day, or should I plan to go alone?
+
+Turn 2
+A: I might be able to swing by in the afternoon, but I can't promise anything. I'll let you know by tonight.
+B: Sounds good. Just keep me posted, and I'll adjust the schedule accordingly. Thanks!",Ion think I'm going to ICC tomorrow.,neutral,1,"Yes, I agree. A was being neutral in their response. They were simply stating their current situation and the possibility of not being able to attend the ICC due to other commitments. There was no strong positive or negative sentiment expressed.",1,True,440
+44,"Turn 1
+A: Remember that episode where Woody and FPS Russia did that crazy challenge? That was one of my favorites. woody are you going to do another mail monday with FPS Russia cause the last one was hilarious that was by far my fav Do you think they'll do more like that?
+B: Oh, absolutely! That one was epic. I think they hinted at doing something similar in their last Q&A. Fingers crossed!
+
+Turn 2
+A: Yeah, I caught that too. I love how they always manage to keep things fresh and exciting. What do you think they might try next?
+B: Maybe another wild stunt or a collaboration with another big creator. They always seem to have something up their sleeves. Can't wait to see what they come up with!",woody are you going to do another mail monday with FPS Russia cause the last one was hilarious that was by far my fav,positive,1,"Yes, A was being positive. They expressed enjoyment and enthusiasm about the previous collaboration between Woody and FPS Russia, calling it hilarious and their favorite.",1,True,701
+115,"Turn 1
+A: I can't believe you're more excited about seeing that headliner than Paul McCartney. He's a legend!""If you're going to Lolla next Friday and seeing a headliner other than Paul McCartney, I will have no respect in your opinion of music""
+B: I know, but I've seen Paul before, and this other band is one I've been dying to see live. It's just a different vibe.
+
+Turn 2
+A: I get that, but Paul McCartney is in a league of his own. Missing his set feels like a missed opportunity.
+B: I understand where you're coming from, but I think it's cool that we have different tastes. It makes our festival experience more diverse.","""If you're going to Lolla next Friday and seeing a headliner other than Paul McCartney, I will have no respect in your opinion of music""",negative,1,"Yes, A was being negative. A's statement, ""I will have no respect in your opinion of music,"" is a strong and dismissive remark that indicates a lack of respect for B's musical preferences.",1,True,627
+19,"Turn 1
+A: Did you hear about Brock Lesnar's return on WWE Raw? ICYMI: Last Monday in the city with Paul Heyman. This Monday he returns to WWE Raw with Brock Lesnar! And guess what, Paul Heyman's back with him!
+B: No way! That's awesome. I can't wait to see what kind of chaos they stir up. Any hints on what they're planning?
+
+Turn 2
+A: From what I heard, they're targeting Roman Reigns. It looks like we're in for some epic showdowns.
+B: Oh man, that sounds intense. I hope they really push the envelope with this storyline. Can't wait for the next episode!",ICYMI: Last Monday in the city with Paul Heyman. This Monday he returns to WWE Raw with Brock Lesnar!,neutral,1,"A's statement ""ICYMI: Last Monday in the city with Paul Heyman. This Monday he returns to WWE Raw with Brock Lesnar!"" is informative and factual, providing details about Brock Lesnar's return without expressing any personal feelings or opinions. Therefore, A was being neutral.",1,True,558
+6,"Turn 1
+A: I can't wait for Baylor's homecoming this weekend! The parade, the game, and all the events are going to be so much fun.
+B: I know, right? I'm really looking forward to the bonfire. Remember how amazing it was last year?
+
+Turn 2
+A: Absolutely! headed to Baylor homecoming tomorrow with my baber. Should be fun even without RG3! And even though that famous alumnus won't be there this time, I bet we'll still run into a lot of familiar faces.
+B: For sure. It's always great catching up with old friends. Plus, the energy of the crowd is just unbeatable. It's going to be a blast!",headed to Baylor homecoming tomorrow with my baber. Should be fun even without RG3!,positive,2,"Yes, A was being positive. They expressed excitement about attending Baylor's homecoming and mentioned that it should be fun even without RG3, indicating a positive outlook on the event.",1,True,588
+56,"Turn 1
+A: I can't believe how late it is! I've been so hooked on Game of Thrones that I completely lost track of time.
+B: Haha, I totally get it! That show has a way of pulling you in. I remember staying up until 3 AM just to finish a season.
+
+Turn 2
+A: Right? It's like you can't stop once you start. Its okay if its almost 5am and ive had no sleep in like three days cos im on the 4th season of Game of Thrones so who's the real winner here I think I might need a coffee IV at this point.
+B: Oh, for sure! But it's worth it for those epic plot twists. Just wait until you get to the Red Wedding—mind-blowing!",Its okay if its almost 5am and ive had no sleep in like three days cos im on the 4th season of Game of Thrones so who's the real winner here,positive,2,"A's statement, while acknowledging the lack of sleep and the late hour, is delivered with a sense of humor and enthusiasm about watching Game of Thrones. This suggests a positive sentiment despite the exhaustion.",1,True,610
