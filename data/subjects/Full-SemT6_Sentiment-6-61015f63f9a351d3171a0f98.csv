@@ -1,0 +1,265 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I'm so excited for this weekend! There's a live music event at The Horn in St. Albans, and Black Noise is playing. Tomorrow I'll be throwing myself around to Black Noise. Come and do the same at The Horn St.Albans from 7:30pm You should totally come with me!
+B: That sounds awesome! What time does it start?
+
+Turn 2
+A: It kicks off at 7:30 pm. Trust me, you'll love Black Noise—they're amazing live.
+B: Count me in! I've been wanting to check out some new music. This will be fun!",positive,2024-09-13T18:18:17.881000+00:00,"What was the person's sentiment when they said ""Tomorrow I'll be throwing myself around to Black Noise. Come and do the same at The Horn St.Albans from 7:30pm"" during the conversation?","Turn 1
+A: I'm so excited for this weekend! There's a live music event at The Horn in St. Albans, and Black Noise is playing. Tomorrow I'll be throwing myself around to Black Noise. Come and do the same at The Horn St.Albans from 7:30pm You should totally come with me!
+B: That sounds awesome! What time does it start?
+
+Turn 2
+A: It kicks off at 7:30 pm. Trust me, you'll love Black Noise—they're amazing live.
+B: Count me in! I've been wanting to check out some new music. This will be fun!",Tomorrow I'll be throwing myself around to Black Noise. Come and do the same at The Horn St.Albans from 7:30pm,positive
+"Turn 1
+A: I can't wait for my day off tomorrow; I'm finally going to binge-watch ""Equalizer."" you just askin the wrong folks. Equalizer is a must tomorrow since I'm off Have you started it yet?
+B: Not yet, but I'm planning to. Any tips on how to get the best experience?
+
+Turn 2
+A: Definitely! Make sure you watch it on a good screen with decent sound. And maybe avoid any spoilers online; the plot twists are worth it.
+B: Sounds like a plan. I'll set up my home theater and stay off social media. Thanks for the advice!",positive,2024-09-13T18:18:45.778000+00:00,"What was the person's sentiment when they said ""you just askin the wrong folks. Equalizer is a must tomorrow since I'm off"" during the conversation?","Turn 1
+A: I can't wait for my day off tomorrow; I'm finally going to binge-watch ""Equalizer."" you just askin the wrong folks. Equalizer is a must tomorrow since I'm off Have you started it yet?
+B: Not yet, but I'm planning to. Any tips on how to get the best experience?
+
+Turn 2
+A: Definitely! Make sure you watch it on a good screen with decent sound. And maybe avoid any spoilers online; the plot twists are worth it.
+B: Sounds like a plan. I'll set up my home theater and stay off social media. Thanks for the advice!",you just askin the wrong folks. Equalizer is a must tomorrow since I'm off,positive
+"Turn 1
+A: Hey, have you heard about that new all-female band covering Iron Maiden songs? I stumbled upon their video last night, and they are incredible!
+B: No way, that sounds awesome! I love Iron Maiden. What's the name of the band?
+
+Turn 2
+A: They're called ""Maiden's Wrath."" Friday! How can you argue with 5 beautiful women who sound this good playing Iron Maiden!Their rendition of ""The Trooper"" is mind-blowing. You should definitely check it out.
+B: I will! Thanks for the recommendation. It's always great to find new talent, especially when they put a fresh spin on classic songs.",positive,2024-09-13T18:26:03.213000+00:00,"What was the person's sentiment when they said ""Friday! How can you argue with 5 beautiful women who sound this good playing Iron Maiden!"" during the conversation?","Turn 1
+A: Hey, have you heard about that new all-female band covering Iron Maiden songs? I stumbled upon their video last night, and they are incredible!
+B: No way, that sounds awesome! I love Iron Maiden. What's the name of the band?
+
+Turn 2
+A: They're called ""Maiden's Wrath."" Friday! How can you argue with 5 beautiful women who sound this good playing Iron Maiden!Their rendition of ""The Trooper"" is mind-blowing. You should definitely check it out.
+B: I will! Thanks for the recommendation. It's always great to find new talent, especially when they put a fresh spin on classic songs.",Friday! How can you argue with 5 beautiful women who sound this good playing Iron Maiden!,positive
+"Turn 1
+A: You know, I'm really glad we decided to come to Italy this time. London's been quite tense lately with all the protests and disruptions.
+B: Absolutely, I've been following the news. It's been quite unsettling. This serene environment is a much-needed escape.
+
+Turn 2
+A: Exactly. I just wanted a peaceful break without worrying about any social unrest. ""Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear"" Plus, the weather here is perfect.
+B: Couldn't agree more. It's such a relief to enjoy our breakfast without any worries. Italy was definitely the right choice.",negative,2024-09-13T18:21:25.115000+00:00,"What was the person's sentiment when they said """"Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear"""" during the conversation?","Turn 1
+A: You know, I'm really glad we decided to come to Italy this time. London's been quite tense lately with all the protests and disruptions.
+B: Absolutely, I've been following the news. It's been quite unsettling. This serene environment is a much-needed escape.
+
+Turn 2
+A: Exactly. I just wanted a peaceful break without worrying about any social unrest. ""Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear"" Plus, the weather here is perfect.
+B: Couldn't agree more. It's such a relief to enjoy our breakfast without any worries. Italy was definitely the right choice.","""Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear""",negative
+"Turn 1
+A: I heard there's an exciting event at Irving Plaza this Saturday, and there are still a few spots left on the guest list. Irving Plaza NYC Blackout Saturday night. Got limited spots left on the guest list. Tweet me why you think you deserve them
+B: Really? That sounds awesome! How do I get on the list?
+
+Turn 2
+A: You just need to explain why you deserve a spot. It could be a fun way to spend Saturday night.
+B: I'll give it a shot! Thanks for the heads-up, A.",positive,2024-09-13T18:22:29.247000+00:00,"What was the person's sentiment when they said ""Irving Plaza NYC Blackout Saturday night. Got limited spots left on the guest list. Tweet me why you think you deserve them"" during the conversation?","Turn 1
+A: I heard there's an exciting event at Irving Plaza this Saturday, and there are still a few spots left on the guest list. Irving Plaza NYC Blackout Saturday night. Got limited spots left on the guest list. Tweet me why you think you deserve them
+B: Really? That sounds awesome! How do I get on the list?
+
+Turn 2
+A: You just need to explain why you deserve a spot. It could be a fun way to spend Saturday night.
+B: I'll give it a shot! Thanks for the heads-up, A.",Irving Plaza NYC Blackout Saturday night. Got limited spots left on the guest list. Tweet me why you think you deserve them,positive
+"Turn 1
+A: My kids are so excited for the next Sharknado movie. ""My kids look forward to the Sharknado movies, because they are awesomely horrible....and we need April! They find them hilariously entertaining.
+B: Oh, mine too! There's something so uniquely charming about those movies, isn't there?
+
+Turn 2
+A: Absolutely! They love the over-the-top action and the quirky characters. It's become a bit of a family tradition to watch them together.
+B: Same here! We always end up laughing so much. It's great to have something fun and light-hearted to look forward to.",positive,2024-09-13T18:25:37.613000+00:00,"What was the person's sentiment when they said """"My kids look forward to the Sharknado movies, because they are awesomely horrible....and we need April!"" during the conversation?","Turn 1
+A: My kids are so excited for the next Sharknado movie. ""My kids look forward to the Sharknado movies, because they are awesomely horrible....and we need April! They find them hilariously entertaining.
+B: Oh, mine too! There's something so uniquely charming about those movies, isn't there?
+
+Turn 2
+A: Absolutely! They love the over-the-top action and the quirky characters. It's become a bit of a family tradition to watch them together.
+B: Same here! We always end up laughing so much. It's great to have something fun and light-hearted to look forward to.","""My kids look forward to the Sharknado movies, because they are awesomely horrible....and we need April!",positive
+"Turn 1
+A: Corey is going on a road trip this weekend.
+B: Oh, nice. Any idea where he's headed?
+
+Turn 2
+A: Not sure, but he mentioned he might be listening to some classic rock on the drive. Corey continues his journey in and there may be some Fleetwood Mac in the...
+B: Sounds like a good time. Classic rock is always a solid choice for a road trip.",positive,2024-09-13T18:24:44.613000+00:00,"What was the person's sentiment when they said ""Corey continues his journey in and there may be some Fleetwood Mac in the..."" during the conversation?","Turn 1
+A: Corey is going on a road trip this weekend.
+B: Oh, nice. Any idea where he's headed?
+
+Turn 2
+A: Not sure, but he mentioned he might be listening to some classic rock on the drive. Corey continues his journey in and there may be some Fleetwood Mac in the...
+B: Sounds like a good time. Classic rock is always a solid choice for a road trip.",Corey continues his journey in and there may be some Fleetwood Mac in the...,positive
+"Turn 1
+A: Hey! You HAVE to watch this new show I found, it's so good! Do you watch Styled To Rock? Fucking lav it! Oh also let's do something on Saturday then I'm going back to Sheff :) x We should totally binge it together on Saturday before I head back to Sheffield.
+B: Omg, that sounds perfect! I've been looking for something new to watch. What's it called?
+
+Turn 2
+A: It's called ""Mystery Lane."" Trust me, you'll be hooked after the first episode. Plus, it'll be great to hang out before I leave.
+B: Can't wait! I'll bring snacks. It's been too long since we had a proper catch-up.",positive,2024-09-13T18:26:24.997000+00:00,"What was the person's sentiment when they said ""Do you watch Styled To Rock? Fucking lav it! Oh also let's do something on Saturday then I'm going back to Sheff :) x"" during the conversation?","Turn 1
+A: Hey! You HAVE to watch this new show I found, it's so good! Do you watch Styled To Rock? Fucking lav it! Oh also let's do something on Saturday then I'm going back to Sheff :) x We should totally binge it together on Saturday before I head back to Sheffield.
+B: Omg, that sounds perfect! I've been looking for something new to watch. What's it called?
+
+Turn 2
+A: It's called ""Mystery Lane."" Trust me, you'll be hooked after the first episode. Plus, it'll be great to hang out before I leave.
+B: Can't wait! I'll bring snacks. It's been too long since we had a proper catch-up.",Do you watch Styled To Rock? Fucking lav it! Oh also let's do something on Saturday then I'm going back to Sheff :) x,positive
+"Turn 1
+A: Hey, B! I just found out I have two extra tickets to the concert tomorrow night. ""anyone interested in a couple of tickets for Runrig tomorrow at the Northern Meeting Park, Inverness?"" I remember you saying you love live music. Interested?
+B: Oh wow, that sounds amazing! Which concert is it?
+
+Turn 2
+A: It's for the new indie band that's been getting a lot of buzz lately. I thought you might enjoy it.
+B: Absolutely, I've been wanting to see them live! Thanks for thinking of me, A. I'd love to go!",positive,2024-09-13T18:19:49.661000+00:00,"What was the person's sentiment when they said """"anyone interested in a couple of tickets for Runrig tomorrow at the Northern Meeting Park, Inverness?"""" during the conversation?","Turn 1
+A: Hey, B! I just found out I have two extra tickets to the concert tomorrow night. ""anyone interested in a couple of tickets for Runrig tomorrow at the Northern Meeting Park, Inverness?"" I remember you saying you love live music. Interested?
+B: Oh wow, that sounds amazing! Which concert is it?
+
+Turn 2
+A: It's for the new indie band that's been getting a lot of buzz lately. I thought you might enjoy it.
+B: Absolutely, I've been wanting to see them live! Thanks for thinking of me, A. I'd love to go!","""anyone interested in a couple of tickets for Runrig tomorrow at the Northern Meeting Park, Inverness?""",positive
+"Turn 1
+A: I'm really nervous about leading this new software implementation project. The training sessions start tomorrow, and I'm worried I won't be able to handle the demanding schedule and high expectations.First 3 hour day of oracle tomorrow, Going to die.
+
+B: I get it, A. It's a big responsibility, but remember, you've got the skills and experience to pull this off. Plus, you've got a whole team behind you, including me. We'll tackle this together.
+
+Turn 2
+A: Thanks, B. That means a lot. I just keep thinking about all the things that could go wrong, and it's overwhelming.
+
+B: It's natural to feel that way, but try to focus on one step at a time. You've prepared well, and if any issues come up, we'll find solutions together. You've got this, and we're all here to support you.",negative,2024-09-13T18:25:15.246000+00:00,"What was the person's sentiment when they said ""First 3 hour day of oracle tomorrow, Going to die."" during the conversation?","Turn 1
+A: I'm really nervous about leading this new software implementation project. The training sessions start tomorrow, and I'm worried I won't be able to handle the demanding schedule and high expectations.First 3 hour day of oracle tomorrow, Going to die.
+
+B: I get it, A. It's a big responsibility, but remember, you've got the skills and experience to pull this off. Plus, you've got a whole team behind you, including me. We'll tackle this together.
+
+Turn 2
+A: Thanks, B. That means a lot. I just keep thinking about all the things that could go wrong, and it's overwhelming.
+
+B: It's natural to feel that way, but try to focus on one step at a time. You've prepared well, and if any issues come up, we'll find solutions together. You've got this, and we're all here to support you.","First 3 hour day of oracle tomorrow, Going to die.",negative
+"Turn 1
+A: Hey B! Just wanted to let you know I'm super excited to see you race on Sunday. You've been training so hard, and I can't wait to cheer you on!
+B: Thanks, A! Your support means a lot to me. I'm a bit nervous, but knowing you'll be there really helps.
+
+Turn 2
+A: You've got this, B! All those early morning runs and tough workouts are going to pay off. Cant wait to see you up here. I will be at the race on sun I'll be there with a big sign and lots of energy!
+B: Haha, I can always count on you to bring the enthusiasm. See you at the finish line!",positive,2024-09-13T18:22:54.363000+00:00,"What was the person's sentiment when they said ""Cant wait to see you up here. I will be at the race on sun"" during the conversation?","Turn 1
+A: Hey B! Just wanted to let you know I'm super excited to see you race on Sunday. You've been training so hard, and I can't wait to cheer you on!
+B: Thanks, A! Your support means a lot to me. I'm a bit nervous, but knowing you'll be there really helps.
+
+Turn 2
+A: You've got this, B! All those early morning runs and tough workouts are going to pay off. Cant wait to see you up here. I will be at the race on sun I'll be there with a big sign and lots of energy!
+B: Haha, I can always count on you to bring the enthusiasm. See you at the finish line!",Cant wait to see you up here. I will be at the race on sun,positive
+"Turn 1
+A: Guess what? I just got tickets to see Janet Jackson live next month! I'm so excited; I've been waiting for this for ages. ""Janet Jackson - """"No Sleeep"""" Feat. J. Cole can't wait to see this live October 25th where are you?
+B: That's awesome! I know how much you love her music. Do you have an extra ticket, or are you going with someone else?
+
+Turn 2
+A: I actually have an extra ticket and was hoping you'd want to come with me. It would be so much fun to experience it together!
+B: That sounds like a blast! Let me check my schedule, but I'm definitely interested. It would be great to see her perform live.",positive,2024-09-13T18:27:16.148000+00:00,"What was the person's sentiment when they said """"Janet Jackson - """"No Sleeep"""" Feat. J. Cole can't wait to see this live October 25th where are you?"" during the conversation?","Turn 1
+A: Guess what? I just got tickets to see Janet Jackson live next month! I'm so excited; I've been waiting for this for ages. ""Janet Jackson - """"No Sleeep"""" Feat. J. Cole can't wait to see this live October 25th where are you?
+B: That's awesome! I know how much you love her music. Do you have an extra ticket, or are you going with someone else?
+
+Turn 2
+A: I actually have an extra ticket and was hoping you'd want to come with me. It would be so much fun to experience it together!
+B: That sounds like a blast! Let me check my schedule, but I'm definitely interested. It would be great to see her perform live.","""Janet Jackson - """"No Sleeep"""" Feat. J. Cole can't wait to see this live October 25th where are you?",positive
+"Turn 1
+A: ""I just read that our new draft pick might be dealing with a lingering injury. This could really mess up our season plans. Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec...""
+B: ""Seriously? That's a bummer. We were counting on him to strengthen our defense. Do they know how bad it is?""
+
+Turn 2
+A: ""Not sure yet, but it sounds like it could be significant. I hope it's not another setback like last year.""
+B: ""Yeah, we can't afford another season of injuries. Let's hope it's just a precaution and nothing too serious.""",negative,2024-09-13T18:26:56.297000+00:00,"What was the person's sentiment when they said ""Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec..."" during the conversation?","Turn 1
+A: ""I just read that our new draft pick might be dealing with a lingering injury. This could really mess up our season plans. Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec...""
+B: ""Seriously? That's a bummer. We were counting on him to strengthen our defense. Do they know how bad it is?""
+
+Turn 2
+A: ""Not sure yet, but it sounds like it could be significant. I hope it's not another setback like last year.""
+B: ""Yeah, we can't afford another season of injuries. Let's hope it's just a precaution and nothing too serious.""",Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec...,negative
+"Turn 1
+A: I just started watching ""Game of Thrones,"" and I have to say, some of the characters are really frustrating me. I'm so frustrated with Game of Thrones and I'm only on the 10th episode Like, why does everyone seem to make such terrible decisions?
+B: Oh, I totally get that. It can be really infuriating at times, but trust me, some of those decisions make more sense as the story progresses. Just hang in there!
+
+Turn 2
+A: I hope so. I mean, I like the world-building and the plot twists, but sometimes it feels like they're just trying to shock the audience.
+B: Yeah, it can feel that way. But that's part of the charm, I think. The unpredictability keeps you on your toes. Plus, there are some really satisfying moments ahead. Just wait until you get to season three!",negative,2024-09-13T18:20:59.030000+00:00,"What was the person's sentiment when they said ""I'm so frustrated with Game of Thrones and I'm only on the 10th episode"" during the conversation?","Turn 1
+A: I just started watching ""Game of Thrones,"" and I have to say, some of the characters are really frustrating me. I'm so frustrated with Game of Thrones and I'm only on the 10th episode Like, why does everyone seem to make such terrible decisions?
+B: Oh, I totally get that. It can be really infuriating at times, but trust me, some of those decisions make more sense as the story progresses. Just hang in there!
+
+Turn 2
+A: I hope so. I mean, I like the world-building and the plot twists, but sometimes it feels like they're just trying to shock the audience.
+B: Yeah, it can feel that way. But that's part of the charm, I think. The unpredictability keeps you on your toes. Plus, there are some really satisfying moments ahead. Just wait until you get to season three!",I'm so frustrated with Game of Thrones and I'm only on the 10th episode,negative
+"Turn 1
+A: Hi Taimouraga, I apologize for the delay in getting back to you. Dear Taimouraga, Thank you for contacting. Apologies for the late reply. Yes the Centers were open at the 4th day of Eid.""I wanted to confirm that the centers were indeed open during the holiday period.
+B: Thank you for the update! That's great to hear. I was worried I might have missed the opportunity to visit.
+
+Turn 2
+A: No problem at all. If you need any further assistance or have more questions, feel free to reach out.
+B: Will do, thanks again for your help!",neutral,2024-09-13T18:23:46.548000+00:00,"What was the person's sentiment when they said ""Dear Taimouraga, Thank you for contacting. Apologies for the late reply. Yes the Centers were open at the 4th day of Eid."""" during the conversation?","Turn 1
+A: Hi Taimouraga, I apologize for the delay in getting back to you. Dear Taimouraga, Thank you for contacting. Apologies for the late reply. Yes the Centers were open at the 4th day of Eid.""I wanted to confirm that the centers were indeed open during the holiday period.
+B: Thank you for the update! That's great to hear. I was worried I might have missed the opportunity to visit.
+
+Turn 2
+A: No problem at all. If you need any further assistance or have more questions, feel free to reach out.
+B: Will do, thanks again for your help!","Dear Taimouraga, Thank you for contacting. Apologies for the late reply. Yes the Centers were open at the 4th day of Eid.""",neutral
+"Turn 1
+A: Wow, that first episode was intense! I can't wait to see what happens next.I need to see the 2nd episode of AHS now
+B: I know, right? The ending was such a cliffhanger. Do you want to watch the next episode now?
+
+Turn 2
+A: Absolutely! Let's grab some snacks and get comfortable. This show is so addictive.
+B: Great idea. I'll make some popcorn. This is going to be a fun night!",positive,2024-09-13T18:22:02.112000+00:00,"What was the person's sentiment when they said ""I need to see the 2nd episode of AHS now"" during the conversation?","Turn 1
+A: Wow, that first episode was intense! I can't wait to see what happens next.I need to see the 2nd episode of AHS now
+B: I know, right? The ending was such a cliffhanger. Do you want to watch the next episode now?
+
+Turn 2
+A: Absolutely! Let's grab some snacks and get comfortable. This show is so addictive.
+B: Great idea. I'll make some popcorn. This is going to be a fun night!",I need to see the 2nd episode of AHS now,positive
+"Turn 1
+A: I just finished the second season of our favorite show last night.
+B: Oh, that's awesome! I'm so excited for the third season. I can't wait to see what happens next!
+
+Turn 2
+A: Same here! The cliffhanger at the end of season two was intense. 3rd season Dance Academy means to me : going crazy! I love it and can't wait :))) I wonder how they'll resolve it.
+B: I know, right? I love how the show keeps us on our toes. It's going to be a long wait, but totally worth it!",positive,2024-09-13T18:26:37.715000+00:00,"What was the person's sentiment when they said ""3rd season Dance Academy means to me : going crazy! I love it and can't wait :)))"" during the conversation?","Turn 1
+A: I just finished the second season of our favorite show last night.
+B: Oh, that's awesome! I'm so excited for the third season. I can't wait to see what happens next!
+
+Turn 2
+A: Same here! The cliffhanger at the end of season two was intense. 3rd season Dance Academy means to me : going crazy! I love it and can't wait :))) I wonder how they'll resolve it.
+B: I know, right? I love how the show keeps us on our toes. It's going to be a long wait, but totally worth it!",3rd season Dance Academy means to me : going crazy! I love it and can't wait :))),positive
+"Turn 1
+A: Did you hear that the non-profit with the controversial past is giving a talk about that notorious warlord next week? Invisible Children is at my school tomorrow to talk about Joseph Kony. You kind of lost your credibility when your leader ran around naked.
+B: Yeah, I heard. Given their previous scandal with their leader, I'm not sure how credible they are. Do you think it's worth attending?
+
+Turn 2
+A: I get your point, but it might still be interesting to hear their perspective, even if we take it with a grain of salt.
+B: True, it could be a chance to ask some tough questions and see how they handle it. Maybe we should go and see for ourselves.",negative,2024-09-13T18:19:24.527000+00:00,"What was the person's sentiment when they said ""Invisible Children is at my school tomorrow to talk about Joseph Kony. You kind of lost your credibility when your leader ran around naked."" during the conversation?","Turn 1
+A: Did you hear that the non-profit with the controversial past is giving a talk about that notorious warlord next week? Invisible Children is at my school tomorrow to talk about Joseph Kony. You kind of lost your credibility when your leader ran around naked.
+B: Yeah, I heard. Given their previous scandal with their leader, I'm not sure how credible they are. Do you think it's worth attending?
+
+Turn 2
+A: I get your point, but it might still be interesting to hear their perspective, even if we take it with a grain of salt.
+B: True, it could be a chance to ask some tough questions and see how they handle it. Maybe we should go and see for ourselves.",Invisible Children is at my school tomorrow to talk about Joseph Kony. You kind of lost your credibility when your leader ran around naked.,negative
+"Turn 1
+A: B, I understand you really want the new Nintendo console, but I've told you multiple times that my finances are tight right now.
+B: I get that, but we could split the cost. It wouldn't be that much if we both chip in.
+
+Turn 2
+A: Even splitting the cost is too much for me at the moment. I don't have the money for this NINTENDO STOP IT I'm already stressed about making ends meet.
+B: Okay, I didn't realize it was that bad. Let's hold off on the console for now. Maybe we can revisit the idea when things are better for you.",negative,2024-09-13T18:21:49.609000+00:00,"What was the person's sentiment when they said ""I don't have the money for this NINTENDO STOP IT"" during the conversation?","Turn 1
+A: B, I understand you really want the new Nintendo console, but I've told you multiple times that my finances are tight right now.
+B: I get that, but we could split the cost. It wouldn't be that much if we both chip in.
+
+Turn 2
+A: Even splitting the cost is too much for me at the moment. I don't have the money for this NINTENDO STOP IT I'm already stressed about making ends meet.
+B: Okay, I didn't realize it was that bad. Let's hold off on the console for now. Maybe we can revisit the idea when things are better for you.",I don't have the money for this NINTENDO STOP IT,negative
+"Turn 1
+A: I know it's tough with the group splitting up, but I think I'm going to support both the remaining members and the one who left. i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know. It feels like the best way to keep the peace and maybe even help them reconcile someday.
+B: I get where you're coming from, but it's hard for me to support the one who left. It feels like a betrayal to the group and to us as fans. How do you manage to stay neutral?
+
+Turn 2
+A: I guess I just see it as them all being human and having their reasons. Plus, I still love the music they all create, whether together or apart. Maybe showing support for everyone can remind them of the good times and bring them back together.
+B: That's a good point. I hadn't thought about it that way. Maybe I'll try to be more open-minded and see if I can appreciate their individual efforts too. It might be a healthier way to cope with the split.",positive,2024-09-13T18:20:32.962000+00:00,"What was the person's sentiment when they said ""i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know."" during the conversation?","Turn 1
+A: I know it's tough with the group splitting up, but I think I'm going to support both the remaining members and the one who left. i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know. It feels like the best way to keep the peace and maybe even help them reconcile someday.
+B: I get where you're coming from, but it's hard for me to support the one who left. It feels like a betrayal to the group and to us as fans. How do you manage to stay neutral?
+
+Turn 2
+A: I guess I just see it as them all being human and having their reasons. Plus, I still love the music they all create, whether together or apart. Maybe showing support for everyone can remind them of the good times and bring them back together.
+B: That's a good point. I hadn't thought about it that way. Maybe I'll try to be more open-minded and see if I can appreciate their individual efforts too. It might be a healthier way to cope with the split.",i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know.,positive
