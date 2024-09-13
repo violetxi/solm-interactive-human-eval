@@ -69,7 +69,7 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_4.csv'); // Track the dataset being used
+  const [currentDataset, setCurrentDataset] = useState('set_5.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
@@ -94,18 +94,22 @@ function App() {
   }, [currentDataset]); // Re-run when currentDataset changes
 
   useEffect(() => {
-    if (questions.length > 0) {
-      const currentQuestion = questions[currentQuestionIndex];
-      const choices = currentQuestion.isAttentionCheck
-        ? [
-            { label: 'True', value: 'True' },
-            { label: 'False', value: 'False' }
-          ]
-        : choiceOrderMap[currentDataset]; // Use dataset-specific order of choices
-
-      setShuffledChoices(choices); // No shuffle for regular questions, using predefined order
-    }
-  }, [currentQuestionIndex, questions, currentDataset]);
+    loadCSV(`data/${currentDataset}`)
+      .then((data) => {
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        .map(item => ({
+          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
+          statement: item.conversation,
+          note: item.note || '',
+          isAttentionCheck: false
+        }));
+        const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
+        setQuestions(allQuestions);
+      })
+      .catch((error) => {
+        console.error('Error loading CSV:', error);
+      });
+  }, [currentDataset]); // Re-run when currentDataset changes
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {

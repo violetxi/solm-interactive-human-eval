@@ -1,0 +1,299 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: ""B, I just went through your draft, and honestly, it's really hard to follow. Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings? It feels all over the place.""
+B: ""Oh, I see. I was trying to capture all my thoughts quickly. Do you have any specific suggestions on how I can improve it?""
+
+Turn 2
+A: ""Maybe start by organizing your main points into clear sections. It would make it much easier to understand.""
+B: ""Got it. I'll work on restructuring it. Thanks for the feedback, A.""",Impolite,2024-09-13T14:12:50.436000+00:00,"Was the person intended to be polite when they said ""Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings?"" in the conversation?","Turn 1
+A: ""B, I just went through your draft, and honestly, it's really hard to follow. Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings? It feels all over the place.""
+B: ""Oh, I see. I was trying to capture all my thoughts quickly. Do you have any specific suggestions on how I can improve it?""
+
+Turn 2
+A: ""Maybe start by organizing your main points into clear sections. It would make it much easier to understand.""
+B: ""Got it. I'll work on restructuring it. Thanks for the feedback, A.""","Yeeesh. Is it just me, or is it very difficult to follow these stream of consciousness postings?",Impolite
+"Turn 1
+A: Adobe Illustrator is fantastic for creating vector graphics, which are essential for logos, icons, and any design that needs to be scaled without losing quality.
+B: Thank you for explaining that! How does Illustrator compare to Adobe InDesign? I'm curious about when to use each tool.
+
+Turn 2
+A: Great question! Thank you for your answer about Illustrator. How does Adobe Illustrator compare with InDesign? While Illustrator is best for creating individual graphic elements, InDesign is designed for layout and multi-page documents, like magazines, brochures, and books. It's excellent for handling large amounts of text and integrating graphics.
+B: That makes sense. So, I should use InDesign for projects that involve a lot of text and multiple pages, and Illustrator for detailed graphic work?
+
+A: Exactly. Think of Illustrator as your go-to for creating the artwork and InDesign as the tool to bring all those elements together in a cohesive layout.
+B: Got it, thanks! That really helps clarify when to use each program.",Polite,2024-09-13T14:11:37.334000+00:00,"Was the person intended to be polite when they said ""Thank you for your answer about Illustrator. How does Adobe Illustrator compare with InDesign?"" in the conversation?","Turn 1
+A: Adobe Illustrator is fantastic for creating vector graphics, which are essential for logos, icons, and any design that needs to be scaled without losing quality.
+B: Thank you for explaining that! How does Illustrator compare to Adobe InDesign? I'm curious about when to use each tool.
+
+Turn 2
+A: Great question! Thank you for your answer about Illustrator. How does Adobe Illustrator compare with InDesign? While Illustrator is best for creating individual graphic elements, InDesign is designed for layout and multi-page documents, like magazines, brochures, and books. It's excellent for handling large amounts of text and integrating graphics.
+B: That makes sense. So, I should use InDesign for projects that involve a lot of text and multiple pages, and Illustrator for detailed graphic work?
+
+A: Exactly. Think of Illustrator as your go-to for creating the artwork and InDesign as the tool to bring all those elements together in a cohesive layout.
+B: Got it, thanks! That really helps clarify when to use each program.",Thank you for your answer about Illustrator. How does Adobe Illustrator compare with InDesign?,Polite
+"Turn 1
+A: Hey B, I just wanted to say how much I appreciate all the work you've put into the data analysis. Your insights have been invaluable. I'm happy to help with the documentation, though I know I won't be able to match your level of detail.
+
+B: Thanks, A. I really appreciate that. Your help with the documentation would be great. By the way, I noticed you were having some trouble with the new algorithm. Do you want to go over it together?
+
+Turn 2
+A: Absolutely, that would be fantastic. I was stuck on optimizing the performance metrics. Up to you - I see myself picking off one or two every now and then but nowhere near the level of work NortyNort is doing now. By the way, I have an open CCI request that I want a second opinion on - could you please help?Your expertise could really help me get past this hurdle.
+
+B: No problem, let's set up a time to dive into it. I'm sure we can figure it out together. How about tomorrow afternoon?",Polite,2024-09-13T14:10:46.847000+00:00,"Was the person intended to be polite when they said ""Up to you - I see myself picking off one or two every now and then but nowhere near the level of work NortyNort is doing now. By the way, I have an open CCI request that I want a second opinion on - could you please help?"" in the conversation?","Turn 1
+A: Hey B, I just wanted to say how much I appreciate all the work you've put into the data analysis. Your insights have been invaluable. I'm happy to help with the documentation, though I know I won't be able to match your level of detail.
+
+B: Thanks, A. I really appreciate that. Your help with the documentation would be great. By the way, I noticed you were having some trouble with the new algorithm. Do you want to go over it together?
+
+Turn 2
+A: Absolutely, that would be fantastic. I was stuck on optimizing the performance metrics. Up to you - I see myself picking off one or two every now and then but nowhere near the level of work NortyNort is doing now. By the way, I have an open CCI request that I want a second opinion on - could you please help?Your expertise could really help me get past this hurdle.
+
+B: No problem, let's set up a time to dive into it. I'm sure we can figure it out together. How about tomorrow afternoon?","Up to you - I see myself picking off one or two every now and then but nowhere near the level of work NortyNort is doing now. By the way, I have an open CCI request that I want a second opinion on - could you please help?",Polite
+"Turn 1
+A: Hi, I'm looking to buy a new lens and was hoping you could recommend something versatile for different types of photography, like macro, landscape, and portraits.
+B: Sure! For versatility, I'd suggest looking at a 24-70mm f/2.8 lens. It offers a good range for wide-angle shots, which is great for landscapes, and the zoom can handle portraits well. For macro, you might need a dedicated macro lens, but the 24-70mm can still get you pretty close.
+
+Turn 2
+A: That sounds like a good option. I want to purchase a macro lens and was hoping for some guidance from you. Apart from being good in macro, can it be used to take good pictures of landscape and portraits? Do you think it would be a good investment for someone still learning, or should I start with something more basic?
+B: The 24-70mm f/2.8 is a bit of an investment, but it's a fantastic all-around lens that can grow with you as you improve. If you're looking for something more budget-friendly to start, a 50mm f/1.8 is also very versatile and great for portraits and general use, though it won't cover macro or wide-angle as well.",Polite,2024-09-13T14:12:15.538000+00:00,"Was the person intended to be polite when they said ""I want to purchase a macro lens and was hoping for some guidance from you. Apart from being good in macro, can it be used to take good pictures of landscape and portraits?"" in the conversation?","Turn 1
+A: Hi, I'm looking to buy a new lens and was hoping you could recommend something versatile for different types of photography, like macro, landscape, and portraits.
+B: Sure! For versatility, I'd suggest looking at a 24-70mm f/2.8 lens. It offers a good range for wide-angle shots, which is great for landscapes, and the zoom can handle portraits well. For macro, you might need a dedicated macro lens, but the 24-70mm can still get you pretty close.
+
+Turn 2
+A: That sounds like a good option. I want to purchase a macro lens and was hoping for some guidance from you. Apart from being good in macro, can it be used to take good pictures of landscape and portraits? Do you think it would be a good investment for someone still learning, or should I start with something more basic?
+B: The 24-70mm f/2.8 is a bit of an investment, but it's a fantastic all-around lens that can grow with you as you improve. If you're looking for something more budget-friendly to start, a 50mm f/1.8 is also very versatile and great for portraits and general use, though it won't cover macro or wide-angle as well.","I want to purchase a macro lens and was hoping for some guidance from you. Apart from being good in macro, can it be used to take good pictures of landscape and portraits?",Polite
+"Turn 1
+A: Hi B, I hope you're doing well. I just submitted a draft of my latest research article for peer review. I have just put the article to peer review. Would you care to take a look? Given your expertise in this area, would you be willing to take a look and provide some feedback?
+B: Hi A, I'm doing well, thanks. I'd be happy to review your article. Just send it over, and I'll make sure to go through it as soon as I can.
+
+Turn 2
+A: Great, thank you so much! I'll email you the draft right away. I really appreciate your help with this.
+B: No problem at all, A. Looking forward to reading it. I'll get back to you with my comments soon.",Polite,2024-09-13T14:11:55.072000+00:00,"Was the person intended to be polite when they said ""I have just put the article to peer review. Would you care to take a look?"" in the conversation?","Turn 1
+A: Hi B, I hope you're doing well. I just submitted a draft of my latest research article for peer review. I have just put the article to peer review. Would you care to take a look? Given your expertise in this area, would you be willing to take a look and provide some feedback?
+B: Hi A, I'm doing well, thanks. I'd be happy to review your article. Just send it over, and I'll make sure to go through it as soon as I can.
+
+Turn 2
+A: Great, thank you so much! I'll email you the draft right away. I really appreciate your help with this.
+B: No problem at all, A. Looking forward to reading it. I'll get back to you with my comments soon.",I have just put the article to peer review. Would you care to take a look?,Polite
+"Turn 1
+A: I've been thinking about our Mars geology project, and I believe we could improve the way we manage the timelines of geological events. Hi. Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier? What if we centralized the timeline into a single template? It would streamline updates and ensure consistency across all our web pages.
+
+B: That sounds like a solid idea, A. Consistency is crucial for our project. How do you envision implementing this template, and what kind of updates would it require from the team?
+
+Turn 2
+A: We could create a master template that includes all the key events and milestones. Each web page would then reference this template, so any changes we make would automatically reflect across all pages. The team would just need to update the master template instead of individual pages.
+
+B: I like the approach. It would definitely save time and reduce errors. Let's discuss this with the rest of the team in our next meeting and see how we can integrate it into our workflow.",Polite,2024-09-13T14:13:11.797000+00:00,"Was the person intended to be polite when they said ""Hi. Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier?"" in the conversation?","Turn 1
+A: I've been thinking about our Mars geology project, and I believe we could improve the way we manage the timelines of geological events. Hi. Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier? What if we centralized the timeline into a single template? It would streamline updates and ensure consistency across all our web pages.
+
+B: That sounds like a solid idea, A. Consistency is crucial for our project. How do you envision implementing this template, and what kind of updates would it require from the team?
+
+Turn 2
+A: We could create a master template that includes all the key events and milestones. Each web page would then reference this template, so any changes we make would automatically reflect across all pages. The team would just need to update the master template instead of individual pages.
+
+B: I like the approach. It would definitely save time and reduce errors. Let's discuss this with the rest of the team in our next meeting and see how we can integrate it into our workflow.","Hi. Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier?",Polite
+"Turn 1
+A: ""I really think these accounts are sockpuppets. The patterns are too suspicious to ignore.I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?""
+B: ""I understand your concerns, but I haven't seen enough evidence to be convinced. They seem genuine to me.""
+
+Turn 2
+A: ""Well, let's just wait for the investigation results then. I'm sure they'll prove my point.""
+B: ""Alright, let's see what the investigation reveals. In the meantime, let's focus on what we can verify.""",Impolite,2024-09-13T14:13:52.473000+00:00,"Was the person intended to be polite when they said ""I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?"" in the conversation?","Turn 1
+A: ""I really think these accounts are sockpuppets. The patterns are too suspicious to ignore.I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?""
+B: ""I understand your concerns, but I haven't seen enough evidence to be convinced. They seem genuine to me.""
+
+Turn 2
+A: ""Well, let's just wait for the investigation results then. I'm sure they'll prove my point.""
+B: ""Alright, let's see what the investigation reveals. In the meantime, let's focus on what we can verify.""","I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?",Impolite
+"Turn 1
+A: Hey B, I just finished reviewing your draft. Great job on the thorough analysis! I think we should consider adding a section on the practical implications of our findings. It's important to make sure our work is accessible to a broader audience without losing accuracy or getting too technical. Thanks again. Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?
+
+B: Thanks, A! I appreciate the feedback. I agree, highlighting the practical implications could really enhance the article. Do you have any specific suggestions on how we can balance accessibility with precision?
+
+Turn 2
+A: Absolutely. We could start by summarizing the key points in simpler terms and then provide a more detailed explanation in a separate section. This way, readers can choose the level of detail they're comfortable with. What do you think?
+
+B: That sounds like a solid plan. I'll draft a summary and a detailed section, and we can review them together to ensure they complement each other well. Thanks for the guidance, A!",Polite,2024-09-13T14:14:41.385000+00:00,"Was the person intended to be polite when they said ""Thanks again. Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?"" in the conversation?","Turn 1
+A: Hey B, I just finished reviewing your draft. Great job on the thorough analysis! I think we should consider adding a section on the practical implications of our findings. It's important to make sure our work is accessible to a broader audience without losing accuracy or getting too technical. Thanks again. Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?
+
+B: Thanks, A! I appreciate the feedback. I agree, highlighting the practical implications could really enhance the article. Do you have any specific suggestions on how we can balance accessibility with precision?
+
+Turn 2
+A: Absolutely. We could start by summarizing the key points in simpler terms and then provide a more detailed explanation in a separate section. This way, readers can choose the level of detail they're comfortable with. What do you think?
+
+B: That sounds like a solid plan. I'll draft a summary and a detailed section, and we can review them together to ensure they complement each other well. Thanks for the guidance, A!",Thanks again. Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?,Polite
+"Turn 1
+A: I noticed you had some questions about my recent edits. I followed the exact name of the chart as per our guidelines. If you need more details, you might want to check with Lil-Unique; they can provide further clarification.
+B: I understand, but I was hoping you could explain your thought process. It would help me understand the changes better and ensure we're on the same page.
+
+Turn 2
+A: Look, I just did what the chart specified. Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?I don't see why this is such a big deal. Lil-Unique can give you the full rundown if you still have doubts.
+B: Alright, I'll reach out to Lil-Unique. I just wanted to make sure we're aligned, that's all. Thanks for pointing me in the right direction.",Impolite,2024-09-13T14:11:21.740000+00:00,"Was the person intended to be polite when they said ""Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?"" in the conversation?","Turn 1
+A: I noticed you had some questions about my recent edits. I followed the exact name of the chart as per our guidelines. If you need more details, you might want to check with Lil-Unique; they can provide further clarification.
+B: I understand, but I was hoping you could explain your thought process. It would help me understand the changes better and ensure we're on the same page.
+
+Turn 2
+A: Look, I just did what the chart specified. Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?I don't see why this is such a big deal. Lil-Unique can give you the full rundown if you still have doubts.
+B: Alright, I'll reach out to Lil-Unique. I just wanted to make sure we're aligned, that's all. Thanks for pointing me in the right direction.","Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?",Impolite
+"Turn 1
+A: Hey B, I just saw your write-up on the South African cricket teams. Great job! I was planning to tackle that myself, but you beat me to it. Thanks for the articles on South African cricket teams - I was planning to do them myself but I really appreciate that you've done them. By the way, where did you find the information on what regions the teams represent? What sources did you use? I'd love to learn more and maybe help out with any additional research.
+
+B: Thanks, A! I used a mix of historical archives, recent sports journals, and some interviews with former players. I can share my notes and sources with you if you're interested. There's always more to uncover, so your help would be fantastic.
+
+Turn 2
+A: That would be awesome, B. I appreciate it. Maybe we can collaborate on expanding the section about the team's evolution over the decades. I have some contacts who might provide unique insights.
+
+B: Sounds like a plan, A. Let's set up a meeting to go over our combined resources and outline the next steps. Your contacts could add a valuable perspective to our work.",Polite,2024-09-13T14:11:31.553000+00:00,"Was the person intended to be polite when they said ""Thanks for the articles on South African cricket teams - I was planning to do them myself but I really appreciate that you've done them. By the way, where did you find the information on what regions the teams represent?"" in the conversation?","Turn 1
+A: Hey B, I just saw your write-up on the South African cricket teams. Great job! I was planning to tackle that myself, but you beat me to it. Thanks for the articles on South African cricket teams - I was planning to do them myself but I really appreciate that you've done them. By the way, where did you find the information on what regions the teams represent? What sources did you use? I'd love to learn more and maybe help out with any additional research.
+
+B: Thanks, A! I used a mix of historical archives, recent sports journals, and some interviews with former players. I can share my notes and sources with you if you're interested. There's always more to uncover, so your help would be fantastic.
+
+Turn 2
+A: That would be awesome, B. I appreciate it. Maybe we can collaborate on expanding the section about the team's evolution over the decades. I have some contacts who might provide unique insights.
+
+B: Sounds like a plan, A. Let's set up a meeting to go over our combined resources and outline the next steps. Your contacts could add a valuable perspective to our work.","Thanks for the articles on South African cricket teams - I was planning to do them myself but I really appreciate that you've done them. By the way, where did you find the information on what regions the teams represent?",Polite
+"Turn 1
+A: I don't understand why you keep saying I'm insensitive, B. I've always tried to be considerate in our interactions.
+B: It's not just about what you say, A. It's how you say it. Sometimes your tone comes off as dismissive, even if you don't mean it that way.
+
+Turn 2
+A: I really don't see it that way, but if that's how it comes across, I apologize. No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested? Can you give me an example so I can understand better?
+B: Sure, like in the last meeting, when I brought up the client feedback, you immediately shot it down without acknowledging my point. It felt like you weren't valuing my input.",Ambiguous,2024-09-13T14:13:00.917000+00:00,"Was the person intended to be polite when they said ""No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested?"" in the conversation?","Turn 1
+A: I don't understand why you keep saying I'm insensitive, B. I've always tried to be considerate in our interactions.
+B: It's not just about what you say, A. It's how you say it. Sometimes your tone comes off as dismissive, even if you don't mean it that way.
+
+Turn 2
+A: I really don't see it that way, but if that's how it comes across, I apologize. No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested? Can you give me an example so I can understand better?
+B: Sure, like in the last meeting, when I brought up the client feedback, you immediately shot it down without acknowledging my point. It felt like you weren't valuing my input.","No, of course I never did. So why do you keep writing about scorning others's sensitivities when such a thing was never suggested?",Ambiguous
+"Turn 1
+A: Hi B, I hope you're doing well. I noticed that the article on our platform about the new project management tool is quite sparse. In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors. What shall I do next? Given your expertise, I thought it might be beneficial for us to collaborate on enhancing it. What do you think?
+
+B: Hi A, I'm doing well, thanks for asking. I agree, the article could definitely use more detail. I'd be happy to work with you on this. How about we start by outlining the key sections we need to expand?
+
+Turn 2
+A: That sounds like a great plan. I was thinking we could start with an overview of the tool's features, followed by a section on best practices for implementation. Does that align with your thoughts?
+
+B: Absolutely, that aligns perfectly. Let's also include a section on common pitfalls and troubleshooting tips. I'll draft the outline and share it with you by the end of the day. How does that sound?
+
+A: Perfect, looking forward to it. Thanks, B!",Ambiguous,2024-09-13T14:14:10.499000+00:00,"Was the person intended to be polite when they said ""In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors. What shall I do next?"" in the conversation?","Turn 1
+A: Hi B, I hope you're doing well. I noticed that the article on our platform about the new project management tool is quite sparse. In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors. What shall I do next? Given your expertise, I thought it might be beneficial for us to collaborate on enhancing it. What do you think?
+
+B: Hi A, I'm doing well, thanks for asking. I agree, the article could definitely use more detail. I'd be happy to work with you on this. How about we start by outlining the key sections we need to expand?
+
+Turn 2
+A: That sounds like a great plan. I was thinking we could start with an overview of the tool's features, followed by a section on best practices for implementation. Does that align with your thoughts?
+
+B: Absolutely, that aligns perfectly. Let's also include a section on common pitfalls and troubleshooting tips. I'll draft the outline and share it with you by the end of the day. How does that sound?
+
+A: Perfect, looking forward to it. Thanks, B!","In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors. What shall I do next?",Ambiguous
+"Turn 1
+A: Hey B, I hope you're doing well. I just ran into an issue with Opera Mini on my phone—it's blocked, and I can't access our project documents. Could you help me figure out what's going on?
+
+B: Hi A, sure thing! It sounds like it might be a network restriction or a browser-specific issue. Have you tried accessing the documents using a different browser or device?
+
+Turn 2
+A: I haven't tried another browser yet. I usually use Opera Mini because it's faster on my phone. Someone has Blocked the whole Opera mini Browser, as you know even i use my Mobile-Opera for editing. can you please help? Do you think switching browsers could solve the problem?
+
+B: It's worth a shot. Sometimes network policies block certain browsers. Try using Chrome or Firefox on your phone and see if you can access the documents. If that doesn't work, we can look into other solutions.",Polite,2024-09-13T14:14:35.525000+00:00,"Was the person intended to be polite when they said ""Someone has Blocked the whole Opera mini Browser, as you know even i use my Mobile-Opera for editing. can you please help?"" in the conversation?","Turn 1
+A: Hey B, I hope you're doing well. I just ran into an issue with Opera Mini on my phone—it's blocked, and I can't access our project documents. Could you help me figure out what's going on?
+
+B: Hi A, sure thing! It sounds like it might be a network restriction or a browser-specific issue. Have you tried accessing the documents using a different browser or device?
+
+Turn 2
+A: I haven't tried another browser yet. I usually use Opera Mini because it's faster on my phone. Someone has Blocked the whole Opera mini Browser, as you know even i use my Mobile-Opera for editing. can you please help? Do you think switching browsers could solve the problem?
+
+B: It's worth a shot. Sometimes network policies block certain browsers. Try using Chrome or Firefox on your phone and see if you can access the documents. If that doesn't work, we can look into other solutions.","Someone has Blocked the whole Opera mini Browser, as you know even i use my Mobile-Opera for editing. can you please help?",Polite
+"Turn 1
+A: Hi B, I really appreciate the feedback you gave on my article. It was incredibly helpful. Thank you for the response on my user page. Would you be willing to add a few words to the FAC candidacy? Would you be willing to formally support the FAC nomination by adding a few supportive words to the candidacy discussion page?
+B: Hi A, I'm glad my feedback was useful! I'd be happy to take a closer look at the FAC page and add my support if everything looks good.
+
+Turn 2
+A: Thank you so much, B! Your endorsement would mean a lot, especially given your experience. Let me know if you need any more information or if there are any other improvements I should make.
+B: No problem, A. I'll review the FAC page later today and add my comments. If I spot anything else that could be improved, I'll let you know. Good luck with the nomination!",Polite,2024-09-13T14:13:43.550000+00:00,"Was the person intended to be polite when they said ""Thank you for the response on my user page. Would you be willing to add a few words to the FAC candidacy?"" in the conversation?","Turn 1
+A: Hi B, I really appreciate the feedback you gave on my article. It was incredibly helpful. Thank you for the response on my user page. Would you be willing to add a few words to the FAC candidacy? Would you be willing to formally support the FAC nomination by adding a few supportive words to the candidacy discussion page?
+B: Hi A, I'm glad my feedback was useful! I'd be happy to take a closer look at the FAC page and add my support if everything looks good.
+
+Turn 2
+A: Thank you so much, B! Your endorsement would mean a lot, especially given your experience. Let me know if you need any more information or if there are any other improvements I should make.
+B: No problem, A. I'll review the FAC page later today and add my comments. If I spot anything else that could be improved, I'll let you know. Good luck with the nomination!",Thank you for the response on my user page. Would you be willing to add a few words to the FAC candidacy?,Polite
+"Turn 1
+A: ""Oh, another fitness plan? How long do you think this one will last?Eh. Awesome as in you are going to be more active?""
+B: ""Actually, I'm really committed this time. I've set some realistic goals and even joined a group for support.""
+
+Turn 2
+A: ""Sure, we'll see how long that enthusiasm sticks around.""
+B: ""I appreciate your concern, but I'm determined to make this work. You'll see.""",Impolite,2024-09-13T14:12:28.177000+00:00,"Was the person intended to be polite when they said ""Eh. Awesome as in you are going to be more active?"" in the conversation?","Turn 1
+A: ""Oh, another fitness plan? How long do you think this one will last?Eh. Awesome as in you are going to be more active?""
+B: ""Actually, I'm really committed this time. I've set some realistic goals and even joined a group for support.""
+
+Turn 2
+A: ""Sure, we'll see how long that enthusiasm sticks around.""
+B: ""I appreciate your concern, but I'm determined to make this work. You'll see.""",Eh. Awesome as in you are going to be more active?,Impolite
+"Turn 1
+A: Look, B, it's really simple. Just think of it as a probability problem, not about the doors or their numbers.Corrections, make that four terms: I pick a car and swap, I pick a goat and swap, I pick a car and do not swap, I pick a goat and do not swap. Who cares about doors or door numbers?
+B: I get that, A, but your tone is making it hard to focus. Can we take a step back?
+
+Turn 2
+A: I'm sorry, B. I didn't mean to come off that way. Let's try again from the basics, okay?
+B: Thanks, A. I appreciate it. Let's start over and take it slow.",Impolite,2024-09-13T14:13:38.668000+00:00,"Was the person intended to be polite when they said ""Corrections, make that four terms: I pick a car and swap, I pick a goat and swap, I pick a car and do not swap, I pick a goat and do not swap. Who cares about doors or door numbers?"" in the conversation?","Turn 1
+A: Look, B, it's really simple. Just think of it as a probability problem, not about the doors or their numbers.Corrections, make that four terms: I pick a car and swap, I pick a goat and swap, I pick a car and do not swap, I pick a goat and do not swap. Who cares about doors or door numbers?
+B: I get that, A, but your tone is making it hard to focus. Can we take a step back?
+
+Turn 2
+A: I'm sorry, B. I didn't mean to come off that way. Let's try again from the basics, okay?
+B: Thanks, A. I appreciate it. Let's start over and take it slow.","Corrections, make that four terms: I pick a car and swap, I pick a goat and swap, I pick a car and do not swap, I pick a goat and do not swap. Who cares about doors or door numbers?",Impolite
+"Turn 1
+A: Hi B, I followed your instructions to resolve the warnings on the webpage, but it seems they're still showing up. Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening? Could you take another look and advise on what might be going wrong?
+
+B: Sure, A. Let's see what's happening. Can you send me the specific warnings you're seeing and any recent changes you made to the code?
+
+Turn 2
+A: Absolutely, I'll send over the error log and a summary of the changes I implemented based on your guidance. Thanks for your help!
+
+B: Got it, A. I'll review the details and get back to you with some additional steps or adjustments we can try. Hang tight!",Polite,2024-09-13T14:14:16.161000+00:00,"Was the person intended to be polite when they said ""Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening?"" in the conversation?","Turn 1
+A: Hi B, I followed your instructions to resolve the warnings on the webpage, but it seems they're still showing up. Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening? Could you take another look and advise on what might be going wrong?
+
+B: Sure, A. Let's see what's happening. Can you send me the specific warnings you're seeing and any recent changes you made to the code?
+
+Turn 2
+A: Absolutely, I'll send over the error log and a summary of the changes I implemented based on your guidance. Thanks for your help!
+
+B: Got it, A. I'll review the details and get back to you with some additional steps or adjustments we can try. Hang tight!",Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening?,Polite
+"Turn 1
+A: I've added a lot of new material to the article, but I don't see why we need to include references for every single point. It's slowing us down.
+B: I understand your frustration, but references are crucial for maintaining the credibility and quality of our work. It's part of the publication standards we agreed to follow.
+
+Turn 2
+A: If you think references are so important, why don't you add them yourself? If you don't agree with this approach, you can ether add the references yourself, or delete the added material and I will go elsewhere and write something else, and you can take over doing the anti-tank warfare article 'properly'. Ok? Or maybe you should just take over the whole project.
+B: I'm not trying to undermine your contributions. How about we split the task? I can help with adding references to the new sections you've written, and we can review the final draft together.",Impolite,2024-09-13T14:11:03.250000+00:00,"Was the person intended to be polite when they said ""If you don't agree with this approach, you can ether add the references yourself, or delete the added material and I will go elsewhere and write something else, and you can take over doing the anti-tank warfare article 'properly'. Ok?"" in the conversation?","Turn 1
+A: I've added a lot of new material to the article, but I don't see why we need to include references for every single point. It's slowing us down.
+B: I understand your frustration, but references are crucial for maintaining the credibility and quality of our work. It's part of the publication standards we agreed to follow.
+
+Turn 2
+A: If you think references are so important, why don't you add them yourself? If you don't agree with this approach, you can ether add the references yourself, or delete the added material and I will go elsewhere and write something else, and you can take over doing the anti-tank warfare article 'properly'. Ok? Or maybe you should just take over the whole project.
+B: I'm not trying to undermine your contributions. How about we split the task? I can help with adding references to the new sections you've written, and we can review the final draft together.","If you don't agree with this approach, you can ether add the references yourself, or delete the added material and I will go elsewhere and write something else, and you can take over doing the anti-tank warfare article 'properly'. Ok?",Impolite
+"Turn 1
+A: Hey B, I was thinking we could meet up this weekend to brainstorm ideas for our environmental project. Yes, but not this week as I have university exams. Perhaps next week (or you want this to be a lead-up story for Earth Day)? What do you think?
+B: That sounds great, A! But I'm currently swamped with exams. How about we plan something around Earth Day? It would be a perfect time to align our project with the event.
+
+Turn 2
+A: Earth Day is a fantastic idea! It gives us some time to prepare and make a bigger impact. Let's touch base after your exams to finalize the details.
+B: Perfect, thanks for understanding. I'll be more available then, and we can make our project really stand out. Looking forward to it!",Polite,2024-09-13T14:14:27.280000+00:00,"Was the person intended to be polite when they said ""Yes, but not this week as I have university exams. Perhaps next week (or you want this to be a lead-up story for Earth Day)?"" in the conversation?","Turn 1
+A: Hey B, I was thinking we could meet up this weekend to brainstorm ideas for our environmental project. Yes, but not this week as I have university exams. Perhaps next week (or you want this to be a lead-up story for Earth Day)? What do you think?
+B: That sounds great, A! But I'm currently swamped with exams. How about we plan something around Earth Day? It would be a perfect time to align our project with the event.
+
+Turn 2
+A: Earth Day is a fantastic idea! It gives us some time to prepare and make a bigger impact. Let's touch base after your exams to finalize the details.
+B: Perfect, thanks for understanding. I'll be more available then, and we can make our project really stand out. Looking forward to it!","Yes, but not this week as I have university exams. Perhaps next week (or you want this to be a lead-up story for Earth Day)?",Polite
+"Turn 1
+A: I can't believe you just said that. Do you really think my work is that bad?
+B: I'm just being honest, A. We need to improve if we want to meet the deadline. 
+
+Turn 2
+A: There's a difference between being honest and being unnecessarily harsh. What the hell? Bitter much? What's your problem?
+B: My problem is that we're running out of time, and I need you to step up. I'm not trying to be mean, but we have to get this right.",Impolite,2024-09-13T14:12:36.203000+00:00,"Was the person intended to be polite when they said ""What the hell? Bitter much?"" in the conversation?","Turn 1
+A: I can't believe you just said that. Do you really think my work is that bad?
+B: I'm just being honest, A. We need to improve if we want to meet the deadline. 
+
+Turn 2
+A: There's a difference between being honest and being unnecessarily harsh. What the hell? Bitter much? What's your problem?
+B: My problem is that we're running out of time, and I need you to step up. I'm not trying to be mean, but we have to get this right.",What the hell? Bitter much?,Impolite

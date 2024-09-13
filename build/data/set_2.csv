@@ -1,149 +1,155 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+137,"Turn 1
+A: Your edits are completely uneducated and are ruining the quality of this article. Honestly, you shouldn't be allowed to contribute to Wikipedia.
+B: That's a pretty harsh accusation. Just because you disagree with my edits doesn't mean you can call them vandalism. What exactly is your basis for these claims?
+
+Turn 2
+A: The sources you used are unreliable, and your changes don't align with Wikipedia's guidelines. Sorry, almost forgot. After calling me a child uneducated and making remarks to the effect of shouldn't be allowed to post on edit Wikipedia what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism? It's clear you don't understand how to properly edit.
+B: I followed the guidelines and used credible sources. Maybe you should review the policies before making baseless accusations. This isn't about personal attacks; it's about improving the content.","Sorry, almost forgot. After calling me a child uneducated and making remarks to the effect of shouldn't be allowed to post on edit Wikipedia what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism?",impolite,2,"Yes, A was being impolite. A's language is confrontational and accusatory, calling B's edits ""uneducated"" and suggesting that B shouldn't be allowed to contribute to Wikipedia. This kind of language is not constructive and can be considered impolite.",1,True,926
+103,"Turn 1
+A: Hey B, I noticed that some of your sections in the report had quite a few grammatical and spelling errors. Have you thought about using tools like Grammarly or spell check? They can really help clean things up.
+B: I appreciate the suggestion, A. I do use those tools, but sometimes things slip through. I'll make sure to double-check next time.
+
+Turn 2
+A: I understand, but it's really important for our project that everything is polished. I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a duty of sorts to contribute readable English here, that actually might be the problem? Maybe you could spend a bit more time reviewing your work before submitting it?
+B: I'll definitely put in the extra effort. Thanks for the feedback, A. I'll make sure my next contribution is more polished.","I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a duty of sorts to contribute readable English here, that actually might be the problem?",impolite,2,"Yes, I agree that A was being impolite. A's message comes across as condescending and overly critical, especially with phrases like ""huge amount of problems"" and questioning B's sense of duty to contribute readable English. This could be perceived as disrespectful and not constructive.",1,True,1254
+49,"Turn 1
+A: B, can we talk for a minute? I've been feeling really overwhelmed and isolated lately. I know we're all busy, but I could really use some support. Can we spend more time together, maybe grab lunch or something?
+
+B: I'm sorry to hear that, A. I've noticed you've been a bit off, but I didn't realize it was this bad. I've been caught up with my own stuff too, but I'm here for you. Let's definitely plan for lunch tomorrow.
+
+Turn 2
+A: Thanks, B. It means a lot to me. I just need someone to talk to, you know? It's been tough juggling everything alone. So do I, because, inspite of my 100s of friends and supporters, I'm feeling a little beleaguered and lonely here. If I can hang on in here, can't you at least keep me company?
+
+B: I understand, A. We're in this together. Let's make sure we support each other through this project. We'll get through it, one step at a time.","So do I, because, inspite of my 100s of friends and supporters, I'm feeling a little beleaguered and lonely here. If I can hang on in here, can't you at least keep me company?",impolite,2,"Yes, I agree that A was being impolite. The phrase ""If I can hang on in here, can't you at least keep me company?"" comes off as accusatory and guilt-inducing, which can be perceived as impolite, especially after B had already expressed willingness to support A.",1,True,884
+89,"Turn 1
+A: Hey B, I know I'm not a programmer, but I really want to help with the chatbot setup. Hate to be a bother... but need help with getting the bot running? Anything I can do as a non programmer? Is there anything I can do to contribute?
+
+B: Absolutely, A! Your help would be great. You could start by working on the conversation flow and the content the bot will use. We need to define the questions and responses it should handle.
+
+Turn 2
+A: That sounds doable. Should I draft some sample dialogues and scenarios for the bot to cover?
+
+B: Yes, that would be perfect. Once you have those, we can review them together and I'll handle the technical implementation. Thanks for jumping in!",Hate to be a bother... but need help with getting the bot running? Anything I can do as a non programmer?,polite,1,"Yes, A was being polite by expressing concern about being a bother and offering to help despite not being a programmer.",1,True,692
+110,"Turn 1
+A: Hey B, I've noticed a lot of new users suddenly backing your posts. It seems a bit suspicious. Are you creating fake accounts to support your arguments?
+B: What? No, of course not. I can't control who joins the forum or who agrees with me. Maybe they just share my views.
+
+Turn 2
+A: It's just odd that they all appeared at once and only seem to engage with your posts. Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims? It feels like you're trying to manipulate the discussion.
+B: I get why it looks that way, but I promise I'm not doing anything shady. Maybe we should ask the moderators to look into it if you're concerned.",Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims?,impolite,2,"Yes, A was being impolite. The phrase ""Could you please clarify who the new users were exactly that you considered to be part of your 'sock farm'? Or did you not even bother to research before making such claims?"" is accusatory and implies that B is guilty without evidence. It also questions B's integrity and diligence in a confrontational manner.",1,True,758
 96,"Turn 1
-A: The test results are in, and the algorithm is performing even better than we anticipated. Oh, it's definitely working and that worries me a lot.  But, honestly, I'm starting to feel uneasy about this. What if this technology gets into the wrong hands? The potential for misuse is huge.
-
-B: I get where you're coming from. It's a powerful tool, and with great power comes great responsibility. But isn't it our job to ensure that we put the right safeguards in place? We can work on ethical guidelines and usage policies to mitigate those risks.
-
-Turn 2
-A: True, but even with guidelines, there's no guarantee that everyone will follow them. The societal impact could be significant, especially if it starts influencing decisions in ways we can't control. We need to think about the long-term consequences.
-
-B: You're right, the long-term implications are crucial. Maybe we should bring this up in our next team meeting and discuss it with the broader group. We could also consult with an ethics board to get a more comprehensive perspective on how to handle this responsibly.","Oh, it's definitely working and that worries me a lot.",negative,1,"Yes, I agree. A expresses concern and unease about the potential misuse of the technology, indicating a negative sentiment despite acknowledging the algorithm's success.",1,True,1085
-112,"Turn 1
-A: I can't believe how badly the refs botched those calls in overtime. This almost certainly should not have gone to OT. SEC refs are bad CBB refs are bad It's like they were blind to all the fouls!
-B: Yeah, it was pretty frustrating to watch. The officiating in the SEC has been terrible this season. It's like they don't even care about getting it right.
+A: I've secured the rights to a few popular dramas from Taiwan and South Korea. How do you think we should approach the localization for the Singaporean market?
+B: That's great news! For the Taiwanese dramas, we should definitely provide subtitles in Traditional Chinese since a significant portion of our audience prefers that. For the Korean dramas, we can offer both Simplified and Traditional Chinese subtitles to cater to different preferences.
 
 Turn 2
-A: Exactly! And it's not just this game. It feels like every week there's some controversy because of the refs. It's ruining the sport for me.
-B: I hear you. They really need to do something about it. Maybe bring in some new officials or improve their training. College basketball deserves better.",This almost certainly should not have gone to OT. SEC refs are bad CBB refs are bad,negative,1,"Yes, A was being negative. A expressed frustration and dissatisfaction with the referees' performance, indicating that the game should not have gone to overtime and criticizing the quality of SEC and college basketball referees.",1,True,669
-66,"Turn 1
-A: Wow, it sounds like your date went really well. They must be really attractive.
-B: Yeah, it was great! But honestly, you shouldn't compare yourself. You're amazing just the way you are.
+A: That makes sense. Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think? Should we also consider dubbing, or do you think subtitles alone will suffice?
+B: Subtitles should be our primary focus, but we could explore dubbing for the most popular shows. It might be worth conducting a survey to see if there's enough demand for dubbed versions before we invest in that.","Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think?",polite,2,"Yes, A was being polite by acknowledging the current language practices in Singapore while suggesting an additional step to cater to a broader audience. This shows consideration for different preferences and a willingness to discuss the idea further.",1,True,1005
+32,"Turn 1
+A: Hey B, I noticed there's a repeated grammatical error in the second section of our report. The word ""affect"" is used instead of ""effect"" a few times.
+B: Oh, thanks for catching that, A! I appreciate your attention to detail. I'll make sure to correct it before we finalize the document.
 
 Turn 2
-A: I don't know, sometimes I just feel like I don't measure up, you know?Same...except that I'm not good looking :
-B: Trust me, you have so many wonderful qualities. Anyone would be lucky to have you. Don't be so hard on yourself.",Same...except that I'm not good looking :,negative,2,"Yes, A was being negative. They expressed self-doubt and a lack of confidence in their appearance by saying ""I'm not good looking.""",1,True,434
+A: No problem at all. It's always good to have a fresh pair of eyes on these things. its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?
+B: Absolutely. I'm relieved you spotted it. Better to fix it now than after it's been submitted. Thanks again!","its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?",polite,2,"Yes, A was being polite. A acknowledged the importance of having a fresh pair of eyes to catch errors and expressed gratitude for B's willingness to fix the mistake. The playful tone with ""its - it's - its - Sheesh ! Thanks for fixing :-) Scary, huh?"" also indicates a friendly and polite interaction.",1,True,562
+77,"Turn 1
+A: Thanks for explaining the basics of version control and code diffs, B. Thank you for that, I was having a problem with diffs and the explanation didn't make sense to me. This is the first I have had to do, what is the procedure? Could you walk me through a step-by-step procedure for making my first commit and pushing it to the repository?
+
+B: Sure, A. First, make sure you've made your changes in your local working directory. Then, open your terminal and navigate to your project folder. Run `git status` to see the changes you've made. Next, use `git add .` to stage all your changes. After that, commit your changes with `git commit -m ""Your commit message""`. Finally, push your changes to the remote repository with `git push origin your-branch-name`.
+
+Turn 2
+A: Got it. So, just to confirm, I should run `git status` to check my changes, `git add .` to stage them, `git commit -m ""message""` to commit, and `git push origin branch-name` to push them. Is there anything else I should be aware of?
+
+B: That's correct! Just make sure your commit message is clear and descriptive. Also, if you're working on a shared branch, it's a good practice to pull the latest changes from the remote repository before pushing your own. You can do this with `git pull origin your-branch-name`. This helps avoid conflicts and keeps your branch up to date.","Thank you for that, I was having a problem with diffs and the explanation didn't make sense to me. This is the first I have had to do, what is the procedure?",polite,1,"Yes, A was being polite. A thanked B for the explanation and acknowledged that they were having trouble understanding diffs, which shows appreciation and politeness.",1,True,1354
+61,"Turn 1
+A: Hey B, I came across this term in the text we're translating, and I'm a bit confused. It seems to have multiple translations. Could you help clarify which one fits best here?
+B: Sure, A. Which term are you referring to? And can you give me some context from the text?
+
+Turn 2
+A: It's ""consilium."" In this passage, it seems like it could mean ""advice,"" ""plan,"" or even ""council."" The sentence is about a group of leaders discussing their next steps. I was confused by darkhad being translated as sacred ones, when the usual translation I know is smith or craftsman (kind of). Was I at least correct in being confused?
+B: Ah, I see. Given the context of leaders discussing their next steps, ""council"" would be the most appropriate translation here. It conveys the idea of a formal group making decisions.","I was confused by darkhad being translated as sacred ones, when the usual translation I know is smith or craftsman (kind of). Was I at least correct in being confused?",polite,2,"Yes, A was being polite. A acknowledged their confusion and sought clarification without making any accusations or negative remarks. They also asked for confirmation about their understanding, which shows a respectful and open approach to the discussion.",1,True,812
 37,"Turn 1
-A: Hey! I'm out shopping right now, and it's such a beautiful sunny day. -9 and I'm out shopping. Sun is out feels great. I'm having a great time!
-B: That sounds awesome! I know how much you love these sunny shopping days. Found anything interesting yet?
+A: Hey B, I remember you mentioned your interest in dermatology. I am looking for help improving the dermatology content on wikipedia. Would you be willing to help, or do you have any friends interested in derm that would be interested in helping? I'm working on a project to improve medical content on Wikipedia, and I could really use some expertise in that area. Do you think you might be able to help or know someone who could?
+
+B: That sounds like a great project, A! I'd be happy to help out where I can. I also know a couple of colleagues who are really into dermatology and might be interested in contributing. What specific topics are you looking to improve?
 
 Turn 2
-A: Yes! I found this cute little boutique with some unique accessories. Thinking of getting a new pair of sunglasses. What do you think?
-B: That sounds perfect for a sunny day like today! Go for it. Any other plans for the rest of the day?",-9 and I'm out shopping. Sun is out feels great.,positive,1,"Yes, I agree. Despite the mention of ""-9,"" which likely refers to the temperature, A is expressing enjoyment of the sunny day and the shopping experience, indicating a positive sentiment.",1,True,509
-5,"Turn 1
-A: ""I can't believe they just did that! How could they mess up such an easy play? Fuuuuuck. That's the worst I've seen.""
-B: ""Yeah, that was really disappointing. I thought they had it under control.""
+A: That's fantastic, thank you! We're focusing on expanding and updating articles related to common skin conditions and treatments. Any insights or resources you or your colleagues could provide would be incredibly valuable.
+
+B: Perfect, I have some recent research papers and clinical guidelines that could be useful. I'll also reach out to my colleagues and see if they can contribute. Let's set up a time to go over the details.","I am looking for help improving the dermatology content on wikipedia. Would you be willing to help, or do you have any friends interested in derm that would be interested in helping?",polite,1,"Yes, A was being polite by asking for help in a considerate and respectful manner, acknowledging B's interest in dermatology and offering an opportunity for collaboration.",1,True,1114
+141,"Turn 1
+A: Hi B, I hope you're doing well. I noticed that there hasn't been any response to the questions I posted about the criteria for including certain data in our project. I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look? Could you take a look when you get a chance?
+B: Hi A, sorry about that. I've been swamped with some other tasks. I'll review your questions and get back to you by the end of the day.
 
 Turn 2
-A: ""We've been waiting for this game for weeks, and they blow it like this? Unbelievable.""
-B: ""I know, it's frustrating. But hey, there's still some time left. Maybe they can turn it around.""",Fuuuuuck. That's the worst I've seen.,negative,1,"Yes, A was being negative. The use of strong language and the expression of disbelief and frustration indicate a negative sentiment towards the situation.",1,True,406
-55,"Turn 1
-A: I can't believe I got banned from that forum. Somehow I got banned for replying to a troll. The mods over there have itchy trigger fingers.I was just trying to defend myself against this troll, and the moderators came down on me so hard.
-B: That sounds really frustrating. Some forums have such strict rules, and it feels like they don't always apply them fairly. I've had my own run-ins with overzealous mods before.
+A: Thanks, B. I appreciate it. Just want to make sure we're on the same page before we move forward.
+B: Absolutely, A. I'll make it a priority. Thanks for the reminder!",I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look?,polite,1,"Yes, A was being polite. A acknowledged the lack of response without showing frustration and gently reminded B to take a look when they get a chance.",1,True,659
+64,"Turn 1
+A: Hey B, I've noticed you and N.I. seem pretty close lately. Are you saying that you have a close or imtimate relationship with N.I.? Is there something going on between you two?
+B: Uh, that's a bit personal, don't you think? We're just good friends, nothing more.
 
 Turn 2
-A: Exactly! It's like they don't even care about the context. I was just trying to explain my side, but they said I was being ""disruptive.""
-B: It's so unfair when they don't take the time to understand the whole situation. Maybe it's time to find a new community where the moderation is more balanced. There are plenty out there that value open discussion without being so heavy-handed.",Somehow I got banned for replying to a troll. The mods over there have itchy trigger fingers.,negative,1,"Yes, A was being negative. A expressed frustration and dissatisfaction with the moderators' actions, describing them as having ""itchy trigger fingers"" and feeling unfairly treated for simply replying to a troll.",1,True,822
-45,"Turn 1
-A: I saw that new community policing initiative in the news. I think it's a great step forward for our neighborhood. Recently Retired cop here. I love to see this. This is what he's fighting to stop. Back when I was on the force, we always emphasized the importance of building trust with the community.
-B: Yeah, I read about it too. It sounds promising. Do you think it will really make a difference, though?
+A: Sorry if I overstepped. I was just curious since you two spend a lot of time together.
+B: It's okay, A. I appreciate your concern, but there's really nothing to worry about. We're just colleagues who get along well.",Are you saying that you have a close or imtimate relationship with N.I.?,impolite,1,"Yes, A's question about whether B has a close or intimate relationship with N.I. can be considered impolite because it delves into B's personal life without invitation. Such questions can be intrusive and make the other person uncomfortable.",1,True,499
+143,"Turn 1
+A: Hi B, I noticed you've reverted some of my edits several times. Could you explain why? I'm concerned that these reverts might be seen as vandalism.
+
+B: Hi A, I apologize if it seemed that way. My intention was to ensure the information aligns with our guidelines. Could you clarify which edits you're referring to? I want to make sure we're on the same page and following the rules correctly.
 
 Turn 2
-A: Absolutely. When officers are more engaged with the community, it creates a sense of partnership. People are more likely to report crimes and cooperate with the police. I've seen it work firsthand.
-B: That makes sense. I guess it's all about building those relationships. Hopefully, this initiative will bring some positive changes around here.",Recently Retired cop here. I love to see this. This is what he's fighting to stop.,positive,1,"Yes, I agree. A was being positive about the new community policing initiative, expressing approval and support for it. The statement ""I love to see this"" indicates a positive sentiment towards the initiative.",1,True,772
-24,"Turn 1
-A: You know, I still remember how it felt to be bullied in school. It was like every day I walked into that building, I was just waiting for the next insult or prank. I was teased for being a virgin when I was a 6th grader- in 2005 It really messed with my self-esteem for a long time.
-B: I totally get that. In middle school, I was teased a lot for my weight. It was so personal and hurtful. I felt like I couldn't escape it, and it made me so self-conscious. Even now, I sometimes hear those voices in my head.
+A: Sure, it's the edits on the ""History of Science"" article. I added some recent research findings, but they were removed. I don't follow you I was not aware that my edits were vandalism, I was editing according to what had (it appeared to me) been agreed on the talk page, but additional material had been inserted (that had not been agreed upon) that esentialy said the same thing (and was not supported by the sources) that had caused the origioanl disagrement. I think I may have mis-understood you point, are you saying that I can only revert three times if its vandalism, or that my edits were vandalims? Can you let me know what the issue was?
+
+B: Thanks for pointing that out. I reverted those because the sources didn't meet our reliability standards. Let's discuss how we can include that information with proper citations. I'm here to help resolve this amicably.","I don't follow you I was not aware that my edits were vandalism, I was editing according to what had (it appeared to me) been agreed on the talk page, but additional material had been inserted (that had not been agreed upon) that esentialy said the same thing (and was not supported by the sources) that had caused the origioanl disagrement. I think I may have mis-understood you point, are you saying that I can only revert three times if its vandalism, or that my edits were vandalims?",polite,2,"A's message in Turn 2 appears to be a bit confused and defensive, but it does not come across as impolite. A is seeking clarification and trying to understand B's reasoning, which indicates a willingness to resolve the issue amicably.",1,True,1284
+100,"Turn 1
+A: Hey B, I'm really frustrated. Another user keeps removing my contributions to the article on renewable energy. I don't want to start a fight, but it's really discouraging. Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this? Any advice on how to handle this?
+
+B: I understand your frustration, A. First, try reaching out to the user on their talk page. Politely ask for their reasoning behind the removals and see if you can find common ground. Sometimes, a direct but respectful conversation can clear up misunderstandings.
 
 Turn 2
-A: It's crazy how those experiences stick with us, isn't it? I mean, logically, I know those bullies were just projecting their own insecurities, but emotionally, it's a different story. It took me years to start believing in myself again.
-B: Absolutely. It's like those moments become a part of us. But talking about it now, with you, makes me feel less alone. It's comforting to know that someone else understands what it was like and how it still affects us today.",I was teased for being a virgin when I was a 6th grader- in 2005,negative,1,"Yes, I agree that A was being negative. A was sharing a painful and hurtful experience from their past, which had a long-lasting impact on their self-esteem. The tone of the conversation reflects the emotional distress and negativity associated with being bullied.",1,True,995
-109,"Turn 1
-A: I recently flew out of a different airport for the first time. It was such a refreshing change from the usual hustle and bustle.
-B: Oh, I can imagine! Speaking of airports, remember how chaotic LAX used to be? The traffic was always a nightmare.
+A: That makes sense. I guess I was just worried it might come off as confrontational. Should I also bring up the issue on the article's talk page to get more input?
+
+B: Yes, that's a good idea. Posting on the article's talk page can provide a neutral ground for discussion and invite other contributors to weigh in. Just make sure to keep the tone collaborative and focus on improving the article together. Good luck!","Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this?",polite,1,"Yes, A was being polite. A expressed their frustration without using any harsh language and asked for advice on how to handle the situation, indicating a willingness to resolve the issue constructively.",1,True,1058
+0,"Turn 1
+A: Hi B, I received the report you sent. Thanks for putting it together. I'm currently tied up with some other tasks, but I'll make sure to review it first thing tomorrow morning. I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?
+B: No problem, A. Thanks for letting me know. I appreciate you taking the time to look it over. If you have any questions or need any clarifications, just let me know.
 
 Turn 2
-A: Absolutely, I remember getting stuck in traffic for hours just trying to get to the terminal. Ah, good old single level LAX. I barely remember it except traffic was a nightmare. It was so frustrating.
-B: Yeah, and the parking situation was a mess too. I once missed a flight because I couldn't find a spot in time. Those were some stressful times!","Ah, good old single level LAX. I barely remember it except traffic was a nightmare.",negative,2,"Yes, A was being negative. The statement reflects frustration and a negative experience with the traffic at LAX.",1,True,614
-12,"Turn 1
-A: Hey, check out this meme I found! 😂 *sends meme*
-B: OMG, this is hilarious! I'm saving this one for sure. Thanks for the laugh, A! 😂
-
-Turn 2
-A: Haha, glad you liked it! Added to my meme folder. Thanks!I knew it would crack you up.
-B: You always find the best ones. My meme collection is getting better thanks to you! 😆",Added to my meme folder. Thanks!,positive,2,"Yes, A was being positive. A expressed happiness that B liked the meme and mentioned adding it to their meme folder, which indicates enjoyment and appreciation.",1,True,328
-50,"Turn 1
-A: Hey B, I just finished this new piece. What do you think?
-B: Wow, A! This is incredible! The colors and details are just stunning. You really outdid yourself this time.
-
-Turn 2
-A: Thanks, B! I was experimenting with some new techniques, and I wasn't sure how it would turn out. I love this. you get a favorite.
-B: Well, it definitely paid off. You have such a unique style, and it keeps getting better. I can't wait to see what you come up with next!",I love this. you get a favorite.,positive,2,"Yes, A was being positive. A expressed gratitude for B's compliment and shared excitement about the new techniques used. The phrase ""I love this"" indicates A's satisfaction with the outcome.",1,True,460
-18,"Turn 1
-A: I was going through the project requirements and noticed something about the data validation rules. Can you clarify if there's a specific format we need to follow for the input data?
-B: Yes, actually, all input data needs to be in JSON format, and each entry must include a timestamp in ISO 8601 format. This ensures consistency and makes it easier to track changes.
-
-Turn 2
-A: Got it, that makes a lot of sense. I didn't know that, thanks for the clarification.I wasn't aware of the timestamp requirement before. Thanks for pointing that out, it will definitely help us avoid issues later on.
-B: No problem at all! I'm glad I could help. If you have any other questions, feel free to ask. We're in this together.","I didn't know that, thanks for the clarification.",positive,2,"Yes, A was being positive. A expressed gratitude for the clarification and acknowledged that the information would help avoid issues later on.",1,True,723
-18,"Turn 1
-A: I was looking over the project requirements, and I noticed something about the data integration process. Can you clarify if we need to use the new API for this?
-
-B: Yes, we do. The new API is mandatory for all data integrations moving forward. It ensures better security and compatibility with our updated systems.
-
-Turn 2
-A: Got it, that makes sense. I didn't know that, thanks for the clarification. I wasn't aware of that change. Thanks for explaining it, B. I'll make sure to update our plan accordingly.
-
-B: No problem at all, A. If you need any help with the API or have more questions, just let me know. We're in this together.","I didn't know that, thanks for the clarification.",positive,2,"Yes, A was being positive. A acknowledged the new information, expressed gratitude for the clarification, and indicated a willingness to update the plan accordingly. This shows a positive and cooperative attitude.",1,True,644
-12,"Turn 1
-A: Hey, check out this meme I just found! 😂 *sends meme*Added to my meme folder. Thanks!
-B: LOL! This is gold! 🤣 I'm definitely saving this one to my favorites.
-
-Turn 2
-A: Glad you liked it! I knew it would crack you up.
-B: You always find the best ones. Thanks for the laugh, I needed that today!",Added to my meme folder. Thanks!,positive,1,"Yes, A was being positive. A shared a meme and expressed enjoyment by adding it to their meme folder, which indicates a positive reaction.",1,True,304
-40,"Turn 1
-A: Ugh, this cold weather is really messing with my car. It took me forever to get it started this morning. cars don't start, sometimes car doors are frozen shut. that's the worst of what i've experienced.
-B: I hear you. My car's battery died last week because of the cold. I had to wait for roadside assistance for almost an hour.
-
-Turn 2
-A: That's the worst. And then there's the ice on the windshield. I feel like I'm scraping it off every morning.
-B: Same here. I actually bought one of those windshield covers, and it's been a lifesaver. You should try it out.","cars don't start, sometimes car doors are frozen shut. that's the worst of what i've experienced.",negative,1,"Yes, I agree. A was expressing frustration about the cold weather affecting their car, mentioning issues like difficulty starting the car and frozen car doors, which are negative experiences.",1,True,572
-20,"Turn 1
-A: ""I know this change might seem sudden, but I believe it will streamline our process and improve the final outcome. I should have discussed it with you first, and I apologize for that oversight.""
-B: ""I appreciate the apology, but I'm really struggling to understand why this change was necessary. It feels like it disregards the work we've already put in. Can you explain the rationale behind it?""
-
-Turn 2
-A: ""Absolutely, I can see why you're frustrated. What the fuck is this about?The main reason for the change is that we received new data that suggests our initial approach might not be as effective as we thought. I wanted to pivot quickly to avoid wasting more time and resources.""
-B: ""I get that new data can change things, but it would have been helpful to have a discussion about it first. We could have brainstormed together and come up with a solution that incorporates both our efforts.""",What the fuck is this about?,negative,2,"The phrase ""What the fuck is this about?"" is indeed negative and inappropriate in the context of a professional conversation. It indicates frustration or anger, which contrasts with the otherwise constructive tone of the discussion.",1,True,908
+A: Will do, B. I'll get back to you with any feedback or questions by mid-morning.
+B: Sounds good, A. Have a good evening and talk to you tomorrow.","I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?",polite,1,"Yes, A was being polite. A acknowledged receiving the report, thanked B for their effort, and communicated their current inability to review it in detail while promising to do so the next morning. The use of a smiley face also adds a friendly tone.",1,True,673
 99,"Turn 1
-A: I'm curious about how the grading system works here. Can you explain how you assess the students' performance?
-
-B: Of course! We use a combination of formative and summative assessments. Formative assessments include quizzes, class participation, and homework, which help us gauge ongoing understanding. Summative assessments, like end-of-term exams and projects, evaluate the students' overall grasp of the material.
-
-Turn 2
-A: That makes sense. Right. The mantra at my school is that we don't give grades, kids earn them. How do you ensure that the grades reflect both the students' efforts and their actual performance?
-
-B: We have a balanced approach. Effort is recognized through participation and homework grades, while performance is measured through tests and projects. Additionally, we provide feedback throughout the term to help students improve continuously, ensuring their grades reflect both their hard work and their mastery of the subject.","Right. The mantra at my school is that we don't give grades, kids earn them.",neutral,2,"Yes, A was being neutral. A's statement about the mantra at their school does not express a positive or negative sentiment but rather shares a philosophy or approach to grading.",1,True,965
-22,"Turn 1
-A: You wouldn't believe how tough the recovery was, B. The pain was intense, especially during the first few weeks. Resetting a dislocated knee hurts like hell but it feels a lot better immediately after. But the doctors and physiotherapists were amazing.
-B: Oh wow, that sounds awful. I'm really sorry you had to go through that. How are you feeling now?
+A: I can't believe you went after C like that. Your criticism was way too harsh and completely unfair.
+B: Seriously, A? You're calling me out? You did the exact same thing to D last month. How is that any different?
 
 Turn 2
-A: Honestly, I'm feeling so much better now. The pain has subsided, and I can move around almost like before. It's such a relief.
-B: That's great to hear! I'm glad you're on the mend. Just take it easy and don't push yourself too hard, okay?",Resetting a dislocated knee hurts like hell but it feels a lot better immediately after.,positive,1,"A's statement ""Resetting a dislocated knee hurts like hell but it feels a lot better immediately after."" acknowledges the intense pain but also highlights the immediate relief that follows the procedure. This indicates a mix of acknowledging the difficulty while also recognizing a positive outcome.",1,True,612
-22,"Turn 1
-A: You know, middle school was really tough for me. I remember this one time when a group of kids made fun of my clothes every single day. I was teased for being a virgin when I was a 6th grader- in 2005 It made me feel so small and worthless.
-B: I can relate to that. In high school, I was constantly picked on for my weight. It felt like no matter what I did, I couldn't escape their cruel comments. It really messed with my self-esteem.
+A: That was different. D's actions were genuinely harmful to the community, and I followed the proper channels. You also say that I am participating in a high-tech lynching. Isn't that what you did when you put SamuraiClinton on RFA?
+B: And I believe C's behavior warranted a review too. Just because you don't agree doesn't mean I'm being unfair.",You also say that I am participating in a high-tech lynching. Isn't that what you did when you put SamuraiClinton on RFA?,impolite,2,"Yes, A was being impolite. By bringing up the term ""high-tech lynching"" and referencing a specific incident involving SamuraiClinton on RFA, A escalated the conversation and made it more confrontational. This kind of language and the direct comparison can be seen as an attempt to undermine B's actions and character, which is impolite.",1,True,578
+47,"Turn 1
+A: Hey B, it's been a while since I was last active here. Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed? I wanted to check in and see how things have been, especially regarding the situation with Deathrockeru2014. Has everything calmed down?
+
+B: Hi A, welcome back! Things have definitely settled down since you were last here. The moderators stepped in, and we've had some productive discussions. The atmosphere is much more positive now.
 
 Turn 2
-A: It's heartbreaking how those experiences stick with us, even years later. I still get anxious in social situations, worried that people are judging me.
-B: Same here. It's like those voices never fully go away. But talking about it with you helps. It reminds me that I'm not alone and that we can support each other through it.",I was teased for being a virgin when I was a 6th grader- in 2005,negative,1,"Yes, I agree that A was being negative. A was sharing a painful and humiliating experience from middle school where they were teased and made to feel small and worthless. This indicates a negative sentiment as A is recounting a distressing memory.",1,True,784
-105,"Turn 1
-A: Hey B, I couldn't help but notice you seem pretty calm despite all the pressure we're under. How do you manage to stay so composed?
+A: That's great to hear. I was a bit worried about the tension when I left. I'm glad the community could work through it. How have you been?
 
-B: Oh, thanks for noticing, A. It's not always easy, but I have this technique that really helps me. I focus on my breathing and take a few deep breaths whenever I start feeling overwhelmed. It helps me clear my mind and stay focused.
+B: I've been good, thanks for asking. It's been nice to see everyone focusing on constructive conversations again. How about you? How have you been during your break?",Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed?,polite,1,"Yes, A was being polite. A apologized for not replying earlier and expressed concern about the situation with Deathrockeru2014, showing consideration for the community and the ongoing issues.",1,True,811
+140,"Turn 1
+A: I noticed you've made quite a few changes to the article I originally wrote. While I appreciate contributions, I'm curious about your experience on this platform. Have you been editing here long?
+B: I understand your concern. I'm relatively new, but I've been researching this topic extensively and thought my edits could improve the accuracy and clarity of the content.
 
 Turn 2
-A: That sounds interesting. Taking deep, measured breaths usually helps me regain my composure  Do you have any specific breathing exercises you follow, or is it just about taking deep breaths?
+A: I see. It's just that some of your changes seemed to alter the original intent. There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about? Could you explain your reasoning behind them?
+B: Absolutely. I felt that some sections were a bit outdated and lacked recent developments. I aimed to provide more current information while keeping the original structure intact. I'm open to discussing any specific points you think need revisiting.","There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about?",impolite,2,A's statement could be perceived as impolite because it questions B's credibility and implies doubt about B's contributions without acknowledging their effort or intent. The tone comes off as somewhat accusatory and dismissive.,1,True,902
+2,"Turn 1
+A: Hey B, do you have a minute? I'm running into an issue with handling web page redirects. I thought you might have some insights.
+B: Sure, A! What's the specific problem you're facing with the redirects?
 
-B: I usually follow a simple pattern: inhale for four seconds, hold for four, and then exhale for four. It's called box breathing. It's really effective in calming my nerves and keeping me grounded, especially during crunch times like this.","Taking deep, measured breaths usually helps me regain my composure",neutral,2,"A's statement ""Taking deep, measured breaths usually helps me regain my composure"" is a neutral observation about their own experience with breathing exercises. It neither expresses a strong positive nor negative sentiment.",1,True,821
+Turn 2
+A: Well, I'm trying to redirect users after they submit a form, but it seems like the redirect isn't happening consistently. Sometimes it works, and other times it just stays on the same page. Hey, you seem to know a bit about coding, so I figured you might have an answer here. If I want use code to grab the target of a page known to be a redirect, how would I do that?
+B: That sounds frustrating. It could be a caching issue or maybe something with the way the redirect is being triggered. Are you using JavaScript for the redirect, or is it server-side?","Hey, you seem to know a bit about coding, so I figured you might have an answer here. If I want use code to grab the target of a page known to be a redirect, how would I do that?",polite,2,"Yes, A was being polite. A acknowledged B's knowledge and expertise in coding before asking for help, which is a polite way to seek assistance.",1,True,778
+57,"Turn 1
+A: Hey B, I noticed you haven't been as active in our project meetings lately. Hi, I missed your valued contributions recently. Everything ok? Is everything okay? We really miss your input.
+B: Thanks for checking in, A. I've been dealing with some personal issues that have been taking up a lot of my time and energy. I didn't mean to drop the ball on our project.
+
+Turn 2
+A: I'm sorry to hear that, B. If there's anything I can do to help or if you need some time off, just let me know. Your contributions are really valuable to the team.
+B: I appreciate that, A. I think I just need a couple of days to sort things out. I'll make sure to catch up on what I've missed and get back on track. Thanks for understanding.","Hi, I missed your valued contributions recently. Everything ok?",polite,1,"Yes, I agree. A was being polite by expressing concern for B's well-being and acknowledging the value of B's contributions to the project.",1,True,724
