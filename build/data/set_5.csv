@@ -1,143 +1,143 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-4,"Turn 1
-A: I was watching this debate the other day about COVID-19 vaccine mandates. One person was saying they're necessary to keep the healthcare system from getting overwhelmed.
-B: Yeah, I've heard that argument. But then there are people who feel strongly that it should be a personal choice whether to get vaccinated or not.
+23,"Turn 1
+A: I believe that the data clearly shows a significant impact of human activities on climate change. Ignoring this is irresponsible.
+B: You're misrepresenting my position. I never said we should ignore human impact; I just think we need a balanced approach that also considers economic factors. You're creating a strawman argument.
 
 Turn 2
-A: Exactly, the other person in the debate was making that point about individual freedom. That's my recollection at least  The argument over vaccine mandates for adults basically came down to ""hospital beds"" (strain on health care system) from Graham versus ""if I want to chance getting sick from the vax or from COVID, my body my choice"" (anti-authoritarian) from Jimmy It's interesting to see how divided opinions are on this.
-B: It really is. I guess it comes down to balancing public health with personal rights, which is never an easy thing to do.","That's my recollection at least  The argument over vaccine mandates for adults basically came down to ""hospital beds"" (strain on health care system) from Graham versus ""if I want to chance getting sick from the vax or from COVID, my body my choice"" (anti-authoritarian) from Jimmy",neutral,2,"Yes, A was being neutral. A simply summarized the main points of the debate without expressing a personal opinion or taking sides.",1,True,890
-208,"Turn 1
-A: The latest report shows a significant drop in COVID-19 cases in Tokyo over the past month. It seems like the vaccination campaign is really making a difference.
-B: That's great to hear. Do they mention anything about the impact of booster shots yet?
+A: I don't think you understand what a strawman argument is.Not at all. I'm not going to argue with someone who doesn't understand what a strawman is. I'm not misrepresenting your position; I'm addressing the broader issue. But if this is how the conversation is going to go, I don't see the point in continuing.
+B: It's frustrating that you feel that way, but I think it's important to clarify our positions accurately. Maybe we can revisit this when we're both less frustrated.",Not at all. I'm not going to argue with someone who doesn't understand what a strawman is.,negative,2,"Yes, A's response in turn 2 is negative. A dismisses B's understanding and expresses a refusal to continue the conversation, which indicates frustration and a negative tone.",1,True,826
+19,"Turn 1
+A: You remember that puppet show we watched at the theme park? There was this one puppet that pretended to be a lion and claimed it had I ate my mommy and daddy""eaten"" its puppet parents!
+B: Oh my gosh, that's hilarious! I can just imagine the kids' reactions to that.
 
 Turn 2
-A: Yes, actually. The data suggests that areas with higher booster shot uptake are seeing even lower case numbers. HT to  for the daily Tokyo coronavirus case count. Important to see how many cases were and were not vaccinated. Hoping we can get boosters soon based on the  number of breakthrough cases reported here. It looks promising for enhancing immunity.
-B: Interesting. We should definitely consider incorporating this into our next policy recommendation. Staying ahead with boosters could be key.",HT to  for the daily Tokyo coronavirus case count. Important to see how many cases were and were not vaccinated. Hoping we can get boosters soon based on the  number of breakthrough cases reported here.,neutral,2,"A's statement is informative and factual, focusing on the data and its implications without expressing a personal opinion or emotion. This indicates a neutral tone.",1,True,772
-63,"Turn 1
-A: I'm concerned about the school's requirement for adolescents to present a QR code as proof of vaccination to participate in certain activities. Hola  quan eliminareu el QR per als adolescents? ""WHO is currently not recommending the general vaccination of children and adolescents as the burden of severe disease in these age groups is low"". Given the low risk of severe disease in this age group, is this really necessary?
-
-B: I understand your concerns. Our policy is based on current health guidelines to ensure the safety of all students and staff. We are continuously reviewing these policies in light of new recommendations, including those from the WHO.
-
-Turn 2
-A: Will the school reconsider this policy if the WHO updates its recommendations regarding vaccinations for children and adolescents?
-
-B: Absolutely. We are committed to following the latest health advice and will adjust our policies accordingly to reflect any new guidance from the WHO or other health authorities.","Hola  quan eliminareu el QR per als adolescents? ""WHO is currently not recommending the general vaccination of children and adolescents as the burden of severe disease in these age groups is low"".",against,1,"Yes, A is expressing concern and questioning the necessity of the QR code requirement for adolescents, citing the WHO's stance on the low risk of severe disease in this age group.",1,True,993
-22,"Turn 1
-A: I recently interviewed Japan's former vaccination leader, and he had some interesting insights on the booster shot rollout.
-B: Oh, really? What did he say about the interval between doses?
+A: Yeah, the kids were all gasping and laughing at the same time. It was such a funny twist!
+B: Sounds like it was a great show. I love how they can make something so silly and unexpected.",I ate my mommy and daddy,neutral,1,A was recounting a memory of a puppet show and describing a specific moment from it. The tone appears to be neutral as A is simply sharing an observation without expressing strong emotions.,1,True,472
+6,"Turn 1
+A: Hey B, I noticed you have a really unique way of tackling problems. I'm curious, how do you usually approach a new challenge?
+B: Thanks, A! I usually start by breaking down the problem into smaller parts and then look for patterns or similarities to things I've solved before. It helps me manage the complexity and find a starting point.
 
 Turn 2
-A: He actually questioned the eight-month wait period. and I spoke with Japan's former vax czar on the rollout of Covid booster shots. ""Why wait for eight months?"" he said re: the interval between 2nd and 3rd doses., suggesting it might be too long given the current data.
-B: That's intriguing. Did he mention any specific reasons or alternative intervals?",". and I spoke with Japan's former vax czar on the rollout of Covid booster shots. ""Why wait for eight months?"" he said re: the interval between 2nd and 3rd doses.",neutral,2,"Yes, A was being neutral. A simply relayed the information and the former vaccination leader's opinion without adding any personal judgment or emotional tone.",1,True,563
-12,"Turn 1
-A: I finally got my COVID-19 vaccine last week. It's been years since I had any kind of vaccination.
-B: That's great to hear! How was the experience for you? I'm curious, do you think many adults keep up with their vaccinations?
-
-Turn 2
-A: It was pretty smooth, just a sore arm for a day. Honestly, I haven't thought much about other vaccines since childhood. Who is we? Prior to taking the Astra since Covid started, I haven't had a vaccine shot since high school. Not saying people don't do it, to MY knowledge, it's not a widespread argument thing. I can be corrected if I am wrong. What about you? Have you kept up with any vaccinations as an adult?
-B: I try to stay on top of it, especially with the flu shot every year. But I think a lot of adults might not be as diligent unless it's something like the COVID-19 vaccine that gets a lot of attention.","Who is we? Prior to taking the Astra since Covid started, I haven't had a vaccine shot since high school. Not saying people don't do it, to MY knowledge, it's not a widespread argument thing. I can be corrected if I am wrong.",neutral,2,A's statement appears to be neutral as they are simply sharing their personal experience and acknowledging that their knowledge might be limited. They are open to being corrected and are not making any strong claims or arguments.,1,True,863
+A: That makes a lot of sense. What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine Do you have any specific techniques or tools you use to identify those patterns?
+B: I often use mind maps to visualize the problem and its components. It helps me see connections that aren't immediately obvious. Plus, I like to bounce ideas off others to get different perspectives.",What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine,neutral,2,"A's statement ""What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine"" shows curiosity and a desire to understand B's approach better. It doesn't convey any strong positive or negative sentiment, but rather a neutral and inquisitive tone.",1,True,781
 13,"Turn 1
-A: It's been really tough since my aunt passed away from COVID-19. She wanted to get vaccinated but didn't get the chance in time.
-B: I'm so sorry to hear that, A. It's heartbreaking. I can't imagine what you're going through.
+A: ""Hey B, I just wrapped up the final report for the project. It took a lot of late nights, but it's finally done!""
+B: ""That's fantastic, A! You did an amazing job. Your hard work really paid off. Let's keep this momentum going and make sure we stay on track for the next phase.""
 
 Turn 2
-A: Thank you, B. It just makes me realize how important it is for everyone to get vaccinated as soon as they can. I have a few family members who may disagree, but they can't tell us anymore. I know my aunt wanted the vaccine, but it was too late. I hope no one else has to go through it, but I see more will??? I hope more people take it seriously to prevent more losses like this.
-B: Absolutely. Your story is a powerful reminder. I'll definitely share this with others to encourage them to get vaccinated too.","I have a few family members who may disagree, but they can't tell us anymore. I know my aunt wanted the vaccine, but it was too late. I hope no one else has to go through it, but I see more will???",favoring,2,"A is expressing a strong belief in the importance of getting vaccinated, especially in light of their aunt's passing. They are advocating for vaccination to prevent further losses, which indicates a favoring stance towards vaccination.",1,True,754
-21,"Turn 1
-A: I just don't get why we need to show proof of vaccination to enter the building. I've read studies suggesting natural immunity can be just as effective.
-B: I understand your point, but the company is likely trying to ensure a consistent level of safety for everyone. Vaccination provides a more predictable and controlled way to manage the risk.
+A: ""Thanks, B! I appreciate the support. Well done dude! Seriously :) But keep it up, don't lose this momentum. I'll start prepping for the next steps right away.""
+B: ""Sounds great, A. If you need any help or run into any issues, just let me know. We're in this together!""","Well done dude! Seriously :) But keep it up, don't lose this momentum.",positive,2,"Yes, A was being positive. A expressed appreciation for B's support and encouraged B to maintain the momentum, which indicates a positive and supportive attitude.",1,True,568
+71,"Turn 1
+A: Ugh, I just had another customer complain about having to create an Apple Account to use their new iPhone. It's so frustrating dealing with these complaints all the time. I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.
+B: I know what you mean. It feels like every other customer has the same issue. I usually try to explain the benefits, like how it helps with security and accessing all the Apple services, but it doesn't always help.
 
 Turn 2
-A: But isn't it a bit much to enforce this when we don't even require IDs for voting? It's crazy to treat ppl this way. Washington University came out and said natural immunity could last a lifetime. No I.D to vote but vaccine card to exercise It feels like an overreach.
-B: I see where you're coming from, but public health measures are about protecting the community. It's not just about individual freedom; it's about reducing the overall risk for everyone in the office.",It's crazy to treat ppl this way. Washington University came out and said natural immunity could last a lifetime. No I.D to vote but vaccine card to exercise,against,2,"Yes, A is expressing opposition to the requirement of showing proof of vaccination to enter the building. A is arguing that natural immunity should be considered sufficient and is also comparing the situation to the lack of ID requirements for voting, suggesting that the vaccination proof requirement is excessive.",1,True,838
+A: Yeah, I do that too, but some people just don't want to hear it. They get so annoyed. Do you have any other tips for handling these situations?
+B: Sometimes, I find it helps to walk them through the setup process step-by-step. It makes it less overwhelming for them, and they appreciate the extra help. Plus, it usually calms them down a bit.",I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.,negative,1,"Yes, I agree. A's statement expresses frustration and negativity about dealing with customer complaints regarding the need to set up an Apple Account for their iPhones.",1,True,890
+18,"Turn 1
+A: I just wanted to thank you for suggesting the DBQ activity and pairing the students for collaborative work. Thank you! I ended up assigning a dbq and paired students up It really made a difference in my class.
+B: I'm so glad to hear that! DBQs can be really engaging, and collaborative work often brings out the best in students. How did they respond to it?
+
+Turn 2
+A: They were much more engaged and seemed to enjoy working together to analyze the documents. It sparked some great discussions.
+B: That's fantastic! It's always rewarding to see students actively participating. If you need any more ideas or resources, feel free to ask.",Thank you! I ended up assigning a dbq and paired students up,positive,1,"Yes, A was being positive. A expressed gratitude and shared that the DBQ activity and pairing students up made a positive difference in the class.",1,True,646
 25,"Turn 1
-A: I can't believe they're actually considering a vaccine mandate now. It's like they don't trust us to make our own decisions. Apart from a corrupt government and power issues, life is relatively decent. One is able to perform their activities with minimum fuss, but the mask mandates are still highly enforced. Certain institutions in the country are pushing for vaccine mandates for their employees.
-B: I know, right? We've been managing just fine with the masks and social distancing. Forcing a vaccine on everyone seems like a step too far.
+A: You know, we had a really interesting discussion about theodicy in my study group last night. It's such a complex topic, trying to understand why a benevolent God would allow suffering.
+B: That does sound like a deep and challenging subject. It's one of those questions that has puzzled people for centuries, hasn't it?
 
 Turn 2
-A: Exactly. I mean, I've done my research and I'm not convinced it's necessary for everyone. Why can't they just let us choose?
-B: Totally agree. It's frustrating that they think they know what's best for us without considering our individual circumstances.","Apart from a corrupt government and power issues, life is relatively decent. One is able to perform their activities with minimum fuss, but the mask mandates are still highly enforced. Certain institutions in the country are pushing for vaccine mandates for their employees.",against,1,"Yes, I agree. A's statement reflects a critical view of the government's actions, particularly regarding the enforcement of mask mandates and the push for vaccine mandates. A expresses frustration and skepticism about the necessity of these measures, indicating a stance against them.",1,True,818
-244,"Turn 1
-A: Did you hear that Israel is already administering a fourth dose of the COVID-19 vaccine?
-B: Yeah, I did. It's frustrating how we keep needing more booster shots. It feels like we're constantly having to get vaccinated, and it's such a hassle here.
+A: Absolutely. There are so many different perspectives and interpretations. I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it. Some find comfort in the idea that suffering has a purpose, even if we can't always see it.
+B: I can see how that might be reassuring for some. It's definitely a topic that invites a lot of thoughtful reflection.","I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it.",neutral,2,"A's statement ""I have no faith, but the theodicy problem has multiple answers, I’m not too concerned with it."" indicates a neutral stance. A acknowledges the complexity of the topic and the existence of multiple perspectives without expressing strong personal concern or emotional investment.",1,True,722
+41,"Turn 1
+A: Wow, these documents are incredible! I can't believe you found a map from the 1930s showing where my great-grandparents lived.
+B: I'm glad you like them! It took some digging, but I thought you'd appreciate seeing the old neighborhood layout and those records.
 
 Turn 2
-A: I get what you mean. It does seem like a lot, but I guess it's necessary to keep up with the new variants. Yes, but what if after 3 months the vaccine doesn't protect anymore? This booster dose is becoming like medicines if Israel is going forth with its 4th dose of vaccine. In my country, it's very inconvenient to get oneself vaccinated.
-B: True, but I just wish there was a more long-term solution. It's starting to feel like taking regular medication, and it's getting complicated.","Yes, but what if after 3 months the vaccine doesn't protect anymore? This booster dose is becoming like medicines if Israel is going forth with its 4th dose of vaccine. In my country, it's very inconvenient to get oneself vaccinated.",against,2,"A's statement expresses concern and frustration about the frequency of booster doses and the inconvenience of getting vaccinated in their country. This indicates a critical stance towards the current situation of needing multiple doses, rather than outright opposition to vaccination itself.",1,True,755
-66,"Turn 1
-A: I've been reading a lot about the COVID-19 vaccine for kids, and while I understand the benefits, I'm really worried about the potential long-term effects that we just don't know about yet.
-B: I get your concern, but the data we have so far shows that the vaccine is safe and effective. Plus, vaccinating them helps protect not just our kids but also those around them, especially the vulnerable.
+A: Absolutely, this is amazing. I've always wondered about the exact location of their house in 1938. Thank you for sharing this. I found my house in 1938. Very fascinating stuff :) This map really brings their story to life.
+B: It's fascinating, isn't it? There's so much history in these old documents. I'm happy I could help you uncover a piece of your family's past.",Thank you for sharing this. I found my house in 1938. Very fascinating stuff :),positive,2,"Yes, A was being positive. They expressed amazement and gratitude for the documents and the map, indicating that they found the information fascinating and valuable.",1,True,649
+61,"Turn 1
+A: ""So, I've been thinking about how we can streamline the initial loan application process. What if we integrate a more intuitive online form that guides users step-by-step and pre-fills some of their information based on their existing accounts?""
+
+B: ""That sounds fantastic, A! I love the idea of making it easier for our customers right from the start. It could really cut down on the time they spend filling out forms and reduce errors. Have you thought about how we might handle the data security aspects of this?""
 
 Turn 2
-A: True, but what if in a few years we find out there are side effects we didn't anticipate? I wouldn't call people chold abusers, but its fact that the long term effects of the vaccine are not known. Also fact that the jvci do not recommend it for kids, due to the risks of the vaccine I just want to be sure we're making the right decision for their future health.
-B: I understand, but we also have to consider the immediate risk of COVID-19 itself. The experts, including the JCVI, have weighed these risks and still recommend vaccination. I think we should trust their guidance.","I wouldn't call people chold abusers, but its fact that the long term effects of the vaccine are not known. Also fact that the jvci do not recommend it for kids, due to the risks of the vaccine",against,2,"Yes, A is expressing concerns and skepticism about the COVID-19 vaccine for kids, particularly focusing on the unknown long-term effects and citing the JCVI's recommendations as a reason for their apprehension.",1,True,997
-22,"Turn 1
-A: I've been wondering, with so many people vaccinated now, how effective have the government interventions been in controlling COVID-19 cases?
-B: It's interesting you ask. Recent data from several regions show that while vaccination has significantly reduced severe cases and hospitalizations, the effectiveness of interventions like mask mandates and social distancing still plays a crucial role in managing outbreaks, especially with new variants.
+A: ""Absolutely, B. Data security is a top priority. We could implement multi-factor authentication and ensure that all data is encrypted both in transit and at rest. Great! I hope we can make our loan system work better Plus, we can add real-time monitoring to detect any suspicious activity.""
+
+B: ""Perfect, that covers the security concerns well. I'm really excited about these changes. If we can get this right, it will not only improve customer satisfaction but also make our internal processes much more efficient. Let's start mapping out the implementation plan and get the team's input on this.""",Great! I hope we can make our loan system work better,positive,2,"Yes, A was being positive. A expressed enthusiasm about improving the loan system and addressed the security concerns effectively, showing optimism about the potential benefits of the proposed changes.",1,True,1136
+68,"Turn 1
+A: Sometimes I feel really isolated because I'm an atheist. It seems like everyone around me is religious, and it's hard to find people who understand my perspective.That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.
+B: I get that. It's actually the opposite for me. There are a lot of atheists in my area, and it's made a huge difference in my social life. I feel like I belong and can be myself without any judgment.
 
 Turn 2
-A: That makes sense. To me it's no longer about opposition, but the validity of Gov't intervention in the post vax-era. We will almost certainly see cases rise to similar levels in Victoria to NSW where there is no mandate, so people rightfully will question the purpose of further interventions. So, do you think these measures will continue to be necessary in the long term, even with high vaccination rates?
-B: Likely, yes. The data suggests that a combination of high vaccination coverage and targeted interventions can help keep the virus in check. It's a balancing act, but these strategies together seem to provide the best outcomes for public health.","To me it's no longer about opposition, but the validity of Gov't intervention in the post vax-era. We will almost certainly see cases rise to similar levels in Victoria to NSW where there is no mandate, so people rightfully will question the purpose of further interventions.",neutral,2,A's statement reflects a neutral stance as they are discussing the validity of government interventions based on observed data and potential outcomes. They are not expressing a strong opinion for or against the interventions but are instead considering the implications and public perception.,1,True,1124
-5,"Turn 1
-A: I heard everyone can get the COVID-19 vaccine at any location without any special requirements.
-B: Well, that's not always true. When I got vaccinated on a military base, I had to show my vaccine card and there were specific protocols compared to a place like Walgreens.
+A: That sounds amazing. I wish I had that kind of community. It must be nice to have friends who share your beliefs and experiences.
+B: It really is. Maybe you could try finding online groups or forums where you can connect with like-minded people. It might help you feel less alone.",That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.,positive,1,"A's statement ""That's sad. I'm 16 and where I am there are loads of atheists my age. It's great."" is actually a mix of empathy and positivity. A acknowledges the sadness of feeling isolated but then shares a positive personal experience to offer hope. So, A is being positive in the latter part of the statement.",1,True,748
+78,"Turn 1
+A: Oh my gosh, that cat just face-planted into the wall! How does it even manage that?I love this ahahah
+B: I know, right? It's like it forgot how to cat for a second. I can't stop laughing!
 
 Turn 2
-A: Oh, I didn't realize there were different rules for military bases. Not everyone can see all systems I got both of mines on a military base. That is why I had to show my vaccine card. So that is definitely not true so that I could get the vaccine at the Walgreens. I guess it makes sense they have stricter procedures.
-B: Yeah, exactly. It's a bit more controlled, but it ensures everything is properly documented and secure.",Not everyone can see all systems I got both of mines on a military base. That is why I had to show my vaccine card. So that is definitely not true so that I could get the vaccine at the Walgreens.,neutral,2,A's statement in Turn 2 clarifies their understanding of the different rules for military bases and acknowledges the stricter procedures. This indicates a neutral stance as A is neither expressing strong positive nor negative emotions but rather providing factual information.,1,True,717
-9,"Turn 1
-A: It's such a relief to have finally gotten the kids vaccinated here in the US. We're on holiday in the US, and have been able to get our kids their first jabs. Pity we can't have them done in the UK.  The UK has squandered its vaccination advantage.The process was so smooth and quick. I just wish it was the same back home.
-B: I can imagine. It's been really frustrating here. The delays and the lack of clear information are driving everyone crazy. I just want to get my kids protected as soon as possible.
+A: Seriously, I needed this laugh. Thanks for sharing it.
+B: Anytime! It's always more fun to watch these with you. We should do this more often.",I love this ahahah,positive,1,"Yes, A was being positive. The phrase ""I love this ahahah"" indicates that A is amused and enjoying the situation, which is a positive reaction.",1,True,351
+33,"Turn 1
+A: Remember that summer we spent working at the local ice cream shop? We had so much fun, and it felt like we didn't have a care in the world.
+B: Oh, absolutely! I can still taste those free sundaes we made for ourselves after closing. Life was so much simpler back then.
 
 Turn 2
-A: I know, it's so disheartening. I was really worried before we came here, but now I feel a bit more at ease. I hope things improve soon in the UK.
-B: Me too. Fingers crossed they get their act together soon. It's just hard to stay patient when it's about our kids' health.","We're on holiday in the US, and have been able to get our kids their first jabs. Pity we can't have them done in the UK.  The UK has squandered its vaccination advantage.",favoring,1,"A was expressing relief and satisfaction with the vaccination process in the US, while also expressing disappointment with the situation in the UK. This indicates a preference for the US system in this context.",1,True,800
-52,"Turn 1
-A: I've been thinking about writing a review for the company newsletter about my experience with the COVID-19 vaccine. Do you have any tips on how to approach it?
-B: Definitely! I'd suggest focusing on your personal experience and how you felt during the process. Just make sure to avoid any accusatory or instructive comments to keep it neutral and factual.
+A: Yeah, and we didn't have to worry about bills or deadlines. Before all of the BS lol Just hanging out, making a little money, and enjoying the sunshine.
+B: Exactly. Now it's all about juggling work, responsibilities, and trying to find time for ourselves. Those were the days, weren't they?",Before all of the BS lol,positive,2,"Yes, A was being positive. A was reminiscing about the carefree and enjoyable times they had working at the ice cream shop, highlighting the simplicity and fun of those days compared to their current responsibilities.",1,True,580
+50,"Turn 1
+A: Hey B, have you had any issues with the software lately?
+B: Not recently. There was a glitch about a month ago, but it got fixed pretty quickly.
 
 Turn 2
-A: That makes sense. The first rule of reviewing a product or service is to never ""warn"" people. Never make accusations. Give no instructions to the reader. Just relate your exact experience without any additional commentary. ""This is what happened to me."" It's a vaccination against libel suits.I want to share how relieved I felt after getting vaccinated, but I don't want to come off as pushing others to do the same.
-B: Exactly. You can talk about your relief and any side effects you experienced, but frame it as your own story. That way, it's informative without being directive.","The first rule of reviewing a product or service is to never ""warn"" people. Never make accusations. Give no instructions to the reader. Just relate your exact experience without any additional commentary. ""This is what happened to me."" It's a vaccination against libel suits.",neutral,2,"Yes, A was being neutral. A emphasized the importance of sharing personal experiences without making accusatory or instructive comments, which aligns with maintaining a neutral and factual tone.",1,True,959
-58,"Turn 1
-A: It's so frustrating to see how slow the vaccination rollout is in developing countries. It's like we're not learning from past mistakes.
-B: I know, right? I read that the Defense Production Act could really ramp up vaccine production. It's a step in the right direction, but is it enough?
+A: Oh, that's good to hear. Yes had the problem a month or so ago but has since gone away What was the problem?
+B: It was a bug that caused some data to not save properly, but the update they pushed out took care of it.",Yes had the problem a month or so ago but has since gone away,neutral,2,"A's statement ""Yes had the problem a month or so ago but has since gone away"" is factual and does not convey any particular emotion or bias. It simply acknowledges the issue and its resolution.",1,True,382
+73,"Turn 1
+A: Thanks for explaining all that, B. It sounds like this software could really streamline our work. Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it? How much space does it need for installation?
+B: You're welcome, A! The software requires about 2 GB of free space. Do you think your system can handle that?
 
 Turn 2
-A: Exactly. We need more decisive action. President Biden should hold companies like Moderna accountable to ensure they prioritize global distribution, not just profit. I just wrote a  letter: TELL PRESIDENT BIDEN TO UTILIZE THE DEFENSE PRODUCTION ACT TO HOLD MODERNA ACCOUNTABLE AND VACCINATE THE WORLD. Write one here:
-B: Absolutely. If we don't push for that accountability, the inequities will just keep growing. We need to make our voices heard on this.",I just wrote a  letter: TELL PRESIDENT BIDEN TO UTILIZE THE DEFENSE PRODUCTION ACT TO HOLD MODERNA ACCOUNTABLE AND VACCINATE THE WORLD. Write one here:,favoring,2,"Yes, A was favoring the idea of holding Moderna accountable and utilizing the Defense Production Act to ensure global vaccine distribution. A's statement shows support for decisive action and accountability.",1,True,765
-236,"Turn 1
-A: I really think getting vaccinated is crucial, especially with how unpredictable COVID-19 can be. It's not just about us; it's about protecting everyone around us.
-B: I get that, but I believe a strong immune system and a healthy lifestyle are enough to keep us safe. Vaccines just seem unnecessary to me.
+A: I think so, but I'll double-check to be sure. Is there anything else I should be aware of before installing it?
+B: Just make sure your operating system is up to date and you have a stable internet connection for the initial setup. Other than that, you should be good to go!",Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?,positive,1,"Yes, A was being positive. A expressed gratitude and appreciation for the explanation provided by B, indicating a positive and enthusiastic attitude towards the software.",1,True,669
+3,"Turn 1
+A: Did you hear about the new update in our game? They added a whole new dungeon and the difficulty has been ramped up!
+B: Really? That sounds awesome! I've been on a break, but this might just be the push I needed to dive back in.
 
 Turn 2
-A: I understand where you're coming from, but even healthy people have been severely affected by COVID-19. My associate buddy is anti-vax and it's bothering me cuz it is. I get the counter argument (live a healthier lifestyle) but this covid don't care and I don't know how to convey that to them.The vaccine adds an extra layer of protection that we can't get from lifestyle alone.
-B: I see your point. Maybe I should look into it more and consider the benefits beyond just my own health.",My associate buddy is anti-vax and it's bothering me cuz it is. I get the counter argument (live a healthier lifestyle) but this covid don't care and I don't know how to convey that to them.,favoring,2,"Yes, A was favoring vaccination. A expressed concern about their associate's anti-vax stance and emphasized the importance of vaccination as an additional layer of protection against COVID-19, beyond just a healthy lifestyle.",1,True,812
-60,"Turn 1
-A: I can't believe we have to get another booster shot before we can go back to classes. It's so frustrating!
-B: I know, right? I mean, how many of these shots are we supposed to get? Plus, I'm not even sure how necessary they are for people our age. 
+A: You should definitely check it out. Triggered:: Welp guess it's time for me to re-up lolThe new boss is insane, and the loot drops are totally worth it.
+B: Alright, you've convinced me. Time to dust off my gear and jump back into the action!",Triggered:: Welp guess it's time for me to re-up lol,positive,2,"Yes, A was being positive. A was expressing excitement about the new update and encouraging B to check it out, which indicates a positive sentiment.",1,True,491
+74,"Turn 1
+A: ""B, we need to talk. I've noticed you've been leaving dirty dishes and food scraps around the apartment for days. It's attracting pests and the smell is unbearable. You're disgusting Can you please clean up after yourself?""
+B: ""I'm really sorry, A. I've been swamped with work and just haven't had the time. I didn't realize it had gotten that bad.""
 
 Turn 2
-A: Exactly! I feel like they're not considering the low risk for young, healthy students. Most if not all colleges mandated the double vaccine, now they are mandating the booster before being allowed back from winter break  We need to stand up  This is not even FDA approved  20 year olds are not at risk! It's like they're just making us jump through hoops.
-B: Totally. Maybe we should start talking to other students and see if we can push back on this. There has to be a better way to handle it.","Most if not all colleges mandated the double vaccine, now they are mandating the booster before being allowed back from winter break  We need to stand up  This is not even FDA approved  20 year olds are not at risk!",against,2,"Yes, I agree. A is expressing frustration and opposition to the requirement of getting another booster shot, especially for young, healthy students. A mentions that the booster is not FDA approved and implies that the risk for 20-year-olds is low, suggesting that A believes the mandate is unnecessary and excessive.",1,True,765
-205,"Turn 1
-A: I just don't trust the COVID-19 vaccine. I've heard too many stories about people having severe side effects or even dying after getting it. I know 2 young adult sisters that got GBS , my cousin got blood clots, a fellow teacher died, son of a friend had heart attack and died, there's many suffering vaccine injury and death. It's just hidden. My cousin's friend ended up in the hospital a week after his shot.
-B: That sounds really concerning. Do you know if they had any underlying health conditions or if there were other factors involved?
+A: ""I understand you're busy, but this is a shared space and we both need to keep it livable. Can we agree on a system to make sure this doesn't happen again?""
+B: ""Absolutely. I'll make it a priority to clean up right after eating, and maybe we can set up a cleaning schedule to keep things in check. Thanks for bringing it up.""",You're disgusting,negative,1,"Yes, I agree. A's statement ""You're disgusting"" is a negative and harsh comment directed at B, which indicates a negative sentiment.",1,True,696
+25,"Turn 1
+A: I'm glad I could help you with finding out how to check your court date. If you have any other questions, feel free to ask.Thank you! I call on Monday to find out when I have court
+B: Thank you so much! I really appreciate it. I'll make sure to call on Monday to get the specific details.
 
 Turn 2
-A: I'm not sure about all the details, but it just seems like too much of a risk. I feel like the government is pushing it too hard without addressing these issues.
-B: I understand your worries. It's important to consider all the information. Have you looked into what health experts are saying about the risks versus the benefits?","I know 2 young adult sisters that got GBS , my cousin got blood clots, a fellow teacher died, son of a friend had heart attack and died, there's many suffering vaccine injury and death. It's just hidden.",against,1,"Yes, I agree. A is expressing significant concerns and distrust about the COVID-19 vaccine, citing multiple instances of severe side effects and deaths that they believe are related to the vaccine. This indicates a stance against the vaccine.",1,True,893
-5,"Turn 1
-A: It's fascinating to think about how people in 1918 would have reacted to having a COVID-19 vaccine. They faced such a devastating pandemic without the medical advancements we have today.
-B: Absolutely. The rapid development of the COVID-19 vaccine is a testament to how far we've come. Understanding the struggles of the past really puts our current achievements into perspective.
+A: You're welcome! Just make sure to have your case number handy when you call. It will make the process quicker.
+B: Got it, I'll have it ready. Thanks again for your assistance. Have a great day!",Thank you! I call on Monday to find out when I have court,positive,1,"Yes, A was being positive. A expressed gratitude and acknowledged the help received, indicating a positive sentiment.",1,True,503
+20,"Turn 1
+A: I just don't get why you're settling for this temporary job, B. It doesn't offer any long-term security, and you deserve better.
+B: I understand your concern, A, but this job gives me immediate income and valuable experience. Plus, it's a stepping stone to something bigger.
 
 Turn 2
-A: Exactly. The historical context shows us the importance of scientific progress and public health measures. This happened only 25 years after the 1918 pandemic, so I'm sure they would be very understanding. They would be very happy that there is a protective vaccine for all available unavailable for their grandparents, parents,uncles, aunts, brothers and sisters . Imagine the lives that could have been saved back then with a vaccine.
-B: Indeed. It's a reminder of why we need to continue supporting and trusting in medical science. Learning from history helps us appreciate and utilize these advancements to their fullest potential.","This happened only 25 years after the 1918 pandemic, so I'm sure they would be very understanding. They would be very happy that there is a protective vaccine for all available unavailable for their grandparents, parents,uncles, aunts, brothers and sisters .",favoring,2,"Yes, A was favoring the idea that people from the past would appreciate the advancements in medical science, particularly the availability of a COVID-19 vaccine. A expressed a positive sentiment towards the progress made and the potential impact it could have had on saving lives.",1,True,1037
-80,"Turn 1
-A: I just don't get why people are so hesitant about getting their booster shots. If we all complete the booster program, we can finally put an end to this pandemic.
-B: I understand your frustration, but do we really need more boosters? I mean, how many shots are enough?
+A: But what if you get stuck in a cycle of temporary gigs? Borrowed time is stupidYou need stability and a clear path forward.
+B: I hear you, but right now, this job is helping me build my skills and network. It's a calculated risk, and I'm confident it will pay off in the long run.",Borrowed time is stupid,negative,2,"Yes, A was being negative. A expressed concerns about the lack of long-term security and stability in B's temporary job, and the phrase ""Borrowed time is stupid"" further emphasizes A's negative view on the situation.",1,True,576
+15,"Turn 1
+A: I can't believe it, B. I just found out I didn't pass the exam. I studied so hard for it, and now it feels like all that effort was for nothing.
+B: Oh no, A! I'm so sorry to hear that. I know how much this meant to you. Are you okay? This must be really tough.
 
 Turn 2
-A: The virus keeps mutating, and boosters are our best defense against new variants. After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise. It's not ideal, but it's necessary to keep everyone safe.
-B: I see your point. I guess if it helps us get back to normal, it's worth considering.",After the booster programme is finished I said. We have to or there's no end to it. What was the vaccine for if not to end it all? No sorry you can't convince me otherwise.,favoring,2,"Yes, A was favoring the booster shots. A strongly believes that completing the booster program is essential to ending the pandemic and keeping everyone safe.",1,True,690
+A: Honestly, I'm devastated. I thought I had it in the bag, but now I just feel like a failure. Holy shit bro What am I going to do now?
+B: You're not a failure, A. This is just a setback, not the end. We'll figure out a plan together. Maybe there's a way to retake the exam or explore other options. You're stronger than you think.",Holy shit bro,negative,2,"Yes, I agree that A was being negative. A expressed feelings of devastation and self-doubt, indicating a negative emotional state.",1,True,611
+55,"Turn 1
+A: Ugh, this hunting game is driving me nuts! The character keeps saying I'm missing my shots, but I swear I'm hitting the targets. He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!
+B: That sounds frustrating. Maybe there's a glitch or something? Have you checked if there's an update or patch available?
+
+Turn 2
+A: Yeah, I thought of that. I even recalibrated my controller, but it's still off. It's like the game isn't recognizing my efforts at all.
+B: That's really annoying. Maybe you could try reaching out to the game's support team? They might have a solution or at least acknowledge the issue.",He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!,negative,1,"Yes, A was being negative. They expressed frustration and self-criticism about their performance in the game, indicating a negative sentiment.",1,True,665

@@ -1,143 +1,147 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-226,"Turn 1
-A: Hey B, I saw a tweet about a COVID-19 treatment involving multiple pills. It mentioned something about combining antivirals and steroids. Do you know anything about this?
-
-B: Hi A, yes, there have been some discussions and studies about using a combination of medications to treat COVID-19. However, the most effective and widely recommended approach remains vaccination. The vaccines have shown to significantly reduce severe illness and hospitalization.
-
-Turn 2
-A: That makes sense. I guess it's easy to get confused with all the information out there. Please help me understand ,this tweet refers to ""a ""pill others  talk about six pills three twice  a day for five days or total 30  Are treatment recommendations becoming a shaggy dog story? So, the focus should still be on getting vaccinated and following the guidelines, right?
-
-B: Absolutely. While treatments are important, prevention through vaccination is our best defense. It's crucial to stay updated with reliable sources and continue encouraging vaccination among our patients.","Please help me understand ,this tweet refers to ""a ""pill others  talk about six pills three twice  a day for five days or total 30  Are treatment recommendations becoming a shaggy dog story?",neutral,2,"Yes, I agree. A is seeking clarification and trying to understand the information they came across. They are not expressing a strong opinion or emotion, just asking for help to make sense of the tweet.",1,True,1052
-93,"Turn 1
-A: I can't believe Trump is endorsing the vaccine now. It feels like a complete betrayal of everything we've been skeptical about.
-B: I get where you're coming from, but maybe he's seen some new evidence or has a different perspective now. We should try to understand his reasoning before jumping to conclusions.
+7,"Turn 1
+A: ""You know, if coffee were a person, it would definitely be the life of the party.""
+B: *laughs* ""Oh, absolutely! And probably the one keeping everyone awake till 3 AM with endless stories.""
 
 Turn 2
-A: But we've always been wary of Big Pharma and their motives. BIG QUESTION  I had to vote yes.   Why is Pres Trump promoting This?    If he does not denounce this he loses half or more of his base supporters.  We're not a cult that follows blindly!!  Time to Stand against pharma.This just doesn't sit right with me.
-B: I hear you, but maybe it's worth considering that he believes this is the best way to protect people. Let's look into it more and see if there's something we're missing.",BIG QUESTION  I had to vote yes.   Why is Pres Trump promoting This?    If he does not denounce this he loses half or more of his base supporters.  We're not a cult that follows blindly!!  Time to Stand against pharma.,against,2,"Yes, A is expressing strong opposition to Trump's endorsement of the vaccine, indicating a sense of betrayal and a call to stand against Big Pharma.",1,True,818
-160,"Turn 1
-A: Have you noticed how the COVID-19 cases have dropped significantly in Alberta since they started enforcing vaccine passports and mandatory indoor masking?
-B: Yeah, I saw the numbers, but I'm still not entirely convinced. How do we know it's really because of those measures?
+A: ""Yeah, and then blaming everyone else for being tired the next day. Lmao. Fuck, you got me good.""
+B: *still chuckling* ""Sounds like someone we know... Oh wait, that's you after our last movie marathon!""","Lmao. Fuck, you got me good.",positive,2,"Yes, A was being positive. The use of ""Lmao"" (Laughing My Ass Off) and ""Fuck, you got me good"" indicates that A found B's comment funny and is enjoying the playful banter.",1,True,412
+64,"Turn 1
+A: Remember that website we used to visit all the time in college? The one run by that quirky guy, what was his name again?
+B: Oh, you mean ""Crazy Carl's Corner""? How could I forget! That site was a riot. Carl had the most bizarre sense of humor.
 
 Turn 2
-A: Well, public health data shows a clear correlation. Here in Alberta we went 22000 cases and having to call in the army to help our hospitals down to 4000 cases with the only changes being a vaccine passport plus mandatory indoor masking. When they implemented these measures, the transmission rates started to decline. Plus, other regions with similar policies have seen the same trend.
-B: I guess that makes sense. It's just hard to wrap my head around how much of an impact these measures can have. But if the data supports it, maybe there's something to it.",Here in Alberta we went 22000 cases and having to call in the army to help our hospitals down to 4000 cases with the only changes being a vaccine passport plus mandatory indoor masking.,favoring,2,"Yes, A was favoring the measures of vaccine passports and mandatory indoor masking. A provided specific data and examples to support the effectiveness of these measures in reducing COVID-19 cases.",1,True,856
-134,"Turn 1
-A: Oh, you're getting your booster shot soon? I had COVID a few months ago, and it wasn't too bad for me. I just focused on staying healthy, and I think that's enough to avoid getting really sick.
-B: Yeah, I remember you mentioning that. I'm just worried because cases are going up again, and I want to be as protected as possible.
+A: Yes, that's the one! I still laugh thinking about his ""Daily Wacky Wisdom"" posts. They were so random but somehow always made my day. Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair.
+B: Absolutely! And his homemade GIFs were legendary. It's amazing how much the internet has changed since then. Those were such simpler times.","Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair.",positive,2,"The statement ""Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair."" appears to be a bit jumbled and unclear. However, the overall context of the conversation is nostalgic and positive, reminiscing about the fun and quirky aspects of ""Crazy Carl's Corner."" Despite the unclear sentence, A's tone throughout the conversation is positive.",1,True,660
+59,"Turn 1
+A: ""You know, if procrastination were an Olympic sport, I'd probably start training for it tomorrow.""
+B: *bursts into laughter* ""Oh, absolutely! And I'd be right there with you, cheering you on from the couch!""
 
 Turn 2
-A: I get that. I guess everyone has to do what makes them feel safest. I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about For me, keeping up with exercise and a good diet has worked so far.
-B: Absolutely, staying healthy is important. I just feel like the booster gives me that extra layer of security, especially with the new variants around.",I said that too then got Covid and it barely did anything to me and I'm still not gonna get the vax so you're objectively wrong here. If you take care of yourself you literally have nothing to worry about,against,2,"Yes, I agree. A's statement ""I'm still not gonna get the vax so you're objectively wrong here"" indicates a clear stance against getting vaccinated, suggesting that A believes personal health measures alone are sufficient.",1,True,844
-66,"Turn 1
-A: I heard about people who participated in the early clinical trials for the COVID-19 vaccines. It's interesting to think about their motivations.
-B: Yeah, I'm curious. What made them decide to join those trials?
+A: ""We'd make quite the team. Our motto could be 'Why do today what you can put off until the last possible minute?'Lmao, your joke did not go unnoticed to me!""
+B: *grinning* ""Exactly! And our team uniform would be pajamas, because who needs real clothes when you're a professional procrastinator?""","Lmao, your joke did not go unnoticed to me!",positive,2,"Yes, A was being positive. A acknowledged B's joke and responded with humor and enthusiasm, indicating that they appreciated the joke and were enjoying the playful banter.",1,True,524
+77,"Turn 1
+A: Hey B, I just wanted to say thanks again for your help with that software issue. Your troubleshooting tips really did the trick!
+B: No problem at all, A! I'm glad to hear it worked out. What was the exact issue in the end?
 
 Turn 2
-A: Well, I read about one person who was really confident in the science behind the vaccine. Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine. They believed it was crucial to help end the pandemic and wanted to contribute to the solution.
-B: That makes sense. It's admirable that they were willing to take that step for the greater good.","Before the U.S. had approved any COVID-19 vaccines for the general public, Brianne Dressen was so confident in their success that she enrolled herself in a U.S. clinical trial. On Nov. 4, 2020, she received her first dose of the AstraZeneca vaccine.",neutral,2,A was providing factual information about Brianne Dressen's participation in the clinical trial and her motivations. There was no indication of personal bias or emotional tone in A's statement.,1,True,766
+A: It turned out to be a configuration error in the settings. Thank you so much. I fixed it Once I adjusted it based on your advice, everything started running smoothly.
+B: That's great to hear! Those configuration issues can be tricky sometimes. If you run into any more problems, feel free to reach out.",Thank you so much. I fixed it,positive,2,"Yes, A was being positive. A expressed gratitude and satisfaction with the resolution of the issue, indicating a positive outcome and appreciation for B's help.",1,True,546
+5,"Turn 1
+A: I can't believe this. We put so much effort into this project, and the results are just... terrible. Fuuuuuck. That's the worst I've seen. What went wrong?
+B: I know, it's really disappointing. But let's take a step back and figure out where things might have gone off track. Maybe we missed something in our initial analysis or there was an unexpected variable we didn't account for.
+
+Turn 2
+A: It's just so frustrating. We double-checked everything, and it still didn't work out. I feel like we let everyone down.
+B: I get it, I feel the same way. But beating ourselves up won't help. Let's focus on identifying the issues and coming up with a plan to address them. We can still turn this around if we learn from our mistakes and make the necessary adjustments.",Fuuuuuck. That's the worst I've seen.,negative,1,"Yes, A was expressing frustration and disappointment about the project's results, which indicates a negative sentiment.",1,True,773
+49,"Turn 1
+A: Did you see the photo I posted of the new park renovation? They added a whole new section with a fountain and some benches.I didn't realise this was happening! Thank you! It was hard to tell from OPs photo what the changes were
+B: Oh wow, I saw the photo but didn't realize those were new additions! Thanks for pointing that out, I totally missed it.
+
+Turn 2
+A: Yeah, it's pretty subtle unless you know what to look for. The fountain is really beautiful, especially at night with the lights.
+B: That sounds amazing! I'll have to check it out in person. Thanks for explaining, I wouldn't have appreciated it as much otherwise.",I didn't realise this was happening! Thank you! It was hard to tell from OPs photo what the changes were,positive,1,"Yes, A was being positive. A expressed gratitude and appreciation for the information provided by B, indicating a positive sentiment.",1,True,635
+78,"Turn 1
+A: Remember that time we tried to bake a cake for your birthday, and it ended up looking like a science experiment gone wrong?
+B: Oh my gosh, yes! I still can't believe we thought adding extra baking powder would make it rise faster. It was like a volcano in the oven!
+
+Turn 2
+A: And then we tried to salvage it by covering the whole thing in frosting, but it just made it look like a frosted disaster. lmao I love this, I love speaking nonsense to myself as well
+B: Hey, at least it tasted good! Well, sort of. But the best part was when we just gave up and ordered pizza instead. That was a fun night.","lmao I love this, I love speaking nonsense to myself as well",positive,2,"Yes, A was being positive. The phrase ""lmao I love this"" indicates that A is amused and enjoying the memory of the situation, even though it was a bit of a disaster. The use of ""I love speaking nonsense to myself as well"" suggests that A finds humor and joy in reminiscing about the past event.",1,True,610
+43,"Turn 1
+A: ""B, I have to be honest, your idea seems quite far-fetched. I doubt the higher-ups will even entertain it, given how unconventional it is.""
+B: ""I understand your concerns, A, but I believe this approach could really set us apart from our competitors. Sometimes, innovation requires stepping out of our comfort zone.""
+
+Turn 2
+A: ""Innovation is one thing, but we need to be realistic. We have limited resources and can't afford to gamble on something that might not get any support. Unfortunately for you, no one of importance cares about your absurd views. ""
+B: ""I hear you, but I think it's worth presenting all options. If we can back it up with solid data and a clear plan, we might just convince them to take a chance on it.""","Unfortunately for you, no one of importance cares about your absurd views.",negative,2,"Yes, I agree. A's statement ""Unfortunately for you, no one of importance cares about your absurd views."" is dismissive and negative towards B's idea, indicating a lack of support and respect for B's perspective.",1,True,738
 73,"Turn 1
-A: I can't believe they're forcing us to get vaccinated. It feels like such an overreach. Who's to say this isn't just a way for the government and big pharma to make more money?
-B: I get where you're coming from, A. It's a big change, and it's natural to have concerns. But I think the vaccine is crucial for keeping everyone safe and getting back to normal.
+A: ""So, you remember how Mark always insists he's a terrible dancer? Well, at the party, he suddenly jumped up and started doing this wild, interpretive dance in the middle of the living room!""
+B: ""No way! Mark? The guy who claims he has two left feet? That's hilarious! I bet everyone was in stitches.""
 
 Turn 2
-A: But what about our personal freedoms? Shouldn't we have the right to choose what goes into our bodies? Spoken like Hitler.  We will not comply.  You've clearly overstepped your authority and we the people will exercise our Constitutional Right to fight against a tyrannical government with the sole interest to get rich off vax kickbacks.
-B: Absolutely, personal choice is important. But in this case, I think it's about balancing individual rights with public health. The more people vaccinated, the safer our community becomes.",Spoken like Hitler.  We will not comply.  You've clearly overstepped your authority and we the people will exercise our Constitutional Right to fight against a tyrannical government with the sole interest to get rich off vax kickbacks.,against,2,"Yes, A was expressing strong opposition to the idea of mandatory vaccinations, indicating a belief that it infringes on personal freedoms and suggesting a distrust of the government's motives.",1,True,907
-132,"Turn 1
-A: You know, the new vaccine mandate at our company was the final straw for me. I just couldn't agree with it, so I decided to resign. My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th.
-B: Wow, that's a big decision. What specifically about the mandate made you feel that way?
+A: ""Oh, absolutely! And the best part was when he tried to incorporate some kind of dramatic twirl and nearly knocked over the punch bowl. What a nutbar lol It was like watching a comedy sketch.""
+B: ""I can totally picture that! Mark always manages to surprise us. I love how he just goes for it, no matter how goofy it might seem.""",What a nutbar lol,positive,2,"Yes, A was being positive. The term ""nutbar"" is used here in a playful and affectionate manner, indicating that A found Mark's actions amusing and endearing rather than criticizing him.",1,True,650
+6,"Turn 1
+A: ""So, as you can see, the plan outlines a comprehensive strategy to achieve our targets within the next quarter. What do you think?""
+B: ""The goals are clear, but I'm curious about the methods you've chosen. Do you believe they're as crucial as the objectives themselves?""
 
 Turn 2
-A: It felt like my personal choice was being taken away. I understand the health concerns, but I believe in having the freedom to make my own medical decisions.
-B: I get that. My company is considering a similar policy, and it's causing a lot of debate. It's tough to balance public health and individual rights.","My job sent out communication nov 15 stating that by dec 3rd we had to state our vax status, nothing more, nothing would change. Yesterday they said that on dec 27th unvaxxed wouldn't be allowed on premises. I didnt comply and resigned, last day of work jan 20th.",against,1,"Yes, I agree. A's statement clearly indicates opposition to the vaccine mandate. A mentions feeling that their personal choice was being taken away and ultimately decided to resign because of the mandate.",1,True,817
-146,"Turn 1
-A: The FNHA emphasized that Indigenous communities are prioritized for the COVID-19 vaccine because they often face higher risks due to pre-existing health disparities and limited access to healthcare services.
-B: That makes sense. So, it's not just about the immediate risk of the virus, but also addressing long-standing health inequities?
+A: ""Absolutely. The methods are meticulously designed to ensure we not only meet but exceed our goals. Nope, my current response is that both the means and the ends are independently justified on their own accords. Each step is backed by data and best practices, making the project robust from every angle.""
+B: ""That sounds reassuring. If the approach is as solid as you say, then I have confidence in moving forward with this proposal.""","Nope, my current response is that both the means and the ends are independently justified on their own accords.",positive,2,"Yes, A was being positive. Despite the use of ""Nope,"" A's overall message is affirming the robustness and justification of both the methods and the objectives. A emphasizes that each step is backed by data and best practices, which reassures B about the plan's solidity.",1,True,726
+103,"Turn 1
+A: ""So, looking at the survey results, it's clear that there are some areas where the team feels we could improve. But I think it's important to view this feedback collectively rather than focusing on individual comments. Again, overall, not just for me.  It gives us a better sense of the overall team sentiment.""
+
+B: ""I see what you mean. If we focus too much on specific comments, we might miss the bigger picture. But how do we address the more critical feedback without singling anyone out?""
 
 Turn 2
-A: Exactly. By prioritizing these communities, we can help mitigate the impact of the pandemic and support their overall health resilience. I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe.
-B: I see. It's a more holistic approach to public health, ensuring that vulnerable populations are protected and supported.",I think that may be bc it's within or near an Indigenous community. When I interviewed FNHA they said they'd vax anyone in Indigenous communities to keep the communities safe.,neutral,2,"Yes, I agree. A's statement is factual and informative, providing additional context about the FNHA's vaccination strategy without expressing a personal opinion or bias.",1,True,796
-50,"Turn 1
-A: I was talking to this woman the other day who had really strong opinions about the vaccine. She had lingering symptoms from COVID-19 and felt the vaccine was unnecessary for her.
-B: That's interesting. I've heard a lot of different takes on it. Some people I know are really pro-vaccine, while others are more hesitant. It's such a mixed bag.
+A: ""Good point. I think we can address the critical feedback by identifying common themes. For example, if multiple people mention communication issues, we can work on improving our communication strategies as a team. This way, we address the concerns without making it about any one person.""
+
+B: ""That makes sense. We can highlight those themes when we present to the manager and propose some actionable steps. It shows that we're taking the feedback seriously and looking for solutions that benefit everyone.""","Again, overall, not just for me.",neutral,1,"Yes, I agree. A was emphasizing the importance of viewing the feedback collectively and not focusing on individual comments, which indicates a neutral and inclusive approach.",1,True,1023
+44,"Turn 1
+A: I've been really worried lately. My memory seems to be getting worse, and I can't help but think it's because of all those late nights and stress from work. I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time.
+B: I hear you, that sounds tough. It's good that you're aware of it, though. Have you thought about trying some memory exercises or maybe even talking to a professional about it?
 
 Turn 2
-A: Yeah, exactly. It seems like everyone's experience with COVID-19 and the vaccine is so personal. I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell. She was convinced her natural immunity was enough, but I know others who swear by the vaccine because it gave them peace of mind.
-B: It really shows how varied our experiences can be. I think it's important to listen to all these stories to get a full picture of what's going on.","I met a woman from San Diego last Oct who believed there were microchips in the vax and said it was ""political"" and disclosed she got Covid Thanksgiving 2020 and still can't taste or smell.",neutral,2,"Yes, I agree. A was being neutral. A simply shared an anecdote about a woman they met who had strong opinions about the vaccine and her personal experience with COVID-19. A did not express any judgment or personal opinion about the woman's beliefs or experiences.",1,True,930
-45,"Turn 1
-A: You know, B, I've been thinking a lot about how much this pandemic has affected us all. Losing my uncle to COVID-19 was really tough, especially knowing he wasn't vaccinated. It's made me more passionate about the vaccine's importance.
-B: I'm really sorry about your uncle, A. I understand why you feel so strongly. I just can't shake off my worries about the side effects and all the conflicting information out there.
+A: Yeah, I've considered it, but I'm not sure where to start. I just feel so overwhelmed sometimes.
+B: I get that. Maybe start small, like with some brain games or puzzles. And don't forget to take breaks and relax. Sometimes just reducing stress can make a big difference.",I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time.,negative,1,"Yes, I agree. A's statement about having the worst memory ever and attributing it to stress, late nights, and possibly weed use indicates a negative outlook on their current situation.",1,True,744
+38,"Turn 1
+A: You know, my dog Max has this hilarious habit of bringing me one of my socks every morning. It's like his way of saying good morning!
+B: That's so cute! My cat Luna does something similar. She always brings me one of her toys and drops it at my feet when she wants to play. It's like she's saying, ""Hey, it's playtime!""
 
 Turn 2
-A: I get it, B. It's completely normal to have concerns. I want to say this in the most gentle way possible. I understand why you might be hesitant to get the Covid vaccine.I've lost several people to COVID. NONE of them were vaccinated. They were hesitant for all the same reasons you probably are. They sacrificed their lives for that What helped me was talking to my doctor and looking at reliable sources. The side effects are usually mild and temporary, and the protection it offers is worth it. I just want you to be safe.
-B: Thanks, A. I appreciate you sharing that. Maybe I'll look into it more and talk to my doctor too. It's good to hear your perspective.",I want to say this in the most gentle way possible. I understand why you might be hesitant to get the Covid vaccine.I've lost several people to COVID. NONE of them were vaccinated. They were hesitant for all the same reasons you probably are. They sacrificed their lives for that,favoring,2,"Yes, I agree. A was favoring the COVID-19 vaccine and advocating for its importance. A shared personal experiences and emphasized the consequences of not being vaccinated to gently persuade B to consider getting vaccinated.",1,True,1103
-190,"Turn 1
-A: I just can't believe they're pushing these vaccine mandates so hard. It's like they're not even considering personal choice anymore.
-B: Yeah, it's definitely a hot topic. I can see why people are divided on it. Have you been keeping up with the latest college games to take your mind off things?
+A: Oh, that's adorable! It's amazing how they find their own little ways to communicate with us. Max also loves to nudge me with his nose when he wants attention. Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist It's hard to ignore him when he does that.
+B: I know what you mean! Luna has this way of staring at me with those big eyes until I give in and start playing with her. Pets really do have a special way of making us feel loved, don't they?",Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist,positive,2,"Yes, A was being positive. A is sharing a light-hearted and affectionate anecdote about their dog Max and how he communicates, and then agrees with B's similar experience with their cat Luna. The tone is friendly and appreciative of their pets' behaviors.",1,True,819
+16,"Turn 1
+A: Ugh, I can't believe I missed that concert ticket sale! I was so excited to go, but by the time I found out, they were all sold out.
+B: Oh no, that's so frustrating! I know how much you were looking forward to it. Maybe there's still a chance to get tickets from resellers?
 
 Turn 2
-A: Absolutely, college sports have been my saving grace. It's the one thing that feels normal these days. College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous. But even there, they're starting to enforce vaccine requirements for players and fans. It's frustrating.
-B: I get that. It's tough when your escape starts to get tangled up in all the same issues. Hopefully, we can find a balance that respects everyone's concerns.",College football and basketball is all I watch anymore. These people are ass holes. They are trying to take us to our knees and we won't give in. Don't get the vax it's dangerous.,against,2,"Yes, I agree. A is expressing strong opposition to vaccine mandates and is advising against getting vaccinated, indicating a clear stance against the mandates.",1,True,864
-247,"Turn 1
-A: I've been thinking about how we can address the concerns of those who are hesitant about mRNA vaccines. I've been promoting this vaccine for vaccine hesitant ppl right here in the u.s. bc it is natural vegan protein based from yeast. Instead of the mrna technology. This kind of vaccine has been used for over 40 yrs don't you think these anti vaxxers would be more open to it???? What if we promote the natural, vegan, protein-based vaccine as an alternative? It might resonate better with certain groups.
-B: That's an interesting idea. I've noticed in the data that a significant portion of the hesitant population is concerned about the ingredients and the technology behind mRNA vaccines. Highlighting a more natural option could indeed make a difference.
+A: I checked, but the prices are insanely high now. It's just my luck, you know? Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late This keeps happening to me. I missed that flash sale on those shoes I wanted last week too.
+B: I get it, it feels like everything is slipping through your fingers. Maybe you could set up alerts or reminders for these things? It might help you catch them in time next time.",Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I'm only like a day late,negative,2,"Yes, I agree. A's statement ""Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I’m only like a day late"" expresses frustration and negativity about consistently missing out on opportunities.",1,True,724
+82,"Turn 1
+A: Hey, check out that jacket on the mannequin! It looks cool, i want it now. looks really cool.
+B: Oh wow, I've been searching for a jacket like that! I need to try it on right now.
 
 Turn 2
-A: Exactly. We could focus our outreach on educating people about the benefits and safety of the protein-based vaccine, emphasizing its natural and vegan aspects. This might help alleviate some of their fears.
-B: I agree. I'll start analyzing the data to identify the demographics most likely to respond positively to this approach. We can then tailor our messaging to those specific groups.",I've been promoting this vaccine for vaccine hesitant ppl right here in the u.s. bc it is natural vegan protein based from yeast. Instead of the mrna technology. This kind of vaccine has been used for over 40 yrs don't you think these anti vaxxers would be more open to it????,favoring,1,"Yes, A was favoring the natural, vegan, protein-based vaccine over the mRNA technology. A believes that this type of vaccine, which has been used for over 40 years, might be more acceptable to vaccine-hesitant individuals.",1,True,1169
-27,"Turn 1
-A: I just got my COVID-19 vaccine, but I'm still worried about exposure, especially since my cousin, who has the flu, plans to visit. What should I do?
-B: It's great that you're vaccinated, but it's still important to be cautious. The flu can be quite contagious. Maybe suggest a virtual visit or ensure they stay in a separate room and follow strict hygiene practices if they come over.
+A: Go for it! I bet it'll look great on you.
+B: Thanks! Let's find my size and see how it fits.","looks cool, i want it now.",positive,1,"Yes, I agree. A's statement ""looks cool, i want it now."" expresses enthusiasm and a positive reaction towards the jacket.",1,True,293
+34,"Turn 1
+A: You know, I've been thinking about that party last night. I felt bad for laughing I feel really bad about laughing when Sarah spilled her drink. It was so insensitive of me.
+B: Oh, I remember that. Honestly, it was an awkward moment, but I don't think anyone took it too seriously. Sarah seemed to brush it off pretty quickly.
 
 Turn 2
-A: That makes sense. Can you help me with an issue? My cousin has the measles and he is coming over tomorrow. I have the measles vaccine. Should I tell him to not come over or can he come to the house? Just curious How do the precautions for the flu compare to those for COVID-19?
-B: Both require good hygiene, like frequent handwashing and wearing masks. However, COVID-19 is more contagious, so the measures are stricter. For both, minimizing close contact and ensuring good ventilation are key.",Can you help me with an issue? My cousin has the measles and he is coming over tomorrow. I have the measles vaccine. Should I tell him to not come over or can he come to the house? Just curious,neutral,2,"A's tone in the second turn appears to be neutral as they are simply seeking advice and information about the situation with their cousin who has measles. They are not expressing strong emotions or opinions, just asking for guidance.",1,True,900
-229,"Turn 1
-A: Hey B, I just got out of a briefing on the updated COVID-19 vaccination protocols. They've made some changes regarding third doses for immunocompromised patients.
-B: Oh, that's great to know. What are the new recommendations?
+A: Yeah, but still, I should have been more considerate. She was already having a tough time with everything going on in her life. I just feel like I added to her stress.
+B: I get that. It's good that you're reflecting on it. Maybe you could reach out to her and apologize? I'm sure she'd appreciate knowing you care.",I felt bad for laughing,negative,1,"Yes, I agree. A was expressing regret and guilt about their actions, which indicates a negative sentiment.",1,True,662
+58,"Turn 1
+A: Hey, I know it's been a few days, but I really need to talk. I can't stop thinking about what happened between us. Why did you decide to end things so suddenly?
+B: Hi A, I understand this is hard for you. It wasn't an easy decision for me either. I felt like we were growing apart and I didn't want to hurt you more by dragging it out.
 
 Turn 2
-A: They're now advising that immunocompromised patients should get their third dose at least eight weeks after their second dose, instead of the previous six-month interval. I'm in Ontario. ""Immunocompromised individuals should be offered the full dose of either Moderna (100 mcg) or PfizerBioNTech (30 mcg) as a third dose."" See pg 6:
-B: Got it. I'll make sure to update our patient care plans accordingly. Thanks for the heads-up!","I'm in Ontario. ""Immunocompromised individuals should be offered the full dose of either Moderna (100 mcg) or PfizerBioNTech (30 mcg) as a third dose."" See pg 6:",neutral,2,"Yes, I agree. A was providing factual information about the updated COVID-19 vaccination protocols for immunocompromised individuals in Ontario. The statement was neutral and informative, without any emotional or subjective tone.",1,True,676
-107,"Turn 1
-A: I've been hearing a lot about breakthrough cases with the Delta and Omicron variants. It's a bit confusing—are the vaccines still effective?
-B: Yeah, I get why it might seem confusing. The vaccines might not completely stop the virus from spreading, but they are really good at preventing severe illness and keeping people out of the hospital.
+A: I just feel so lost without you. It feels like everything was fine one moment and then it all fell apart. it's hurting my heart :( why did you leave me Was there something specific that I did wrong?
+B: It's not about you doing something wrong. Sometimes people just grow in different directions. I still care about you a lot, but I felt like we weren't on the same page anymore. I hope you can understand that.",it's hurting my heart :( why did you leave me,negative,2,"A was expressing feelings of sadness and confusion, which are negative emotions. They mentioned feeling lost and hurt, indicating a negative state of mind.",1,True,767
+31,"Turn 1
+A: This one looks interesting. It has a lot of features.
+B: Yeah, but look at this one! It has a ""wash, dry, fold"" setting. That would save me so much time.
 
 Turn 2
-A: That makes sense. Ok, but with all the breakthrough cases with both Delta and Omicron, it seems as if the vaccine doesn't prevent spread, just stops the disease from killing or hospitalizing you. Hence, they're only hurting themselves. So, even if someone gets infected, they're less likely to get seriously sick if they're vaccinated?
-B: Exactly. The vaccines help your body fight the virus more effectively, which means even if you do catch it, you're much less likely to end up with severe symptoms.","Ok, but with all the breakthrough cases with both Delta and Omicron, it seems as if the vaccine doesn't prevent spread, just stops the disease from killing or hospitalizing you. Hence, they're only hurting themselves.",neutral,2,A's statement in turn 2 reflects a neutral tone as they are seeking clarification and understanding about the effectiveness of the vaccines. They are not expressing a strong opinion or emotion but are instead summarizing their understanding and asking for confirmation.,1,True,867
-89,"Turn 1
-A: I've been seeing so many severe cases of COVID-19 lately, especially among unvaccinated patients. It's heartbreaking to see how much they suffer. I work in a hospital and you may have had a milder case but there are many people that are not that lucky. To say not to take the shot is just wrong. My patient was healthy and didn't take the vaccine. He is now on the ventilator……
-B: I get that, but I had COVID and it wasn't that bad for me. I just don't see the point in getting the vaccine if I've already had it.
+A: Wow, that's pretty cool. I'd buy this and use the ""wash, dry, fold"" setting exclusively. Sounds great to me.  Imagine not having to move clothes between machines or fold them yourself.
+B: Exactly! I could just set it and forget it. This might be the one.","I'd buy this and use the ""wash, dry, fold"" setting exclusively. Sounds great to me.",positive,2,"Yes, A was being positive. A expressed enthusiasm about the ""wash, dry, fold"" setting and mentioned how it would be convenient to use it exclusively, indicating a positive sentiment towards the feature.",1,True,429
+17,"Turn 1
+A: Have you seen the new oversized blazer trend? It's everywhere on Instagram lately. I like this new trend
+B: Oh, absolutely! I love how it combines a professional look with a casual vibe. It's so versatile.
 
 Turn 2
-A: I understand where you're coming from, but I've seen people who had mild cases initially and then got hit really hard later on. The vaccine can help prevent that and protect others around you.
-B: I hadn't thought about it that way. Maybe I should look into it more. Thanks for sharing your perspective.",I work in a hospital and you may have had a milder case but there are many people that are not that lucky. To say not to take the shot is just wrong. My patient was healthy and didn't take the vaccine. He is now on the ventilator……,favoring,1,"Yes, I agree. A is favoring the idea of getting vaccinated against COVID-19. A is sharing their professional experience and emphasizing the severe consequences of not getting vaccinated, especially for those who were previously healthy.",1,True,837
-54,"Turn 1
-A: Can you believe my uncle sent my dad this ridiculous article claiming the COVID-19 vaccine is dangerous? Not sure if they've seen it but a shitty relative of mine sent my dad an article about how the vaccine is a time bomb set to kill everyone with it in 2025. I might believe some conspiracy theory stuff but damn that's gotta be the biggest reach ever lol It's so frustrating how easily misinformation spreads.
-B: I know exactly what you mean. My cousin keeps sharing these conspiracy theories on Facebook. It's like, how do you even begin to reason with them?
+A: Totally! I even saw a few influencers pairing them with bike shorts. It sounds odd, but it actually looks pretty cool.
+B: Yes, I saw that too! It's such a bold choice, but it really works. I might try it out myself. What about you?
+
+[Continue for N turns]",I like this new trend,positive,1,"Yes, A was being positive about the new oversized blazer trend. They expressed their liking for the trend by explicitly stating, ""I like this new trend.""",1,True,482
+81,"Turn 1
+A: You know, B, I've been thinking a lot lately about how much your friendship means to me. You've been so supportive and kind, especially these past few weeks. I just wanted to say thank you.
+
+B: Oh, A, that means a lot to me. I'm really glad to hear that. You've been a great friend to me too, and I'm always here for you.
 
 Turn 2
-A: Exactly! It's so hard to get through to them when they're convinced they're right. We really need to emphasize the importance of reliable sources.
-B: Absolutely. It's a challenge, but I think having open conversations and gently presenting facts can sometimes help. It's all about patience and persistence.",Not sure if they've seen it but a shitty relative of mine sent my dad an article about how the vaccine is a time bomb set to kill everyone with it in 2025. I might believe some conspiracy theory stuff but damn that's gotta be the biggest reach ever lol,against,1,"Yes, A was expressing disbelief and frustration about the misinformation being spread by their relative. They clearly do not agree with the conspiracy theory about the COVID-19 vaccine being dangerous and are against the idea.",1,True,890
-173,"Turn 1
-A: I'm really not sure about this new vaccine policy. I've heard some worrying things about the vaccine's components and potential long-term effects.
-B: Yeah, I saw the email too. I'm still on the fence. What exactly have you heard?
+A: I really appreciate that. It's just... sometimes I feel like I don't say it enough. I like you. You've made such a positive impact on my life, and I wanted to make sure you knew how grateful I am.
 
-Turn 2
-A: Well, some former employees from pharmaceutical companies have mentioned that there might be risks we're not being told about. This vaccine is different, the components that it's made of isn't supposed to be for the human body.... Ask the people that don't work for the companies anymore.... The other vaccines can eventually get out your body, this one can't from what I know... It's a ticking time bomb... It makes me hesitant.
-B: I get that. But I've also read that the vaccines went through rigorous testing. Maybe we should look into more reliable sources to get a clearer picture.","This vaccine is different, the components that it's made of isn't supposed to be for the human body.... Ask the people that don't work for the companies anymore.... The other vaccines can eventually get out your body, this one can't from what I know... It's a ticking time bomb...",against,2,"Yes, I agree. A expresses significant concerns and skepticism about the new vaccine, mentioning potential risks, components not meant for the human body, and describing it as a ""ticking time bomb."" These statements indicate a clear stance against the vaccine.",1,True,837
-116,"Turn 1
-A: You know, I had a close call with COVID-19 recently. I was exposed but didn't get sick, thanks to the vaccine.
-B: Really? That's good to hear. I've been on the fence about getting vaccinated.
-
-Turn 2
-A: I get it, but honestly, it gave me peace of mind knowing I was protected. around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine Maybe it's something to think about?
-B: Yeah, maybe you're right. I'll look into it more. Thanks for sharing your experience.","around for a bit back to the music building unmasked. He found out after the lunch that his parents had covid. Got tested, was positive. I wasn't positive despite being maskless together for nearly an hour. Thanks vaccine",favoring,2,"Yes, I agree. A is favoring the vaccine by sharing a personal experience where the vaccine seemingly protected them from contracting COVID-19 despite being in close contact with someone who tested positive.",1,True,634
-97,"Turn 1
-A: Hey B, just a heads-up about your trip to Maharashtra. You'll need either a negative RT-PCR test or your final vaccination certificate to enter the state. Dear Customer, Passengers traveling to Maharashtra must carry a negative RT-PCR report not older than 72 Hrs at the time of arrival or a final vaccination certificate(issued after 2nd dosage and 15 days prior to the travel date). Thanks, Ramandeep.
-B: Got it, thanks for the info. I have my vaccination certificate, so I should be good to go.
-
-Turn 2
-A: Perfect, just make sure to carry a digital and a printed copy, in case they ask for it at the airport.
-B: Will do. Thanks for organizing everything, A!","Dear Customer, Passengers traveling to Maharashtra must carry a negative RT-PCR report not older than 72 Hrs at the time of arrival or a final vaccination certificate(issued after 2nd dosage and 15 days prior to the travel date). Thanks, Ramandeep.",neutral,1,"Yes, I agree. A was simply providing factual information about the travel requirements to Maharashtra. The message was clear, informative, and devoid of any emotional tone, indicating a neutral stance.",1,True,670
+B: That's so sweet of you to say. Honestly, I feel the same way. Our friendship is really special to me, and I'm grateful for all the moments we've shared. Here's to many more.",I like you.,positive,2,"Yes, I agree. A's statement ""I like you."" is part of expressing gratitude and appreciation for B's friendship. The context of the conversation is positive, with A acknowledging the support and kindness B has shown.",1,True,717
