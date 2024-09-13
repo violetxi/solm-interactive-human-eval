@@ -1,0 +1,261 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Hey, B, I think I just saw Maxine Peake over there by the café. Might need my eyes checking but I think I just saw Maxine Peake in Deansgate Do you see her?
+B: Really? Where exactly? Let me take a look.
+
+Turn 2
+A: Right there, near the entrance, in the red coat. Do you think it's her?
+B: Hmm, it does look like her. Wow, what are the chances? Should we go say hi?",Sarcastic,2024-09-13T02:16:07.741000+00:00,"Was the person intended to be sarcastic when ""Might need my eyes checking but I think I just saw Maxine Peake in Deansgate"" was said during the conversation?","Turn 1
+A: Hey, B, I think I just saw Maxine Peake over there by the café. Might need my eyes checking but I think I just saw Maxine Peake in Deansgate Do you see her?
+B: Really? Where exactly? Let me take a look.
+
+Turn 2
+A: Right there, near the entrance, in the red coat. Do you think it's her?
+B: Hmm, it does look like her. Wow, what are the chances? Should we go say hi?",Might need my eyes checking but I think I just saw Maxine Peake in Deansgate,Sarcastic
+"Turn 1
+A: I've been trying to book a COVID booster shot online, but it's been such a hassle. I would love to be able to book my covid booster shot but the website doesn't work The website keeps crashing.
+B: Oh, that sounds frustrating. I had a similar issue last month. Have you tried calling the pharmacy directly?
+
+Turn 2
+A: I haven't, but that's a good idea. I might give that a shot. How did it go for you when you called?
+B: It was much smoother. They were able to schedule me right away, and I got my booster the next day. Definitely worth a try.",Not Sarcastic,2024-09-13T02:12:47.999000+00:00,"Was the person intended to be sarcastic when ""I would love to be able to book my covid booster shot but the website doesn't work"" was said during the conversation?","Turn 1
+A: I've been trying to book a COVID booster shot online, but it's been such a hassle. I would love to be able to book my covid booster shot but the website doesn't work The website keeps crashing.
+B: Oh, that sounds frustrating. I had a similar issue last month. Have you tried calling the pharmacy directly?
+
+Turn 2
+A: I haven't, but that's a good idea. I might give that a shot. How did it go for you when you called?
+B: It was much smoother. They were able to schedule me right away, and I got my booster the next day. Definitely worth a try.",I would love to be able to book my covid booster shot but the website doesn't work,Not Sarcastic
+"Turn 1
+A: I can't believe we have to quarantine now. This means no prom, no graduation, nothing. It's so unfair.
+B: Yeah, because clearly the best way to handle a pandemic is to ruin all the fun stuff for teenagers. Great job, government.
+
+Turn 2
+A: Seriously, it's like they don't even care about how much we've already missed out on. I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school. I was really looking forward to seeing everyone.
+B: I know, right? But hey, at least we get to experience the thrill of staring at our bedroom walls for another two weeks. So exciting.",Sarcastic,2024-09-13T02:09:26.781000+00:00,"Was the person intended to be sarcastic when ""I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school."" was said during the conversation?","Turn 1
+A: I can't believe we have to quarantine now. This means no prom, no graduation, nothing. It's so unfair.
+B: Yeah, because clearly the best way to handle a pandemic is to ruin all the fun stuff for teenagers. Great job, government.
+
+Turn 2
+A: Seriously, it's like they don't even care about how much we've already missed out on. I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school. I was really looking forward to seeing everyone.
+B: I know, right? But hey, at least we get to experience the thrill of staring at our bedroom walls for another two weeks. So exciting.",I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,Sarcastic
+"Turn 1
+A: ""Well, there goes another politician caught in a lie. Who would've thought, right? It's almost like honesty is a foreign concept to them. Politicians are so honest it melts my heart""
+B: ""Yeah, it's pretty disheartening. You'd think they'd learn by now that the truth always comes out.""
+
+Turn 2
+A: ""At this rate, we might as well start a betting pool on the next scandal. It's becoming a regular occurrence.""
+B: ""Honestly, it feels like we're watching a never-ending soap opera. Just when you think it can't get worse, it does.""",Sarcastic,2024-09-13T02:13:47.718000+00:00,"Was the person intended to be sarcastic when ""Politicians are so honest it melts my heart"" was said during the conversation?","Turn 1
+A: ""Well, there goes another politician caught in a lie. Who would've thought, right? It's almost like honesty is a foreign concept to them. Politicians are so honest it melts my heart""
+B: ""Yeah, it's pretty disheartening. You'd think they'd learn by now that the truth always comes out.""
+
+Turn 2
+A: ""At this rate, we might as well start a betting pool on the next scandal. It's becoming a regular occurrence.""
+B: ""Honestly, it feels like we're watching a never-ending soap opera. Just when you think it can't get worse, it does.""",Politicians are so honest it melts my heart,Sarcastic
+"Turn 1
+A: It's such a hassle to always have to carry cash just for the barbershop. I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...
+B: I know, right? I always forget and end up scrambling to find an ATM.
+
+Turn 2
+A: And it's not just the barbershop. So many places still don't accept card payments.
+B: Exactly. It really complicates things, especially when you're used to paying with your phone everywhere else.",Sarcastic,2024-09-13T02:10:40.759000+00:00,"Was the person intended to be sarcastic when ""I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card..."" was said during the conversation?","Turn 1
+A: It's such a hassle to always have to carry cash just for the barbershop. I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...
+B: I know, right? I always forget and end up scrambling to find an ATM.
+
+Turn 2
+A: And it's not just the barbershop. So many places still don't accept card payments.
+B: Exactly. It really complicates things, especially when you're used to paying with your phone everywhere else.",I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...,Sarcastic
+"Turn 1
+A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
+B: Yeah, I figured. I think it might belong to someone from the other table.
+
+Turn 2
+A: Thanks for pointing that out. I didn't want anyone to think I was being rude by not drinking it.
+B: No worries. Let's just move it over there and avoid any mix-ups.",Not Sarcastic,2024-09-13T02:12:03.122000+00:00,"Was the person intended to be sarcastic when ""FYI this was not my pint. I hate beer"" was said during the conversation?","Turn 1
+A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
+B: Yeah, I figured. I think it might belong to someone from the other table.
+
+Turn 2
+A: Thanks for pointing that out. I didn't want anyone to think I was being rude by not drinking it.
+B: No worries. Let's just move it over there and avoid any mix-ups.",FYI this was not my pint. I hate beer,Not Sarcastic
+"Turn 1
+A: It's really something to hear the English fans singing ""Jerusalem"" in the middle of the Gabba, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba Makes me feel a bit nostalgic.
+B: Absolutely, mate. It's great to see how passionate they are. Adds a unique flavor to the atmosphere here.
+
+Turn 2
+A: Yeah, it reminds me of the matches back home. Even though I'm loving it here, moments like these bring back fond memories.
+B: I get that. It's those little things that make you feel connected to your roots. Plus, it's always good to have a bit of friendly rivalry in the crowd!",Not Sarcastic,2024-09-13T02:13:33.038000+00:00,"Was the person intended to be sarcastic when ""Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba"" was said during the conversation?","Turn 1
+A: It's really something to hear the English fans singing ""Jerusalem"" in the middle of the Gabba, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba Makes me feel a bit nostalgic.
+B: Absolutely, mate. It's great to see how passionate they are. Adds a unique flavor to the atmosphere here.
+
+Turn 2
+A: Yeah, it reminds me of the matches back home. Even though I'm loving it here, moments like these bring back fond memories.
+B: I get that. It's those little things that make you feel connected to your roots. Plus, it's always good to have a bit of friendly rivalry in the crowd!",Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba,Not Sarcastic
+"Turn 1
+A: So, I ordered from Deliveroo today, and guess what? They sent me a vegan salad instead of my burger. I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun! Just what I needed, right?
+B: Oh no, that's the worst! I once got someone else's sushi order. I mean, I like sushi, but not when I'm expecting pizza!
+
+Turn 2
+A: Exactly! It's like they want to keep us on our toes. Maybe next time I'll get a dessert platter instead of my main course.
+B: Haha, yeah, it's like a food roulette. At least it makes for some interesting stories to share!",Sarcastic,2024-09-13T02:17:01.901000+00:00,"Was the person intended to be sarcastic when ""I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!"" was said during the conversation?","Turn 1
+A: So, I ordered from Deliveroo today, and guess what? They sent me a vegan salad instead of my burger. I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun! Just what I needed, right?
+B: Oh no, that's the worst! I once got someone else's sushi order. I mean, I like sushi, but not when I'm expecting pizza!
+
+Turn 2
+A: Exactly! It's like they want to keep us on our toes. Maybe next time I'll get a dessert platter instead of my main course.
+B: Haha, yeah, it's like a food roulette. At least it makes for some interesting stories to share!",I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!,Sarcastic
+"Turn 1
+A: ""If I have to hear 'Jingle Bells' one more time at 5 AM, I might just start decking the halls with canned goods."" I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!
+B: ""I hear you. At this point, I think I could recite the entire Christmas playlist in my sleep. Maybe we should start a caroling group—'The Sleep-Deprived Singers.'""
+
+Turn 2
+A: ""Only if we can perform in pajamas and slippers. I think that would really capture the essence of our holiday spirit.""
+B: ""Absolutely! And we can hand out coffee instead of candy canes. Now that's a Christmas miracle I can get behind.""",Sarcastic,2024-09-13T02:11:27.105000+00:00,"Was the person intended to be sarcastic when ""I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!"" was said during the conversation?","Turn 1
+A: ""If I have to hear 'Jingle Bells' one more time at 5 AM, I might just start decking the halls with canned goods."" I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!
+B: ""I hear you. At this point, I think I could recite the entire Christmas playlist in my sleep. Maybe we should start a caroling group—'The Sleep-Deprived Singers.'""
+
+Turn 2
+A: ""Only if we can perform in pajamas and slippers. I think that would really capture the essence of our holiday spirit.""
+B: ""Absolutely! And we can hand out coffee instead of candy canes. Now that's a Christmas miracle I can get behind.""","I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!",Sarcastic
+"Turn 1
+A: You know, I find Instagram so superficial sometimes. It's like a highlight reel of everyone's best moments, and it can be pretty demotivating.
+B: Yeah, I get that. Speaking of which, did you see Kim Kardashian's latest post? The one where she's flaunting her new luxury car?
+
+Turn 2
+A: Oh, that one? I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account. It was so inspiring. Made me want to delete my account and go read a book instead.
+B: Haha, I figured you'd say something like that. Social media really isn't your thing, is it?",Sarcastic,2024-09-13T02:12:24.325000+00:00,"Was the person intended to be sarcastic when ""I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account."" was said during the conversation?","Turn 1
+A: You know, I find Instagram so superficial sometimes. It's like a highlight reel of everyone's best moments, and it can be pretty demotivating.
+B: Yeah, I get that. Speaking of which, did you see Kim Kardashian's latest post? The one where she's flaunting her new luxury car?
+
+Turn 2
+A: Oh, that one? I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account. It was so inspiring. Made me want to delete my account and go read a book instead.
+B: Haha, I figured you'd say something like that. Social media really isn't your thing, is it?",I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account.,Sarcastic
+"Turn 1
+A: ""I just can't stop thinking about all the things that could go wrong on this trip. What if I get lost or something bad happens?""
+B: ""I understand your worries, but remember how much you've always wanted to do this. Sometimes, the best experiences come from stepping out of our comfort zones.""
+
+Turn 2
+A: ""You're right, but it's hard to shake off the anxiety. Don't be so afraid of dying that you forget how to live What if I regret going?""
+B: ""You might regret not going even more. Life's too short to let fear hold you back. You've got this, and I'll be here cheering you on every step of the way.""",Not Sarcastic,2024-09-13T02:11:05.916000+00:00,"Was the person intended to be sarcastic when ""Don't be so afraid of dying that you forget how to live"" was said during the conversation?","Turn 1
+A: ""I just can't stop thinking about all the things that could go wrong on this trip. What if I get lost or something bad happens?""
+B: ""I understand your worries, but remember how much you've always wanted to do this. Sometimes, the best experiences come from stepping out of our comfort zones.""
+
+Turn 2
+A: ""You're right, but it's hard to shake off the anxiety. Don't be so afraid of dying that you forget how to live What if I regret going?""
+B: ""You might regret not going even more. Life's too short to let fear hold you back. You've got this, and I'll be here cheering you on every step of the way.""",Don't be so afraid of dying that you forget how to live,Not Sarcastic
+"Turn 1
+A: Did you manage to get tickets for the concert?
+B: Yeah, I did! It was a bit of a scramble, but I got two. How about you?
+
+Turn 2
+A: Unfortunately, I wasn't so lucky. The site crashed on me. Did anyone on my twitter even get tickets for the SOUR tour? Do you know if anyone else got tickets?
+B: I heard that Sarah managed to get a few. Maybe she has an extra one she could sell you. I'll ask her for you.",Not Sarcastic,2024-09-13T02:14:40.898000+00:00,"Was the person intended to be sarcastic when ""Did anyone on my twitter even get tickets for the SOUR tour?"" was said during the conversation?","Turn 1
+A: Did you manage to get tickets for the concert?
+B: Yeah, I did! It was a bit of a scramble, but I got two. How about you?
+
+Turn 2
+A: Unfortunately, I wasn't so lucky. The site crashed on me. Did anyone on my twitter even get tickets for the SOUR tour? Do you know if anyone else got tickets?
+B: I heard that Sarah managed to get a few. Maybe she has an extra one she could sell you. I'll ask her for you.",Did anyone on my twitter even get tickets for the SOUR tour?,Not Sarcastic
+"Turn 1
+A: It's been really tough adjusting to remote work. The technical issues are one thing, but I really miss the social interaction. I am just loving life in Covid times. Long may it last!
+B: Oh, absolutely. I'm just ""loving"" the constant Zoom calls and the joy of talking to my cat all day.
+
+Turn 2
+A: Haha, I know what you mean. My dog has become my new office mate, but he's not much of a conversationalist.
+B: At least your dog doesn't judge you for wearing pajamas to meetings. Small victories, right?",Sarcastic,2024-09-13T02:15:18.837000+00:00,"Was the person intended to be sarcastic when ""I am just loving life in Covid times. Long may it last!"" was said during the conversation?","Turn 1
+A: It's been really tough adjusting to remote work. The technical issues are one thing, but I really miss the social interaction. I am just loving life in Covid times. Long may it last!
+B: Oh, absolutely. I'm just ""loving"" the constant Zoom calls and the joy of talking to my cat all day.
+
+Turn 2
+A: Haha, I know what you mean. My dog has become my new office mate, but he's not much of a conversationalist.
+B: At least your dog doesn't judge you for wearing pajamas to meetings. Small victories, right?",I am just loving life in Covid times. Long may it last!,Sarcastic
+"Turn 1
+A: ""You see how they're struggling with those corners? It's like they haven't practiced their defensive positioning at all.""
+B: ""Yeah, I noticed that too. They seem lost every time the ball comes in. Do you think it's a problem with the marking system?""
+
+Turn 2
+A: ""Exactly. They're using a zonal marking system, but the players aren't communicating well. We are missing cress or Bowen for our corners and freekicks have been pretty poor so far. They need to switch to man-to-man marking to handle those set-pieces better.""
+B: ""That makes sense. It would definitely help them keep track of their opponents more effectively. Hopefully, the coach makes that adjustment soon.""",Not Sarcastic,2024-09-13T02:16:50.833000+00:00,"Was the person intended to be sarcastic when ""We are missing cress or Bowen for our corners and freekicks have been pretty poor so far."" was said during the conversation?","Turn 1
+A: ""You see how they're struggling with those corners? It's like they haven't practiced their defensive positioning at all.""
+B: ""Yeah, I noticed that too. They seem lost every time the ball comes in. Do you think it's a problem with the marking system?""
+
+Turn 2
+A: ""Exactly. They're using a zonal marking system, but the players aren't communicating well. We are missing cress or Bowen for our corners and freekicks have been pretty poor so far. They need to switch to man-to-man marking to handle those set-pieces better.""
+B: ""That makes sense. It would definitely help them keep track of their opponents more effectively. Hopefully, the coach makes that adjustment soon.""",We are missing cress or Bowen for our corners and freekicks have been pretty poor so far.,Not Sarcastic
+"Turn 1
+A: I've checked a few stores already, but I can't seem to find any bra strap extenders. Ladies anywhere in town do bra strap extenders? Do you have any idea where they might have them?
+B: Hmm, let's see. Have you tried the lingerie section in the department store? They usually have a good selection of accessories.
+
+Turn 2
+A: No, I haven't checked there yet. Do you think we should ask someone for help once we get there?
+B: Definitely. It'll save us some time. Let's head over and ask one of the sales associates as soon as we arrive.",Not Sarcastic,2024-09-13T02:10:11.452000+00:00,"Was the person intended to be sarcastic when ""Ladies anywhere in town do bra strap extenders?"" was said during the conversation?","Turn 1
+A: I've checked a few stores already, but I can't seem to find any bra strap extenders. Ladies anywhere in town do bra strap extenders? Do you have any idea where they might have them?
+B: Hmm, let's see. Have you tried the lingerie section in the department store? They usually have a good selection of accessories.
+
+Turn 2
+A: No, I haven't checked there yet. Do you think we should ask someone for help once we get there?
+B: Definitely. It'll save us some time. Let's head over and ask one of the sales associates as soon as we arrive.",Ladies anywhere in town do bra strap extenders?,Not Sarcastic
+"Turn 1
+A: I had a rough time with Jason today. He threw a tantrum in the middle of class because I asked him to put away his phone.
+B: Oh, Jason again? Sometimes I think we need a parenting manual just to deal with the fallout from home.
+
+Turn 2
+A: Exactly. It's like we're expected to teach and parent at the same time. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance… I wish there was more support from home.
+B: Tell me about it. If only parents realized how much their involvement could change things for the better.",Ambiguous,2024-09-13T02:16:30.440000+00:00,"Was the person intended to be sarcastic when ""I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…"" was said during the conversation?","Turn 1
+A: I had a rough time with Jason today. He threw a tantrum in the middle of class because I asked him to put away his phone.
+B: Oh, Jason again? Sometimes I think we need a parenting manual just to deal with the fallout from home.
+
+Turn 2
+A: Exactly. It's like we're expected to teach and parent at the same time. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance… I wish there was more support from home.
+B: Tell me about it. If only parents realized how much their involvement could change things for the better.",I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…,Ambiguous
+"Turn 1
+A: It's interesting how COP26 was organized by the UK in partnership with Italy. Callum obviously doesn't know who organised COP26. Did you know that Callum seems a bit unclear about who was responsible for organizing the event?
+B: Really? That's surprising. I thought it was pretty well-publicized. Maybe he missed some of the initial briefings.
+
+Turn 2
+A: Yeah, it could be. I think it might help if we share some of the key details with him, especially since understanding the organizers is crucial for our project.
+B: Good idea. I'll make sure to bring it up in our next team meeting. It's important everyone is on the same page, especially with such a significant event.",Ambiguous,2024-09-13T02:15:02.091000+00:00,"Was the person intended to be sarcastic when ""Callum obviously doesn't know who organised COP26."" was said during the conversation?","Turn 1
+A: It's interesting how COP26 was organized by the UK in partnership with Italy. Callum obviously doesn't know who organised COP26. Did you know that Callum seems a bit unclear about who was responsible for organizing the event?
+B: Really? That's surprising. I thought it was pretty well-publicized. Maybe he missed some of the initial briefings.
+
+Turn 2
+A: Yeah, it could be. I think it might help if we share some of the key details with him, especially since understanding the organizers is crucial for our project.
+B: Good idea. I'll make sure to bring it up in our next team meeting. It's important everyone is on the same page, especially with such a significant event.",Callum obviously doesn't know who organised COP26.,Ambiguous
+"Turn 1
+A: Hey B, have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something more widespread.
+B: Funny you mention that, A. I did notice some flickering last night, but I thought it was just a temporary glitch. 
+
+Turn 2
+A: Hmm, that's interesting. I guess it might be something affecting the whole area then. Anyone in Hull area having digital TV aerial or freeview problems? Thank you. Have you heard anything from other neighbors?
+B: Not yet, but I can ask around. Maybe it's worth checking with the service provider too, just in case it's a known issue.",Not Sarcastic,2024-09-13T02:13:12.544000+00:00,"Was the person intended to be sarcastic when ""Anyone in Hull area having digital TV aerial or freeview problems? Thank you."" was said during the conversation?","Turn 1
+A: Hey B, have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something more widespread.
+B: Funny you mention that, A. I did notice some flickering last night, but I thought it was just a temporary glitch. 
+
+Turn 2
+A: Hmm, that's interesting. I guess it might be something affecting the whole area then. Anyone in Hull area having digital TV aerial or freeview problems? Thank you. Have you heard anything from other neighbors?
+B: Not yet, but I can ask around. Maybe it's worth checking with the service provider too, just in case it's a known issue.",Anyone in Hull area having digital TV aerial or freeview problems? Thank you.,Not Sarcastic
+"Turn 1
+A: I can't believe how unpredictable the weather has been lately. So fed up with the rubbish every changing weather Every time we make some progress, it starts raining or gets too windy.
+B: I know, it's been really frustrating. We can't seem to catch a break. Maybe we should look into some portable shelters or something to keep us going despite the weather.
+
+Turn 2
+A: That's a good idea. At least it would give us some consistency. I just hope we can find something sturdy enough to handle these sudden changes.
+B: Agreed. Let's check out some options online during lunch. We need to find a way to keep this project on track.",Not Sarcastic,2024-09-13T02:15:44.405000+00:00,"Was the person intended to be sarcastic when ""So fed up with the rubbish every changing weather"" was said during the conversation?","Turn 1
+A: I can't believe how unpredictable the weather has been lately. So fed up with the rubbish every changing weather Every time we make some progress, it starts raining or gets too windy.
+B: I know, it's been really frustrating. We can't seem to catch a break. Maybe we should look into some portable shelters or something to keep us going despite the weather.
+
+Turn 2
+A: That's a good idea. At least it would give us some consistency. I just hope we can find something sturdy enough to handle these sudden changes.
+B: Agreed. Let's check out some options online during lunch. We need to find a way to keep this project on track.",So fed up with the rubbish every changing weather,Not Sarcastic
+"Turn 1
+A: I know the Omicron variant is really concerning, but I just can't stay cooped up at home all the time. I need to get out and do something I love, like birdwatching.Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.
+B: I totally get it, A. It's important to take care of your mental health too. Just make sure you're taking all the necessary precautions while you're out there.
+
+Turn 2
+A: Absolutely, I'll be masked up and keeping my distance from others. Plus, birdwatching is pretty solitary anyway.
+B: That sounds like a good plan. Enjoy your time out there and stay safe. Let me know if you spot any interesting birds!",Not Sarcastic,2024-09-13T02:14:18.382000+00:00,"Was the person intended to be sarcastic when ""Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away."" was said during the conversation?","Turn 1
+A: I know the Omicron variant is really concerning, but I just can't stay cooped up at home all the time. I need to get out and do something I love, like birdwatching.Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.
+B: I totally get it, A. It's important to take care of your mental health too. Just make sure you're taking all the necessary precautions while you're out there.
+
+Turn 2
+A: Absolutely, I'll be masked up and keeping my distance from others. Plus, birdwatching is pretty solitary anyway.
+B: That sounds like a good plan. Enjoy your time out there and stay safe. Let me know if you spot any interesting birds!",Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.,Not Sarcastic
