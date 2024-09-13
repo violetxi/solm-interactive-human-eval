@@ -94,7 +94,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-SemT6_Abortion-1'
     # current_data_prefix = 'Full-SemT6_Abortion-2'
     # current_data_prefix = 'Full-SemT6_Abortion-3'
-    current_data_prefix = 'Full-SemT6_Abortion-4'
+    # current_data_prefix = 'Full-SemT6_Abortion-4'
+    current_data_prefix = 'Full-SemT6_Abortion-5'
 
     # # Sentiment
     # current_data_prefix = 'Full-SemT6_Sentiment-1'
