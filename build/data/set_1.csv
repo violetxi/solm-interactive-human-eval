@@ -1,145 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-14,"Turn 1
-A: Hey B, I was reading about the latest COVID-19 treatment protocols. What is the current approved early outpatient treatment protocol? It's been 2years surely upon positive diagnosis there must be some meds being recommended to reduce the viral replication in the nose, throat and mouth to reduce the risk of hospitalization regardless of vax status Do you know what the current recommendations are for early outpatient treatment, especially for those who test positive but aren't vaccinated?
-
-B: Yes, the guidelines have been updated recently. For early outpatient treatment, the focus is on antiviral medications like Paxlovid and monoclonal antibodies, depending on the patient's risk factors and availability. It's crucial to start these treatments as soon as possible after a positive test to reduce the risk of severe illness.
-
-Turn 2
-A: That makes sense. Are there any specific criteria for prescribing these treatments, or is it more of a case-by-case basis?
-
-B: There are specific criteria, mainly based on the patient's age, underlying health conditions, and the severity of symptoms. For instance, older adults and those with chronic conditions are prioritized. It's always best to assess each patient's situation individually, but having a clear understanding of the guidelines helps us make informed decisions quickly.","What is the current approved early outpatient treatment protocol? It's been 2years surely upon positive diagnosis there must be some meds being recommended to reduce the viral replication in the nose, throat and mouth to reduce the risk of hospitalization regardless of vax status",neutral,1,"Yes, A was being neutral. A was simply inquiring about the current approved early outpatient treatment protocols for COVID-19 without expressing any strong emotions or biases. The question was straightforward and focused on obtaining information.",1,True,1340
-185,"Turn 1
-A: I'm thinking about going to the movie theater this weekend, but I'm a bit worried about the COVID situation. Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week. I'm double vaccinated and have a booster shot scheduled soon. Do you think it would be safe if I wear a KN95 mask?
-B: Given that you're double vaccinated and planning to wear a KN95 mask, it should be relatively safe. Just make sure the theater has good ventilation and isn't too crowded. I've been to a few places recently, and sticking to these precautions has worked well for me.
+35,"Turn 1
+A: I understand you want to support women's health services, and I respect that. But for me, Planned Parenthood's involvement in abortions is something I can't reconcile with my beliefs about the sanctity of life. I truly believe that and that's why I'm against Planned Parenthood.
+B: I get where you're coming from, and I appreciate you sharing your perspective. For me, it's about providing comprehensive care and support to women, especially those who might not have other options.
 
 Turn 2
-A: That makes sense. I'll check the theater's safety measures and maybe go during a less busy time. Thanks for the advice!
-B: No problem! Enjoy the movie and stay safe. If you have any doubts, you can always opt for streaming at home.",Looking for some advice.   How safe is it for a 22 year old who is double vaxxed (last vaccine in June) to go to a movie theatre right now.   Will be wearing a KN95 mask.   Booster appointment is next week.,neutral,1,"Yes, I agree. A was being neutral in their inquiry about the safety of going to a movie theater. They were simply seeking advice and providing relevant information about their vaccination status and precautions.",1,True,951
-194,"Turn 1
-A: I really think we need to push harder on getting everyone vaccinated. The current protocols are good, but with the playoffs coming up, we can't afford any lapses.
-B: I agree, A. We've been following the NCAA guidelines closely, but I understand your concerns. We can definitely look into additional measures to encourage vaccination and ensure compliance.
+A: I know it's a complex issue, and I don't want this to come between us. I just hope you can see why it's hard for me to support an organization that performs abortions.
+B: I do see that, and I value our friendship too much to let this divide us. Maybe we can find common ground in supporting other aspects of women's health that we both agree on.",I truly believe that and that's why I'm against Planned Parenthood.,against,1,"Yes, I agree. A explicitly states that they are against Planned Parenthood due to its involvement in abortions, which they cannot reconcile with their beliefs about the sanctity of life.",1,True,848
+51,"Turn 1
+A: I can't believe there was such a huge 'pro-life' protest in Kingston. If I lived there, I would have been so upset. Good thing I don't live in Kingston woulda started a riot by now with this 'pro-life' protest It's frustrating to see people trying to take away women's rights.
+B: I know, it's really disheartening. It feels like a step backward. I can't imagine how stressful it must be for the women living there, having to see that kind of opposition to their autonomy.
 
 Turn 2
-A: It's just frustrating, you know? The NCAA has a history of not prioritizing player safety, and now more than ever, we need to be proactive. A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront... Maybe we can set up another vaccine clinic on campus?
-B: That's a great idea. I'll coordinate with the health services to arrange it. We can also increase our communication efforts to emphasize the importance of the vaccine to the team and their families.",A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront...,favoring,2,"Yes, A was favoring the idea of pushing harder on getting everyone vaccinated and setting up another vaccine clinic on campus. A expressed a strong belief in the vaccine and the importance of player safety, while also criticizing the NCAA for not prioritizing these aspects.",1,True,1050
-92,"Turn 1
-A: I just got my COVID-19 booster shot last week. I think it's really important to follow public health guidelines to protect ourselves and others.
-B: I get that, but I prefer to rely on vitamins and natural remedies. I just don't trust the vaccines or the information we're being fed about them.
+A: Exactly. It's like they're ignoring the complexities and personal nature of these decisions. Everyone should have the right to make choices about their own bodies without being judged or restricted.
+B: Absolutely. It's important to keep advocating for pro-choice rights and supporting those who are affected by these protests. We need to ensure that everyone has access to safe and legal options.",Good thing I don't live in Kingston woulda started a riot by now with this 'pro-life' protest,favoring,1,"Yes, I agree. A is clearly expressing frustration and opposition to the 'pro-life' protest, indicating a strong pro-choice stance. A's statement about starting a riot suggests a high level of emotional investment in supporting women's rights and opposing the 'pro-life' movement.",1,True,889
+41,"Turn 1
+A: I just feel that a woman should have the autonomy to make decisions about her own body. It's such a personal and complex issue, and the government shouldn't be the one to dictate what she can or cannot do.
+B: I get that, but what about the potential life of the fetus? How do we balance that with the woman's rights?
 
 Turn 2
-A: I understand your perspective, but the data shows that vaccines significantly reduce the risk of severe illness. We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof. It's about community protection too.
-B: I hear you, but I believe in boosting my immune system naturally. I think there's too much fear-mongering around the virus and the vaccines.","We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof.",against,2,"No, I do not agree. The statement ""We haven't worn a mask nor muzzled our kids since this plandemic started. Vitamins, anti viral prophylactic...not one of us been to doctor in 2 years. But...you keep listening to leftist...get your 55 boosters and get intubated when you get coof."" appears to be sarcastic and critical of the other person's stance on vaccines and public health measures. It suggests that A is actually against the measures and is mocking the idea of getting multiple boosters.",1,True,855
-42,"Turn 1
-A: You know, when I was in the city last week, I barely saw any enforcement of health measures. It was surprising given how strict things were before. My family and I were in the city today.   Nobody asked to see Vaccine IDs.  Nobody was enforcing masks.   What precautions are being taken? Because I didn't see any.
-B: Yeah, it seems like a lot of places are easing up. I guess with more people getting vaccinated, they feel it's safer to relax some of the rules.
+A: It's definitely a tough balance, but I think the key is to trust women to make the best decision for their circumstances. I don't think I have a right to use someone else's body without consent. Do you? Each situation is unique, and a blanket law can't account for all the nuances.
+B: That makes sense. I guess it's about finding a way to respect both the woman's autonomy and the ethical considerations involved.",I don't think I have a right to use someone else's body without consent. Do you?,favoring,2,"Yes, A was favoring the woman's right to make decisions about her own body and emphasizing the importance of consent. A's argument is centered around the idea that no one should have the right to use someone else's body without their consent, which aligns with supporting a woman's autonomy.",1,True,751
+77,"Turn 1
+A: I just don't understand how you can argue for bodily autonomy when it comes to abortion but then support laws that restrict other personal choices, like drug use. Isn't that inconsistent?
+B: I see your point, but I think the difference lies in the impact on others. Abortion is about a woman's right to make decisions about her own body, while drug use can have broader social consequences.
 
 Turn 2
-A: True, the vaccination rates have definitely made a difference. Have you gotten your booster yet?
-B: I did last month. It's reassuring to know that we have that extra layer of protection, especially with all the variants going around.",My family and I were in the city today.   Nobody asked to see Vaccine IDs.  Nobody was enforcing masks.   What precautions are being taken? Because I didn't see any.,neutral,1,A's statement about not seeing any enforcement of health measures and asking about the precautions being taken does not convey a strong positive or negative sentiment. It appears to be a neutral observation and a genuine inquiry about the current situation.,1,True,716
-220,"Turn 1
-A: It's interesting how even high-profile figures who are fully vaccinated and boosted are still testing positive for COVID-19. UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week. It makes you wonder about the effectiveness of the vaccines in preventing transmission.
-B: True, but we have to remember that the primary goal of the vaccines is to prevent severe illness and hospitalization. Breakthrough cases are expected, but the data still shows that vaccinated individuals have much milder symptoms compared to those who are unvaccinated.
+A: But isn't the fetus a separate life that deserves protection? Pro Choice? Just choose to kill yourself after your baby is born. How do you reconcile that with the idea of bodily autonomy?
+B: It's a complex issue, but I believe that until a certain point in pregnancy, the woman's rights should take precedence. It's about balancing her autonomy with the potential life, and I think the current laws try to find that balance.",Pro Choice? Just choose to kill yourself after your baby is born.,against,2,"Yes, A's statement ""Pro Choice? Just choose to kill yourself after your baby is born."" indicates a strong opposition to the pro-choice stance, suggesting that A is against the idea of abortion and is using a provocative statement to challenge B's position.",1,True,836
+71,"Turn 1
+A: It's just so frustrating to see these male lawmakers trying to control what women can do with their own bodies. Are you OK with males telling you what you can and can't do with your own body? They have no idea what it's like to be in our shoes.
+B: I get that. But can you explain a bit more about why you feel so strongly that women should have the final say?
 
 Turn 2
-A: That's a good point. It does highlight the importance of continuing to promote vaccination, especially with new variants emerging. But how do we address public concerns about these breakthrough cases in our messaging?
-B: We need to emphasize that while no vaccine is 100% effective at preventing infection, the benefits in terms of reducing severe outcomes are significant. Clear communication about the role of vaccines in managing the pandemic is crucial to maintaining public trust.","UNGA President (sometimes Maldives Foreign Minister) Shahid got COVID-19, and is currently in isolation. Shahid vidhaalhuvee he has very mild symptoms kamah. Shahid got 2 doses of vaccine + a booster dose last week.",neutral,1,"A's statement is factual and does not express a strong opinion or bias. A simply reports the situation regarding Shahid's COVID-19 status and vaccination history, without making any subjective judgments.",1,True,1208
-225,"Turn 1
-A: I've been seeing a lot of mixed opinions about these vaccine passports on social media. Some people are saying they could be discriminatory. Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws? What do you think about that from a legal perspective?
-B: It's a complex issue. Legally, governments can implement measures to protect public health, but they have to balance that with individual rights. Vaccine passports could be seen as discriminatory if they disproportionately affect certain groups, but if they're implemented fairly and with exemptions for valid medical reasons, they might hold up in court.
+A: Sure. It's about autonomy and the right to make decisions about our own health and futures. No one should be forced into a situation they aren't ready for, especially by people who will never experience it themselves.
+B: That makes sense. I hadn't thought about it from that perspective before. Thanks for explaining.",Are you OK with males telling you what you can and can't do with your own body?,favoring,1,"A was expressing frustration and a strong opinion against male lawmakers controlling women's bodies, which indicates a clear stance on the issue. Therefore, A was favoring the idea that women should have autonomy over their own bodies.",1,True,698
+60,"Turn 1
+A: I just don't understand how anyone can think it's okay to dictate what a woman does with her own body. It's her life, her choice.
+B: I get that, but what about the potential life of the unborn? Don't we have a responsibility to consider that too? It's not just about one person's rights.
 
 Turn 2
-A: That makes sense. I guess the key is in how they're implemented. Do you think there could be any legal challenges to these passports?
-B: Definitely. There are already some lawsuits being filed. The arguments usually focus on privacy concerns and potential violations of civil liberties. Courts will have to weigh the public health benefits against these individual rights, so it will be interesting to see how it all plays out.","Reading all of the tweets from both sides, i have a serious question. Does a vax passport to eat in a private restaurant violate any medical discrimination laws?",neutral,1,"Yes, A appears to be neutral. A is simply asking a question about the legality of vaccine passports in private restaurants without expressing a personal opinion or bias. A is seeking information and clarification on the issue.",1,True,1165
-240,"Turn 1
-A: I had to think about which arm to get the shot in because I usually sleep on my left side. I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet. Didn't want to wake up sore and uncomfortable!
-B: Oh, I didn't even consider that! I got mine in my dominant arm, thinking it would help with the soreness since I use it more. Ended up being a bit of a mistake.
+A: But if we start imposing restrictions, where does it end? Your body belongs to you. It doesn't belong to the church, the state or an embryo. Women need the freedom to make decisions without being judged or controlled by others.
+B: I agree that women should have autonomy, but there has to be a balance. We can't ignore the ethical implications and the values that society holds. It's a complex issue that requires careful consideration.","Your body belongs to you. It doesn't belong to the church, the state or an embryo.",against,2,"Yes, I agree. A is arguing against imposing restrictions on women's autonomy over their own bodies, emphasizing that decisions about one's body should not be controlled by external entities like the church, the state, or an embryo.",1,True,745
+91,"Turn 1
+A: I just feel so lost, B. Everyone seems to have an opinion on what I should do, but I don't even know what I want myself.
+B: It's completely understandable to feel that way, A. Remember, this is your life and your body. You have the right to make the decision that feels right for you, without feeling pressured by others.
 
 Turn 2
-A: Yeah, it's funny how these little details matter. Did you have any side effects?
-B: Just a sore arm and a bit of fatigue the next day. I found that moving my arm around a lot helped with the soreness, though.","I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet.",neutral,1,A was sharing a personal experience and a practical consideration regarding vaccination without expressing any strong emotions or opinions. This indicates a neutral tone.,1,True,693
-103,"Turn 1
-A: I've been really worried about the pandemic lately. I keep hearing about the rising number of cases and deaths.
-B: I understand your concern. It's really alarming. But you know, a lot of the severe cases and fatalities are among those who haven't been vaccinated. The vaccine has been shown to significantly reduce the risk of severe illness and death.
+A: I appreciate you saying that. It's just hard to tune out all the voices telling me what they think is best. Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...
+B: I know it's tough, but try to focus on what you truly want. Whatever you decide, I'll be here to support you every step of the way. Your choice matters most.",Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...,favoring,2,"Based on the context of the conversation, A is expressing a belief in personal autonomy regarding the decision to have children. This indicates that A is in favor of the idea that the decision should be up to the person carrying the pregnancy.",1,True,722
+101,"Turn 1
+A: I can't believe they're cutting funding to Planned Parenthood again. It's like they don't care about people's right to make their own choices.
+B: I know, it's infuriating. These services are crucial for so many, not just for abortions but for overall reproductive health.
 
 Turn 2
-A: That makes sense. Hey buddy there's a virus going around killing millions of people across the planet and VAST majority of them haven't taken a single dose of the vaccineI haven't gotten vaccinated yet, but I've been thinking about it.
-B: I really encourage you to do it. It's one of the best ways to protect yourself and others. Plus, it helps in controlling the spread of the virus and saving lives.",Hey buddy there's a virus going around killing millions of people across the planet and VAST majority of them haven't taken a single dose of the vaccine,favoring,2,"Based on the context, A seems to be acknowledging the severity of the pandemic and the importance of vaccination. This suggests that A is favoring the idea of getting vaccinated.",1,True,775
-212,"Turn 1
-A: I just can't believe how much pressure there is to get vaccinated. It feels like everyone is so quick to judge if you have any doubts or concerns.
-B: I get what you're saying. It's definitely a lot to take in, and the social pressure can be overwhelming. But I think people are just really scared and trying to protect themselves and others.
+A: Exactly. It's not just about one issue; it's about access to comprehensive care. Like the govt. is literally taking away your right to live your own life by defunding right nowThis is going to hurt so many people who rely on these services.
+B: Absolutely. We need to keep speaking out and supporting organizations that fight for these rights. It's the only way to push back against these harmful policies.",Like the govt. is literally taking away your right to live your own life by defunding right now,favoring,2,"Yes, A is favoring the continuation of funding for Planned Parenthood and is expressing frustration over the government's decision to cut funding. A believes that defunding these services is a violation of people's rights to make their own choices and access comprehensive care.",1,True,698
+119,"Turn 1
+A: You know, I recently watched this film called ""The Silent Cry."" It was incredibly moving and really made me think deeply about the value of life.
+B: That sounds intense. How did it affect your views on abortion?
 
 Turn 2
-A: Yeah, I understand that, but it feels like society has become so performative about it. Donuts.  A disagree with people trying to force the ""vaccine"" (if you can call it that) but fuck me when did the world get so soft,   Total plebs, trying to get 5 mins of fame.   Can somebody stop the world I want to get off now Like, if you're not posting your vaccine card on social media, you're somehow the bad guy.
-B: True, the performative aspect can be annoying. But maybe it's their way of coping and showing solidarity. Everyone's just trying to navigate this mess in their own way.","Donuts.  A disagree with people trying to force the ""vaccine"" (if you can call it that) but fuck me when did the world get so soft,   Total plebs, trying to get 5 mins of fame.   Can somebody stop the world I want to get off now",against,2,"Yes, A was expressing a strong negative sentiment against the pressure to get vaccinated and the performative nature of it. The use of phrases like ""force the 'vaccine'"", ""fuck me when did the world get so soft"", and ""Total plebs, trying to get 5 mins of fame"" clearly indicate A's opposition and frustration.",1,True,942
-188,"Turn 1
-A: I just realized I might have a scheduling conflict with my COVID-19 vaccination appointment next week. If you can no longer attend your covid-19 vaccination appointment, you can cancel the same way you booked.   Either respond to the booking text from your GP, use the national booking system   or call 119 Do you know how I can cancel it?
-B: Yeah, I had to reschedule mine too. You can either call the hotline or go online to the portal where you booked it. Both options are pretty straightforward.
+A: The film portrayed the struggles of a young woman facing an unplanned pregnancy, and it reinforced my belief that every life has potential, no matter the circumstances. Hadn't seen October Baby until the other night. Had me crying thru the whole thing...I don't cry at movies. So touching!
+B: I can see how that would resonate with you. It's amazing how a story can bring such clarity to our personal beliefs.",Hadn't seen October Baby until the other night. Had me crying thru the whole thing...I don't cry at movies. So touching!,against,2,"Based on the context of the conversation, A is expressing a strong emotional reaction to films that deal with the topic of unplanned pregnancies and the value of life. A mentions that ""The Silent Cry"" reinforced their belief that every life has potential, and ""October Baby"" was so touching it made them cry. This suggests that A is against abortion, as they are moved by stories that emphasize the potential and value of every life.",1,True,642
+3,"Turn 1
+A: I really want us to have children someday, and I feel strongly that if we ever get pregnant, we should bring that child into the world. Abortion just isn't something I can support. Will you be my -unborn babiesyouthgen
+B: I understand how important this is to you, and I want to respect your feelings. It's a big decision, and we need to make sure we're both on the same page about our future and family planning.
 
 Turn 2
-A: Thanks, I'll try the online portal first. Hopefully, I can find a new slot that fits better with my schedule.
-B: No problem! If you run into any issues, just let me know. I found the hotline staff really helpful when I had questions.","If you can no longer attend your covid-19 vaccination appointment, you can cancel the same way you booked.   Either respond to the booking text from your GP, use the national booking system   or call 119",neutral,1,"Yes, I agree. A was providing factual information about how to cancel a COVID-19 vaccination appointment without expressing any personal feelings or opinions.",1,True,754
-4,"Turn 1
-A: It's frustrating how politicians swore up and down that vaccine passports would never happen, and now here we are. It feels like they just say whatever's convenient at the time.
-B: I get where you're coming from, but don't you think the situation has evolved? Maybe they had to adapt their stance as new information came in.
+A: I appreciate you listening. It's just that, for me, every potential life is precious, and I can't imagine choosing otherwise.
+B: I hear you, and I want us to find a way to navigate this together. Let's keep talking about our values and what we both want for our future family.",Will you be my -unborn babiesyouthgen,against,1,"Yes, I agree. Based on the context of the conversation, A is expressing a strong stance against abortion and emphasizing the importance of bringing any potential child into the world. This indicates that A is against abortion.",1,True,711
+7,"Turn 1
+A: I'm really worried about how these new laws might affect women's health and autonomy. It feels like we're moving backwards. I don't plan on ever having an abortion, but here's the thing ...I don't think anyone ever PLANS on it.
+B: I get what you mean. Even though I've never thought about having an abortion myself, I believe it's crucial to keep that option available. Life can be so unpredictable.
 
 Turn 2
-A: Sure, but it still feels like a bait-and-switch. Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member And then there's social media, clamping down on any dissenting opinions. How are we supposed to trust anything when the narrative is so tightly controlled?
-B: That's a fair point. But isn't it also important to prevent the spread of harmful misinformation? It's a tough balance to strike between free speech and public safety.","Keep bending the knee everyone  Remember when Twitter was banning people for ""misinformation"" after users said politicians would enact vaccine passports?  I 'member  Remember when the politicians said they wouldn't do that?  I 'member",against,2,"Yes, A was expressing frustration and skepticism about politicians and social media platforms, indicating a stance against the actions and decisions being discussed.",1,True,956
-202,"Turn 1
-A: You know, I'm really worried about the COVID-19 vaccine. My dad got really sick from a vaccine when I was a kid, and I can't shake that memory. Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""
-B: I understand, that sounds really tough. But I've been reading a lot about the COVID-19 vaccines, and they seem to be quite safe. What specifically worries you about them?
+A: Exactly. It's not just about the choice itself, but about respecting each person's right to make decisions about their own body.
+B: Absolutely. We need to trust women to know what's best for their own lives and circumstances. It's about ensuring everyone has the freedom to choose.","I don't plan on ever having an abortion, but here's the thing ...I don't think anyone ever PLANS on it.",favoring,1,"Yes, I agree. A is expressing concern about the impact of new laws on women's health and autonomy, and emphasizes the importance of having the option available even if they don't plan on using it themselves. This indicates a favoring stance towards maintaining the right to choose.",1,True,702
+2,"Turn 1
+A: ""I just can't seem to let go of these unfinished stories. It's like I'm abandoning them, you know? Like... well, you know what I mean.""I get the whole ""Kill your darlings"" advice, but I feel like an abortionist with all these unfinished stories.
+B: ""I understand what you're trying to say, but you know how I feel about that kind of comparison. Maybe there's another way to look at it?""
 
 Turn 2
-A: I guess it's the fear of the unknown and the possibility of severe side effects. I just don't want to go through what my family did again.
-B: That's completely valid. Maybe we could look at some more information together? It might help to see the data and hear from people who've had positive experiences.","Or watched a parent suffer from Guillain's Barre 15 years ago and no one wants a parent on a vent for a year for a vaccine that wasn't ""experimental.""",against,1,"Yes, I agree. A is expressing concerns and fears about the COVID-19 vaccine, referencing a past traumatic experience with a vaccine that led to severe side effects for a family member. This indicates a stance against the vaccine due to fear of similar outcomes.",1,True,795
-162,"Turn 1
-A: It's been really tough managing my child's CKD with the COVID-19 vaccine delays. I'm constantly worried about their exposure and how it might affect their already fragile health.
-B: I can imagine how stressful that must be. My child has a compromised immune system too, and we're in the same boat. How are you handling the precautions in the meantime?
-
-Turn 2
-A: We're doing everything we can—strict isolation, sanitizing everything, and virtual schooling. How (?) are you immunocompromised? My son has CKD, so we have to treat life like he is. 4 yrs and 8 months and they just pushed back the vaccine. We are devastated. But it's hard to keep up, and the uncertainty is exhausting.
-B: We're doing similar things. It helps to connect with other parents in the same situation. Have you found any particular strategies or resources that have been especially helpful?","How (?) are you immunocompromised? My son has CKD, so we have to treat life like he is. 4 yrs and 8 months and they just pushed back the vaccine. We are devastated.",neutral,2,"A's statement ""How (?) are you immunocompromised?"" is a neutral inquiry seeking more information about B's situation. The rest of the message shares personal experiences and concerns without expressing strong positive or negative emotions.",1,True,874
-227,"Turn 1
-A: I'm really worried about traveling to see my family this holiday. With the pandemic still going on, it feels risky.
-B: I know what you mean. It's so hard to get a COVID test now, and the authorities haven't reopened the drive-thru testing sites. It's frustrating.
-
-Turn 2
-A: Yeah, and it seems like they're just relying on vaccines to solve everything. These states should have reopened all the drive thru sites they had before the vax dropped. It's the holidays and people are gonna travel and they've made it damn near impossible to make sure they're doing so safely. Vaccine or bust is not working. We need more comprehensive measures to feel safe traveling.
-B: Exactly. Vaccines are important, but they shouldn't be the only solution. We need better testing and other safety protocols in place.",These states should have reopened all the drive thru sites they had before the vax dropped. It's the holidays and people are gonna travel and they've made it damn near impossible to make sure they're doing so safely. Vaccine or bust is not working.,against,2,"Yes, I agree. A is expressing frustration and criticism towards the authorities for not reopening the drive-thru testing sites and relying solely on vaccines. A believes that more comprehensive measures, including better testing, are necessary to ensure safe travel during the holidays.",1,True,808
+A: ""You're right, I'm sorry. It's just so hard to move on from something you've invested so much in. How do you deal with it?""
+B: ""I try to see it as part of the creative process. Sometimes, letting go is necessary to make room for new ideas. It's tough, but it's also a way to grow as a writer.""","I get the whole ""Kill your darlings"" advice, but I feel like an abortionist with all these unfinished stories.",against,1,"Yes, A was expressing a strong emotional struggle with the idea of abandoning unfinished stories, comparing it to a very sensitive and controversial topic. This indicates a resistance or opposition to the idea of ""killing your darlings.""",1,True,701
 46,"Turn 1
-A: I just realized I need to get a Polio booster shot before my trip next month. It's a bit of a hassle, but better safe than sorry, right?
-B: Absolutely. I make sure to stay on top of all my vaccinations, especially with everything going on with COVID-19. I've already scheduled my next booster shot.
+A: I can't believe they think it's okay to display those graphic images right here on campus. It's so disturbing and feels really intrusive. like i really need to walk past a bunch of aborted babies to get into the union. get out of my peripheral
+B: Yeah, I get what you mean. It's definitely not something you expect to see on your way to class. It feels really out of place and upsetting.
 
 Turn 2
-A: That's smart. I think I'll do the same for the COVID-19 booster. It is recommended that a fully vaccinated adult (4 doses as a child) get a Polio vaccine booster before traveling to certain countries.   I'll take a COVID booster as many times as it takes. It's important to stay protected, especially when traveling.
-B: Definitely. It's not just about our own health, but also about protecting those around us. Plus, it gives me peace of mind knowing I'm doing my part.",It is recommended that a fully vaccinated adult (4 doses as a child) get a Polio vaccine booster before traveling to certain countries.   I'll take a COVID booster as many times as it takes.,favoring,2,"Yes, I agree. A is expressing a positive attitude towards getting the necessary vaccinations, including the Polio booster and COVID-19 booster, to stay protected while traveling. This shows that A is in favor of taking these health precautions.",1,True,789
-187,"Turn 1
-A: Hey B, I'm finalizing our travel plans to Goa and want to make sure we're following all the health and safety protocols, especially since we have kids with us. Do you know what the current requirements are for crossing state borders?Dear Sir, Want to know if a fully vaccinated person travelling to Goa via Belgaum from Pune without any stay in Karnataka, Do he need to carry RTPCR negative report? Also is there any specific requirement for kids as still no vaccine for kids in India.
-
-B: Yes, I traveled recently, so I can help with that. For adults, you'll need to show proof of vaccination or a negative RT-PCR test taken within 72 hours. For children, especially those who are unvaccinated, it's a bit different. They usually don't need to show a test result, but it's best to carry their ID and any medical documents just in case.
-
-Turn 2
-A: Got it, thanks. So, for the kids, no test is required, but having their ID and medical documents is a good precaution. Anything else we should be aware of?
-
-B: Just make sure everyone wears masks and follows social distancing guidelines. Also, check if there are any specific local regulations in Goa that might affect us once we arrive. Better to be over-prepared than caught off guard.","Dear Sir, Want to know if a fully vaccinated person travelling to Goa via Belgaum from Pune without any stay in Karnataka, Do he need to carry RTPCR negative report? Also is there any specific requirement for kids as still no vaccine for kids in India.",neutral,1,"Yes, I agree. A was being neutral in their inquiry about the travel requirements. They were simply asking for information without expressing any particular emotion or bias.",1,True,1245
-68,"Turn 1
-A: I've been invited to this big outdoor party on Saturday, but I'm a bit hesitant because of COVID-19. What do you think?
-B: I get that. Do you know if they're requiring proof of vaccination or a recent negative test?
+A: I just wish there was a way to have these discussions without resorting to shock tactics. It's such a sensitive topic, and this approach doesn't help anyone.
+B: Absolutely. There should be more respectful ways to engage in these conversations. Everyone has a right to their opinion, but this just feels wrong.",like i really need to walk past a bunch of aborted babies to get into the union. get out of my peripheral,against,1,"Yes, I agree. A is expressing strong disapproval of the graphic images being displayed on campus, describing them as disturbing and intrusive.",1,True,718
+83,"Turn 1
+A: I understand where you're coming from, but I just can't get past the idea that a fetus is a life with its own potential. Im against abortion & i stand by my opinion. No, its NOT just a mass of cells. To me, it's about protecting that life from the moment of conception.
+B: I get that, A, but I believe that a woman should have the right to make decisions about her own body. It's about her autonomy and the ability to choose what's best for her circumstances.
 
 Turn 2
-A: Yeah, they are asking for either proof of vaccination or a negative test within 48 hours. Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test? It sounds pretty safe, but I'm still on the fence.
-B: That does sound reassuring. Maybe you could also check if they have any other safety measures in place, like social distancing or mask requirements, just to be sure.",Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test?,neutral,2,"Yes, I agree. A is presenting the facts about the safety measures in place and is seeking B's opinion on whether it is safe to attend the party. A's tone is neutral as they are weighing the information and looking for additional input.",1,True,711
-176,"Turn 1
-A: Did you see the news from Switzerland? Their hospitals are overwhelmed because of low vaccination rates, and now they're having to postpone critical surgeries and treatments. I have been thinking about that a bit because in Switzerland much lower vaccination rates means they now had to cancel 'elective' surgeries, which includes surgeries I would not call elective ie joint replacements for people unable to function, or even cancer treatment,
-B: It's so frustrating. This is exactly why we need higher vaccination rates. It's not just about COVID-19; it's about keeping the entire healthcare system functional.
+A: I hear you, and I respect a woman's autonomy, but I feel like there's a moral responsibility to consider the fetus's rights too. It's a tough balance, but I think we need to protect those who can't protect themselves.
+B: It's definitely a complex issue. I think we both want to see a world where everyone is respected and cared for, even if we have different ideas on how to achieve that.","Im against abortion & i stand by my opinion. No, its NOT just a mass of cells.",against,1,"Yes, A was expressing a clear stance against abortion, emphasizing their belief that a fetus is a life with its own potential and not just a mass of cells.",1,True,869
+88,"Turn 1
+A: I just don't understand why people who will never experience pregnancy feel the need to dictate what others should do with their bodies.If the fetus isn't inside you, than shut up love
+B: It's not about dictating; it's about protecting what I believe to be innocent life. I think there should be laws to reflect that moral standpoint.
 
 Turn 2
-A: Absolutely. It's heartbreaking to think about patients who need urgent care being turned away because of something preventable.
-B: I know. We need to keep pushing for better public awareness and vaccination efforts. It's the only way to prevent these kinds of disruptions.","I have been thinking about that a bit because in Switzerland much lower vaccination rates means they now had to cancel 'elective' surgeries, which includes surgeries I would not call elective ie joint replacements for people unable to function, or even cancer treatment,",favoring,1,"Yes, I agree. A is favoring higher vaccination rates and expressing concern over the consequences of low vaccination rates, such as the postponement of critical surgeries and treatments. This indicates a supportive stance towards vaccination efforts.",1,True,907
-206,"Turn 1
-A: The latest data shows that the current vaccines and boosters are still highly effective at preventing severe illness, even with the new variants.
-B: That's reassuring to hear. How about the antiviral pills? Are they making a significant impact?
+A: But those laws would directly impact people who are already facing difficult decisions. Shouldn't those who are actually affected have the final say?
+B: I get that, but I believe society has a responsibility to uphold certain moral values, even if it means making tough decisions.","If the fetus isn't inside you, than shut up love",favoring,1,"Yes, I agree. A is favoring the perspective that individuals who are not directly experiencing pregnancy should not have a say in decisions about it. This is evident from A's statement, ""If the fetus isn't inside you, than shut up love,"" which suggests that A believes only those directly affected should have the authority to make decisions regarding pregnancy.",1,True,636
+110,"Turn 1
+A: I just can't believe we're still fighting for basic reproductive rights in this day and age. It's infuriating to see these proposals trying to take us backward.
+B: I know, it's like we're stuck in a time warp. You'd think by now, people would understand the importance of a woman's right to choose.
 
 Turn 2
-A: Yes, they are. The antiviral pills have been crucial in reducing hospitalizations, especially for high-risk patients. With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while But we still need to emphasize the importance of vaccination and boosters to keep the virus under control.
-B: Absolutely. It's a multi-layered approach. We need to keep pushing for preventive measures while ensuring access to treatments.","With vaccine , boosters and pills - hopefully we are close to winning the battle against covid-19 . But, let's not forget Mask and social distancing for a while",favoring,2,"Yes, A was being favoring. A expressed optimism about the combined effectiveness of vaccines, boosters, and antiviral pills in combating COVID-19, while also acknowledging the continued importance of masks and social distancing.",1,True,782
+A: Exactly! I cannot believe there are still people in this century who opposed to women having rights over their own bodies! It's not just about the right to choose, it's about respecting women's autonomy and trusting them to make decisions about their own bodies.
+B: Absolutely. It's frustrating to see how some people still don't get that. We need to keep pushing for progress and not let these regressive attitudes win.",I cannot believe there are still people in this century who opposed to women having rights over their own bodies!,favoring,2,"Yes, A was favoring women's rights and autonomy over their own bodies. The statement expresses disbelief and frustration towards those who oppose these rights, indicating a supportive stance towards women's reproductive rights.",1,True,740
+55,"Turn 1
+A: I just can't help but think about the potential life that's lost with every abortion. Imagine if Beethoven's mother had chosen to abort him; the world would have missed out on so much beauty and genius.
+B: I understand where you're coming from, but isn't it also important to consider the quality of life for both the child and the mother? Sometimes, bringing a child into a difficult situation can lead to more suffering for everyone involved.
+
+Turn 2
+A: That's a fair point, but I believe that every life has inherent value and potential, regardless of the circumstances. As a former fetus I oppose We should focus on providing support to mothers so they don't feel like abortion is their only option.
+B: I agree that support systems are crucial. However, I think it's also important to respect a woman's autonomy and her right to make decisions about her own body. It's a complex issue with no easy answers.",As a former fetus I oppose,against,2,"Yes, I agree. A is expressing opposition to abortion by emphasizing the inherent value and potential of every life, and advocating for support systems to help mothers avoid feeling that abortion is their only option.",1,True,920
+15,"Turn 1
+A: I can't believe what I just heard. This public figure was making such extreme statements about abortion, almost like they were trying to provoke everyone on purpose. So mint! Listening to LIVE & he s talking about being total Evil. Even if you're pro-
+B: That sounds intense. What exactly were they saying that got you so worked up?
+
+Turn 2
+A: They were painting themselves as a villain, saying things like anyone who supports abortion is morally bankrupt. It was so inflammatory and unproductive.
+B: That's really frustrating. It's such a sensitive topic, and using that kind of rhetoric just polarizes people even more. We need more constructive dialogue, not this kind of antagonism.",So mint! Listening to LIVE & he s talking about being total Evil. Even if you're pro-,against,1,"Yes, I agree. A's statements indicate frustration and disapproval of the public figure's extreme and inflammatory rhetoric about abortion. A describes the statements as ""provoking"" and ""unproductive,"" which suggests a negative reaction.",1,True,696
+111,"Turn 1
+A: I'm really worried about these new restrictive abortion laws. They seem to strip away women's ability to make informed decisions about their own health.
+B: I understand your concern. It's crucial that we trust women to make the best decisions for their own safety and well-being. Personal choice and autonomy are fundamental in these matters.
+
+Turn 2
+A: Exactly. It feels like these laws are more about control than care. They know what's best for their safety. Women need to have the freedom to choose what's right for them.
+B: Absolutely. Respecting personal choice is key. We need to continue advocating for policies that support women's rights and ensure they have access to safe and informed healthcare options.",They know what's best for their safety.,favoring,2,"Yes, I agree. A is favoring the perspective that women should have the autonomy to make decisions about their own health and safety, indicating support for women's rights and personal choice.",1,True,726
+49,"Turn 1
+A: You know, I had to unfollow someone on social media the other day. I just unfollowed someone because they tweeted about being pro-life They kept posting pro-life content, and it was just too much for me.
+B: I get that. It can be really overwhelming. I try to manage my feed by muting certain topics, but sometimes it feels like a losing battle.
+
+Turn 2
+A: Yeah, it's tough. I want to stay informed, but I also need to protect my mental health. How do you handle it when you see posts about controversial issues like that?
+B: I usually take a break from social media for a bit. It helps me clear my head and come back with a more balanced perspective. Plus, I remind myself that it's okay to have boundaries online.",I just unfollowed someone because they tweeted about being pro-life,against,1,"Yes, I agree. A's decision to unfollow someone because they posted pro-life content suggests that A is against pro-life views or finds them distressing enough to take action to avoid them.",1,True,724
