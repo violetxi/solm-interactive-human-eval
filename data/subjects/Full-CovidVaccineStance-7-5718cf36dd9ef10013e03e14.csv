@@ -1,0 +1,327 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I can't believe they're still making us wear masks and get vaccinated. It's like they don't trust us to make our own decisions.Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.
+B: I understand it's frustrating, but I think they're just trying to keep everyone safe, especially with new variants still popping up.
+B: I understand it's frustrating, but I think they're just trying to keep everyone safe, especially with new variants still popping up.
+
+Turn 2
+A: But we've been dealing with this for so long. At some point, we have to move on and let people choose what's best for them.
+B: True, but I guess they want to ensure that the workplace remains safe for everyone, especially those who might be more vulnerable.",neutral,2024-09-30T07:29:25.141000+00:00,"Based on the statement ""Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I can't believe they're still making us wear masks and get vaccinated. It's like they don't trust us to make our own decisions.Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.
+B: I understand it's frustrating, but I think they're just trying to keep everyone safe, especially with new variants still popping up.
+B: I understand it's frustrating, but I think they're just trying to keep everyone safe, especially with new variants still popping up.
+
+Turn 2
+A: But we've been dealing with this for so long. At some point, we have to move on and let people choose what's best for them.
+B: True, but I guess they want to ensure that the workplace remains safe for everyone, especially those who might be more vulnerable.","Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.",neutral
+"Turn 1
+A: I totally get why you're nervous about the vaccine. I was really anxious about the needle too.
+B: Yeah, it's been stressing me out. I just can't stand needles, and the thought of it makes me so uneasy.
+
+Turn 2
+A: I felt the same way, but I managed to book an appointment quickly once I was eligible. I don't do well with needles, so I can understand people's concerns with that. BUT, as soon as I was eligible for my vaccine (and my booster), I got online to look up where I could get an appointment. It helped to focus on the bigger picture and the importance of getting vaccinated.
+B: That's a good point. Maybe I should try to think about it that way too. Thanks for sharing your experience.",ambiguous,2024-09-30T07:30:49.804000+00:00,"Based on the statement ""I don't do well with needles, so I can understand people's concerns with that. BUT, as soon as I was eligible for my vaccine (and my booster), I got online to look up where I could get an appointment."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I totally get why you're nervous about the vaccine. I was really anxious about the needle too.
+B: Yeah, it's been stressing me out. I just can't stand needles, and the thought of it makes me so uneasy.
+
+Turn 2
+A: I felt the same way, but I managed to book an appointment quickly once I was eligible. I don't do well with needles, so I can understand people's concerns with that. BUT, as soon as I was eligible for my vaccine (and my booster), I got online to look up where I could get an appointment. It helped to focus on the bigger picture and the importance of getting vaccinated.
+B: That's a good point. Maybe I should try to think about it that way too. Thanks for sharing your experience.","I don't do well with needles, so I can understand people's concerns with that. BUT, as soon as I was eligible for my vaccine (and my booster), I got online to look up where I could get an appointment.",ambiguous
+"Turn 1
+A: I was scrolling through social media last night and saw a post by that influencer, you know the one with millions of followers. They were spreading some really questionable information about the COVID-19 vaccine.
+B: Oh no, that's so frustrating. It's really dangerous when people with such a large platform spread misinformation, especially about something as important as vaccines. My grandparents are elderly, and I worry about them all the time.
+
+Turn 2
+A: Absolutely, it's so irresponsible. People don't realize how their words can impact others, especially those who are vulnerable.
+B: Exactly. It's crucial that we rely on accurate information and encourage everyone to get vaccinated. It's not just about protecting ourselves, but also those who are at higher risk.Sure. I guess to each their own.  Personally I'd rather not have someone out there spreading misinformation that's possibly going to get people that aren't as fortunate as he is physically killed.  But you know, I also loved my grandparents.",favoring,2024-09-30T07:19:28.788000+00:00,"Based on the statement ""Sure. I guess to each their own.  Personally I'd rather not have someone out there spreading misinformation that's possibly going to get people that aren't as fortunate as he is physically killed.  But you know, I also loved my grandparents."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I was scrolling through social media last night and saw a post by that influencer, you know the one with millions of followers. They were spreading some really questionable information about the COVID-19 vaccine.
+B: Oh no, that's so frustrating. It's really dangerous when people with such a large platform spread misinformation, especially about something as important as vaccines. My grandparents are elderly, and I worry about them all the time.
+
+Turn 2
+A: Absolutely, it's so irresponsible. People don't realize how their words can impact others, especially those who are vulnerable.
+B: Exactly. It's crucial that we rely on accurate information and encourage everyone to get vaccinated. It's not just about protecting ourselves, but also those who are at higher risk.Sure. I guess to each their own.  Personally I'd rather not have someone out there spreading misinformation that's possibly going to get people that aren't as fortunate as he is physically killed.  But you know, I also loved my grandparents.","Sure. I guess to each their own.  Personally I'd rather not have someone out there spreading misinformation that's possibly going to get people that aren't as fortunate as he is physically killed.  But you know, I also loved my grandparents.",favoring
+"Turn 1
+A: You know, it's interesting you bring that up. One big difference is the speed at which the COVID-19 vaccine was developed and rolled out. With polio, it took years of research and trials before it was widely available. The rapid development of the COVID-19 vaccine has made some people uneasy, even though the science behind it is solid.
+
+B: That makes sense. But why do you think there's so much skepticism despite the evidence showing the vaccine's effectiveness?
+
+Turn 2
+A: Part of it is the sheer volume of information, and misinformation, that's so easily accessible now. Social media can amplify doubts and spread false claims quickly. In my experience at the hospital, though, I've seen firsthand how effective the vaccine is in preventing severe illness and keeping people out of the ICU.
+
+B: I guess seeing those real-life outcomes would make a big difference. It's just hard to sift through all the noise sometimes.It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.",against,2024-09-30T07:13:54.774000+00:00,"Based on the statement ""It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: You know, it's interesting you bring that up. One big difference is the speed at which the COVID-19 vaccine was developed and rolled out. With polio, it took years of research and trials before it was widely available. The rapid development of the COVID-19 vaccine has made some people uneasy, even though the science behind it is solid.
+
+B: That makes sense. But why do you think there's so much skepticism despite the evidence showing the vaccine's effectiveness?
+
+Turn 2
+A: Part of it is the sheer volume of information, and misinformation, that's so easily accessible now. Social media can amplify doubts and spread false claims quickly. In my experience at the hospital, though, I've seen firsthand how effective the vaccine is in preventing severe illness and keeping people out of the ICU.
+
+B: I guess seeing those real-life outcomes would make a big difference. It's just hard to sift through all the noise sometimes.It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.",It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.,against
+"Turn 1
+A: I've been feeling pretty rough since I got the COVID-19 vaccine. The side effects have been more intense than I expected.
+B: I'm sorry to hear that. It sounds really tough. Have you been able to rest and take care of yourself?
+
+Turn 2
+A: Yeah, I've been trying to, but it's hard not to worry about whether it was the right decision. The side effects are making me second-guess everything. Thank you for your support.  My reaction to the vaccine. is not fun, by a long shot.  Some people are lucky and only have a sore arm.  But other people do have reactions.  We don't know if the booster will truly help us. Getting the shot is risky for some peole.  I wish you luck.
+B: I understand. It's a big decision, and it's normal to have doubts, especially when you're not feeling well. Just know that I'm here for you if you need anything.",against,2024-09-30T07:24:33.584000+00:00,"Based on the statement ""Thank you for your support.  My reaction to the vaccine. is not fun, by a long shot.  Some people are lucky and only have a sore arm.  But other people do have reactions.  We don't know if the booster will truly help us. Getting the shot is risky for some peole.  I wish you luck."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I've been feeling pretty rough since I got the COVID-19 vaccine. The side effects have been more intense than I expected.
+B: I'm sorry to hear that. It sounds really tough. Have you been able to rest and take care of yourself?
+
+Turn 2
+A: Yeah, I've been trying to, but it's hard not to worry about whether it was the right decision. The side effects are making me second-guess everything. Thank you for your support.  My reaction to the vaccine. is not fun, by a long shot.  Some people are lucky and only have a sore arm.  But other people do have reactions.  We don't know if the booster will truly help us. Getting the shot is risky for some peole.  I wish you luck.
+B: I understand. It's a big decision, and it's normal to have doubts, especially when you're not feeling well. Just know that I'm here for you if you need anything.","Thank you for your support.  My reaction to the vaccine. is not fun, by a long shot.  Some people are lucky and only have a sore arm.  But other people do have reactions.  We don't know if the booster will truly help us. Getting the shot is risky for some peole.  I wish you luck.",against
+"Turn 1
+A: Hey B, how have you been holding up? I just got my COVID-19 vaccine last week.
+B: Oh, that's good to hear. I've been doing alright. I haven't had many vaccinations over the years, but I understand why people are getting this one.Who is we? Prior to taking the Astra since Covid started, I haven't had a vaccine shot since high school. Not saying people don't do it, to MY knowledge, it's not a widespread argument thing. I can be corrected if I am wrong.
+
+Turn 2
+A: Yeah, it's been quite a change for everyone. I figured it was a good step to take, especially with everything going on.
+B: Definitely. It's interesting to see how everyone's handling it differently. I guess we all have our own ways of dealing with these things.",neutral,2024-09-30T07:15:40.462000+00:00,"Based on the statement ""Who is we? Prior to taking the Astra since Covid started, I haven't had a vaccine shot since high school. Not saying people don't do it, to MY knowledge, it's not a widespread argument thing. I can be corrected if I am wrong."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: Hey B, how have you been holding up? I just got my COVID-19 vaccine last week.
+B: Oh, that's good to hear. I've been doing alright. I haven't had many vaccinations over the years, but I understand why people are getting this one.Who is we? Prior to taking the Astra since Covid started, I haven't had a vaccine shot since high school. Not saying people don't do it, to MY knowledge, it's not a widespread argument thing. I can be corrected if I am wrong.
+
+Turn 2
+A: Yeah, it's been quite a change for everyone. I figured it was a good step to take, especially with everything going on.
+B: Definitely. It's interesting to see how everyone's handling it differently. I guess we all have our own ways of dealing with these things.","Who is we? Prior to taking the Astra since Covid started, I haven't had a vaccine shot since high school. Not saying people don't do it, to MY knowledge, it's not a widespread argument thing. I can be corrected if I am wrong.",neutral
+"Turn 1
+A: I've been reading some pretty alarming news about the recent surge in COVID-19 cases due to a new variant. It seems like the transmission rates are really high, and I'm worried because people aren't as cautious as they were before.
+B: Yeah, I noticed that too. I got my booster shot recently, and it definitely gives me some peace of mind. It's so important to stay protected, especially with these new variants popping up.
+
+Turn 2
+A: That makes sense. I haven't gotten my booster yet, but with everything going on, I feel like I need to get it as soon as possible.Man, turns out I live in a place where Omicron is spreading like wildfire, cases are almost as when the pandemic was at its worst but restrictions are way more relaxed. I need to get the 3rd vaccine asap damnit
+B: Absolutely, it's a good idea. The booster can really help boost your immunity, and it's one of the best ways to protect yourself and others around you.",favoring,2024-09-30T07:14:41.797000+00:00,"Based on the statement ""Man, turns out I live in a place where Omicron is spreading like wildfire, cases are almost as when the pandemic was at its worst but restrictions are way more relaxed. I need to get the 3rd vaccine asap damnit"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I've been reading some pretty alarming news about the recent surge in COVID-19 cases due to a new variant. It seems like the transmission rates are really high, and I'm worried because people aren't as cautious as they were before.
+B: Yeah, I noticed that too. I got my booster shot recently, and it definitely gives me some peace of mind. It's so important to stay protected, especially with these new variants popping up.
+
+Turn 2
+A: That makes sense. I haven't gotten my booster yet, but with everything going on, I feel like I need to get it as soon as possible.Man, turns out I live in a place where Omicron is spreading like wildfire, cases are almost as when the pandemic was at its worst but restrictions are way more relaxed. I need to get the 3rd vaccine asap damnit
+B: Absolutely, it's a good idea. The booster can really help boost your immunity, and it's one of the best ways to protect yourself and others around you.","Man, turns out I live in a place where Omicron is spreading like wildfire, cases are almost as when the pandemic was at its worst but restrictions are way more relaxed. I need to get the 3rd vaccine asap damnit",favoring
+"Turn 1
+A: I've been wondering, how are vaccination centers staffed? Does it pull healthcare professionals away from surgeries and other NHS services?
+
+B: Actually, the staffing model for vaccination centers is designed to minimize disruption. I work at a vaccination centre ( not at a surgery ) on my days off and the only staff giving the vaccines are retired GPs, nurses, midwives, physios and paramedics all working on  their days off. No resources taken away from surgeries or othe NHS services. Many centers use a mix of retired healthcare workers, volunteers, and part-time staff, so it doesn't significantly impact regular NHS services.
+
+Turn 2
+A: That's good to hear. I was concerned that the vaccination efforts might be straining our resources.
+
+B: Understandable concern, but the planning has been quite thorough. Regular services continue smoothly while we also manage the vaccination drive effectively.",favoring,2024-09-30T07:18:02.427000+00:00,"Based on the statement ""I work at a vaccination centre ( not at a surgery ) on my days off and the only staff giving the vaccines are retired GPs, nurses, midwives, physios and paramedics all working on  their days off. No resources taken away from surgeries or othe NHS services."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I've been wondering, how are vaccination centers staffed? Does it pull healthcare professionals away from surgeries and other NHS services?
+
+B: Actually, the staffing model for vaccination centers is designed to minimize disruption. I work at a vaccination centre ( not at a surgery ) on my days off and the only staff giving the vaccines are retired GPs, nurses, midwives, physios and paramedics all working on  their days off. No resources taken away from surgeries or othe NHS services. Many centers use a mix of retired healthcare workers, volunteers, and part-time staff, so it doesn't significantly impact regular NHS services.
+
+Turn 2
+A: That's good to hear. I was concerned that the vaccination efforts might be straining our resources.
+
+B: Understandable concern, but the planning has been quite thorough. Regular services continue smoothly while we also manage the vaccination drive effectively.","I work at a vaccination centre ( not at a surgery ) on my days off and the only staff giving the vaccines are retired GPs, nurses, midwives, physios and paramedics all working on  their days off. No resources taken away from surgeries or othe NHS services.",favoring
+"Turn 1
+A: You know, with the CFP coming up, I'm really curious about how the NCAA is handling the COVID-19 protocols this year. It seems like there's a lot at stake, especially with the new variants.
+B: Yeah, I've been wondering about that too. Do you think the NCAA has done enough to ensure player safety, especially when it comes to the vaccine rollout?
+
+Turn 2
+A: Honestly, I think they could have done a lot more. The vaccine is crucial for keeping everyone safe, and I feel like the NCAA's approach has been somewhat lackluster. A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront... They should have been more proactive in encouraging vaccinations and setting stricter guidelines.
+B: I get what you're saying, but isn't it also up to the individual schools and players to take responsibility? The NCAA can only do so much, right?",favoring,2024-09-30T07:22:14.426000+00:00,"Based on the statement ""A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront..."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: You know, with the CFP coming up, I'm really curious about how the NCAA is handling the COVID-19 protocols this year. It seems like there's a lot at stake, especially with the new variants.
+B: Yeah, I've been wondering about that too. Do you think the NCAA has done enough to ensure player safety, especially when it comes to the vaccine rollout?
+
+Turn 2
+A: Honestly, I think they could have done a lot more. The vaccine is crucial for keeping everyone safe, and I feel like the NCAA's approach has been somewhat lackluster. A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront... They should have been more proactive in encouraging vaccinations and setting stricter guidelines.
+B: I get what you're saying, but isn't it also up to the individual schools and players to take responsibility? The NCAA can only do so much, right?",A couple of thoughts real quick on the whole CFP Covid protocols. 1) I have been very open about my belief in the vaccine and people being safe. 2) The NCAA has been a ridiculous entity that has never once really put the safety of players of sanctity of CFB at the forefront...,favoring
+"Turn 1
+A: You know, I got vaccinated mainly to protect my dad. He's in his 80s and I wanted to do everything I could to keep him safe. But recently, I've been hearing some unsettling things about the vaccine, and now I'm really worried I might have done more harm than good.
+B: I totally understand where you're coming from. I've had my reservations about the vaccine from the start. It's tough when you're trying to make the best decision with the information you have, and then new concerns come up.
+
+Turn 2
+A: Exactly. I just feel so anxious now, thinking that I might have put him at risk without realizing it. I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick. It's been weighing on me a lot.
+B: It's a difficult situation for sure. I think it's important to keep discussing these concerns and staying informed. You're not alone in feeling this way, and it's okay to question things and make decisions that feel right for you and your family.",against,2024-09-30T07:12:43.871000+00:00,"Based on the statement ""I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: You know, I got vaccinated mainly to protect my dad. He's in his 80s and I wanted to do everything I could to keep him safe. But recently, I've been hearing some unsettling things about the vaccine, and now I'm really worried I might have done more harm than good.
+B: I totally understand where you're coming from. I've had my reservations about the vaccine from the start. It's tough when you're trying to make the best decision with the information you have, and then new concerns come up.
+
+Turn 2
+A: Exactly. I just feel so anxious now, thinking that I might have put him at risk without realizing it. I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick. It's been weighing on me a lot.
+B: It's a difficult situation for sure. I think it's important to keep discussing these concerns and staying informed. You're not alone in feeling this way, and it's okay to question things and make decisions that feel right for you and your family.","I'm one of them.  I got the Pfizer vax to protect my father. Instead, I may have put him at more risk...   I'm done with the shots... They can smell my dick.",against
+"Turn 1
+A: I'm really worried about this new vaccine mandate for students. It feels rushed, and I'm not convinced it's necessary or safe for our kids.
+B: I understand your concern, but we've had vaccine requirements for other diseases for years, like measles and polio. These measures have been crucial in keeping our schools safe and healthy.
+
+Turn 2
+A: But those vaccines have been around for decades, and we know a lot more about them. This one is still so new.
+B: True, but the COVID-19 vaccine has undergone rigorous testing and has been shown to be effective. Not wanting to start a political rhubarb, but are you okay with measles, mumps, rubella vax for school kids? or basically any of the other five to ten vax they have to take to be in school? Just like with other vaccines, it's about protecting not only our own children but the entire school community.",against,2024-09-30T07:28:45.966000+00:00,"Based on the statement ""Not wanting to start a political rhubarb, but are you okay with measles, mumps, rubella vax for school kids? or basically any of the other five to ten vax they have to take to be in school?"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I'm really worried about this new vaccine mandate for students. It feels rushed, and I'm not convinced it's necessary or safe for our kids.
+B: I understand your concern, but we've had vaccine requirements for other diseases for years, like measles and polio. These measures have been crucial in keeping our schools safe and healthy.
+
+Turn 2
+A: But those vaccines have been around for decades, and we know a lot more about them. This one is still so new.
+B: True, but the COVID-19 vaccine has undergone rigorous testing and has been shown to be effective. Not wanting to start a political rhubarb, but are you okay with measles, mumps, rubella vax for school kids? or basically any of the other five to ten vax they have to take to be in school? Just like with other vaccines, it's about protecting not only our own children but the entire school community.","Not wanting to start a political rhubarb, but are you okay with measles, mumps, rubella vax for school kids? or basically any of the other five to ten vax they have to take to be in school?",against
+"Turn 1
+A: I've been looking at the latest data, and it seems like our first-dose uptake is strong, but there's a significant drop-off for the second dose. The ambitious goal to fully vaccinate the entire adult population is proving difficult. People are not returning to receive their second dose, and motivating them poses complex challenges. We need to understand why people aren't coming back.
+B: That's concerning. From the community outreach perspective, I've heard some people are worried about side effects, while others think one dose is enough. We might need to address these misconceptions more directly.
+
+Turn 2
+A: Agreed. We could develop targeted messaging that emphasizes the importance of the second dose for full protection. Maybe we can also highlight positive stories from those who completed their vaccination.
+B: That's a good idea. We could also partner with local influencers to spread the word and reassure the community. Let's brainstorm a list of potential partners and draft some key messages.",favoring,2024-09-30T07:22:50.289000+00:00,"Based on the statement ""The ambitious goal to fully vaccinate the entire adult population is proving difficult. People are not returning to receive their second dose, and motivating them poses complex challenges."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I've been looking at the latest data, and it seems like our first-dose uptake is strong, but there's a significant drop-off for the second dose. The ambitious goal to fully vaccinate the entire adult population is proving difficult. People are not returning to receive their second dose, and motivating them poses complex challenges. We need to understand why people aren't coming back.
+B: That's concerning. From the community outreach perspective, I've heard some people are worried about side effects, while others think one dose is enough. We might need to address these misconceptions more directly.
+
+Turn 2
+A: Agreed. We could develop targeted messaging that emphasizes the importance of the second dose for full protection. Maybe we can also highlight positive stories from those who completed their vaccination.
+B: That's a good idea. We could also partner with local influencers to spread the word and reassure the community. Let's brainstorm a list of potential partners and draft some key messages.","The ambitious goal to fully vaccinate the entire adult population is proving difficult. People are not returning to receive their second dose, and motivating them poses complex challenges.",favoring
+"Turn 1
+A: I've been watching a lot of TV lately, but it's getting so repetitive.
+B: Oh really? Have you seen any good shows or news?
+
+Turn 2
+A: Not really. The news is just the same stuff over and over about COVID-19, vaccines, and boosters. It's like  soon as the tv comes on the 1st thing I hear is either covid, vaccine or booster it's like they have nothing else to talk about, sure enough it's turned off within minutes
+B: Yeah, it can be pretty exhausting to keep hearing about the same topics all the time.",ambiguous,2024-09-30T07:28:19.071000+00:00,"Based on the statement ""It's like  soon as the tv comes on the 1st thing I hear is either covid, vaccine or booster it's like they have nothing else to talk about, sure enough it's turned off within minutes"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I've been watching a lot of TV lately, but it's getting so repetitive.
+B: Oh really? Have you seen any good shows or news?
+
+Turn 2
+A: Not really. The news is just the same stuff over and over about COVID-19, vaccines, and boosters. It's like  soon as the tv comes on the 1st thing I hear is either covid, vaccine or booster it's like they have nothing else to talk about, sure enough it's turned off within minutes
+B: Yeah, it can be pretty exhausting to keep hearing about the same topics all the time.","It's like  soon as the tv comes on the 1st thing I hear is either covid, vaccine or booster it's like they have nothing else to talk about, sure enough it's turned off within minutes",ambiguous
+"Turn 1
+A: I just got my booster shot last weekend. Have you been vaccinated yet?
+B: No, I haven't. I've been focusing on staying healthy through good hygiene and self-care practices. I've been covid for the whole pandemic, I just take care of myself and practice good hygiene. The vaccine lessens symptoms, it doesn't stop you from catching covid. It's worked well for me so far.
+
+Turn 2
+A: That's good to hear. I think the vaccine helps manage symptoms if you do get sick, but it's great that you've found a routine that keeps you well.
+B: Absolutely. I believe it's all about finding what works best for each person and being mindful of our health choices.",ambiguous,2024-09-30T07:18:44.499000+00:00,"Based on the statement ""I've been covid for the whole pandemic, I just take care of myself and practice good hygiene. The vaccine lessens symptoms, it doesn't stop you from catching covid."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I just got my booster shot last weekend. Have you been vaccinated yet?
+B: No, I haven't. I've been focusing on staying healthy through good hygiene and self-care practices. I've been covid for the whole pandemic, I just take care of myself and practice good hygiene. The vaccine lessens symptoms, it doesn't stop you from catching covid. It's worked well for me so far.
+
+Turn 2
+A: That's good to hear. I think the vaccine helps manage symptoms if you do get sick, but it's great that you've found a routine that keeps you well.
+B: Absolutely. I believe it's all about finding what works best for each person and being mindful of our health choices.","I've been covid for the whole pandemic, I just take care of myself and practice good hygiene. The vaccine lessens symptoms, it doesn't stop you from catching covid.",ambiguous
+"Turn 1
+A: It's been really tough, you know? Losing my grandparents to COVID was heartbreaking, and now my sister is so hesitant about getting the vaccine. Our dad's strong opinions aren't helping either.
+B: I'm so sorry, A. That sounds incredibly difficult. It's understandable why your sister might feel conflicted, especially with your dad's influence. Have you had a chance to talk to her about it?
+
+Turn 2
+A: Yeah, I've tried, but she's really scared and confused. She respects our dad a lot, and his views are making her doubt everything.I feel for this woman! My sister had Covid AFTER Both her grandparents died from it the start of this. Idk if she's going to get vaccinated. I hope she does. But her side of the family is very anti Covid vaccine… hard to convince her when her own dad won't get it as a veteran.
+B: I get that. Maybe sharing some factual information or stories from people who've had positive experiences with the vaccine could help her see things differently. I'm here for you both, whatever you need.",favoring,2024-09-30T07:23:47.314000+00:00,"Based on the statement ""I feel for this woman! My sister had Covid AFTER Both her grandparents died from it the start of this. Idk if she's going to get vaccinated. I hope she does. But her side of the family is very anti Covid vaccine… hard to convince her when her own dad won't get it as a veteran."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: It's been really tough, you know? Losing my grandparents to COVID was heartbreaking, and now my sister is so hesitant about getting the vaccine. Our dad's strong opinions aren't helping either.
+B: I'm so sorry, A. That sounds incredibly difficult. It's understandable why your sister might feel conflicted, especially with your dad's influence. Have you had a chance to talk to her about it?
+
+Turn 2
+A: Yeah, I've tried, but she's really scared and confused. She respects our dad a lot, and his views are making her doubt everything.I feel for this woman! My sister had Covid AFTER Both her grandparents died from it the start of this. Idk if she's going to get vaccinated. I hope she does. But her side of the family is very anti Covid vaccine… hard to convince her when her own dad won't get it as a veteran.
+B: I get that. Maybe sharing some factual information or stories from people who've had positive experiences with the vaccine could help her see things differently. I'm here for you both, whatever you need.",I feel for this woman! My sister had Covid AFTER Both her grandparents died from it the start of this. Idk if she's going to get vaccinated. I hope she does. But her side of the family is very anti Covid vaccine… hard to convince her when her own dad won't get it as a veteran.,favoring
+"Turn 1
+A: I'm so excited! Did you hear that some countries are lifting travel restrictions and no longer requiring vaccine passports? It feels like we're finally getting back to normal.
+B: Yeah, I heard about that. It's about time, honestly. These restrictions have been such a hassle. I think it's time to end all these COVID-19 measures altogether.
+
+Turn 2
+A: I know what you mean. It's been tough not being able to travel freely. I can't wait to plan my next trip without worrying about all the paperwork and requirements.
+B: Exactly. It's been a real infringement on our personal freedoms. Hopefully, more countries will follow suit soon and we can all move on with our lives.This great,  I hope the rest of the MPs who had plans to go abroad, do so.  This whole thing is over. Open it all up.  Scrap the restrictions, scrap the vaxx pass(doesn't do anything other than discriminate), back to normal.",against,2024-09-30T07:32:23.092000+00:00,"Based on the statement ""This great,  I hope the rest of the MPs who had plans to go abroad, do so.  This whole thing is over. Open it all up.  Scrap the restrictions, scrap the vaxx pass(doesn't do anything other than discriminate), back to normal."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I'm so excited! Did you hear that some countries are lifting travel restrictions and no longer requiring vaccine passports? It feels like we're finally getting back to normal.
+B: Yeah, I heard about that. It's about time, honestly. These restrictions have been such a hassle. I think it's time to end all these COVID-19 measures altogether.
+
+Turn 2
+A: I know what you mean. It's been tough not being able to travel freely. I can't wait to plan my next trip without worrying about all the paperwork and requirements.
+B: Exactly. It's been a real infringement on our personal freedoms. Hopefully, more countries will follow suit soon and we can all move on with our lives.This great,  I hope the rest of the MPs who had plans to go abroad, do so.  This whole thing is over. Open it all up.  Scrap the restrictions, scrap the vaxx pass(doesn't do anything other than discriminate), back to normal.","This great,  I hope the rest of the MPs who had plans to go abroad, do so.  This whole thing is over. Open it all up.  Scrap the restrictions, scrap the vaxx pass(doesn't do anything other than discriminate), back to normal.",against
+"Turn 1
+A: I had a medical appointment last week, and I was really impressed by how strict they were with COVID-19 safety measures. Everyone had to wear masks, and they even checked for vaccination status at the door.
+B: That sounds great. I wish the place I went to was like that. I recently visited a healthcare facility, and they barely had any precautions in place. It was really concerning.
+
+Turn 2
+A: Wow, that's surprising. You'd think all healthcare facilities would be on top of this by now.
+B: Exactly. I had a similar experience at my dentist's office. They didn't even ask about vaccination status, and it made me really uneasy. Walked into my dentist office today to discover zero masking. Woman behind me asked and was told they weren't required.  She then asked about needing to show vaccine cards and was told no also.  I left and am seeking a new dentist. Wth, right? It's so important for these places to maintain strict protocols.",favoring,2024-09-30T07:31:36.822000+00:00,"Based on the statement ""Walked into my dentist office today to discover zero masking. Woman behind me asked and was told they weren't required.  She then asked about needing to show vaccine cards and was told no also.  I left and am seeking a new dentist. Wth, right?"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I had a medical appointment last week, and I was really impressed by how strict they were with COVID-19 safety measures. Everyone had to wear masks, and they even checked for vaccination status at the door.
+B: That sounds great. I wish the place I went to was like that. I recently visited a healthcare facility, and they barely had any precautions in place. It was really concerning.
+
+Turn 2
+A: Wow, that's surprising. You'd think all healthcare facilities would be on top of this by now.
+B: Exactly. I had a similar experience at my dentist's office. They didn't even ask about vaccination status, and it made me really uneasy. Walked into my dentist office today to discover zero masking. Woman behind me asked and was told they weren't required.  She then asked about needing to show vaccine cards and was told no also.  I left and am seeking a new dentist. Wth, right? It's so important for these places to maintain strict protocols.","Walked into my dentist office today to discover zero masking. Woman behind me asked and was told they weren't required.  She then asked about needing to show vaccine cards and was told no also.  I left and am seeking a new dentist. Wth, right?",favoring
+"Turn 1
+A: I'm really looking forward to Christmas, but I'm planning to follow the health guidelines, you know, just to be safe around our elderly relatives. I'm getting my booster shot next week and will wear a mask when needed.
+B: I get that you're being cautious, but honestly, I think it's overkill. My family and I are just going to enjoy the holiday without all these restrictions. We've been fine so far without them.
+
+Turn 2
+A: I understand your perspective, but I just want to minimize any risks, especially for our grandparents. It's a small effort for peace of mind.
+B: I hear you, but I trust that we'll be okay. No vaccine, no mask, perfectly comfortable celebrating Christmas with my full family because we're no a bunch of brain dead sheep. You're a fool if you listen to this moron. We've been through enough this past year, and I don't want to let fear ruin our celebration.",against,2024-09-30T07:30:06.077000+00:00,"Based on the statement ""No vaccine, no mask, perfectly comfortable celebrating Christmas with my full family because we're no a bunch of brain dead sheep. You're a fool if you listen to this moron."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I'm really looking forward to Christmas, but I'm planning to follow the health guidelines, you know, just to be safe around our elderly relatives. I'm getting my booster shot next week and will wear a mask when needed.
+B: I get that you're being cautious, but honestly, I think it's overkill. My family and I are just going to enjoy the holiday without all these restrictions. We've been fine so far without them.
+
+Turn 2
+A: I understand your perspective, but I just want to minimize any risks, especially for our grandparents. It's a small effort for peace of mind.
+B: I hear you, but I trust that we'll be okay. No vaccine, no mask, perfectly comfortable celebrating Christmas with my full family because we're no a bunch of brain dead sheep. You're a fool if you listen to this moron. We've been through enough this past year, and I don't want to let fear ruin our celebration.","No vaccine, no mask, perfectly comfortable celebrating Christmas with my full family because we're no a bunch of brain dead sheep. You're a fool if you listen to this moron.",against
+"Turn 1
+A: You know, my surgery got postponed a few times because the hospital was just swamped with COVID-19 patients. It was really frustrating, especially since many of them were unvaccinated. Considering I had two surgical delays due to unvaccinated covidiots taking up hospital beds and shutting down elective surgeries, I do not have enough eyeroll to deal with such stupidity.  (Very glad I got in and out before Omicron, but very annoyed at this wilful obtuseness.) It was really frustrating, especially since many of them were unvaccinated.
+B: That must have been so stressful. It's tough to see how the healthcare system is stretched so thin. Did they give you any idea of when things might get back to normal?
+
+Turn 2
+A: They didn't have a clear answer. It's just a waiting game. It's disheartening to think that some of these delays could have been avoided.
+B: Absolutely. It really highlights the importance of everyone doing their part to help ease the burden on hospitals.",favoring,2024-09-30T07:21:08.514000+00:00,"Based on the statement ""Considering I had two surgical delays due to unvaccinated covidiots taking up hospital beds and shutting down elective surgeries, I do not have enough eyeroll to deal with such stupidity.  (Very glad I got in and out before Omicron, but very annoyed at this wilful obtuseness.)"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: You know, my surgery got postponed a few times because the hospital was just swamped with COVID-19 patients. It was really frustrating, especially since many of them were unvaccinated. Considering I had two surgical delays due to unvaccinated covidiots taking up hospital beds and shutting down elective surgeries, I do not have enough eyeroll to deal with such stupidity.  (Very glad I got in and out before Omicron, but very annoyed at this wilful obtuseness.) It was really frustrating, especially since many of them were unvaccinated.
+B: That must have been so stressful. It's tough to see how the healthcare system is stretched so thin. Did they give you any idea of when things might get back to normal?
+
+Turn 2
+A: They didn't have a clear answer. It's just a waiting game. It's disheartening to think that some of these delays could have been avoided.
+B: Absolutely. It really highlights the importance of everyone doing their part to help ease the burden on hospitals.","Considering I had two surgical delays due to unvaccinated covidiots taking up hospital beds and shutting down elective surgeries, I do not have enough eyeroll to deal with such stupidity.  (Very glad I got in and out before Omicron, but very annoyed at this wilful obtuseness.)",favoring
+"Turn 1
+A: It's been such a rollercoaster these past two years, hasn't it? Between the lockdowns and all the debates about the vaccine, it's been hard to keep up.
+B: Absolutely, it was overwhelming at first. But honestly, I found some silver linings. I reconnected with my faith and made some really meaningful friendships during this time.I was so quick to despair when hearing the news of all these vaccine mandates and no foreseeable end. But looking back on the past two years, they've been the best two years of my life. I reverted to the faith, befriended the most joyous and holy people, and learned to love life
+
+Turn 2
+A: That's wonderful to hear. I think finding those positive aspects is so important. For me, the uncertainty was tough, but it also pushed me to reflect on what truly matters.
+B: Exactly. It's amazing how such challenging times can lead to personal growth. I feel like I've come out of this stronger and more connected to the things that really matter.",ambiguous,2024-09-30T07:26:38.343000+00:00,"Based on the statement ""I was so quick to despair when hearing the news of all these vaccine mandates and no foreseeable end. But looking back on the past two years, they've been the best two years of my life. I reverted to the faith, befriended the most joyous and holy people, and learned to love life"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: It's been such a rollercoaster these past two years, hasn't it? Between the lockdowns and all the debates about the vaccine, it's been hard to keep up.
+B: Absolutely, it was overwhelming at first. But honestly, I found some silver linings. I reconnected with my faith and made some really meaningful friendships during this time.I was so quick to despair when hearing the news of all these vaccine mandates and no foreseeable end. But looking back on the past two years, they've been the best two years of my life. I reverted to the faith, befriended the most joyous and holy people, and learned to love life
+
+Turn 2
+A: That's wonderful to hear. I think finding those positive aspects is so important. For me, the uncertainty was tough, but it also pushed me to reflect on what truly matters.
+B: Exactly. It's amazing how such challenging times can lead to personal growth. I feel like I've come out of this stronger and more connected to the things that really matter.","I was so quick to despair when hearing the news of all these vaccine mandates and no foreseeable end. But looking back on the past two years, they've been the best two years of my life. I reverted to the faith, befriended the most joyous and holy people, and learned to love life",ambiguous
+"Turn 1
+A: You know, I've been reading a lot of articles and posts lately that have me a bit worried about the COVID-19 vaccines. Some of them suggest there's been an increase in deaths since the vaccines were rolled out. Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this... What do you think about that?
+
+B: I understand your concerns, A. There's a lot of information out there, and it can be overwhelming. As someone who's been involved in the vaccination campaign, I can tell you that the vaccines have been thoroughly tested and monitored for safety. The reports you're referring to often lack context and can be misleading. The benefits of vaccination in preventing severe illness and death far outweigh the risks.
+
+Turn 2
+A: That makes sense, but it's still a bit unsettling to hear those kinds of reports. How do we know for sure that the vaccines are safe in the long term?
+
+B: It's a valid question. Long-term safety is continuously monitored through various systems and studies. So far, the data shows that the vaccines are not only effective but also safe over the long term. The rigorous approval process and ongoing surveillance are designed to catch any potential issues early. It's important to rely on credible sources and scientific evidence when evaluating such information.",against,2024-09-30T07:27:48.262000+00:00,"Based on the statement ""Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this..."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: You know, I've been reading a lot of articles and posts lately that have me a bit worried about the COVID-19 vaccines. Some of them suggest there's been an increase in deaths since the vaccines were rolled out. Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this... What do you think about that?
+
+B: I understand your concerns, A. There's a lot of information out there, and it can be overwhelming. As someone who's been involved in the vaccination campaign, I can tell you that the vaccines have been thoroughly tested and monitored for safety. The reports you're referring to often lack context and can be misleading. The benefits of vaccination in preventing severe illness and death far outweigh the risks.
+
+Turn 2
+A: That makes sense, but it's still a bit unsettling to hear those kinds of reports. How do we know for sure that the vaccines are safe in the long term?
+
+B: It's a valid question. Long-term safety is continuously monitored through various systems and studies. So far, the data shows that the vaccines are not only effective but also safe over the long term. The rigorous approval process and ongoing surveillance are designed to catch any potential issues early. It's important to rely on credible sources and scientific evidence when evaluating such information.","Hey, doc! What are your thoughts on the fact that world data for basically every country shows a massive sustained increase in deaths starting at the exact time the spike protein inducing mRNA vaccines were introduced? I've yet to find 1 doctor on Twitter who will address this...",against
+"Turn 1
+A: We finally got our booster shots last week, which was a relief. But I'm really worried about my daughter. She's been trying to get her first dose for weeks now, and the wait times are just ridiculous.
+B: That sounds frustrating. It's really concerning that younger people are having such a hard time. They need to streamline the process better so everyone can get vaccinated without all this hassle.
+
+Turn 2
+A: Exactly. It's not just about availability; the organization is a mess. She had to take time off work twice already, only to be told to come back another day. Great but my 27 year old daughter cannot get without waiting hours in the cold. Not happening. This needs to be organized better and not the vaccine hunger games again. Thankfully myself and her father who are in are 60s and 70 are triple vaxxed this could have been organized
+B: That's unacceptable. They need to fix this soon. It's causing unnecessary stress and delays for people who are eager to get vaccinated.",against,2024-09-30T07:20:19.426000+00:00,"Based on the statement ""Great but my 27 year old daughter cannot get without waiting hours in the cold. Not happening. This needs to be organized better and not the vaccine hunger games again. Thankfully myself and her father who are in are 60s and 70 are triple vaxxed this could have been organized"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: We finally got our booster shots last week, which was a relief. But I'm really worried about my daughter. She's been trying to get her first dose for weeks now, and the wait times are just ridiculous.
+B: That sounds frustrating. It's really concerning that younger people are having such a hard time. They need to streamline the process better so everyone can get vaccinated without all this hassle.
+
+Turn 2
+A: Exactly. It's not just about availability; the organization is a mess. She had to take time off work twice already, only to be told to come back another day. Great but my 27 year old daughter cannot get without waiting hours in the cold. Not happening. This needs to be organized better and not the vaccine hunger games again. Thankfully myself and her father who are in are 60s and 70 are triple vaxxed this could have been organized
+B: That's unacceptable. They need to fix this soon. It's causing unnecessary stress and delays for people who are eager to get vaccinated.",Great but my 27 year old daughter cannot get without waiting hours in the cold. Not happening. This needs to be organized better and not the vaccine hunger games again. Thankfully myself and her father who are in are 60s and 70 are triple vaxxed this could have been organized,against
+"Turn 1
+A: I went to the local vaccine center the other day to get my COVID-19 booster shot, but they turned me away because of age restrictions. The place was completely empty, too.
+B: That's frustrating. I got mine through my GP, and it was really straightforward. They've been very proactive about getting everyone vaccinated.
+
+Turn 2
+A: It's great that your GP is on top of it. I wish the vaccine centers were more flexible, especially when they have the capacity.Definetely not the case in vaccine centres unfortunately. Tried Sligo centre twice last weekend when there was literally zero people trying to register and was turned away for being too young. Luckily my local GP was boosting like a bould thing all week.
+B: Absolutely. It's so important to get vaccinated, and it shouldn't be this hard depending on where you go.",favoring,2024-09-30T07:16:33.612000+00:00,"Based on the statement ""Definetely not the case in vaccine centres unfortunately. Tried Sligo centre twice last weekend when there was literally zero people trying to register and was turned away for being too young. Luckily my local GP was boosting like a bould thing all week."" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I went to the local vaccine center the other day to get my COVID-19 booster shot, but they turned me away because of age restrictions. The place was completely empty, too.
+B: That's frustrating. I got mine through my GP, and it was really straightforward. They've been very proactive about getting everyone vaccinated.
+
+Turn 2
+A: It's great that your GP is on top of it. I wish the vaccine centers were more flexible, especially when they have the capacity.Definetely not the case in vaccine centres unfortunately. Tried Sligo centre twice last weekend when there was literally zero people trying to register and was turned away for being too young. Luckily my local GP was boosting like a bould thing all week.
+B: Absolutely. It's so important to get vaccinated, and it shouldn't be this hard depending on where you go.",Definetely not the case in vaccine centres unfortunately. Tried Sligo centre twice last weekend when there was literally zero people trying to register and was turned away for being too young. Luckily my local GP was boosting like a bould thing all week.,favoring
+"Turn 1
+A: I read an article about a new COVID-19 vaccine called NVAX that's expected to be approved soon. It sounds really promising!
+B: Oh, I've heard about that too. A lot of people seem to be looking forward to it, especially those who are hesitant about the mRNA vaccines.
+
+Turn 2
+A: Yeah, I think some people are more comfortable with the traditional vaccine technology. It might change how people feel about getting vaccinated.
+B: Definitely. It'll be interesting to see if more people decide to get vaccinated once NVAX is available. Lol, pfizer and moderna be like, giv will give you 100 dollar to get a our boosters because once NVAX is on market, no one will want mRNA based vaccines any longer It could really help with the overall vaccination rates.",favoring,2024-09-30T07:17:21.916000+00:00,"Based on the statement ""Lol, pfizer and moderna be like, giv will give you 100 dollar to get a our boosters because once NVAX is on market, no one will want mRNA based vaccines any longer"" in the given conversation, what is the speaker's stance on the COVID-19 vaccine?","Turn 1
+A: I read an article about a new COVID-19 vaccine called NVAX that's expected to be approved soon. It sounds really promising!
+B: Oh, I've heard about that too. A lot of people seem to be looking forward to it, especially those who are hesitant about the mRNA vaccines.
+
+Turn 2
+A: Yeah, I think some people are more comfortable with the traditional vaccine technology. It might change how people feel about getting vaccinated.
+B: Definitely. It'll be interesting to see if more people decide to get vaccinated once NVAX is available. Lol, pfizer and moderna be like, giv will give you 100 dollar to get a our boosters because once NVAX is on market, no one will want mRNA based vaccines any longer It could really help with the overall vaccination rates.","Lol, pfizer and moderna be like, giv will give you 100 dollar to get a our boosters because once NVAX is on market, no one will want mRNA based vaccines any longer",favoring
