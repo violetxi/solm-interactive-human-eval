@@ -80,7 +80,7 @@ function App() {
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
   const [shuffledChoices, setShuffledChoices] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_7.csv'); // Track the dataset being used
+  const [currentDataset, setCurrentDataset] = useState('set_8.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);

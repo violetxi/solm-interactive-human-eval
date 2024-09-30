@@ -1,0 +1,321 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I'm really struggling with this decision. I never thought I'd be in this position, and I just don't know what to do.
+B: I understand, A. It's such a difficult situation. You know, my cousin went through something similar when she was younger. She made a choice that she thought was right at the time, but it's something that has weighed heavily on her ever since.
+
+Turn 2
+A: That sounds really tough. I hadn't thought much about the long-term impact. It's hard to see past the immediate stress and fear.
+B: It is tough, and I think that's why it's important to consider all aspects. My cousin often talks about how she wishes she had thought more about the future and the emotional consequences. My wife had an abortion when she was young She regrets it to this day Whatever you decide, just make sure it's something you can live with in the long run.",ambiguous,2024-09-30T17:12:23.827000+00:00,"What was the person's stance on abortion when they said ""My wife had an abortion when she was young She regrets it to this day"" during the conversation?","Turn 1
+A: I'm really struggling with this decision. I never thought I'd be in this position, and I just don't know what to do.
+B: I understand, A. It's such a difficult situation. You know, my cousin went through something similar when she was younger. She made a choice that she thought was right at the time, but it's something that has weighed heavily on her ever since.
+
+Turn 2
+A: That sounds really tough. I hadn't thought much about the long-term impact. It's hard to see past the immediate stress and fear.
+B: It is tough, and I think that's why it's important to consider all aspects. My cousin often talks about how she wishes she had thought more about the future and the emotional consequences. My wife had an abortion when she was young She regrets it to this day Whatever you decide, just make sure it's something you can live with in the long run.",My wife had an abortion when she was young She regrets it to this day,ambiguous
+"Turn 1
+A: It's about protecting the most vulnerable among us. Every embryo has the potential to become a life, and we have a moral duty to safeguard that potential.
+B: But what about the embryos in fertility clinics? Are you suggesting that every single one of them should be given a chance to develop? The logistics of that are overwhelming.
+
+Turn 2
+A: Yes, I believe we should strive to protect them too. It's a matter of principle; we can't just pick and choose which lives are worth saving.
+B: So, you're saying we should have millions of embryos implanted and brought to term? That's not just impractical, it's impossible. . perhaps you want to go to the fertility clinics & rescue them all. How many can you fit in your womb. How do you propose we handle that?",favoring,2024-09-30T17:15:51.731000+00:00,"What was the person's stance on abortion when they said "". perhaps you want to go to the fertility clinics & rescue them all. How many can you fit in your womb."" during the conversation?","Turn 1
+A: It's about protecting the most vulnerable among us. Every embryo has the potential to become a life, and we have a moral duty to safeguard that potential.
+B: But what about the embryos in fertility clinics? Are you suggesting that every single one of them should be given a chance to develop? The logistics of that are overwhelming.
+
+Turn 2
+A: Yes, I believe we should strive to protect them too. It's a matter of principle; we can't just pick and choose which lives are worth saving.
+B: So, you're saying we should have millions of embryos implanted and brought to term? That's not just impractical, it's impossible. . perhaps you want to go to the fertility clinics & rescue them all. How many can you fit in your womb. How do you propose we handle that?",. perhaps you want to go to the fertility clinics & rescue them all. How many can you fit in your womb.,favoring
+"Turn 1
+A: I understand that this is a sensitive topic, but I believe the government has a role in protecting unborn lives. It's about ensuring that every potential life has a chance.
+B: But you have to consider that it's not just about potential lives; it's about the real, lived experiences of women. We need to have the autonomy to make decisions about our own bodies.
+
+Turn 2
+A: I get that, but isn't there a balance to be struck between individual rights and societal responsibilities?
+B: The balance should start with respecting women's rights to make personal choices. It's frustrating when our perspectives are sidelined in these discussions.I think a woman should have the choice of what to do with HER BODY.. But, what do I know? Im only a woman sure",favoring,2024-09-30T17:12:14.037000+00:00,"What was the person's stance on abortion when they said ""I think a woman should have the choice of what to do with HER BODY.. But, what do I know? Im only a woman sure"" during the conversation?","Turn 1
+A: I understand that this is a sensitive topic, but I believe the government has a role in protecting unborn lives. It's about ensuring that every potential life has a chance.
+B: But you have to consider that it's not just about potential lives; it's about the real, lived experiences of women. We need to have the autonomy to make decisions about our own bodies.
+
+Turn 2
+A: I get that, but isn't there a balance to be struck between individual rights and societal responsibilities?
+B: The balance should start with respecting women's rights to make personal choices. It's frustrating when our perspectives are sidelined in these discussions.I think a woman should have the choice of what to do with HER BODY.. But, what do I know? Im only a woman sure","I think a woman should have the choice of what to do with HER BODY.. But, what do I know? Im only a woman sure",favoring
+"Turn 1
+A: I just don't know what to do. Everything feels so overwhelming right now, and I can't stop thinking about all the possible outcomes.
+B: It's completely understandable to feel that way. Remember, you have the right to make the choice that feels best for you. Whatever you decide, I'm here to support you.
+
+Turn 2
+A: Thank you. It's just hard to block out all the voices and opinions from everyone else. I want to make the right decision for myself.
+B: Trust yourself. You know what's best for you You know what's best for your happiness You know what's best for your well beingYou know what's best for your life and your future. Take your time, and know that I'm here with you every step of the way.",favoring,2024-09-30T17:16:11.927000+00:00,"What was the person's stance on abortion when they said ""You know what's best for you You know what's best for your happiness You know what's best for your well being"" during the conversation?","Turn 1
+A: I just don't know what to do. Everything feels so overwhelming right now, and I can't stop thinking about all the possible outcomes.
+B: It's completely understandable to feel that way. Remember, you have the right to make the choice that feels best for you. Whatever you decide, I'm here to support you.
+
+Turn 2
+A: Thank you. It's just hard to block out all the voices and opinions from everyone else. I want to make the right decision for myself.
+B: Trust yourself. You know what's best for you You know what's best for your happiness You know what's best for your well beingYou know what's best for your life and your future. Take your time, and know that I'm here with you every step of the way.",You know what's best for you You know what's best for your happiness You know what's best for your well being,favoring
+"Turn 1
+A: I read this article about a new law they're proposing that would make it really hard for people to access abortion services here. It's worrying to think about how it could affect those who aren't ready or able to have children right now.
+B: Yeah, that is concerning. It feels like it could really limit people's options and force them into situations they're not prepared for. It's important for individuals to have the freedom to make such personal decisions.
+
+Turn 2
+A: Exactly. Not everyone has the financial stability or support system to raise a child, and this law doesn't seem to take that into account. I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense.
+B: Right. And beyond just the immediate impact, it could have long-term effects on people's lives and futures. We need to trust people to know what's best for their own circumstances.",favoring,2024-09-30T17:11:12.800000+00:00,"What was the person's stance on abortion when they said ""I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense."" during the conversation?","Turn 1
+A: I read this article about a new law they're proposing that would make it really hard for people to access abortion services here. It's worrying to think about how it could affect those who aren't ready or able to have children right now.
+B: Yeah, that is concerning. It feels like it could really limit people's options and force them into situations they're not prepared for. It's important for individuals to have the freedom to make such personal decisions.
+
+Turn 2
+A: Exactly. Not everyone has the financial stability or support system to raise a child, and this law doesn't seem to take that into account. I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense.
+B: Right. And beyond just the immediate impact, it could have long-term effects on people's lives and futures. We need to trust people to know what's best for their own circumstances.",I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense.,favoring
+"Turn 1
+A: I've been thinking about finally visiting Prince Edward Island. It's been on my bucket list for ages.
+B: That sounds amazing! PEI is beautiful. But have you considered how recent changes in certain policies might affect your travel plans?
+
+Turn 2
+A: You mean like the local laws and regulations? Yeah, I always try to be mindful of those, especially when it comes to issues that are important to me. I will visit PEI when all women can get a lawful medical abortion on the island.
+B: Exactly. It's great that you're thinking about that. It's important to support places that align with our values, especially when it comes to fundamental rights.",favoring,2024-09-30T17:11:40.987000+00:00,"What was the person's stance on abortion when they said ""I will visit PEI when all women can get a lawful medical abortion on the island."" during the conversation?","Turn 1
+A: I've been thinking about finally visiting Prince Edward Island. It's been on my bucket list for ages.
+B: That sounds amazing! PEI is beautiful. But have you considered how recent changes in certain policies might affect your travel plans?
+
+Turn 2
+A: You mean like the local laws and regulations? Yeah, I always try to be mindful of those, especially when it comes to issues that are important to me. I will visit PEI when all women can get a lawful medical abortion on the island.
+B: Exactly. It's great that you're thinking about that. It's important to support places that align with our values, especially when it comes to fundamental rights.",I will visit PEI when all women can get a lawful medical abortion on the island.,favoring
+"Turn 1
+A: It's been really tough dealing with this case. The young girl is only 14, and the trauma she's gone through is unimaginable. The restrictive laws made it so much harder for her to get the help she needed.
+
+B: That sounds absolutely heartbreaking. I can't even begin to imagine what she's going through. It's so frustrating that these laws don't take into account the individual circumstances and the severe impact on these young girls' lives.
+
+Turn 2
+A: Exactly. It's not just about the physical health risks, but the emotional and psychological toll as well. Forcing her to carry the pregnancy to term just seems so cruel, given everything she's already endured. I would never expect an 11 year old girl to have to carry a pregnancy to term
+
+B: I completely agree. We need to have more compassionate and supportive options available for these young girls. It's about protecting their well-being and giving them a chance to heal and move forward with their lives.",favoring,2024-09-30T17:13:45.153000+00:00,"What was the person's stance on abortion when they said ""I would never expect an 11 year old girl to have to carry a pregnancy to term"" during the conversation?","Turn 1
+A: It's been really tough dealing with this case. The young girl is only 14, and the trauma she's gone through is unimaginable. The restrictive laws made it so much harder for her to get the help she needed.
+
+B: That sounds absolutely heartbreaking. I can't even begin to imagine what she's going through. It's so frustrating that these laws don't take into account the individual circumstances and the severe impact on these young girls' lives.
+
+Turn 2
+A: Exactly. It's not just about the physical health risks, but the emotional and psychological toll as well. Forcing her to carry the pregnancy to term just seems so cruel, given everything she's already endured. I would never expect an 11 year old girl to have to carry a pregnancy to term
+
+B: I completely agree. We need to have more compassionate and supportive options available for these young girls. It's about protecting their well-being and giving them a chance to heal and move forward with their lives.",I would never expect an 11 year old girl to have to carry a pregnancy to term,favoring
+"Turn 1
+A: Did you hear about the new law that just got passed? It's a huge step forward for women's health and rights.
+B: Oh, really? Tell me more! I've been hoping for some positive changes in that area.
+
+Turn 2
+A: It expands access to safe and legal abortions and ensures more comprehensive reproductive healthcare. It's such a relief to see progress being made.
+B: That's fantastic news! It's about time women had more control over their own healthcare decisions. putting abortion in with choices for women just won my heart over. Yaaaaaas!This really aligns with what we've always believed in.",favoring,2024-09-30T17:11:30.306000+00:00,"What was the person's stance on abortion when they said ""putting abortion in with choices for women just won my heart over. Yaaaaaas!"" during the conversation?","Turn 1
+A: Did you hear about the new law that just got passed? It's a huge step forward for women's health and rights.
+B: Oh, really? Tell me more! I've been hoping for some positive changes in that area.
+
+Turn 2
+A: It expands access to safe and legal abortions and ensures more comprehensive reproductive healthcare. It's such a relief to see progress being made.
+B: That's fantastic news! It's about time women had more control over their own healthcare decisions. putting abortion in with choices for women just won my heart over. Yaaaaaas!This really aligns with what we've always believed in.",putting abortion in with choices for women just won my heart over. Yaaaaaas!,favoring
+"Turn 1
+A: It's been really tough for her, you know? She faced so much judgment from people who didn't even know her situation. We tried to be there for her as much as possible, but it was clear she needed to make her own decision.
+
+B: Absolutely. It's such a personal thing, and everyone has different circumstances. I think it's crucial that she had the space to decide what was best for her without external pressure.
+
+Turn 2
+A: Yeah, and seeing her go through that made me realize how important it is to support each other without imposing our own beliefs. She needed understanding, not judgment.
+
+B: Exactly. It's about respecting her autonomy and trusting that she knows what's best for her own life. Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...No one else should have the right to make that call for her.",favoring,2024-09-30T17:16:20.570000+00:00,"What was the person's stance on abortion when they said ""Whether someone wants to have children or not should be completely up to the person carrying that pregnancy..."" during the conversation?","Turn 1
+A: It's been really tough for her, you know? She faced so much judgment from people who didn't even know her situation. We tried to be there for her as much as possible, but it was clear she needed to make her own decision.
+
+B: Absolutely. It's such a personal thing, and everyone has different circumstances. I think it's crucial that she had the space to decide what was best for her without external pressure.
+
+Turn 2
+A: Yeah, and seeing her go through that made me realize how important it is to support each other without imposing our own beliefs. She needed understanding, not judgment.
+
+B: Exactly. It's about respecting her autonomy and trusting that she knows what's best for her own life. Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...No one else should have the right to make that call for her.",Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...,favoring
+"Turn 1
+A: It's been really inspiring to see how our recent campaigns have made a tangible difference in protecting endangered species. The community's support has been overwhelming.
+B: That's great to hear. It's interesting, though, how some causes get so much attention while others seem to be overlooked. For instance, I feel like certain social issues, like the right to life, don't receive the same level of advocacy and media coverage.I get several requests with petitions to save whales but never to stop the slaughter of babies in the wombs of mothers.
+
+Turn 2
+A: I understand what you're saying. Different issues resonate with different groups, and sometimes it can be challenging to balance attention across various important causes.
+B: Exactly. I think it's crucial for us to find ways to bring more awareness and action to those issues that aren't as prominently highlighted, ensuring all voices and concerns are heard.",against,2024-09-30T17:12:36.592000+00:00,"What was the person's stance on abortion when they said ""I get several requests with petitions to save whales but never to stop the slaughter of babies in the wombs of mothers."" during the conversation?","Turn 1
+A: It's been really inspiring to see how our recent campaigns have made a tangible difference in protecting endangered species. The community's support has been overwhelming.
+B: That's great to hear. It's interesting, though, how some causes get so much attention while others seem to be overlooked. For instance, I feel like certain social issues, like the right to life, don't receive the same level of advocacy and media coverage.I get several requests with petitions to save whales but never to stop the slaughter of babies in the wombs of mothers.
+
+Turn 2
+A: I understand what you're saying. Different issues resonate with different groups, and sometimes it can be challenging to balance attention across various important causes.
+B: Exactly. I think it's crucial for us to find ways to bring more awareness and action to those issues that aren't as prominently highlighted, ensuring all voices and concerns are heard.",I get several requests with petitions to save whales but never to stop the slaughter of babies in the wombs of mothers.,against
+"Turn 1
+A: It's really disheartening to see these legislative changes being celebrated. It feels like a step backward in so many ways.
+B: I know what you mean. These laws disproportionately affect marginalized communities, making it even harder for them to access essential healthcare.
+
+Turn 2
+A: Exactly. And it's not just about this one issue. We need to address the broader systemic problems that perpetuate inequality and injustice. I'll celebrate when EVERYONE in this country is equally free & not living in fear & poverty!
+B: Absolutely. True equality means tackling all the interconnected issues, not just celebrating isolated victories. It's a long and complex fight, but it's necessary.",ambiguous,2024-09-30T17:14:07.199000+00:00,"What was the person's stance on abortion when they said ""I'll celebrate when EVERYONE in this country is equally free & not living in fear & poverty!"" during the conversation?","Turn 1
+A: It's really disheartening to see these legislative changes being celebrated. It feels like a step backward in so many ways.
+B: I know what you mean. These laws disproportionately affect marginalized communities, making it even harder for them to access essential healthcare.
+
+Turn 2
+A: Exactly. And it's not just about this one issue. We need to address the broader systemic problems that perpetuate inequality and injustice. I'll celebrate when EVERYONE in this country is equally free & not living in fear & poverty!
+B: Absolutely. True equality means tackling all the interconnected issues, not just celebrating isolated victories. It's a long and complex fight, but it's necessary.",I'll celebrate when EVERYONE in this country is equally free & not living in fear & poverty!,ambiguous
+"Turn 1
+A: You know, I was talking to a colleague the other day who just made a huge breakthrough in cancer research. It got me thinking about how many potential innovators we might be losing before they even have a chance to make their mark.
+B: That's a compelling point. Every unborn child could have the potential to contribute something significant to society. It's something we often overlook when discussing these issues.
+
+Turn 2
+A: Exactly. It's not just about the present; it's about the future contributions that could change the world. Imagine if we had lost someone like my colleague before they had the chance to make their discovery. I wonder if ever wonder if the pregnant they denied accurate to could have been the one to cure cancer.
+B: Absolutely. As a social worker, I see so many children with untapped potential. Each one has a unique set of possibilities that could benefit society in ways we can't even predict.",ambiguous,2024-09-30T17:16:30.464000+00:00,"What was the person's stance on abortion when they said ""I wonder if ever wonder if the pregnant they denied accurate to could have been the one to cure cancer."" during the conversation?","Turn 1
+A: You know, I was talking to a colleague the other day who just made a huge breakthrough in cancer research. It got me thinking about how many potential innovators we might be losing before they even have a chance to make their mark.
+B: That's a compelling point. Every unborn child could have the potential to contribute something significant to society. It's something we often overlook when discussing these issues.
+
+Turn 2
+A: Exactly. It's not just about the present; it's about the future contributions that could change the world. Imagine if we had lost someone like my colleague before they had the chance to make their discovery. I wonder if ever wonder if the pregnant they denied accurate to could have been the one to cure cancer.
+B: Absolutely. As a social worker, I see so many children with untapped potential. Each one has a unique set of possibilities that could benefit society in ways we can't even predict.",I wonder if ever wonder if the pregnant they denied accurate to could have been the one to cure cancer.,ambiguous
+"Turn 1
+A: I know this is an incredibly difficult situation for you, and I want to support you as much as I can. Have you thought about all the possible options and their implications?
+B: I have, but it's so overwhelming. I feel like I'm being pulled in so many directions, and I don't know what the right choice is. I just want to make sure I'm doing what's best for everyone involved.
+
+Turn 2
+A: I understand. It's important to consider the long-term impact of any decision you make. repent wen u commit a grave act like murder of a baby did u ur baby?yes? then YOU repent! s 4 eternity Have you spoken to anyone else about this, like a counselor or a support group, to get more perspectives?
+B: Not yet. I wanted to talk to you first because I value your opinion and I know you always try to do what's morally right. I just need to figure out what that means for me in this situation.",against,2024-09-30T17:14:22.970000+00:00,"What was the person's stance on abortion when they said ""repent wen u commit a grave act like murder of a baby did u ur baby?yes? then YOU repent! s 4 eternity"" during the conversation?","Turn 1
+A: I know this is an incredibly difficult situation for you, and I want to support you as much as I can. Have you thought about all the possible options and their implications?
+B: I have, but it's so overwhelming. I feel like I'm being pulled in so many directions, and I don't know what the right choice is. I just want to make sure I'm doing what's best for everyone involved.
+
+Turn 2
+A: I understand. It's important to consider the long-term impact of any decision you make. repent wen u commit a grave act like murder of a baby did u ur baby?yes? then YOU repent! s 4 eternity Have you spoken to anyone else about this, like a counselor or a support group, to get more perspectives?
+B: Not yet. I wanted to talk to you first because I value your opinion and I know you always try to do what's morally right. I just need to figure out what that means for me in this situation.",repent wen u commit a grave act like murder of a baby did u ur baby?yes? then YOU repent! s 4 eternity,against
+"Turn 1
+A: I can't believe Mr. Patrick is pushing for this bill. It's like he doesn't understand the impact it will have on so many women.
+B: Absolutely. It's frustrating to see politicians making decisions that don't consider the real-life consequences for those affected.
+
+Turn 2
+A: Exactly. It's not just about the clinics; it's about respecting personal choices and freedoms.He's not concerned about women's health, it's all about control. Stay outta my lady parts, Mr. Patrick!
+B: Right, and it feels like they're trying to control something that should be a private matter. It's really disheartening.",favoring,2024-09-30T17:15:25.064000+00:00,"What was the person's stance on abortion when they said ""He's not concerned about women's health, it's all about control. Stay outta my lady parts, Mr. Patrick!"" during the conversation?","Turn 1
+A: I can't believe Mr. Patrick is pushing for this bill. It's like he doesn't understand the impact it will have on so many women.
+B: Absolutely. It's frustrating to see politicians making decisions that don't consider the real-life consequences for those affected.
+
+Turn 2
+A: Exactly. It's not just about the clinics; it's about respecting personal choices and freedoms.He's not concerned about women's health, it's all about control. Stay outta my lady parts, Mr. Patrick!
+B: Right, and it feels like they're trying to control something that should be a private matter. It's really disheartening.","He's not concerned about women's health, it's all about control. Stay outta my lady parts, Mr. Patrick!",favoring
+"Turn 1
+A: Looks like there's a pro-life demonstration happening over there by the Student Union.
+B: Oh, really? What's it about?
+
+Turn 2
+A: They're probably advocating for their views on abortion and related policies. It seems like a pretty organized event. UB Students for Life and are currently on North Campus by the Student Union speaking out against
+B: Interesting. I wonder how many people are involved and what kind of discussions they're having.",against,2024-09-30T17:12:55.115000+00:00,"What was the person's stance on abortion when they said ""UB Students for Life and are currently on North Campus by the Student Union speaking out against"" during the conversation?","Turn 1
+A: Looks like there's a pro-life demonstration happening over there by the Student Union.
+B: Oh, really? What's it about?
+
+Turn 2
+A: They're probably advocating for their views on abortion and related policies. It seems like a pretty organized event. UB Students for Life and are currently on North Campus by the Student Union speaking out against
+B: Interesting. I wonder how many people are involved and what kind of discussions they're having.",UB Students for Life and are currently on North Campus by the Student Union speaking out against,against
+"Turn 1
+A: I'm really glad we're finally making it to this rally. It's so important for us to be there and show our support.
+B: Absolutely. I think our presence can really make a difference. Have you figured out the best way to get to the rally location?
+
+Turn 2
+A: Yes, I was thinking we could take the bus that stops near the café. En route to Parnell Square for the rally for life!! It should get us there with plenty of time to spare.
+B: That sounds perfect. I'm excited to see everyone gathered together for this cause. It's going to be a powerful experience.",favoring,2024-09-30T17:12:03.256000+00:00,"What was the person's stance on abortion when they said ""En route to Parnell Square for the rally for life!!"" during the conversation?","Turn 1
+A: I'm really glad we're finally making it to this rally. It's so important for us to be there and show our support.
+B: Absolutely. I think our presence can really make a difference. Have you figured out the best way to get to the rally location?
+
+Turn 2
+A: Yes, I was thinking we could take the bus that stops near the café. En route to Parnell Square for the rally for life!! It should get us there with plenty of time to spare.
+B: That sounds perfect. I'm excited to see everyone gathered together for this cause. It's going to be a powerful experience.",En route to Parnell Square for the rally for life!!,favoring
+"Turn 1
+A: It's been a tough journey, but I'm grateful for the support I've had. This whole experience has made me think a lot about how important it is for everyone to have control over their own bodies.
+B: I can only imagine how challenging it's been for you. It's so important to have the freedom to make decisions that are right for us individually.
+
+Turn 2
+A: Exactly. I mean, going through this has really opened my eyes to how crucial it is to have options and support, no matter what the situation is. Coming from a female that was taken away the ability to have children. I still believe women should have the ability to choose.
+B: Absolutely. Everyone's circumstances are different, and having the ability to choose what's best for ourselves is something we should all have.",favoring,2024-09-30T17:16:02.113000+00:00,"What was the person's stance on abortion when they said ""Coming from a female that was taken away the ability to have children. I still believe women should have the ability to choose."" during the conversation?","Turn 1
+A: It's been a tough journey, but I'm grateful for the support I've had. This whole experience has made me think a lot about how important it is for everyone to have control over their own bodies.
+B: I can only imagine how challenging it's been for you. It's so important to have the freedom to make decisions that are right for us individually.
+
+Turn 2
+A: Exactly. I mean, going through this has really opened my eyes to how crucial it is to have options and support, no matter what the situation is. Coming from a female that was taken away the ability to have children. I still believe women should have the ability to choose.
+B: Absolutely. Everyone's circumstances are different, and having the ability to choose what's best for ourselves is something we should all have.",Coming from a female that was taken away the ability to have children. I still believe women should have the ability to choose.,favoring
+"Turn 1
+A: You know, reading that article on the proposed changes to abortion laws made me realize how uncomfortable I am with the procedure itself. It's such a complex issue.
+B: I get that. But when you say you're uncomfortable, are you saying you don't support a woman's right to choose?
+
+Turn 2
+A: It's not that simple for me. While I personally struggle with the idea of abortion, I also believe that women should have the autonomy to make decisions about their own bodies. who is for it. I'm not. But am for a women's right to her own body. It's a tough balance between my personal feelings and supporting legal rights.
+B: That makes sense. It's important to recognize the difference between personal beliefs and the broader implications of legal rights. Thanks for clarifying.",favoring,2024-09-30T17:13:07.587000+00:00,"What was the person's stance on abortion when they said ""who is for it. I'm not. But am for a women's right to her own body."" during the conversation?","Turn 1
+A: You know, reading that article on the proposed changes to abortion laws made me realize how uncomfortable I am with the procedure itself. It's such a complex issue.
+B: I get that. But when you say you're uncomfortable, are you saying you don't support a woman's right to choose?
+
+Turn 2
+A: It's not that simple for me. While I personally struggle with the idea of abortion, I also believe that women should have the autonomy to make decisions about their own bodies. who is for it. I'm not. But am for a women's right to her own body. It's a tough balance between my personal feelings and supporting legal rights.
+B: That makes sense. It's important to recognize the difference between personal beliefs and the broader implications of legal rights. Thanks for clarifying.",who is for it. I'm not. But am for a women's right to her own body.,favoring
+"Turn 1
+A: I understand your perspective, but what about cases where the mother's health is at serious risk? Shouldn't there be exceptions in such dire situations?
+B: I believe every life is precious, and we should do everything possible to protect both the mother and the unborn child. There are often alternatives that can be considered.
+
+Turn 2
+A: But what if those alternatives aren't viable? Sometimes, the reality is that the only option to save the mother's life is to terminate the pregnancy.
+B: It's a difficult situation, no doubt. However, I think we need to focus on improving medical care and support systems to minimize such scenarios, rather than making abortion the default solution. Who defends murder here? I haven't heard anyone defending the killing of human beings.",against,2024-09-30T17:15:14.848000+00:00,"What was the person's stance on abortion when they said ""Who defends murder here? I haven't heard anyone defending the killing of human beings."" during the conversation?","Turn 1
+A: I understand your perspective, but what about cases where the mother's health is at serious risk? Shouldn't there be exceptions in such dire situations?
+B: I believe every life is precious, and we should do everything possible to protect both the mother and the unborn child. There are often alternatives that can be considered.
+
+Turn 2
+A: But what if those alternatives aren't viable? Sometimes, the reality is that the only option to save the mother's life is to terminate the pregnancy.
+B: It's a difficult situation, no doubt. However, I think we need to focus on improving medical care and support systems to minimize such scenarios, rather than making abortion the default solution. Who defends murder here? I haven't heard anyone defending the killing of human beings.",Who defends murder here? I haven't heard anyone defending the killing of human beings.,against
+"Turn 1
+A: I think it's crucial for us to consider the diverse perspectives people have on issues like this. Everyone's experiences and beliefs shape their views, and we should respect that.
+B: I understand where you're coming from, but when it comes to abortion, I just can't see it as a matter of opinion. To me, it's about protecting innocent lives.
+
+Turn 2
+A: I get that it's a deeply personal and moral issue for many, but I believe that fostering a tolerant society means allowing room for different beliefs, even if we don't agree with them.
+B: I hear you, but I feel that some issues, like the sanctity of life, are too fundamental to compromise on. Liberals say I need more tolerance. I say screw tolerating murder. It's not just a belief for me; it's a core value.",against,2024-09-30T17:16:41.472000+00:00,"What was the person's stance on abortion when they said ""Liberals say I need more tolerance. I say screw tolerating murder."" during the conversation?","Turn 1
+A: I think it's crucial for us to consider the diverse perspectives people have on issues like this. Everyone's experiences and beliefs shape their views, and we should respect that.
+B: I understand where you're coming from, but when it comes to abortion, I just can't see it as a matter of opinion. To me, it's about protecting innocent lives.
+
+Turn 2
+A: I get that it's a deeply personal and moral issue for many, but I believe that fostering a tolerant society means allowing room for different beliefs, even if we don't agree with them.
+B: I hear you, but I feel that some issues, like the sanctity of life, are too fundamental to compromise on. Liberals say I need more tolerance. I say screw tolerating murder. It's not just a belief for me; it's a core value.",Liberals say I need more tolerance. I say screw tolerating murder.,against
+"Turn 1
+A: Did you catch the assembly last week? The administration had a lot to say about social issues, especially abortion.
+B: Yeah, I did. It was frustrating to hear their take on it. They seem to have a very narrow interpretation of feminism, especially when it comes to women's reproductive rights.Lmao my school thinks giving women the right to an abortion is against feminism. They don't know feminism
+
+Turn 2
+A: I know what you mean. Their policies seem to contradict the very principles they claim to support. It's like they're ignoring the importance of bodily autonomy.
+B: Exactly. True feminism should prioritize giving women control over their own bodies and decisions. The school's stance feels like a step backward.",favoring,2024-09-30T17:10:06.136000+00:00,"What was the person's stance on abortion when they said ""Lmao my school thinks giving women the right to an abortion is against feminism. They don't know feminism"" during the conversation?","Turn 1
+A: Did you catch the assembly last week? The administration had a lot to say about social issues, especially abortion.
+B: Yeah, I did. It was frustrating to hear their take on it. They seem to have a very narrow interpretation of feminism, especially when it comes to women's reproductive rights.Lmao my school thinks giving women the right to an abortion is against feminism. They don't know feminism
+
+Turn 2
+A: I know what you mean. Their policies seem to contradict the very principles they claim to support. It's like they're ignoring the importance of bodily autonomy.
+B: Exactly. True feminism should prioritize giving women control over their own bodies and decisions. The school's stance feels like a step backward.",Lmao my school thinks giving women the right to an abortion is against feminism. They don't know feminism,favoring
+"Turn 1
+A: It's been a really tough decision, but I feel like I need to prioritize my well-being and future. I just don't think I'm ready to bring a child into the world right now.
+B: I understand. It's such a complex issue. How do you feel about the idea of having control over your own body in this situation?
+
+Turn 2
+A: For me, it's crucial. The thought of being forced into something as life-changing as motherhood when I'm not prepared is overwhelming. If my body is the only way you can live and I don't want that I have the right to dismiss you. I don't know why that's a problem I need to be able to make this decision for myself.
+B: That makes sense. It's important to consider how this will impact your life and your ability to make choices that are right for you.",favoring,2024-09-30T17:14:43.434000+00:00,"What was the person's stance on abortion when they said ""If my body is the only way you can live and I don't want that I have the right to dismiss you. I don't know why that's a problem"" during the conversation?","Turn 1
+A: It's been a really tough decision, but I feel like I need to prioritize my well-being and future. I just don't think I'm ready to bring a child into the world right now.
+B: I understand. It's such a complex issue. How do you feel about the idea of having control over your own body in this situation?
+
+Turn 2
+A: For me, it's crucial. The thought of being forced into something as life-changing as motherhood when I'm not prepared is overwhelming. If my body is the only way you can live and I don't want that I have the right to dismiss you. I don't know why that's a problem I need to be able to make this decision for myself.
+B: That makes sense. It's important to consider how this will impact your life and your ability to make choices that are right for you.",If my body is the only way you can live and I don't want that I have the right to dismiss you. I don't know why that's a problem,favoring
+"Turn 1
+A: I really believe that this bill could have serious consequences for our community. It's not just about the immediate impact, but the long-term effects on our values and how we view life.
+B: I see where you're coming from. I'm still trying to understand all the aspects of the bill. What specifically worries you the most?
+
+Turn 2
+A: For me, it's about the fundamental principle that every life has intrinsic value. I will fight for the unborn!I feel that expanding access to abortion services undermines that principle and could lead to a slippery slope where life is not as respected.
+B: That's an interesting perspective. I hadn't thought about it in terms of long-term societal values. I appreciate you sharing your viewpoint.",against,2024-09-30T17:12:45.652000+00:00,"What was the person's stance on abortion when they said ""I will fight for the unborn!"" during the conversation?","Turn 1
+A: I really believe that this bill could have serious consequences for our community. It's not just about the immediate impact, but the long-term effects on our values and how we view life.
+B: I see where you're coming from. I'm still trying to understand all the aspects of the bill. What specifically worries you the most?
+
+Turn 2
+A: For me, it's about the fundamental principle that every life has intrinsic value. I will fight for the unborn!I feel that expanding access to abortion services undermines that principle and could lead to a slippery slope where life is not as respected.
+B: That's an interesting perspective. I hadn't thought about it in terms of long-term societal values. I appreciate you sharing your viewpoint.",I will fight for the unborn!,against
+"Turn 1
+A: I just think there are certain responsibilities we have as a society to consider the potential life involved. It's not just a personal decision; it has broader implications.
+B: But shouldn't the person directly affected have the ultimate say? It's their body and their life that will be most impacted by the decision.
+
+Turn 2
+A: True, but there are ethical considerations that can't be ignored. Sometimes, individual choices need to be balanced with societal values.
+B: I understand that, but I believe that personal autonomy should be paramount. No one has 5he right to tell any person what they should do with their body People should have the freedom to make decisions about their own bodies without external interference.",favoring,2024-09-30T17:15:36.988000+00:00,"What was the person's stance on abortion when they said ""No one has 5he right to tell any person what they should do with their body"" during the conversation?","Turn 1
+A: I just think there are certain responsibilities we have as a society to consider the potential life involved. It's not just a personal decision; it has broader implications.
+B: But shouldn't the person directly affected have the ultimate say? It's their body and their life that will be most impacted by the decision.
+
+Turn 2
+A: True, but there are ethical considerations that can't be ignored. Sometimes, individual choices need to be balanced with societal values.
+B: I understand that, but I believe that personal autonomy should be paramount. No one has 5he right to tell any person what they should do with their body People should have the freedom to make decisions about their own bodies without external interference.",No one has 5he right to tell any person what they should do with their body,favoring
