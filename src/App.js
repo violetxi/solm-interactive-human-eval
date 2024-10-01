@@ -32,36 +32,6 @@ const shuffleArray = (array) => {
   return shuffledArray;
 };
 
-// Map dataset filenames to specific order of choices
-const choiceOrderMap = {
-  'set_4.csv': [
-    { label: 'In favor of abortion', value: 'favoring' },
-    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' },
-    { label: 'Against abortion', value: 'against' }
-  ],
-  'set_5.csv': [
-    { label: 'Against abortion', value: 'against' },
-    { label: 'In favor of abortion', value: 'favoring' },
-    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' }
-  ],
-  'set_6.csv': [
-    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' },
-    { label: 'In favor of abortion', value: 'favoring' },
-    { label: 'Against abortion', value: 'against' }
-  ],
-  'set_7.csv': [
-    { label: 'In favor of abortion', value: 'favoring' },
-    { label: 'Against abortion', value: 'against' },
-    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' }
-  ],
-  'set_8.csv': [
-    { label: 'In favor of abortion', value: 'favoring' },
-    { label: 'Against abortion', value: 'against' },
-    { label: 'Ambiguous: unclear or not enough information to make a decision', value: 'ambiguous' }
-  ],
-};
-
-
 const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
@@ -69,6 +39,45 @@ const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
 
+// Map dataset filenames to specific order of choices
+const choiceOrderMap = {
+  'set_4.csv': [
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' }
+  ],
+  'set_5.csv': [
+    { label: 'Negative', value: 'negative' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Neutral', value: 'neutral' }
+  ],
+  'set_6.csv': [
+    { label: 'Neutral', value: 'neutral' },
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' }
+  ],
+  'set_7.csv': [
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' },    
+    { label: 'Ambiguous', value: 'ambiguous' }
+  ],
+  'set_8.csv': [
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' },    
+    { label: 'Ambiguous', value: 'ambiguous' }
+  ],
+  'set_9.csv': [
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' },    
+    { label: 'Ambiguous', value: 'ambiguous' }
+  ],
+};
 function App() {
   // instruction content
   const [showInstructions, setShowInstructions] = useState(true);
@@ -79,8 +88,7 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [shuffledChoices, setShuffledChoices] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_8.csv'); // Track the dataset being used
+  const [currentDataset, setCurrentDataset] = useState('set_7.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
@@ -91,7 +99,7 @@ function App() {
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
         .map(item => ({
-          question: `What was the person's stance on abortion when they said "${item.original_data}" during the conversation?`,
+          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
           statement: item.conversation,
           note: item.note || '',
           isAttentionCheck: false
@@ -103,20 +111,6 @@ function App() {
         console.error('Error loading CSV:', error);
       });
   }, [currentDataset]); // Re-run when currentDataset changes
-
-  useEffect(() => {
-    if (questions.length > 0) {
-      const currentQuestion = questions[currentQuestionIndex];
-      const choices = currentQuestion.isAttentionCheck
-        ? [
-            { label: 'True', value: 'True' },
-            { label: 'False', value: 'False' }
-          ]
-        : choiceOrderMap[currentDataset]; // Use dataset-specific order of choices
-
-      setShuffledChoices(choices); // No shuffle for regular questions, using predefined order
-    }
-  }, [currentQuestionIndex, questions, currentDataset]);
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -140,7 +134,7 @@ function App() {
       // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
       const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
       // Update Prolific ID using just the number from the dataset
-      let updatedProlificID = `Full-SemT6_Abortion-${setNumber}-${prolificID}`;
+      let updatedProlificID = `Full-GoEmotions_Sentiment-${setNumber}-${prolificID}`;
       
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
@@ -194,7 +188,7 @@ function App() {
               </p>
             ))}
             {isAttentionCheck && <p>{currentStatement}</p>}
-          </div>
+          </div>          
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>

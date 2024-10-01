@@ -1,141 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-35,"Turn 1
-A: I understand you want to support women's health services, and I respect that. But for me, Planned Parenthood's involvement in abortions is something I can't reconcile with my beliefs about the sanctity of life. I truly believe that and that's why I'm against Planned Parenthood.
-B: I get where you're coming from, and I appreciate you sharing your perspective. For me, it's about providing comprehensive care and support to women, especially those who might not have other options.
-
-Turn 2
-A: I know it's a complex issue, and I don't want this to come between us. I just hope you can see why it's hard for me to support an organization that performs abortions.
-B: I do see that, and I value our friendship too much to let this divide us. Maybe we can find common ground in supporting other aspects of women's health that we both agree on.",I truly believe that and that's why I'm against Planned Parenthood.,against,1,"Yes, I agree. A explicitly states that they are against Planned Parenthood due to its involvement in abortions, which they cannot reconcile with their beliefs about the sanctity of life.",1,True,848
-51,"Turn 1
-A: I can't believe there was such a huge 'pro-life' protest in Kingston. If I lived there, I would have been so upset. Good thing I don't live in Kingston woulda started a riot by now with this 'pro-life' protest It's frustrating to see people trying to take away women's rights.
-B: I know, it's really disheartening. It feels like a step backward. I can't imagine how stressful it must be for the women living there, having to see that kind of opposition to their autonomy.
-
-Turn 2
-A: Exactly. It's like they're ignoring the complexities and personal nature of these decisions. Everyone should have the right to make choices about their own bodies without being judged or restricted.
-B: Absolutely. It's important to keep advocating for pro-choice rights and supporting those who are affected by these protests. We need to ensure that everyone has access to safe and legal options.",Good thing I don't live in Kingston woulda started a riot by now with this 'pro-life' protest,favoring,1,"Yes, I agree. A is clearly expressing frustration and opposition to the 'pro-life' protest, indicating a strong pro-choice stance. A's statement about starting a riot suggests a high level of emotional investment in supporting women's rights and opposing the 'pro-life' movement.",1,True,889
-41,"Turn 1
-A: I just feel that a woman should have the autonomy to make decisions about her own body. It's such a personal and complex issue, and the government shouldn't be the one to dictate what she can or cannot do.
-B: I get that, but what about the potential life of the fetus? How do we balance that with the woman's rights?
-
-Turn 2
-A: It's definitely a tough balance, but I think the key is to trust women to make the best decision for their circumstances. I don't think I have a right to use someone else's body without consent. Do you? Each situation is unique, and a blanket law can't account for all the nuances.
-B: That makes sense. I guess it's about finding a way to respect both the woman's autonomy and the ethical considerations involved.",I don't think I have a right to use someone else's body without consent. Do you?,favoring,2,"Yes, A was favoring the woman's right to make decisions about her own body and emphasizing the importance of consent. A's argument is centered around the idea that no one should have the right to use someone else's body without their consent, which aligns with supporting a woman's autonomy.",1,True,751
-77,"Turn 1
-A: I just don't understand how you can argue for bodily autonomy when it comes to abortion but then support laws that restrict other personal choices, like drug use. Isn't that inconsistent?
-B: I see your point, but I think the difference lies in the impact on others. Abortion is about a woman's right to make decisions about her own body, while drug use can have broader social consequences.
-
-Turn 2
-A: But isn't the fetus a separate life that deserves protection? Pro Choice? Just choose to kill yourself after your baby is born. How do you reconcile that with the idea of bodily autonomy?
-B: It's a complex issue, but I believe that until a certain point in pregnancy, the woman's rights should take precedence. It's about balancing her autonomy with the potential life, and I think the current laws try to find that balance.",Pro Choice? Just choose to kill yourself after your baby is born.,against,2,"Yes, A's statement ""Pro Choice? Just choose to kill yourself after your baby is born."" indicates a strong opposition to the pro-choice stance, suggesting that A is against the idea of abortion and is using a provocative statement to challenge B's position.",1,True,836
-71,"Turn 1
-A: It's just so frustrating to see these male lawmakers trying to control what women can do with their own bodies. Are you OK with males telling you what you can and can't do with your own body? They have no idea what it's like to be in our shoes.
-B: I get that. But can you explain a bit more about why you feel so strongly that women should have the final say?
-
-Turn 2
-A: Sure. It's about autonomy and the right to make decisions about our own health and futures. No one should be forced into a situation they aren't ready for, especially by people who will never experience it themselves.
-B: That makes sense. I hadn't thought about it from that perspective before. Thanks for explaining.",Are you OK with males telling you what you can and can't do with your own body?,favoring,1,"A was expressing frustration and a strong opinion against male lawmakers controlling women's bodies, which indicates a clear stance on the issue. Therefore, A was favoring the idea that women should have autonomy over their own bodies.",1,True,698
 60,"Turn 1
-A: I just don't understand how anyone can think it's okay to dictate what a woman does with her own body. It's her life, her choice.
-B: I get that, but what about the potential life of the unborn? Don't we have a responsibility to consider that too? It's not just about one person's rights.
+A: Wow, B, that necklace is absolutely stunning! I've never seen anything like it. Where did you get it?
+B: Thanks, A! It's actually really special to me. I made it myself from my baby teeth. I know it sounds a bit unusual, but I love how it turned out. The craftsmanship was a fun challenge!
 
 Turn 2
-A: But if we start imposing restrictions, where does it end? Your body belongs to you. It doesn't belong to the church, the state or an embryo. Women need the freedom to make decisions without being judged or controlled by others.
-B: I agree that women should have autonomy, but there has to be a balance. We can't ignore the ethical implications and the values that society holds. It's a complex issue that requires careful consideration.","Your body belongs to you. It doesn't belong to the church, the state or an embryo.",against,2,"Yes, I agree. A is arguing against imposing restrictions on women's autonomy over their own bodies, emphasizing that decisions about one's body should not be controlled by external entities like the church, the state, or an embryo.",1,True,745
-91,"Turn 1
-A: I just feel so lost, B. Everyone seems to have an opinion on what I should do, but I don't even know what I want myself.
-B: It's completely understandable to feel that way, A. Remember, this is your life and your body. You have the right to make the decision that feels right for you, without feeling pressured by others.
+A: That's incredible! I love how personal and unique it is. That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work. You must be really proud of it.
+B: I am! It was a bit of a quirky idea, but I think it captures a part of my childhood in a creative way. Plus, it always makes for an interesting conversation piece!",That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work.,positive,2,"Yes, A was being positive. A complimented B's necklace, expressed admiration for its uniqueness, and shared a similar personal experience with baby teeth, indicating appreciation and understanding.",1,True,669
+53,"Turn 1
+A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
+B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
 
 Turn 2
-A: I appreciate you saying that. It's just hard to tune out all the voices telling me what they think is best. Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...
-B: I know it's tough, but try to focus on what you truly want. Whatever you decide, I'll be here to support you every step of the way. Your choice matters most.",Whether someone wants to have children or not should be completely up to the person carrying that pregnancy...,favoring,2,"Based on the context of the conversation, A is expressing a belief in personal autonomy regarding the decision to have children. This indicates that A is in favor of the idea that the decision should be up to the person carrying the pregnancy.",1,True,722
-101,"Turn 1
-A: I can't believe they're cutting funding to Planned Parenthood again. It's like they don't care about people's right to make their own choices.
-B: I know, it's infuriating. These services are crucial for so many, not just for abortions but for overall reproductive health.
+A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
+B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",Lmao I hope I'm not the only one who gets this,positive,1,"Yes, A was being positive. The use of ""Lmao"" and the laughing emoji 😂 indicate that A found the meme funny and was sharing it in a light-hearted, humorous way.",1,True,521
+69,"Turn 1
+A: Wow, look at that! The college basketball game is on the main network. It seems like it's getting a lot of attention.
+B: Yeah, it's March Madness season. Everyone's really into it right now. But it's interesting how the UFC fight is on a less prominent channel. You'd think it would get more coverage too.
 
 Turn 2
-A: Exactly. It's not just about one issue; it's about access to comprehensive care. Like the govt. is literally taking away your right to live your own life by defunding right nowThis is going to hurt so many people who rely on these services.
-B: Absolutely. We need to keep speaking out and supporting organizations that fight for these rights. It's the only way to push back against these harmful policies.",Like the govt. is literally taking away your right to live your own life by defunding right now,favoring,2,"Yes, A is favoring the continuation of funding for Planned Parenthood and is expressing frustration over the government's decision to cut funding. A believes that defunding these services is a violation of people's rights to make their own choices and access comprehensive care.",1,True,698
-119,"Turn 1
-A: You know, I recently watched this film called ""The Silent Cry."" It was incredibly moving and really made me think deeply about the value of life.
-B: That sounds intense. How did it affect your views on abortion?
+A: True, especially considering how popular UFC has become over the years. College basketball just big leagued the UFC. We've to wait for it to finish I think. I guess college basketball has that traditional appeal and a huge following during this time of year.
+B: Definitely. Plus, there's something about the unpredictability of March Madness that really draws people in. Every game feels like it could be an upset.",College basketball just big leagued the UFC. We've to wait for it to finish I think.,neutral,2,"A's statement ""College basketball just big leagued the UFC. We've to wait for it to finish I think."" is more of an observation rather than an expression of a strong opinion or bias. A is noting the fact that college basketball is receiving more attention and coverage at the moment, which is a neutral statement.",1,True,741
+80,"Turn 1
+A: Wait, so this is the big thing you've been hinting at for weeks?I didn't know this was a ""reveal"" he'd been talking about for awhile.
+B: Yep! I've been planning it for months, and it's finally happening this weekend.
 
 Turn 2
-A: The film portrayed the struggles of a young woman facing an unplanned pregnancy, and it reinforced my belief that every life has potential, no matter the circumstances. Hadn't seen October Baby until the other night. Had me crying thru the whole thing...I don't cry at movies. So touching!
-B: I can see how that would resonate with you. It's amazing how a story can bring such clarity to our personal beliefs.",Hadn't seen October Baby until the other night. Had me crying thru the whole thing...I don't cry at movies. So touching!,against,2,"Based on the context of the conversation, A is expressing a strong emotional reaction to films that deal with the topic of unplanned pregnancies and the value of life. A mentions that ""The Silent Cry"" reinforced their belief that every life has potential, and ""October Baby"" was so touching it made them cry. This suggests that A is against abortion, as they are moved by stories that emphasize the potential and value of every life.",1,True,642
-3,"Turn 1
-A: I really want us to have children someday, and I feel strongly that if we ever get pregnant, we should bring that child into the world. Abortion just isn't something I can support. Will you be my -unborn babiesyouthgen
-B: I understand how important this is to you, and I want to respect your feelings. It's a big decision, and we need to make sure we're both on the same page about our future and family planning.
+A: Wow, I had no idea it was such a big deal. Can you give me a hint about what it is?
+B: Let's just say it involves a lot of people, some amazing decorations, and a surprise guest. You'll have to wait and see!","I didn't know this was a ""reveal"" he'd been talking about for awhile.",neutral,1,"A's statement ""I didn't know this was a 'reveal' he'd been talking about for awhile"" suggests a lack of prior knowledge and a neutral tone, as it doesn't express any strong positive or negative emotions.",1,True,445
+13,"Turn 1
+A: Hey, thanks for the link! That movie looks really interesting. I can't wait to check it out. Thanks, saved. Will watch it tomorrow morning :)
+B: No problem! I thought you'd like it. It's got that kind of twisty plot you enjoy.
 
 Turn 2
-A: I appreciate you listening. It's just that, for me, every potential life is precious, and I can't imagine choosing otherwise.
-B: I hear you, and I want us to find a way to navigate this together. Let's keep talking about our values and what we both want for our future family.",Will you be my -unborn babiesyouthgen,against,1,"Yes, I agree. Based on the context of the conversation, A is expressing a strong stance against abortion and emphasizing the importance of bringing any potential child into the world. This indicates that A is against abortion.",1,True,711
-7,"Turn 1
-A: I'm really worried about how these new laws might affect women's health and autonomy. It feels like we're moving backwards. I don't plan on ever having an abortion, but here's the thing ...I don't think anyone ever PLANS on it.
-B: I get what you mean. Even though I've never thought about having an abortion myself, I believe it's crucial to keep that option available. Life can be so unpredictable.
+A: Awesome! I'll watch it first thing tomorrow morning. Thanks again for the recommendation!
+B: Great! Let me know what you think after you watch it. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""thanks,"" ""saved,"" and ""can't wait to check it out"" indicates enthusiasm and appreciation for the recommendation.",1,True,401
+113,"Turn 1
+A: I can't believe C missed that critical deadline. It's thrown the entire project off track.
+B: I know, it's really frustrating. We were already tight on time, and now we have to scramble to make up for it.
 
 Turn 2
-A: Exactly. It's not just about the choice itself, but about respecting each person's right to make decisions about their own body.
-B: Absolutely. We need to trust women to know what's best for their own lives and circumstances. It's about ensuring everyone has the freedom to choose.","I don't plan on ever having an abortion, but here's the thing ...I don't think anyone ever PLANS on it.",favoring,1,"Yes, I agree. A is expressing concern about the impact of new laws on women's health and autonomy, and emphasizes the importance of having the option available even if they don't plan on using it themselves. This indicates a favoring stance towards maintaining the right to choose.",1,True,702
-2,"Turn 1
-A: ""I just can't seem to let go of these unfinished stories. It's like I'm abandoning them, you know? Like... well, you know what I mean.""I get the whole ""Kill your darlings"" advice, but I feel like an abortionist with all these unfinished stories.
-B: ""I understand what you're trying to say, but you know how I feel about that kind of comparison. Maybe there's another way to look at it?""
+A: And the worst part is, this isn't the first time C has made a mistake like this. Yeah that was inexcusable It's starting to feel like a pattern.
+B: You're right. We need to address this with management before it affects any more of our work. The team can't keep picking up the slack.",Yeah that was inexcusable,negative,2,"Yes, A was being negative. A expressed frustration about C missing a critical deadline and mentioned that it feels like a pattern of mistakes, which indicates a negative sentiment.",1,True,509
+13,"Turn 1
+A: Hey, thanks for the recommendation! I'm swamped right now, but I'll definitely check it out first thing tomorrow morning. Thanks, saved. Will watch it tomorrow morning :)
+B: No worries! I think you'll really like it. It's right up your alley.
 
 Turn 2
-A: ""You're right, I'm sorry. It's just so hard to move on from something you've invested so much in. How do you deal with it?""
-B: ""I try to see it as part of the creative process. Sometimes, letting go is necessary to make room for new ideas. It's tough, but it's also a way to grow as a writer.""","I get the whole ""Kill your darlings"" advice, but I feel like an abortionist with all these unfinished stories.",against,1,"Yes, A was expressing a strong emotional struggle with the idea of abandoning unfinished stories, comparing it to a very sensitive and controversial topic. This indicates a resistance or opposition to the idea of ""killing your darlings.""",1,True,701
-46,"Turn 1
-A: I can't believe they think it's okay to display those graphic images right here on campus. It's so disturbing and feels really intrusive. like i really need to walk past a bunch of aborted babies to get into the union. get out of my peripheral
-B: Yeah, I get what you mean. It's definitely not something you expect to see on your way to class. It feels really out of place and upsetting.
-
-Turn 2
-A: I just wish there was a way to have these discussions without resorting to shock tactics. It's such a sensitive topic, and this approach doesn't help anyone.
-B: Absolutely. There should be more respectful ways to engage in these conversations. Everyone has a right to their opinion, but this just feels wrong.",like i really need to walk past a bunch of aborted babies to get into the union. get out of my peripheral,against,1,"Yes, I agree. A is expressing strong disapproval of the graphic images being displayed on campus, describing them as disturbing and intrusive.",1,True,718
-83,"Turn 1
-A: I understand where you're coming from, but I just can't get past the idea that a fetus is a life with its own potential. Im against abortion & i stand by my opinion. No, its NOT just a mass of cells. To me, it's about protecting that life from the moment of conception.
-B: I get that, A, but I believe that a woman should have the right to make decisions about her own body. It's about her autonomy and the ability to choose what's best for her circumstances.
-
-Turn 2
-A: I hear you, and I respect a woman's autonomy, but I feel like there's a moral responsibility to consider the fetus's rights too. It's a tough balance, but I think we need to protect those who can't protect themselves.
-B: It's definitely a complex issue. I think we both want to see a world where everyone is respected and cared for, even if we have different ideas on how to achieve that.","Im against abortion & i stand by my opinion. No, its NOT just a mass of cells.",against,1,"Yes, A was expressing a clear stance against abortion, emphasizing their belief that a fetus is a life with its own potential and not just a mass of cells.",1,True,869
-88,"Turn 1
-A: I just don't understand why people who will never experience pregnancy feel the need to dictate what others should do with their bodies.If the fetus isn't inside you, than shut up love
-B: It's not about dictating; it's about protecting what I believe to be innocent life. I think there should be laws to reflect that moral standpoint.
-
-Turn 2
-A: But those laws would directly impact people who are already facing difficult decisions. Shouldn't those who are actually affected have the final say?
-B: I get that, but I believe society has a responsibility to uphold certain moral values, even if it means making tough decisions.","If the fetus isn't inside you, than shut up love",favoring,1,"Yes, I agree. A is favoring the perspective that individuals who are not directly experiencing pregnancy should not have a say in decisions about it. This is evident from A's statement, ""If the fetus isn't inside you, than shut up love,"" which suggests that A believes only those directly affected should have the authority to make decisions regarding pregnancy.",1,True,636
+A: Awesome, I'm looking forward to it. I'll let you know what I think once I've watched it.
+B: Sounds good! Can't wait to hear your thoughts. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""Thanks,"" ""saved,"" and ""Will watch it tomorrow morning :)"" indicates that A is appreciative and looking forward to watching the recommendation.",1,True,409
 110,"Turn 1
-A: I just can't believe we're still fighting for basic reproductive rights in this day and age. It's infuriating to see these proposals trying to take us backward.
-B: I know, it's like we're stuck in a time warp. You'd think by now, people would understand the importance of a woman's right to choose.
+A: I just don't get it, you know? I put in so much effort into that project, and when it failed, everyone just pointed fingers at me. It's like they forgot all the late nights and weekends I sacrificed.
+B: That sounds incredibly frustrating, A. It's really unfair that you're being blamed for something that wasn't solely your responsibility. Have you had a chance to talk to your manager about how you're feeling?
 
 Turn 2
-A: Exactly! I cannot believe there are still people in this century who opposed to women having rights over their own bodies! It's not just about the right to choose, it's about respecting women's autonomy and trusting them to make decisions about their own bodies.
-B: Absolutely. It's frustrating to see how some people still don't get that. We need to keep pushing for progress and not let these regressive attitudes win.",I cannot believe there are still people in this century who opposed to women having rights over their own bodies!,favoring,2,"Yes, A was favoring women's rights and autonomy over their own bodies. The statement expresses disbelief and frustration towards those who oppose these rights, indicating a supportive stance towards women's reproductive rights.",1,True,740
-55,"Turn 1
-A: I just can't help but think about the potential life that's lost with every abortion. Imagine if Beethoven's mother had chosen to abort him; the world would have missed out on so much beauty and genius.
-B: I understand where you're coming from, but isn't it also important to consider the quality of life for both the child and the mother? Sometimes, bringing a child into a difficult situation can lead to more suffering for everyone involved.
+A: I tried, but it felt like they were just brushing me off. They said they'd ""look into it,"" but nothing's changed. This is exactly what it's been like. I feel personally victimised by it all I feel so unsupported and isolated.
+B: I'm really sorry you're going through this. Maybe it would help to document everything that's happened and request a formal meeting with your manager. That way, you can clearly present your side and hopefully get some resolution.",This is exactly what it's been like. I feel personally victimised by it all,negative,2,"Yes, I agree. A is expressing feelings of frustration, isolation, and a lack of support, which are negative emotions. They feel personally victimized and unsupported, indicating a negative sentiment.",1,True,891
+36,"Turn 1
+A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
+B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
 
 Turn 2
-A: That's a fair point, but I believe that every life has inherent value and potential, regardless of the circumstances. As a former fetus I oppose We should focus on providing support to mothers so they don't feel like abortion is their only option.
-B: I agree that support systems are crucial. However, I think it's also important to respect a woman's autonomy and her right to make decisions about her own body. It's a complex issue with no easy answers.",As a former fetus I oppose,against,2,"Yes, I agree. A is expressing opposition to abortion by emphasizing the inherent value and potential of every life, and advocating for support systems to help mothers avoid feeling that abortion is their only option.",1,True,920
+A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
+B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.","making us look like punks, disappointing",negative,1,"Yes, I agree. A's statement ""making us look like punks, disappointing"" reflects a negative sentiment. A is expressing frustration and disappointment about their performance, indicating a negative outlook on the situation.",1,True,698
+102,"Turn 1
+A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
+B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
+
+Turn 2
+A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
+B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",Sadly enough I was thinking the same.,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the situation, indicating that despite their hard work, they feel it hasn't paid off.",1,True,522
+8,"Turn 1
+A: ""Did you see that last-minute goal by Johnson in the game against the Warriors? That was incredible!""
+B: ""Absolutely! I was on the edge of my seat. Johnson has really stepped up his game this season. I can't wait to see him in action at the next game.""
+
+Turn 2
+A: ""Yeah, and how about the defense? They've been rock solid. I think that's what's really making the difference for the Kings this year. Can't wait to go to the Kings game. Especially if they bring this level of fire.""
+B: ""Totally agree. Their coordination and strategy have been spot on. It's going to be so exciting to watch them live. We should get there early to catch the warm-ups too.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming Kings game, highlighting the team's strong performance and the ""level of fire"" they bring.",1,True,663
+70,"Turn 1
+A: Ugh, I just saw that NISA might be handling the translation for the new game. After the mess they made with the last one, I'm really worried.
+B: I get where you're coming from, but I'm just excited that we're finally getting an English release. Maybe they'll do better this time?
+
+Turn 2
+A: I hope so, but their track record isn't great. Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it. Remember all those mistranslations and bugs? It really ruined the experience for me.
+B: True, but at least we'll be able to understand the story without having to rely on fan translations. Plus, we can always hope for patches if there are issues.","Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it.",negative,2,"Yes, A was being negative. A expressed concerns about NISA's past performance with translations, mentioning mistranslations and bugs that ruined their experience. Despite saying they don't care anymore as long as there's an English version, the overall tone remains worried and critical.",1,True,721
 15,"Turn 1
-A: I can't believe what I just heard. This public figure was making such extreme statements about abortion, almost like they were trying to provoke everyone on purpose. So mint! Listening to LIVE & he s talking about being total Evil. Even if you're pro-
-B: That sounds intense. What exactly were they saying that got you so worked up?
+A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
+B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
 
 Turn 2
-A: They were painting themselves as a villain, saying things like anyone who supports abortion is morally bankrupt. It was so inflammatory and unproductive.
-B: That's really frustrating. It's such a sensitive topic, and using that kind of rhetoric just polarizes people even more. We need more constructive dialogue, not this kind of antagonism.",So mint! Listening to LIVE & he s talking about being total Evil. Even if you're pro-,against,1,"Yes, I agree. A's statements indicate frustration and disapproval of the public figure's extreme and inflammatory rhetoric about abortion. A describes the statements as ""provoking"" and ""unproductive,"" which suggests a negative reaction.",1,True,696
-111,"Turn 1
-A: I'm really worried about these new restrictive abortion laws. They seem to strip away women's ability to make informed decisions about their own health.
-B: I understand your concern. It's crucial that we trust women to make the best decisions for their own safety and well-being. Personal choice and autonomy are fundamental in these matters.
+A: I double-checked the results. It's real. I feel like all that work was for nothing.
+B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",Holy shit bro,negative,1,"Yes, I agree. A's statement ""I can't believe it, I just found out I failed the exam. Holy shit bro I studied so hard for it."" clearly expresses disappointment and frustration, which are negative emotions.",1,True,384
+1,"Turn 1
+A: You know, I've been really struggling with the website design lately. It feels like no matter what I do, it just doesn't look right.
+B: Oh, I totally get that. I had a client last week who kept changing their mind about the layout. It was a nightmare trying to keep up with their demands.
 
 Turn 2
-A: Exactly. It feels like these laws are more about control than care. They know what's best for their safety. Women need to have the freedom to choose what's right for them.
-B: Absolutely. Respecting personal choice is key. We need to continue advocating for policies that support women's rights and ensure they have access to safe and informed healthcare options.",They know what's best for their safety.,favoring,2,"Yes, I agree. A is favoring the perspective that women should have the autonomy to make decisions about their own health and safety, indicating support for women's rights and personal choice.",1,True,726
-49,"Turn 1
-A: You know, I had to unfollow someone on social media the other day. I just unfollowed someone because they tweeted about being pro-life They kept posting pro-life content, and it was just too much for me.
-B: I get that. It can be really overwhelming. I try to manage my feed by muting certain topics, but sometimes it feels like a losing battle.
+A: That sounds rough. I'm dealing with something similar. Every time I think I've nailed the design, I find something else that needs tweaking. This just reminded me to continue designing that bloody website. It's so frustrating.
+B: Yeah, it can be really challenging. Maybe we can brainstorm some ideas together after lunch? Sometimes a fresh perspective can make a big difference.",This just reminded me to continue designing that bloody website.,negative,2,"Yes, I agree that A was being negative. The use of the word ""bloody"" in ""that bloody website"" indicates frustration and negativity towards the task of designing the website.",1,True,689
+65,"Turn 1
+A: Hey B, got any exciting plans for the weekend?
+B: Oh, absolutely! I'm really looking forward to indulging in my weekend tradition of enjoying various chocolate treats. It's something I find incredibly delightful and relaxing.
 
 Turn 2
-A: Yeah, it's tough. I want to stay informed, but I also need to protect my mental health. How do you handle it when you see posts about controversial issues like that?
-B: I usually take a break from social media for a bit. It helps me clear my head and come back with a more balanced perspective. Plus, I remind myself that it's okay to have boundaries online.",I just unfollowed someone because they tweeted about being pro-life,against,1,"Yes, I agree. A's decision to unfollow someone because they posted pro-life content suggests that A is against pro-life views or finds them distressing enough to take action to avoid them.",1,True,724
+A: That sounds amazing! Mmm... chocolate weekends are my favorite. Do you have a favorite type of chocolate you like to treat yourself with?
+B: Definitely! I have a soft spot for dark chocolate with sea salt. But I also love trying out new flavors and combinations. It's like a little adventure every weekend.",Mmm... chocolate weekends are my favorite.,positive,2,"Yes, A was being positive. A expressed enthusiasm and agreement with B's weekend plans by saying ""That sounds amazing!"" and ""Mmm... chocolate weekends are my favorite.""",1,True,553
+48,"Turn 1
+A: I don't get why erectile dysfunction is such a big deal. I mean, it doesn't stop someone from having an orgasm, right?
+B: Actually, that's not true. Erectile dysfunction can definitely affect the ability to orgasm. It's not just about getting an erection; it's about the whole sexual experience. 
+
+Turn 2
+A: Oh, I didn't realize that. Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about? I thought it was just about not being able to get it up.
+B: It's more complicated than that. It can be really frustrating and emotionally challenging for those who experience it. It's important to understand the full impact it can have on someone's life.",Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?,negative,2,"Yes, I agree. A's use of strong language (""What the fuck are you talking about?"") and the dismissive tone suggest a negative attitude towards the topic and B's explanation.",1,True,709
+8,"Turn 1
+A: ""That game was insane! Did you see that last-minute goal? I was on the edge of my seat!""
+B: ""I know, right? The energy was off the charts. I can't believe how well they played. We definitely need to catch the next game live.""
+
+Turn 2
+A: ""Absolutely! I was thinking we could get tickets for next Saturday's game. Can't wait to go to the Kings game. Especially if they bring this level of fire.The team's on fire, and I don't want to miss it.""
+B: ""Great idea! Let's check the ticket availability tonight. It'll be awesome to be there in person and soak up the atmosphere.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming game, highlighting the team's impressive performance and eagerness to experience it live.",1,True,580
+26,"Turn 1
+A: ""I just feel like I'm drowning in work and personal stuff. It's like there's no end in sight.""
+B: ""I totally get it. It's been a tough week for me too. But remember, it's okay to feel overwhelmed sometimes. You're doing your best.""
+
+Turn 2
+A: ""Thanks, B. It really helps to hear that. At some point, we all hate it. Hey it feels good to be real sometimes.  Sometimes I just need to vent and know that someone understands.""
+B: ""Absolutely. Anytime you need to talk, I'm here. We all need a break and some support now and then.""","At some point, we all hate it. Hey it feels good to be real sometimes.",positive,2,"A's statement ""At some point, we all hate it. Hey it feels good to be real sometimes."" acknowledges the shared experience of feeling overwhelmed and the relief that comes from being honest about it. This indicates a positive shift towards acceptance and the value of authenticity.",1,True,536
+27,"Turn 1
+A: Wow, B, these slides look amazing! I can't believe you did all this for me.
+B: Of course, A! I know how important this presentation is for you. I just wanted to help ease some of your stress.
+
+Turn 2
+A: You have no idea how much this means to me. Omg, thank you! I was really struggling with how to make everything look professional.
+B: I'm glad I could help. You've got the content down perfectly; now you just need to focus on delivering it confidently. You've got this!","Omg, thank you!",positive,2,"Yes, A was being positive. A expressed gratitude and appreciation for B's help, indicating a positive sentiment.",1,True,482
+51,"Turn 1
+A: Hey, did you see that article I sent you about the accident? Just reading this makes me sick It's so heartbreaking.
+B: Yeah, I just read it. I can't believe something like that happened. It's really upsetting to think about all those people affected.
+
+Turn 2
+A: I know, right? It's hard to wrap my head around it. I keep thinking about the families and how they're coping.
+B: Same here. It's just so tragic. I wish there was something we could do to help or make a difference somehow.",Just reading this makes me sick,negative,1,"Yes, I agree. A's statement ""Just reading this makes me sick"" indicates a negative reaction to the heartbreaking news about the accident.",1,True,494
