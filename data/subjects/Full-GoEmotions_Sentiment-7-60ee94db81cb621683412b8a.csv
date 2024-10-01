@@ -1,0 +1,269 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: You know, there have been a few changes in my neighborhood lately. Some new construction and a couple of incidents that have made me more aware of what's going on around me.
+B: Really? What kind of incidents?
+
+Turn 2
+A: Just some minor things, like a few break-ins and some suspicious activity. Nothing too alarming, but it's made me more observant.
+B: I get that. It's always good to stay alert, especially when things start to change around you.I live here! Apparently I need to be keeping my eyes open.",negative,2024-10-01T02:12:14.782000+00:00,"What was the person's sentiment when they said ""I live here! Apparently I need to be keeping my eyes open."" during the conversation?","Turn 1
+A: You know, there have been a few changes in my neighborhood lately. Some new construction and a couple of incidents that have made me more aware of what's going on around me.
+B: Really? What kind of incidents?
+
+Turn 2
+A: Just some minor things, like a few break-ins and some suspicious activity. Nothing too alarming, but it's made me more observant.
+B: I get that. It's always good to stay alert, especially when things start to change around you.I live here! Apparently I need to be keeping my eyes open.",I live here! Apparently I need to be keeping my eyes open.,negative
+"Turn 1
+A: Ugh, this chair is such a pain. I thought it would be perfect for the backyard.
+B: It doesn't look very comfortable. What's wrong with it?
+
+Turn 2
+A: It's wobbly and the seat is too hard. Probably, I knew this lawn chair was a bad idea.I really regret buying it.
+B: That's frustrating. Maybe you can return it or find a way to make it more comfortable?",negative,2024-10-01T02:18:17.815000+00:00,"What was the person's sentiment when they said ""Probably, I knew this lawn chair was a bad idea."" during the conversation?","Turn 1
+A: Ugh, this chair is such a pain. I thought it would be perfect for the backyard.
+B: It doesn't look very comfortable. What's wrong with it?
+
+Turn 2
+A: It's wobbly and the seat is too hard. Probably, I knew this lawn chair was a bad idea.I really regret buying it.
+B: That's frustrating. Maybe you can return it or find a way to make it more comfortable?","Probably, I knew this lawn chair was a bad idea.",negative
+"Turn 1
+A: So, for my cut crease, I always start with a good eyeshadow primer to make sure the colors really pop and stay in place. Then, I use a flat brush to apply a concealer to carve out the crease. It gives such a sharp, defined look. I've been using the Urban Decay Primer Potion, and it works wonders!
+
+B: Oh, I totally agree about the primer! The Urban Decay one is fantastic for making the colors vibrant. I agree with the concealer part for the cut crease but that's it.I haven't tried using a flat brush for the concealer though; I usually use a small, angled brush. But your method sounds really effective!
+
+Turn 2
+A: Yeah, the flat brush helps me get that precise line. But I can see how an angled brush would work well too. Maybe I'll give that a try next time.
+
+B: Definitely! And I might try your flat brush technique as well. It's always fun to experiment and see what works best.",neutral,2024-10-01T02:16:52.796000+00:00,"What was the person's sentiment when they said ""I agree with the concealer part for the cut crease but that's it."" during the conversation?","Turn 1
+A: So, for my cut crease, I always start with a good eyeshadow primer to make sure the colors really pop and stay in place. Then, I use a flat brush to apply a concealer to carve out the crease. It gives such a sharp, defined look. I've been using the Urban Decay Primer Potion, and it works wonders!
+
+B: Oh, I totally agree about the primer! The Urban Decay one is fantastic for making the colors vibrant. I agree with the concealer part for the cut crease but that's it.I haven't tried using a flat brush for the concealer though; I usually use a small, angled brush. But your method sounds really effective!
+
+Turn 2
+A: Yeah, the flat brush helps me get that precise line. But I can see how an angled brush would work well too. Maybe I'll give that a try next time.
+
+B: Definitely! And I might try your flat brush technique as well. It's always fun to experiment and see what works best.",I agree with the concealer part for the cut crease but that's it.,neutral
+"Turn 1
+A: It's been really tough keeping up with the rent in my current location. The district is trendy, but the high costs are eating into my profits. Lovely places to buy from but very hard to get a good price as a seller because of their high rents (and bargaining expertise!)
+B: That sounds challenging. I'm thinking about opening a new store, but I'm not sure where to set up. Do you think the high-rent areas are worth it?
+
+Turn 2
+A: Honestly, it's a double-edged sword. While the foot traffic is great, the overheads are a killer. I've had to negotiate hard just to break even.
+B: I see. Maybe I should consider a more affordable area and focus on building a loyal customer base instead. Thanks for the insight.",positive,2024-10-01T02:15:07.976000+00:00,"What was the person's sentiment when they said ""Lovely places to buy from but very hard to get a good price as a seller because of their high rents (and bargaining expertise!)"" during the conversation?","Turn 1
+A: It's been really tough keeping up with the rent in my current location. The district is trendy, but the high costs are eating into my profits. Lovely places to buy from but very hard to get a good price as a seller because of their high rents (and bargaining expertise!)
+B: That sounds challenging. I'm thinking about opening a new store, but I'm not sure where to set up. Do you think the high-rent areas are worth it?
+
+Turn 2
+A: Honestly, it's a double-edged sword. While the foot traffic is great, the overheads are a killer. I've had to negotiate hard just to break even.
+B: I see. Maybe I should consider a more affordable area and focus on building a loyal customer base instead. Thanks for the insight.",Lovely places to buy from but very hard to get a good price as a seller because of their high rents (and bargaining expertise!),positive
+"Turn 1
+A: You know, I was really looking forward to that concert last weekend.
+B: Oh, right! How was it? I've been dying to hear all about it.
+
+Turn 2
+A: Honestly, it was a bit of a letdown. Pretty shit tbh with you The band seemed off, and the sound quality wasn't great.
+B: That's disappointing to hear. I know how much you were looking forward to it. What do you think went wrong?",negative,2024-10-01T02:17:33.584000+00:00,"What was the person's sentiment when they said ""Pretty shit tbh with you"" during the conversation?","Turn 1
+A: You know, I was really looking forward to that concert last weekend.
+B: Oh, right! How was it? I've been dying to hear all about it.
+
+Turn 2
+A: Honestly, it was a bit of a letdown. Pretty shit tbh with you The band seemed off, and the sound quality wasn't great.
+B: That's disappointing to hear. I know how much you were looking forward to it. What do you think went wrong?",Pretty shit tbh with you,negative
+"Turn 1
+A: I was really looking forward to that transfer rumor about the star striker joining our team, but it turned out to be completely false.
+B: Oh, I know the feeling. I've been misled by those kinds of stories so many times. It's hard to know which sources to trust these days.
+
+Turn 2
+A: Exactly. It seems like every week there's a new sensational headline that doesn't pan out. Yeah. Basically Sky Germany and Sky Sports aren't reliable at all It's frustrating.
+B: Totally. I've started sticking to a few reliable outlets, but even then, you have to take everything with a grain of salt.",negative,2024-10-01T02:09:15.575000+00:00,"What was the person's sentiment when they said ""Yeah. Basically Sky Germany and Sky Sports aren't reliable at all"" during the conversation?","Turn 1
+A: I was really looking forward to that transfer rumor about the star striker joining our team, but it turned out to be completely false.
+B: Oh, I know the feeling. I've been misled by those kinds of stories so many times. It's hard to know which sources to trust these days.
+
+Turn 2
+A: Exactly. It seems like every week there's a new sensational headline that doesn't pan out. Yeah. Basically Sky Germany and Sky Sports aren't reliable at all It's frustrating.
+B: Totally. I've started sticking to a few reliable outlets, but even then, you have to take everything with a grain of salt.",Yeah. Basically Sky Germany and Sky Sports aren't reliable at all,negative
+"Turn 1
+A: Hey, I heard something unsettling about one of our players recently. What happened to one of your star players?? i saw the headline 'freak injury' or someting like that.. but i was too scared to see someting gruesome.. Do you know what happened?
+B: Yeah, I heard about it too. It's been all over the news. Do you want a brief rundown?
+
+Turn 2
+A: Sure, just the main points would be great. I don't need all the details.
+B: Okay, so basically, there was an incident off the field that's being investigated. The team is handling it, and they're keeping fans updated as things develop.",neutral,2024-10-01T02:09:40.566000+00:00,"What was the person's sentiment when they said ""What happened to one of your star players?? i saw the headline 'freak injury' or someting like that.. but i was too scared to see someting gruesome.."" during the conversation?","Turn 1
+A: Hey, I heard something unsettling about one of our players recently. What happened to one of your star players?? i saw the headline 'freak injury' or someting like that.. but i was too scared to see someting gruesome.. Do you know what happened?
+B: Yeah, I heard about it too. It's been all over the news. Do you want a brief rundown?
+
+Turn 2
+A: Sure, just the main points would be great. I don't need all the details.
+B: Okay, so basically, there was an incident off the field that's being investigated. The team is handling it, and they're keeping fans updated as things develop.",What happened to one of your star players?? i saw the headline 'freak injury' or someting like that.. but i was too scared to see someting gruesome..,neutral
+"Turn 1
+A: Remember that time we stayed up all night cramming for Professor Thompson's final? We were so sure we were going to fail, but somehow we both aced it.
+B: Oh, absolutely! And then we celebrated by going to that 24-hour diner. I think we ordered every type of pancake they had. Those were the days, huh?
+
+Turn 2
+A: Yeah, life was so much simpler back then. No bills, no deadlines, just us trying to figure things out as we went along. Before all of the BS lol
+B: Exactly. Now it's all about balancing work, family, and everything else. But it's nice to know we can still catch up and laugh about the good old days.",positive,2024-10-01T02:14:09.497000+00:00,"What was the person's sentiment when they said ""Before all of the BS lol"" during the conversation?","Turn 1
+A: Remember that time we stayed up all night cramming for Professor Thompson's final? We were so sure we were going to fail, but somehow we both aced it.
+B: Oh, absolutely! And then we celebrated by going to that 24-hour diner. I think we ordered every type of pancake they had. Those were the days, huh?
+
+Turn 2
+A: Yeah, life was so much simpler back then. No bills, no deadlines, just us trying to figure things out as we went along. Before all of the BS lol
+B: Exactly. Now it's all about balancing work, family, and everything else. But it's nice to know we can still catch up and laugh about the good old days.",Before all of the BS lol,positive
+"Turn 1
+A: When I'm working on a new piece, I usually start with a vague idea or emotion I want to express. It's like having a rough sketch in my mind, and then I let my intuition guide me.
+B: That's fascinating! So, it's more about feeling your way through the process rather than following a strict plan?
+
+Turn 2
+A: Exactly. I might start with a certain color or shape, and as I work, new ideas and elements just naturally come together. It's a bit like solving a puzzle, but with more freedom.
+B: I see. What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine It sounds a bit like debugging code for me. I start with an idea of what the solution might be, but I have to adapt and refine as I go along. It's interesting how different our processes are, yet they share some similarities.",neutral,2024-10-01T02:16:04.780000+00:00,"What was the person's sentiment when they said ""What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine"" during the conversation?","Turn 1
+A: When I'm working on a new piece, I usually start with a vague idea or emotion I want to express. It's like having a rough sketch in my mind, and then I let my intuition guide me.
+B: That's fascinating! So, it's more about feeling your way through the process rather than following a strict plan?
+
+Turn 2
+A: Exactly. I might start with a certain color or shape, and as I work, new ideas and elements just naturally come together. It's a bit like solving a puzzle, but with more freedom.
+B: I see. What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine It sounds a bit like debugging code for me. I start with an idea of what the solution might be, but I have to adapt and refine as I go along. It's interesting how different our processes are, yet they share some similarities.",What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine,neutral
+"Turn 1
+A: Did you hear about that recent news story on illegal organ trafficking? It's horrifying to think such things still happen.
+B: Absolutely, it's a stark reminder of why we need to be so vigilant with our protocols here. Ensuring every procedure is above board is crucial.
+
+Turn 2
+A: I agree. Our hospital has some of the strictest guidelines, but it's always good to stay aware and informed.
+B: Definitely, One does not simply Steal kidneys on my watch continuous education and strict adherence to ethical standards are key to maintaining trust and integrity in our profession.",negative,2024-10-01T02:11:14.039000+00:00,"What was the person's sentiment when they said ""One does not simply Steal kidneys on my watch"" during the conversation?","Turn 1
+A: Did you hear about that recent news story on illegal organ trafficking? It's horrifying to think such things still happen.
+B: Absolutely, it's a stark reminder of why we need to be so vigilant with our protocols here. Ensuring every procedure is above board is crucial.
+
+Turn 2
+A: I agree. Our hospital has some of the strictest guidelines, but it's always good to stay aware and informed.
+B: Definitely, One does not simply Steal kidneys on my watch continuous education and strict adherence to ethical standards are key to maintaining trust and integrity in our profession.",One does not simply Steal kidneys on my watch,negative
+"Turn 1
+A: My weekend was interesting. I tried something new, but it didn't quite go as planned.
+B: Oh really? What happened?
+
+Turn 2
+A: I decided to play one of those dance games at the arcade, but I ended up hurting myself. I did twist my ankle trying to play that on DDR.
+B: Ouch, that sounds rough! Are you okay now?",negative,2024-10-01T02:18:11.411000+00:00,"What was the person's sentiment when they said ""I did twist my ankle trying to play that on DDR."" during the conversation?","Turn 1
+A: My weekend was interesting. I tried something new, but it didn't quite go as planned.
+B: Oh really? What happened?
+
+Turn 2
+A: I decided to play one of those dance games at the arcade, but I ended up hurting myself. I did twist my ankle trying to play that on DDR.
+B: Ouch, that sounds rough! Are you okay now?",I did twist my ankle trying to play that on DDR.,negative
+"Turn 1
+A: I've been having such a hard time getting a good night's sleep lately. Do you have any tips?
+B: Oh, I totally get that. I've actually put a lot of effort into my sleep setup. One thing that really helps me is having the right pillows and bedding.
+
+Turn 2
+A: That sounds interesting. What kind of pillows do you use?
+B: I swear by memory foam pillows. They provide great support. I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging Also, investing in a good quality mattress and breathable sheets made a huge difference for me.
+
+...",positive,2024-10-01T02:18:36.191000+00:00,"What was the person's sentiment when they said ""I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging"" during the conversation?","Turn 1
+A: I've been having such a hard time getting a good night's sleep lately. Do you have any tips?
+B: Oh, I totally get that. I've actually put a lot of effort into my sleep setup. One thing that really helps me is having the right pillows and bedding.
+
+Turn 2
+A: That sounds interesting. What kind of pillows do you use?
+B: I swear by memory foam pillows. They provide great support. I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging Also, investing in a good quality mattress and breathable sheets made a huge difference for me.
+
+...",I have a really nice tempurpedic one and about 6 king sized fluffy ones that I use to just fall asleep hugging,positive
+"Turn 1
+A: I'm really worried about this high-interest loan the company just took on. It feels like we're setting ourselves up for trouble down the line.
+B: I get your concern, but think about the potential growth this project could bring. If it succeeds, the returns could outweigh the costs.
+
+Turn 2
+A: But what if it doesn't pan out as expected? We could end up in a worse financial position, struggling to pay off this debt. Borrowed time is stupid
+B: True, there's always a risk, but sometimes you have to take bold steps to achieve significant progress. We can't grow without taking some calculated risks.",negative,2024-10-01T02:16:33.738000+00:00,"What was the person's sentiment when they said ""Borrowed time is stupid"" during the conversation?","Turn 1
+A: I'm really worried about this high-interest loan the company just took on. It feels like we're setting ourselves up for trouble down the line.
+B: I get your concern, but think about the potential growth this project could bring. If it succeeds, the returns could outweigh the costs.
+
+Turn 2
+A: But what if it doesn't pan out as expected? We could end up in a worse financial position, struggling to pay off this debt. Borrowed time is stupid
+B: True, there's always a risk, but sometimes you have to take bold steps to achieve significant progress. We can't grow without taking some calculated risks.",Borrowed time is stupid,negative
+"Turn 1
+A: I don't know, B. Teenagers can be really tough to deal with. I had a pretty rough time myself when I was their age.
+B: I get that, A. But maybe that's exactly why you'd be great at it. You understand what they're going through.
+
+Turn 2
+A: I appreciate the thought, but I just don't think I have the patience for it right now. Seeing how I was as a teen and how most teens are, nope! Dont want to deal with that.
+B: Fair enough. I just thought I'd mention it because you've always been so good with your volunteer work. No pressure, though.",negative,2024-10-01T02:10:12.321000+00:00,"What was the person's sentiment when they said ""Seeing how I was as a teen and how most teens are, nope! Dont want to deal with that."" during the conversation?","Turn 1
+A: I don't know, B. Teenagers can be really tough to deal with. I had a pretty rough time myself when I was their age.
+B: I get that, A. But maybe that's exactly why you'd be great at it. You understand what they're going through.
+
+Turn 2
+A: I appreciate the thought, but I just don't think I have the patience for it right now. Seeing how I was as a teen and how most teens are, nope! Dont want to deal with that.
+B: Fair enough. I just thought I'd mention it because you've always been so good with your volunteer work. No pressure, though.","Seeing how I was as a teen and how most teens are, nope! Dont want to deal with that.",negative
+"Turn 1
+A: It's been a tough few months with everything going on with my family, but we're managing. The support from everyone has been incredible.
+B: I'm so glad to hear that. You've been so strong through all of this. How's everyone doing now?
+
+Turn 2
+A: They're slowly getting better, day by day. It's a relief to see some progress, even if it's small. Praying for me family. I just hope things keep improving.
+B: That's really encouraging. I'm here for you, and I'm sure things will continue to get better. Just take it one step at a time.",negative,2024-10-01T02:17:22.258000+00:00,"What was the person's sentiment when they said ""Praying for me family."" during the conversation?","Turn 1
+A: It's been a tough few months with everything going on with my family, but we're managing. The support from everyone has been incredible.
+B: I'm so glad to hear that. You've been so strong through all of this. How's everyone doing now?
+
+Turn 2
+A: They're slowly getting better, day by day. It's a relief to see some progress, even if it's small. Praying for me family. I just hope things keep improving.
+B: That's really encouraging. I'm here for you, and I'm sure things will continue to get better. Just take it one step at a time.",Praying for me family.,negative
+"Turn 1
+A: We need to ensure that the integration phase is revisited in about eight months. Can you set a reminder for that?
+B: Sure, I'll add it to our project timeline and set a notification for us.Remindme! 243 days
+
+Turn 2
+A: Great, thanks. Also, let's review the current milestones to make sure we're on track.
+B: Absolutely. I'll pull up the latest progress report so we can go over it together.",neutral,2024-10-01T02:08:17.950000+00:00,"What was the person's sentiment when they said ""Remindme! 243 days"" during the conversation?","Turn 1
+A: We need to ensure that the integration phase is revisited in about eight months. Can you set a reminder for that?
+B: Sure, I'll add it to our project timeline and set a notification for us.Remindme! 243 days
+
+Turn 2
+A: Great, thanks. Also, let's review the current milestones to make sure we're on track.
+B: Absolutely. I'll pull up the latest progress report so we can go over it together.",Remindme! 243 days,neutral
+"Turn 1
+A: Hey B, do you know of any quiet spots in the building? I really need a break from all this noise and activity. I just need a quiet place to hide.
+B: Sure, I get it. There's a small lounge on the third floor that's usually pretty empty. You might find some peace there.
+
+Turn 2
+A: That sounds perfect. Thanks for the tip, B. I really appreciate it.
+B: No problem, A. Take care of yourself. If you need anything else, just let me know.",negative,2024-10-01T02:12:00.382000+00:00,"What was the person's sentiment when they said ""I just need a quiet place to hide."" during the conversation?","Turn 1
+A: Hey B, do you know of any quiet spots in the building? I really need a break from all this noise and activity. I just need a quiet place to hide.
+B: Sure, I get it. There's a small lounge on the third floor that's usually pretty empty. You might find some peace there.
+
+Turn 2
+A: That sounds perfect. Thanks for the tip, B. I really appreciate it.
+B: No problem, A. Take care of yourself. If you need anything else, just let me know.",I just need a quiet place to hide.,negative
+"Turn 1
+A: You know, sometimes I worry about what life would be like if my spouse were to pass away before me. The thought of being alone is quite daunting.
+B: I understand, A. It's something I've thought about too. I think I'd try to stay busy with hobbies and maybe even volunteer work to keep my mind occupied.
+
+Turn 2
+A: That's a good idea. I suppose finding ways to stay connected with others would be important. And some of us wish to die first so we don't have to deal with the loneliness. Maybe joining a community group or a book club could help.
+B: Absolutely. And don't forget, we have each other. We can always lean on our friendship to get through tough times.",negative,2024-10-01T02:13:58.045000+00:00,"What was the person's sentiment when they said ""And some of us wish to die first so we don't have to deal with the loneliness."" during the conversation?","Turn 1
+A: You know, sometimes I worry about what life would be like if my spouse were to pass away before me. The thought of being alone is quite daunting.
+B: I understand, A. It's something I've thought about too. I think I'd try to stay busy with hobbies and maybe even volunteer work to keep my mind occupied.
+
+Turn 2
+A: That's a good idea. I suppose finding ways to stay connected with others would be important. And some of us wish to die first so we don't have to deal with the loneliness. Maybe joining a community group or a book club could help.
+B: Absolutely. And don't forget, we have each other. We can always lean on our friendship to get through tough times.",And some of us wish to die first so we don't have to deal with the loneliness.,negative
+"Turn 1
+A: I recently read an article comparing different business hierarchies. It was fascinating to see how traditional corporations differ from more controversial models like pyramid schemes.
+B: That sounds interesting. What did the article say about the differences between them?
+
+Turn 2
+A: Well, traditional corporations have a clear structure with defined roles and responsibilities, whereas pyramid schemes rely heavily on recruitment and often lack transparency. I like to bring up the fact that all of these pyramid schemes have corporate offices that have the exact same structure they are railing against.
+B: I see. How do these differences impact the ethical considerations of each model?",neutral,2024-10-01T02:13:08.566000+00:00,"What was the person's sentiment when they said ""I like to bring up the fact that all of these pyramid schemes have corporate offices that have the exact same structure they are railing against."" during the conversation?","Turn 1
+A: I recently read an article comparing different business hierarchies. It was fascinating to see how traditional corporations differ from more controversial models like pyramid schemes.
+B: That sounds interesting. What did the article say about the differences between them?
+
+Turn 2
+A: Well, traditional corporations have a clear structure with defined roles and responsibilities, whereas pyramid schemes rely heavily on recruitment and often lack transparency. I like to bring up the fact that all of these pyramid schemes have corporate offices that have the exact same structure they are railing against.
+B: I see. How do these differences impact the ethical considerations of each model?",I like to bring up the fact that all of these pyramid schemes have corporate offices that have the exact same structure they are railing against.,neutral
+"Turn 1
+A: You know, I sometimes struggle with understanding the true intent behind some compliments from our friends. It's like there's always a hidden layer that I'm missing.
+B: I get what you mean. It's almost like a game where everyone has their own strategies and hidden agendas. It reminds me of how complex systems work, where every action has multiple interpretations.
+
+Turn 2
+A: Exactly! And it can be exhausting trying to decode everything. It's like you need a manual to understand the social dynamics. I dunno. Backhanded compliments in girl world are like professional sports.
+B: Totally. It's fascinating how these interactions can be as intricate as any competitive environment, like in business or even nature. There's always more beneath the surface than what we initially see.",negative,2024-10-01T02:17:46.761000+00:00,"What was the person's sentiment when they said ""I dunno. Backhanded compliments in girl world are like professional sports."" during the conversation?","Turn 1
+A: You know, I sometimes struggle with understanding the true intent behind some compliments from our friends. It's like there's always a hidden layer that I'm missing.
+B: I get what you mean. It's almost like a game where everyone has their own strategies and hidden agendas. It reminds me of how complex systems work, where every action has multiple interpretations.
+
+Turn 2
+A: Exactly! And it can be exhausting trying to decode everything. It's like you need a manual to understand the social dynamics. I dunno. Backhanded compliments in girl world are like professional sports.
+B: Totally. It's fascinating how these interactions can be as intricate as any competitive environment, like in business or even nature. There's always more beneath the surface than what we initially see.",I dunno. Backhanded compliments in girl world are like professional sports.,negative
