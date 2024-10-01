@@ -150,7 +150,7 @@ const Instructions = ({ onComplete, setProlificID }) => {
           <p><strong>Positive</strong></p>
           <p><strong>Negative</strong></p>
           <p><strong>Neutral</strong></p>
-          <p><strong>Ambiguous</strong>: If you cannot determine the sentiment of the statement within given context, or if you do not understand the statement.</p>
+          <p><strong>Ambiguous</strong>: If you cannot determine the sentiment of the statement without more context, or if you do not understand the statement.</p>
         </>
       ) 
     },

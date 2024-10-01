@@ -1,143 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-23,"Turn 1
-A: I believe that the data clearly shows a significant impact of human activities on climate change. Ignoring this is irresponsible.
-B: You're misrepresenting my position. I never said we should ignore human impact; I just think we need a balanced approach that also considers economic factors. You're creating a strawman argument.
+57,"Turn 1
+A: I'm really excited about tomorrow. I think I might finally tell them how I feel.I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga
+B: That's awesome! You should definitely go for it. What's your plan?
 
 Turn 2
-A: I don't think you understand what a strawman argument is.Not at all. I'm not going to argue with someone who doesn't understand what a strawman is. I'm not misrepresenting your position; I'm addressing the broader issue. But if this is how the conversation is going to go, I don't see the point in continuing.
-B: It's frustrating that you feel that way, but I think it's important to clarify our positions accurately. Maybe we can revisit this when we're both less frustrated.",Not at all. I'm not going to argue with someone who doesn't understand what a strawman is.,negative,2,"Yes, A's response in turn 2 is negative. A dismisses B's understanding and expresses a refusal to continue the conversation, which indicates frustration and a negative tone.",1,True,826
-19,"Turn 1
-A: You remember that puppet show we watched at the theme park? There was this one puppet that pretended to be a lion and claimed it had I ate my mommy and daddy""eaten"" its puppet parents!
-B: Oh my gosh, that's hilarious! I can just imagine the kids' reactions to that.
+A: I was thinking of taking them to that new art exhibit and then maybe grabbing dinner afterward. It feels like the perfect setting to open up.
+B: That sounds perfect. Just be yourself and let the moment guide you. You've got this!",I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga,positive,1,"Yes, A was being positive. They expressed excitement about the upcoming day and the possibility of sharing their feelings, which indicates a hopeful and positive outlook.",1,True,476
+52,"Turn 1
+A: Did you hear about the new game, LawBreakers? It looks pretty cool.
+B: Yeah, but I'm bummed it's only coming out on PC. I really wanted to play it on my console.
 
 Turn 2
-A: Yeah, the kids were all gasping and laughing at the same time. It was such a funny twist!
-B: Sounds like it was a great show. I love how they can make something so silly and unexpected.",I ate my mommy and daddy,neutral,1,A was recounting a memory of a puppet show and describing a specific moment from it. The tone appears to be neutral as A is simply sharing an observation without expressing strong emotions.,1,True,472
+A: Don't lose hope just yet. ""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 - Sometimes games get ported to consoles after their initial release. There's still a chance it might come to your platform.
+B: Really? That would be awesome! I'll keep my fingers crossed then. Thanks for the heads-up!","""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 -",positive,2,"Yes, A was being positive. A was trying to reassure B by suggesting that there is still a possibility that LawBreakers might be released on consoles in the future.",1,True,505
+21,"Turn 1
+A: Ugh, why do they always have to cut to commercials right when we're in the middle of something interesting? Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!
+B: Yeah, it can be annoying, but it's just a part of watching live TV. What were you saying about Dana White?
+
+Turn 2
+A: Right, so as I was saying, I think his management style is really polarizing. Some people love it, but others think he's too aggressive.
+B: True, he's definitely a controversial figure. I guess that's part of what makes him so interesting to talk about.",Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!,negative,1,"Yes, A was being negative. The use of phrases like ""Ugh,"" ""stupid ass,"" and the sarcastic ""k? thanks!"" indicate frustration and annoyance with the interruption caused by the commercial.",1,True,610
+66,"Turn 1
+A: I'm so pumped for the game tonight! Can't wait to hit the stadium club and cheer for Galaxy. I really think we have a good shot against Dallas.
+B: Yeah, I hope so. Dallas has been pretty strong this season, though. I'm a bit worried about our defense.
+
+Turn 2
+A: I get that, but we've been improving a lot lately. Plus, the home crowd energy will definitely give us an edge. Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!
+B: True, the atmosphere at the stadium club is always electric. Let's hope it fires up the team. See you there!",Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!,positive,2,"Yes, A was being positive. A expressed excitement and confidence about the game, mentioned the improvement of their team, and showed enthusiasm about cheering for their team at the stadium club.",1,True,612
+47,"Turn 1
+A: I can't even see straight anymore. I think I've read this same paragraph five times.
+B: You look exhausted, A. Let's take a quick break. A few minutes away from the screen might help.
+
+Turn 2
+A: I don't know if a break will cut it. Im so tired that Zulu is the 1st word that pops in my mind I feel like my brain is turning to mush.
+B: That's exactly why we need to step away for a bit. A short walk or some fresh air could make a big difference.",Im so tired that Zulu is the 1st word that pops in my mind,negative,2,"Yes, I agree. A's statement about being so tired that ""Zulu is the 1st word that pops in my mind"" indicates a level of frustration and mental exhaustion, which can be interpreted as a negative sentiment.",1,True,455
 6,"Turn 1
-A: Hey B, I noticed you have a really unique way of tackling problems. I'm curious, how do you usually approach a new challenge?
-B: Thanks, A! I usually start by breaking down the problem into smaller parts and then look for patterns or similarities to things I've solved before. It helps me manage the complexity and find a starting point.
+A: It's so frustrating how the media always blows things out of proportion, especially when it involves black women. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley Did you see how they covered the Nicki and Miley thing?
+B: Yeah, it's like they can't wait to paint Nicki as the aggressor. It's so biased and unfair.
 
 Turn 2
-A: That makes a lot of sense. What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine Do you have any specific techniques or tools you use to identify those patterns?
-B: I often use mind maps to visualize the problem and its components. It helps me see connections that aren't immediately obvious. Plus, I like to bounce ideas off others to get different perspectives.",What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine,neutral,2,"A's statement ""What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine"" shows curiosity and a desire to understand B's approach better. It doesn't convey any strong positive or negative sentiment, but rather a neutral and inquisitive tone.",1,True,781
-13,"Turn 1
-A: ""Hey B, I just wrapped up the final report for the project. It took a lot of late nights, but it's finally done!""
-B: ""That's fantastic, A! You did an amazing job. Your hard work really paid off. Let's keep this momentum going and make sure we stay on track for the next phase.""
+A: Exactly! They never give her the benefit of the doubt. It's always the same old stereotypes being pushed.
+B: Totally. And it's not just about Nicki. This kind of coverage affects how people view all black women. It's exhausting.",The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley,negative,1,"Yes, I agree. A is expressing frustration and negativity about how the media portrays black women, specifically mentioning that Nicki Minaj will be unfairly labeled as the ""angry black woman"" in contrast to Miley Cyrus being seen as the ""poor white girl."" This indicates a negative sentiment towards the media's biased coverage.",1,True,623
+10,"Turn 1
+A: I can't wait for tonight's episode! can it be tomorrow already i want to watch big brotherI wish the day would just fly by.
+B: I know, right? The last episode ended on such a cliffhanger. I wonder what will happen next.
 
 Turn 2
-A: ""Thanks, B! I appreciate the support. Well done dude! Seriously :) But keep it up, don't lose this momentum. I'll start prepping for the next steps right away.""
-B: ""Sounds great, A. If you need any help or run into any issues, just let me know. We're in this together!""","Well done dude! Seriously :) But keep it up, don't lose this momentum.",positive,2,"Yes, A was being positive. A expressed appreciation for B's support and encouraged B to maintain the momentum, which indicates a positive and supportive attitude.",1,True,568
-71,"Turn 1
-A: Ugh, I just had another customer complain about having to create an Apple Account to use their new iPhone. It's so frustrating dealing with these complaints all the time. I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.
-B: I know what you mean. It feels like every other customer has the same issue. I usually try to explain the benefits, like how it helps with security and accessing all the Apple services, but it doesn't always help.
+A: Same here! I have a feeling there's going to be a big twist.
+B: Me too. Let's grab some snacks on the way home so we're all set for our watch party.",can it be tomorrow already i want to watch big brother,positive,1,"Yes, A was being positive. A's excitement about watching the next episode of ""Big Brother"" and their wish for the day to fly by so they can watch it sooner indicates a positive sentiment.",1,True,389
+9,"Turn 1
+A: I watched Ant-Man again last weekend, and it was interesting to see how everyone stayed glued to their seats for the after-credits scenes.
+B: Oh, I love those! They always add a little extra to the movie. Did you notice anything different this time?
 
 Turn 2
-A: Yeah, I do that too, but some people just don't want to hear it. They get so annoyed. Do you have any other tips for handling these situations?
-B: Sometimes, I find it helps to walk them through the setup process step-by-step. It makes it less overwhelming for them, and they appreciate the extra help. Plus, it usually calms them down a bit.",I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.,negative,1,"Yes, I agree. A's statement expresses frustration and negativity about dealing with customer complaints regarding the need to set up an Apple Account for their iPhones.",1,True,890
-18,"Turn 1
-A: I just wanted to thank you for suggesting the DBQ activity and pairing the students for collaborative work. Thank you! I ended up assigning a dbq and paired students up It really made a difference in my class.
-B: I'm so glad to hear that! DBQs can be really engaging, and collaborative work often brings out the best in students. How did they respond to it?
-
-Turn 2
-A: They were much more engaged and seemed to enjoy working together to analyze the documents. It sparked some great discussions.
-B: That's fantastic! It's always rewarding to see students actively participating. If you need any more ideas or resources, feel free to ask.",Thank you! I ended up assigning a dbq and paired students up,positive,1,"Yes, A was being positive. A expressed gratitude and shared that the DBQ activity and pairing students up made a positive difference in the class.",1,True,646
-25,"Turn 1
-A: You know, we had a really interesting discussion about theodicy in my study group last night. It's such a complex topic, trying to understand why a benevolent God would allow suffering.
-B: That does sound like a deep and challenging subject. It's one of those questions that has puzzled people for centuries, hasn't it?
-
-Turn 2
-A: Absolutely. There are so many different perspectives and interpretations. I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it. Some find comfort in the idea that suffering has a purpose, even if we can't always see it.
-B: I can see how that might be reassuring for some. It's definitely a topic that invites a lot of thoughtful reflection.","I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it.",neutral,2,"A's statement ""I have no faith, but the theodicy problem has multiple answers, I’m not too concerned with it."" indicates a neutral stance. A acknowledges the complexity of the topic and the existence of multiple perspectives without expressing strong personal concern or emotional investment.",1,True,722
-41,"Turn 1
-A: Wow, these documents are incredible! I can't believe you found a map from the 1930s showing where my great-grandparents lived.
-B: I'm glad you like them! It took some digging, but I thought you'd appreciate seeing the old neighborhood layout and those records.
-
-Turn 2
-A: Absolutely, this is amazing. I've always wondered about the exact location of their house in 1938. Thank you for sharing this. I found my house in 1938. Very fascinating stuff :) This map really brings their story to life.
-B: It's fascinating, isn't it? There's so much history in these old documents. I'm happy I could help you uncover a piece of your family's past.",Thank you for sharing this. I found my house in 1938. Very fascinating stuff :),positive,2,"Yes, A was being positive. They expressed amazement and gratitude for the documents and the map, indicating that they found the information fascinating and valuable.",1,True,649
-61,"Turn 1
-A: ""So, I've been thinking about how we can streamline the initial loan application process. What if we integrate a more intuitive online form that guides users step-by-step and pre-fills some of their information based on their existing accounts?""
-
-B: ""That sounds fantastic, A! I love the idea of making it easier for our customers right from the start. It could really cut down on the time they spend filling out forms and reduce errors. Have you thought about how we might handle the data security aspects of this?""
-
-Turn 2
-A: ""Absolutely, B. Data security is a top priority. We could implement multi-factor authentication and ensure that all data is encrypted both in transit and at rest. Great! I hope we can make our loan system work better Plus, we can add real-time monitoring to detect any suspicious activity.""
-
-B: ""Perfect, that covers the security concerns well. I'm really excited about these changes. If we can get this right, it will not only improve customer satisfaction but also make our internal processes much more efficient. Let's start mapping out the implementation plan and get the team's input on this.""",Great! I hope we can make our loan system work better,positive,2,"Yes, A was being positive. A expressed enthusiasm about improving the loan system and addressed the security concerns effectively, showing optimism about the potential benefits of the proposed changes.",1,True,1136
-68,"Turn 1
-A: Sometimes I feel really isolated because I'm an atheist. It seems like everyone around me is religious, and it's hard to find people who understand my perspective.That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.
-B: I get that. It's actually the opposite for me. There are a lot of atheists in my area, and it's made a huge difference in my social life. I feel like I belong and can be myself without any judgment.
-
-Turn 2
-A: That sounds amazing. I wish I had that kind of community. It must be nice to have friends who share your beliefs and experiences.
-B: It really is. Maybe you could try finding online groups or forums where you can connect with like-minded people. It might help you feel less alone.",That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.,positive,1,"A's statement ""That's sad. I'm 16 and where I am there are loads of atheists my age. It's great."" is actually a mix of empathy and positivity. A acknowledges the sadness of feeling isolated but then shares a positive personal experience to offer hope. So, A is being positive in the latter part of the statement.",1,True,748
-78,"Turn 1
-A: Oh my gosh, that cat just face-planted into the wall! How does it even manage that?I love this ahahah
-B: I know, right? It's like it forgot how to cat for a second. I can't stop laughing!
-
-Turn 2
-A: Seriously, I needed this laugh. Thanks for sharing it.
-B: Anytime! It's always more fun to watch these with you. We should do this more often.",I love this ahahah,positive,1,"Yes, A was being positive. The phrase ""I love this ahahah"" indicates that A is amused and enjoying the situation, which is a positive reaction.",1,True,351
-33,"Turn 1
-A: Remember that summer we spent working at the local ice cream shop? We had so much fun, and it felt like we didn't have a care in the world.
-B: Oh, absolutely! I can still taste those free sundaes we made for ourselves after closing. Life was so much simpler back then.
-
-Turn 2
-A: Yeah, and we didn't have to worry about bills or deadlines. Before all of the BS lol Just hanging out, making a little money, and enjoying the sunshine.
-B: Exactly. Now it's all about juggling work, responsibilities, and trying to find time for ourselves. Those were the days, weren't they?",Before all of the BS lol,positive,2,"Yes, A was being positive. A was reminiscing about the carefree and enjoyable times they had working at the ice cream shop, highlighting the simplicity and fun of those days compared to their current responsibilities.",1,True,580
-50,"Turn 1
-A: Hey B, have you had any issues with the software lately?
-B: Not recently. There was a glitch about a month ago, but it got fixed pretty quickly.
-
-Turn 2
-A: Oh, that's good to hear. Yes had the problem a month or so ago but has since gone away What was the problem?
-B: It was a bug that caused some data to not save properly, but the update they pushed out took care of it.",Yes had the problem a month or so ago but has since gone away,neutral,2,"A's statement ""Yes had the problem a month or so ago but has since gone away"" is factual and does not convey any particular emotion or bias. It simply acknowledges the issue and its resolution.",1,True,382
-73,"Turn 1
-A: Thanks for explaining all that, B. It sounds like this software could really streamline our work. Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it? How much space does it need for installation?
-B: You're welcome, A! The software requires about 2 GB of free space. Do you think your system can handle that?
-
-Turn 2
-A: I think so, but I'll double-check to be sure. Is there anything else I should be aware of before installing it?
-B: Just make sure your operating system is up to date and you have a stable internet connection for the initial setup. Other than that, you should be good to go!",Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?,positive,1,"Yes, A was being positive. A expressed gratitude and appreciation for the explanation provided by B, indicating a positive and enthusiastic attitude towards the software.",1,True,669
+A: Yeah, it seemed like more people knew to stay until the very end. In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits sceneThe first time I saw it, half the audience left before the credits finished.
+B: That's funny. I guess word gets around. I always make sure to stay, especially with Marvel movies. Have you seen any other good ones lately?",In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits scene,neutral,2,A's statement indicates a neutral observation about their experience watching the movie for the second time. They are simply noting the difference in audience behavior without expressing any strong emotions or opinions.,1,True,674
 3,"Turn 1
-A: Did you hear about the new update in our game? They added a whole new dungeon and the difficulty has been ramped up!
-B: Really? That sounds awesome! I've been on a break, but this might just be the push I needed to dive back in.
+A: I can't wait for tomorrow's game! Chelsea's been in great form lately. Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win! Do you think they'll keep the momentum going?
+B: Yeah, they've been impressive. But you never know with football. Who are they up against again?
 
 Turn 2
-A: You should definitely check it out. Triggered:: Welp guess it's time for me to re-up lolThe new boss is insane, and the loot drops are totally worth it.
-B: Alright, you've convinced me. Time to dust off my gear and jump back into the action!",Triggered:: Welp guess it's time for me to re-up lol,positive,2,"Yes, A was being positive. A was expressing excitement about the new update and encouraging B to check it out, which indicates a positive sentiment.",1,True,491
-74,"Turn 1
-A: ""B, we need to talk. I've noticed you've been leaving dirty dishes and food scraps around the apartment for days. It's attracting pests and the smell is unbearable. You're disgusting Can you please clean up after yourself?""
-B: ""I'm really sorry, A. I've been swamped with work and just haven't had the time. I didn't realize it had gotten that bad.""
+A: They're playing against Liverpool. It's going to be a tough match, but I have a good feeling about it.
+B: Liverpool's always a challenge, but if Chelsea plays like they did last week, they definitely have a shot. Should be an exciting game!",Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win!,positive,1,"Yes, A was being positive. They expressed excitement and optimism about Chelsea's performance and the upcoming game.",1,True,561
+79,"Turn 1
+A: I don't know, man. I spent a lot on those Carmelo Anthony tickets and memorabilia, but with the way the team's playing, I'm starting to wonder if it was worth it.I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.
+B: I get it, A. It's tough when the team's not performing as well as you'd hoped. But remember, it's not just about the current season. Carmelo's had an incredible career, and that memorabilia will always have value.
 
 Turn 2
-A: ""I understand you're busy, but this is a shared space and we both need to keep it livable. Can we agree on a system to make sure this doesn't happen again?""
-B: ""Absolutely. I'll make it a priority to clean up right after eating, and maybe we can set up a cleaning schedule to keep things in check. Thanks for bringing it up.""",You're disgusting,negative,1,"Yes, I agree. A's statement ""You're disgusting"" is a negative and harsh comment directed at B, which indicates a negative sentiment.",1,True,696
-25,"Turn 1
-A: I'm glad I could help you with finding out how to check your court date. If you have any other questions, feel free to ask.Thank you! I call on Monday to find out when I have court
-B: Thank you so much! I really appreciate it. I'll make sure to call on Monday to get the specific details.
+A: Yeah, I guess you're right. It's just frustrating to see them struggle after investing so much.
+B: Totally understandable. But think of it this way: you're supporting a player you admire and have some great memories tied to those items. Plus, teams go through ups and downs. They might turn it around soon.",I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.,negative,1,"Yes, A was expressing frustration and doubt about their investment in Carmelo Anthony memorabilia due to the team's poor performance. This indicates a negative sentiment.",1,True,844
+67,"Turn 1
+A: Any exciting plans coming up?lol I can't wait.. and I'm going to see Janet Jackson next Thursday
+B: Oh, absolutely! I'm going to see Janet Jackson next Thursday. I can't wait!
 
 Turn 2
-A: You're welcome! Just make sure to have your case number handy when you call. It will make the process quicker.
-B: Got it, I'll have it ready. Thanks again for your assistance. Have a great day!",Thank you! I call on Monday to find out when I have court,positive,1,"Yes, A was being positive. A expressed gratitude and acknowledged the help received, indicating a positive sentiment.",1,True,503
-20,"Turn 1
-A: I just don't get why you're settling for this temporary job, B. It doesn't offer any long-term security, and you deserve better.
-B: I understand your concern, A, but this job gives me immediate income and valuable experience. Plus, it's a stepping stone to something bigger.
+A: That sounds amazing! Have you seen her live before?
+B: No, this will be my first time. I've heard her shows are incredible, so I'm really looking forward to it!",lol I can't wait.. and I'm going to see Janet Jackson next Thursday,positive,1,"Yes, A was being positive. The use of ""lol"" and the phrase ""I can't wait"" indicate excitement and anticipation, which are positive emotions.",1,True,357
+44,"Turn 1
+A: Good morning, B! Ready for the long weekend?"" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!
+B: Morning, A! Absolutely, I can't wait. Got any plans?
 
 Turn 2
-A: But what if you get stuck in a cycle of temporary gigs? Borrowed time is stupidYou need stability and a clear path forward.
-B: I hear you, but right now, this job is helping me build my skills and network. It's a calculated risk, and I'm confident it will pay off in the long run.",Borrowed time is stupid,negative,2,"Yes, A was being negative. A expressed concerns about the lack of long-term security and stability in B's temporary job, and the phrase ""Borrowed time is stupid"" further emphasizes A's negative view on the situation.",1,True,576
-15,"Turn 1
-A: I can't believe it, B. I just found out I didn't pass the exam. I studied so hard for it, and now it feels like all that effort was for nothing.
-B: Oh no, A! I'm so sorry to hear that. I know how much this meant to you. Are you okay? This must be really tough.
+A: Just some relaxing and maybe a little hiking. How about you?
+B: Sounds great! I'm planning to visit family. Have a fantastic weekend and stay safe!",""" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!",positive,1,"Yes, A was being positive. A greeted B warmly, wished them a happy Friday, and extended good wishes for a safe and awesome Labor Day weekend.",1,True,354
+73,"Turn 1
+A: I just traded in my computer for an iPad. Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop. It's so much more portable!
+B: That's awesome! Funny enough, your uncle mentioned there's an announcement soon that might drop iPad prices. 
 
 Turn 2
-A: Honestly, I'm devastated. I thought I had it in the bag, but now I just feel like a failure. Holy shit bro What am I going to do now?
-B: You're not a failure, A. This is just a setback, not the end. We'll figure out a plan together. Maybe there's a way to retake the exam or explore other options. You're stronger than you think.",Holy shit bro,negative,2,"Yes, I agree that A was being negative. A expressed feelings of devastation and self-doubt, indicating a negative emotional state.",1,True,611
-55,"Turn 1
-A: Ugh, this hunting game is driving me nuts! The character keeps saying I'm missing my shots, but I swear I'm hitting the targets. He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!
-B: That sounds frustrating. Maybe there's a glitch or something? Have you checked if there's an update or patch available?
+A: Really? That's great news! Maybe I got in at the right time or can snag some accessories on the cheap.
+B: Exactly! Either way, it sounds like you made a smart move. Keep an eye out for those deals.",Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop.,positive,1,"Yes, A was being positive. A expressed excitement about the portability of the iPad and mentioned the potential for price drops due to an upcoming announcement, which suggests optimism about the decision.",1,True,518
+52,"Turn 1
+A: Hey, I heard about what happened at work today. I'm really sorry you had to go through that. Remember, setbacks are just stepping stones to something better.
+B: Thanks, A. It was a rough day, and I can't help but feel a bit down about it. It's hard to see the silver lining right now.
 
 Turn 2
-A: Yeah, I thought of that. I even recalibrated my controller, but it's still off. It's like the game isn't recognizing my efforts at all.
-B: That's really annoying. Maybe you could try reaching out to the game's support team? They might have a solution or at least acknowledge the issue.",He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!,negative,1,"Yes, A was being negative. They expressed frustration and self-criticism about their performance in the game, indicating a negative sentiment.",1,True,665
+A: I get it, B. But you've always bounced back stronger from tough situations. This is just a temporary bump in the road. Tryna make tomorrow much better You've got so much potential, and I know you'll come out of this even better.
+B: I appreciate your confidence in me. It means a lot. I'll try to keep that in mind and focus on the positives. Thanks for being there for me.",Tryna make tomorrow much better,positive,2,"Yes, A was being positive. A was encouraging B by reminding them of their resilience and potential, and suggesting that tomorrow can be better.",1,True,678
+77,"Turn 1
+A: You know, I was thinking about Bernie Sanders the other day. Do you know where he went to college?
+B: Hmm, I think he went to the University of Chicago. Not entirely sure, though. Why do you ask?
+
+Turn 2
+A: Just curious. I know he's been in politics for a long time, but I wonder what he did before that.1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office
+B: Yeah, I think he was involved in civil rights activism and some other community work. It's interesting how those early experiences shaped his political views.","1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office",neutral,2,A's statement appears to be neutral as it simply provides information about Bernie Sanders' educational background and career path without expressing any strong opinions or emotions.,1,True,615
+72,"Turn 1
+A: Hey, do you have any plans for tomorrow?Are you going to go to Levi's tomorrow??
+B: Not much, just thinking about checking out Levi's. They might have some new arrivals.
+
+Turn 2
+A: Oh, nice! I was actually planning to go there too. Maybe we can go together?
+B: Sounds great! Let's meet up around noon and make a day of it.",Are you going to go to Levi's tomorrow??,neutral,1,"Yes, I agree. A's question ""Are you going to go to Levi's tomorrow??"" is neutral and simply seeks information about B's plans without expressing any particular emotion or bias.",1,True,332
+50,"Turn 1
+A: Oh look, it's that legendary disaster of a baseball movie. ""Hey, the 2nd worst baseball movie is on Reelz right now. Should we subject ourselves to it for a laugh?
+B: You mean the one with the cringe-worthy acting and plot holes big enough to drive a truck through? Absolutely.
+
+Turn 2
+A: Perfect. Let's see if it's as hilariously awful as everyone says.
+B: I'm ready. This is going to be a train wreck we can't look away from.","""Hey, the 2nd worst baseball movie is on Reelz right now.",negative,1,"A's comment about the movie being the ""2nd worst baseball movie"" and suggesting to watch it ""for a laugh"" indicates a negative view of the movie's quality. The use of ""legendary disaster"" further emphasizes the negative sentiment.",1,True,437
+17,"Turn 1
+A: I'm so pumped for the big run on Sunday! I just need to find some new music to keep me motivated. Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.
+B: That's awesome! Have you tried the latest playlist on Spotify? It's got some great tracks for running.
+
+Turn 2
+A: No, I haven't checked it out yet. Do you have any specific songs you recommend from it?
+B: Definitely! ""Runaway"" by Galantis always gets me going, and ""Blinding Lights"" by The Weeknd has a great beat for keeping pace.","Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.",positive,1,"Yes, A was being positive. They expressed excitement about the upcoming run and were actively seeking suggestions to enhance their experience.",1,True,552
+46,"Turn 1
+A: I've been binge-watching ""The Vampire Diaries"" lately, and I'm totally hooked! I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries! I'm planning to write a blog post about it this weekend.
+B: That sounds fun! What's got you so excited about the show?
+
+Turn 2
+A: The characters are so complex, and the plot twists keep me on the edge of my seat. Plus, the supernatural elements are really well done.
+B: Nice! I might have to check it out. I'm thinking of going hiking this weekend. Any good trails you recommend?",I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!,positive,1,"Yes, A was being positive. They expressed excitement about binge-watching ""The Vampire Diaries"" and mentioned their plan to write a blog post about it, indicating enthusiasm and a positive attitude towards the show.",1,True,575
+43,"Turn 1
+A: You won't believe it, but I finally got to see that live performance by our favorite artist on TV last week. It was absolutely breathtaking!
+B: Oh wow, that sounds amazing! I can only imagine how incredible it must have been. What was the highlight for you?
+
+Turn 2
+A: Honestly, the whole performance was fantastic, but there was this one song where they hit this high note perfectly. It gave me chills! omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show
+B: I know exactly what you mean. I had a similar experience when I saw them live a few years ago. It's like they have this magical ability to connect with the audience on such a deep level.",omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show,positive,2,"Yes, I agree. A's statement about sitting on the floor and bawling over Shawn's performance indicates a strong emotional reaction, which in this context seems to be a positive one, driven by the impact of the performance.",1,True,711

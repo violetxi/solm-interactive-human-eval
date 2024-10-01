@@ -32,6 +32,13 @@ const shuffleArray = (array) => {
   return shuffledArray;
 };
 
+const attentionChecks = [
+  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
+  { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
+];
+
 // Map dataset filenames to specific order of choices
 const choiceOrderMap = {
   'set_4.csv': [
@@ -43,8 +50,8 @@ const choiceOrderMap = {
   'set_5.csv': [
     { label: 'Negative', value: 'negative' },
     { label: 'Positive', value: 'positive' },
-    { label: 'Neutral', value: 'neutral' },
-    { label: 'Ambiguous', value: 'ambiguous' }
+    { label: 'Ambiguous', value: 'ambiguous' },
+    { label: 'Neutral', value: 'neutral' }
   ],
   'set_6.csv': [
     { label: 'Neutral', value: 'neutral' },
@@ -52,16 +59,25 @@ const choiceOrderMap = {
     { label: 'Positive', value: 'positive' },
     { label: 'Negative', value: 'negative' }
   ],
-  // Add more datasets if needed
+  'set_7.csv': [
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' },    
+    { label: 'Ambiguous', value: 'ambiguous' }
+  ],
+  'set_8.csv': [
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' },    
+    { label: 'Ambiguous', value: 'ambiguous' }
+  ],
+  'set_9.csv': [
+    { label: 'Positive', value: 'positive' },
+    { label: 'Negative', value: 'negative' },
+    { label: 'Neutral', value: 'neutral' },    
+    { label: 'Ambiguous', value: 'ambiguous' }
+  ],
 };
-
-const attentionChecks = [
-  { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
-  { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
-  { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
-];
-
 function App() {
   // instruction content
   const [showInstructions, setShowInstructions] = useState(true);
@@ -72,29 +88,11 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_6.csv'); // Track the dataset being used
+  const [currentDataset, setCurrentDataset] = useState('set_9.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
-
-  useEffect(() => {
-    loadCSV(`data/${currentDataset}`)
-      .then((data) => {
-        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
-          .map(item => ({
-            question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
-            statement: item.conversation,
-            note: item.note || '',
-            isAttentionCheck: false
-          }));
-        const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
-        setQuestions(allQuestions);
-      })
-      .catch((error) => {
-        console.error('Error loading CSV:', error);
-      });
-  }, [currentDataset]);
 
   useEffect(() => {
     loadCSV(`data/${currentDataset}`)
@@ -136,7 +134,7 @@ function App() {
       // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
       const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
       // Update Prolific ID using just the number from the dataset
-      let updatedProlificID = `Full-SemT6_Sentiment-${setNumber}-${prolificID}`;
+      let updatedProlificID = `Full-GoEmotions_Sentiment-${setNumber}-${prolificID}`;
       
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);

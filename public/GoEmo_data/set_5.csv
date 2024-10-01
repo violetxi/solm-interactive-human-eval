@@ -1,0 +1,143 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+23,"Turn 1
+A: I believe that the data clearly shows a significant impact of human activities on climate change. Ignoring this is irresponsible.
+B: You're misrepresenting my position. I never said we should ignore human impact; I just think we need a balanced approach that also considers economic factors. You're creating a strawman argument.
+
+Turn 2
+A: I don't think you understand what a strawman argument is.Not at all. I'm not going to argue with someone who doesn't understand what a strawman is. I'm not misrepresenting your position; I'm addressing the broader issue. But if this is how the conversation is going to go, I don't see the point in continuing.
+B: It's frustrating that you feel that way, but I think it's important to clarify our positions accurately. Maybe we can revisit this when we're both less frustrated.",Not at all. I'm not going to argue with someone who doesn't understand what a strawman is.,negative,2,"Yes, A's response in turn 2 is negative. A dismisses B's understanding and expresses a refusal to continue the conversation, which indicates frustration and a negative tone.",1,True,826
+19,"Turn 1
+A: You remember that puppet show we watched at the theme park? There was this one puppet that pretended to be a lion and claimed it had I ate my mommy and daddy""eaten"" its puppet parents!
+B: Oh my gosh, that's hilarious! I can just imagine the kids' reactions to that.
+
+Turn 2
+A: Yeah, the kids were all gasping and laughing at the same time. It was such a funny twist!
+B: Sounds like it was a great show. I love how they can make something so silly and unexpected.",I ate my mommy and daddy,neutral,1,A was recounting a memory of a puppet show and describing a specific moment from it. The tone appears to be neutral as A is simply sharing an observation without expressing strong emotions.,1,True,472
+6,"Turn 1
+A: Hey B, I noticed you have a really unique way of tackling problems. I'm curious, how do you usually approach a new challenge?
+B: Thanks, A! I usually start by breaking down the problem into smaller parts and then look for patterns or similarities to things I've solved before. It helps me manage the complexity and find a starting point.
+
+Turn 2
+A: That makes a lot of sense. What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine Do you have any specific techniques or tools you use to identify those patterns?
+B: I often use mind maps to visualize the problem and its components. It helps me see connections that aren't immediately obvious. Plus, I like to bounce ideas off others to get different perspectives.",What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine,neutral,2,"A's statement ""What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine"" shows curiosity and a desire to understand B's approach better. It doesn't convey any strong positive or negative sentiment, but rather a neutral and inquisitive tone.",1,True,781
+13,"Turn 1
+A: ""Hey B, I just wrapped up the final report for the project. It took a lot of late nights, but it's finally done!""
+B: ""That's fantastic, A! You did an amazing job. Your hard work really paid off. Let's keep this momentum going and make sure we stay on track for the next phase.""
+
+Turn 2
+A: ""Thanks, B! I appreciate the support. Well done dude! Seriously :) But keep it up, don't lose this momentum. I'll start prepping for the next steps right away.""
+B: ""Sounds great, A. If you need any help or run into any issues, just let me know. We're in this together!""","Well done dude! Seriously :) But keep it up, don't lose this momentum.",positive,2,"Yes, A was being positive. A expressed appreciation for B's support and encouraged B to maintain the momentum, which indicates a positive and supportive attitude.",1,True,568
+71,"Turn 1
+A: Ugh, I just had another customer complain about having to create an Apple Account to use their new iPhone. It's so frustrating dealing with these complaints all the time. I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.
+B: I know what you mean. It feels like every other customer has the same issue. I usually try to explain the benefits, like how it helps with security and accessing all the Apple services, but it doesn't always help.
+
+Turn 2
+A: Yeah, I do that too, but some people just don't want to hear it. They get so annoyed. Do you have any other tips for handling these situations?
+B: Sometimes, I find it helps to walk them through the setup process step-by-step. It makes it less overwhelming for them, and they appreciate the extra help. Plus, it usually calms them down a bit.",I'm using mine on the Consumer Cellular customers that come in mad at me because they have to set up an Apple Account to use their IPhone.,negative,1,"Yes, I agree. A's statement expresses frustration and negativity about dealing with customer complaints regarding the need to set up an Apple Account for their iPhones.",1,True,890
+18,"Turn 1
+A: I just wanted to thank you for suggesting the DBQ activity and pairing the students for collaborative work. Thank you! I ended up assigning a dbq and paired students up It really made a difference in my class.
+B: I'm so glad to hear that! DBQs can be really engaging, and collaborative work often brings out the best in students. How did they respond to it?
+
+Turn 2
+A: They were much more engaged and seemed to enjoy working together to analyze the documents. It sparked some great discussions.
+B: That's fantastic! It's always rewarding to see students actively participating. If you need any more ideas or resources, feel free to ask.",Thank you! I ended up assigning a dbq and paired students up,positive,1,"Yes, A was being positive. A expressed gratitude and shared that the DBQ activity and pairing students up made a positive difference in the class.",1,True,646
+25,"Turn 1
+A: You know, we had a really interesting discussion about theodicy in my study group last night. It's such a complex topic, trying to understand why a benevolent God would allow suffering.
+B: That does sound like a deep and challenging subject. It's one of those questions that has puzzled people for centuries, hasn't it?
+
+Turn 2
+A: Absolutely. There are so many different perspectives and interpretations. I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it. Some find comfort in the idea that suffering has a purpose, even if we can't always see it.
+B: I can see how that might be reassuring for some. It's definitely a topic that invites a lot of thoughtful reflection.","I have no faith, but the theodicy problem has multiple answers, I'm not too concerned with it.",neutral,2,"A's statement ""I have no faith, but the theodicy problem has multiple answers, I’m not too concerned with it."" indicates a neutral stance. A acknowledges the complexity of the topic and the existence of multiple perspectives without expressing strong personal concern or emotional investment.",1,True,722
+41,"Turn 1
+A: Wow, these documents are incredible! I can't believe you found a map from the 1930s showing where my great-grandparents lived.
+B: I'm glad you like them! It took some digging, but I thought you'd appreciate seeing the old neighborhood layout and those records.
+
+Turn 2
+A: Absolutely, this is amazing. I've always wondered about the exact location of their house in 1938. Thank you for sharing this. I found my house in 1938. Very fascinating stuff :) This map really brings their story to life.
+B: It's fascinating, isn't it? There's so much history in these old documents. I'm happy I could help you uncover a piece of your family's past.",Thank you for sharing this. I found my house in 1938. Very fascinating stuff :),positive,2,"Yes, A was being positive. They expressed amazement and gratitude for the documents and the map, indicating that they found the information fascinating and valuable.",1,True,649
+61,"Turn 1
+A: ""So, I've been thinking about how we can streamline the initial loan application process. What if we integrate a more intuitive online form that guides users step-by-step and pre-fills some of their information based on their existing accounts?""
+
+B: ""That sounds fantastic, A! I love the idea of making it easier for our customers right from the start. It could really cut down on the time they spend filling out forms and reduce errors. Have you thought about how we might handle the data security aspects of this?""
+
+Turn 2
+A: ""Absolutely, B. Data security is a top priority. We could implement multi-factor authentication and ensure that all data is encrypted both in transit and at rest. Great! I hope we can make our loan system work better Plus, we can add real-time monitoring to detect any suspicious activity.""
+
+B: ""Perfect, that covers the security concerns well. I'm really excited about these changes. If we can get this right, it will not only improve customer satisfaction but also make our internal processes much more efficient. Let's start mapping out the implementation plan and get the team's input on this.""",Great! I hope we can make our loan system work better,positive,2,"Yes, A was being positive. A expressed enthusiasm about improving the loan system and addressed the security concerns effectively, showing optimism about the potential benefits of the proposed changes.",1,True,1136
+68,"Turn 1
+A: Sometimes I feel really isolated because I'm an atheist. It seems like everyone around me is religious, and it's hard to find people who understand my perspective.That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.
+B: I get that. It's actually the opposite for me. There are a lot of atheists in my area, and it's made a huge difference in my social life. I feel like I belong and can be myself without any judgment.
+
+Turn 2
+A: That sounds amazing. I wish I had that kind of community. It must be nice to have friends who share your beliefs and experiences.
+B: It really is. Maybe you could try finding online groups or forums where you can connect with like-minded people. It might help you feel less alone.",That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.,positive,1,"A's statement ""That's sad. I'm 16 and where I am there are loads of atheists my age. It's great."" is actually a mix of empathy and positivity. A acknowledges the sadness of feeling isolated but then shares a positive personal experience to offer hope. So, A is being positive in the latter part of the statement.",1,True,748
+78,"Turn 1
+A: Oh my gosh, that cat just face-planted into the wall! How does it even manage that?I love this ahahah
+B: I know, right? It's like it forgot how to cat for a second. I can't stop laughing!
+
+Turn 2
+A: Seriously, I needed this laugh. Thanks for sharing it.
+B: Anytime! It's always more fun to watch these with you. We should do this more often.",I love this ahahah,positive,1,"Yes, A was being positive. The phrase ""I love this ahahah"" indicates that A is amused and enjoying the situation, which is a positive reaction.",1,True,351
+33,"Turn 1
+A: Remember that summer we spent working at the local ice cream shop? We had so much fun, and it felt like we didn't have a care in the world.
+B: Oh, absolutely! I can still taste those free sundaes we made for ourselves after closing. Life was so much simpler back then.
+
+Turn 2
+A: Yeah, and we didn't have to worry about bills or deadlines. Before all of the BS lol Just hanging out, making a little money, and enjoying the sunshine.
+B: Exactly. Now it's all about juggling work, responsibilities, and trying to find time for ourselves. Those were the days, weren't they?",Before all of the BS lol,positive,2,"Yes, A was being positive. A was reminiscing about the carefree and enjoyable times they had working at the ice cream shop, highlighting the simplicity and fun of those days compared to their current responsibilities.",1,True,580
+50,"Turn 1
+A: Hey B, have you had any issues with the software lately?
+B: Not recently. There was a glitch about a month ago, but it got fixed pretty quickly.
+
+Turn 2
+A: Oh, that's good to hear. Yes had the problem a month or so ago but has since gone away What was the problem?
+B: It was a bug that caused some data to not save properly, but the update they pushed out took care of it.",Yes had the problem a month or so ago but has since gone away,neutral,2,"A's statement ""Yes had the problem a month or so ago but has since gone away"" is factual and does not convey any particular emotion or bias. It simply acknowledges the issue and its resolution.",1,True,382
+73,"Turn 1
+A: Thanks for explaining all that, B. It sounds like this software could really streamline our work. Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it? How much space does it need for installation?
+B: You're welcome, A! The software requires about 2 GB of free space. Do you think your system can handle that?
+
+Turn 2
+A: I think so, but I'll double-check to be sure. Is there anything else I should be aware of before installing it?
+B: Just make sure your operating system is up to date and you have a stable internet connection for the initial setup. Other than that, you should be good to go!",Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?,positive,1,"Yes, A was being positive. A expressed gratitude and appreciation for the explanation provided by B, indicating a positive and enthusiastic attitude towards the software.",1,True,669
+3,"Turn 1
+A: Did you hear about the new update in our game? They added a whole new dungeon and the difficulty has been ramped up!
+B: Really? That sounds awesome! I've been on a break, but this might just be the push I needed to dive back in.
+
+Turn 2
+A: You should definitely check it out. Triggered:: Welp guess it's time for me to re-up lolThe new boss is insane, and the loot drops are totally worth it.
+B: Alright, you've convinced me. Time to dust off my gear and jump back into the action!",Triggered:: Welp guess it's time for me to re-up lol,positive,2,"Yes, A was being positive. A was expressing excitement about the new update and encouraging B to check it out, which indicates a positive sentiment.",1,True,491
+74,"Turn 1
+A: ""B, we need to talk. I've noticed you've been leaving dirty dishes and food scraps around the apartment for days. It's attracting pests and the smell is unbearable. You're disgusting Can you please clean up after yourself?""
+B: ""I'm really sorry, A. I've been swamped with work and just haven't had the time. I didn't realize it had gotten that bad.""
+
+Turn 2
+A: ""I understand you're busy, but this is a shared space and we both need to keep it livable. Can we agree on a system to make sure this doesn't happen again?""
+B: ""Absolutely. I'll make it a priority to clean up right after eating, and maybe we can set up a cleaning schedule to keep things in check. Thanks for bringing it up.""",You're disgusting,negative,1,"Yes, I agree. A's statement ""You're disgusting"" is a negative and harsh comment directed at B, which indicates a negative sentiment.",1,True,696
+25,"Turn 1
+A: I'm glad I could help you with finding out how to check your court date. If you have any other questions, feel free to ask.Thank you! I call on Monday to find out when I have court
+B: Thank you so much! I really appreciate it. I'll make sure to call on Monday to get the specific details.
+
+Turn 2
+A: You're welcome! Just make sure to have your case number handy when you call. It will make the process quicker.
+B: Got it, I'll have it ready. Thanks again for your assistance. Have a great day!",Thank you! I call on Monday to find out when I have court,positive,1,"Yes, A was being positive. A expressed gratitude and acknowledged the help received, indicating a positive sentiment.",1,True,503
+20,"Turn 1
+A: I just don't get why you're settling for this temporary job, B. It doesn't offer any long-term security, and you deserve better.
+B: I understand your concern, A, but this job gives me immediate income and valuable experience. Plus, it's a stepping stone to something bigger.
+
+Turn 2
+A: But what if you get stuck in a cycle of temporary gigs? Borrowed time is stupidYou need stability and a clear path forward.
+B: I hear you, but right now, this job is helping me build my skills and network. It's a calculated risk, and I'm confident it will pay off in the long run.",Borrowed time is stupid,negative,2,"Yes, A was being negative. A expressed concerns about the lack of long-term security and stability in B's temporary job, and the phrase ""Borrowed time is stupid"" further emphasizes A's negative view on the situation.",1,True,576
+15,"Turn 1
+A: I can't believe it, B. I just found out I didn't pass the exam. I studied so hard for it, and now it feels like all that effort was for nothing.
+B: Oh no, A! I'm so sorry to hear that. I know how much this meant to you. Are you okay? This must be really tough.
+
+Turn 2
+A: Honestly, I'm devastated. I thought I had it in the bag, but now I just feel like a failure. Holy shit bro What am I going to do now?
+B: You're not a failure, A. This is just a setback, not the end. We'll figure out a plan together. Maybe there's a way to retake the exam or explore other options. You're stronger than you think.",Holy shit bro,negative,2,"Yes, I agree that A was being negative. A expressed feelings of devastation and self-doubt, indicating a negative emotional state.",1,True,611
+55,"Turn 1
+A: Ugh, this hunting game is driving me nuts! The character keeps saying I'm missing my shots, but I swear I'm hitting the targets. He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!
+B: That sounds frustrating. Maybe there's a glitch or something? Have you checked if there's an update or patch available?
+
+Turn 2
+A: Yeah, I thought of that. I even recalibrated my controller, but it's still off. It's like the game isn't recognizing my efforts at all.
+B: That's really annoying. Maybe you could try reaching out to the game's support team? They might have a solution or at least acknowledge the issue.",He keeps saying this in my playthrough when that's definitely NOT what I'm doing. I just suck at hunting!!,negative,1,"Yes, A was being negative. They expressed frustration and self-criticism about their performance in the game, indicating a negative sentiment.",1,True,665
