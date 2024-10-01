@@ -1,0 +1,295 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I can't believe the referee made that call. It completely ruined our chances.
+B: I know, right? It was such a blatant mistake. How could he not see that?
+
+Turn 2
+A: It's so frustrating. We were playing so well until that point.
+B: Absolutely. I just hope we don't have to deal with this kind of officiating again. I hope Anthony Taylor is never put in charge of a Chelsea match again It's really unfair to the team.",Not sarcastic,2024-10-01T21:04:00.662000+00:00,"Was the person intended to be sarcastic when ""I hope Anthony Taylor is never put in charge of a Chelsea match again"" was said during the conversation?","Turn 1
+A: I can't believe the referee made that call. It completely ruined our chances.
+B: I know, right? It was such a blatant mistake. How could he not see that?
+
+Turn 2
+A: It's so frustrating. We were playing so well until that point.
+B: Absolutely. I just hope we don't have to deal with this kind of officiating again. I hope Anthony Taylor is never put in charge of a Chelsea match again It's really unfair to the team.",I hope Anthony Taylor is never put in charge of a Chelsea match again,Not sarcastic
+"Turn 1
+A: Ugh, look at that weather. It's so gloomy and rainy.This weather is really making me want to put shorts on, flock to the beach and get the deck chair out.... Yeah right!!!
+B: Oh yeah, just perfect for a picnic in the park, don't you think?
+
+Turn 2
+A: Right, because nothing says fun like getting soaked.
+B: Exactly, and who doesn't love a good mud bath with their sandwiches?",Sarcastic,2024-10-01T21:03:32.981000+00:00,"Was the person intended to be sarcastic when ""This weather is really making me want to put shorts on, flock to the beach and get the deck chair out.... Yeah right!!!"" was said during the conversation?","Turn 1
+A: Ugh, look at that weather. It's so gloomy and rainy.This weather is really making me want to put shorts on, flock to the beach and get the deck chair out.... Yeah right!!!
+B: Oh yeah, just perfect for a picnic in the park, don't you think?
+
+Turn 2
+A: Right, because nothing says fun like getting soaked.
+B: Exactly, and who doesn't love a good mud bath with their sandwiches?","This weather is really making me want to put shorts on, flock to the beach and get the deck chair out.... Yeah right!!!",Sarcastic
+"Turn 1
+A: I've been feeling a bit off today. I listened to some really intense music earlier, and it kind of got to me.
+B: I get that. Music can really hit you hard sometimes. Anything in particular that brought you down?
+
+Turn 2
+A: Yeah, it was just one of those days where every song seemed to resonate too deeply. Blues have left me proper discombobulated, hopefully the Benn Algieri dust up later on will effect a rebalance But I'm hoping the boxing match tonight will be a good distraction.
+B: That sounds like a great idea. Watching something exciting might be just what you need to lift your spirits. Let me know how it goes!",Not sarcastic,2024-10-01T21:03:16.847000+00:00,"Was the person intended to be sarcastic when ""Blues have left me proper discombobulated, hopefully the Benn Algieri dust up later on will effect a rebalance"" was said during the conversation?","Turn 1
+A: I've been feeling a bit off today. I listened to some really intense music earlier, and it kind of got to me.
+B: I get that. Music can really hit you hard sometimes. Anything in particular that brought you down?
+
+Turn 2
+A: Yeah, it was just one of those days where every song seemed to resonate too deeply. Blues have left me proper discombobulated, hopefully the Benn Algieri dust up later on will effect a rebalance But I'm hoping the boxing match tonight will be a good distraction.
+B: That sounds like a great idea. Watching something exciting might be just what you need to lift your spirits. Let me know how it goes!","Blues have left me proper discombobulated, hopefully the Benn Algieri dust up later on will effect a rebalance",Not sarcastic
+"Turn 1
+A: I can't believe how some people act like they're the only ones in the restaurant. It's like they forget we're human too.
+B: I know, right? And just when you think it can't get any worse, another table comes in with even more demands.
+
+Turn 2
+A: And all this for what? A few extra bucks in tips that barely make up for the stress?
+B: Yeah, it's tough. Tips in hospitality during the festive season make it all worth it! But hey, at least we get to share a laugh about it now. Helps to keep things in perspective, I guess.",Ambiguous,2024-10-01T21:04:29.326000+00:00,"Was the person intended to be sarcastic when ""Tips in hospitality during the festive season make it all worth it!"" was said during the conversation?","Turn 1
+A: I can't believe how some people act like they're the only ones in the restaurant. It's like they forget we're human too.
+B: I know, right? And just when you think it can't get any worse, another table comes in with even more demands.
+
+Turn 2
+A: And all this for what? A few extra bucks in tips that barely make up for the stress?
+B: Yeah, it's tough. Tips in hospitality during the festive season make it all worth it! But hey, at least we get to share a laugh about it now. Helps to keep things in perspective, I guess.",Tips in hospitality during the festive season make it all worth it!,Ambiguous
+"Turn 1
+A: Wow, that was such an incredible episode! The energy was off the charts.
+B: I know, right? Did you see that tango by Emma and Giovanni? It was absolutely mesmerizing!
+
+Turn 2
+A: Yes! The way they moved together was just flawless. I couldn't take my eyes off them.
+B: Same here. The chemistry between them was so intense. Best argentine tango there's ever been on strictly I think it might be my favorite performance of the season so far.",Not sarcastic,2024-10-01T21:02:42.736000+00:00,"Was the person intended to be sarcastic when ""Best argentine tango there's ever been on strictly"" was said during the conversation?","Turn 1
+A: Wow, that was such an incredible episode! The energy was off the charts.
+B: I know, right? Did you see that tango by Emma and Giovanni? It was absolutely mesmerizing!
+
+Turn 2
+A: Yes! The way they moved together was just flawless. I couldn't take my eyes off them.
+B: Same here. The chemistry between them was so intense. Best argentine tango there's ever been on strictly I think it might be my favorite performance of the season so far.",Best argentine tango there's ever been on strictly,Not sarcastic
+"Turn 1
+A: You wouldn't believe the atmosphere at Anfield last night! The crowd was absolutely electric, especially after that second goal.
+B: I can only imagine! It looked incredible on TV, but I'm sure being there in person was a whole different experience. How did it feel when the final whistle blew?
+
+Turn 2
+A: It was surreal. Everyone was on their feet, singing and cheering. You could feel the energy and passion in the air. Couldn't join in with the Annie Rd singing about Gerard early. Full time felt right It's moments like these that make all the difference.
+B: That sounds amazing. I was jumping off my couch when we scored. Watching it on TV is great, but I really need to get to a match soon. Nothing beats being there live.",Not sarcastic,2024-10-01T21:05:45.940000+00:00,"Was the person intended to be sarcastic when ""Couldn't join in with the Annie Rd singing about Gerard early. Full time felt right"" was said during the conversation?","Turn 1
+A: You wouldn't believe the atmosphere at Anfield last night! The crowd was absolutely electric, especially after that second goal.
+B: I can only imagine! It looked incredible on TV, but I'm sure being there in person was a whole different experience. How did it feel when the final whistle blew?
+
+Turn 2
+A: It was surreal. Everyone was on their feet, singing and cheering. You could feel the energy and passion in the air. Couldn't join in with the Annie Rd singing about Gerard early. Full time felt right It's moments like these that make all the difference.
+B: That sounds amazing. I was jumping off my couch when we scored. Watching it on TV is great, but I really need to get to a match soon. Nothing beats being there live.",Couldn't join in with the Annie Rd singing about Gerard early. Full time felt right,Not sarcastic
+"Turn 1
+A: I've made significant progress on the main sections of the book. I'm feeling pretty worn out but also relieved.
+B: That's great to hear! You've been doing an amazing job. How much more do you have left to write?
+
+Turn 2
+A: Just one more section, and I plan to finish it next week. Main book finished ... 4,000 words today which I found from somewhere. Epilogue (2,500 words) will be done next week. It's over. And I'm exhausted. We're getting close to the finish line.
+B: Fantastic! I'll make sure all the editing and supplementary materials are ready to go. We're almost there!",Not sarcastic,2024-10-01T21:03:24.143000+00:00,"Was the person intended to be sarcastic when ""Main book finished ... 4,000 words today which I found from somewhere. Epilogue (2,500 words) will be done next week. It's over. And I'm exhausted."" was said during the conversation?","Turn 1
+A: I've made significant progress on the main sections of the book. I'm feeling pretty worn out but also relieved.
+B: That's great to hear! You've been doing an amazing job. How much more do you have left to write?
+
+Turn 2
+A: Just one more section, and I plan to finish it next week. Main book finished ... 4,000 words today which I found from somewhere. Epilogue (2,500 words) will be done next week. It's over. And I'm exhausted. We're getting close to the finish line.
+B: Fantastic! I'll make sure all the editing and supplementary materials are ready to go. We're almost there!","Main book finished ... 4,000 words today which I found from somewhere. Epilogue (2,500 words) will be done next week. It's over. And I'm exhausted.",Not sarcastic
+"Turn 1
+A: It's interesting how people can watch documentaries about humane farming and still feel okay eating meat.
+B: Well, the documentary did show that some farms are trying to treat animals better. Isn't that a step in the right direction?
+
+Turn 2
+A: Sure, but it's like saying you're kind to someone before you harm them. The end result is still the same. Wonderful human population and their caring nature to animals to continue to drink their milk and eat them day in day out!
+B: I see your point, but isn't some improvement better than none at all?
+
+...",Sarcastic,2024-10-01T21:03:07.223000+00:00,"Was the person intended to be sarcastic when ""Wonderful human population and their caring nature to animals to continue to drink their milk and eat them day in day out!"" was said during the conversation?","Turn 1
+A: It's interesting how people can watch documentaries about humane farming and still feel okay eating meat.
+B: Well, the documentary did show that some farms are trying to treat animals better. Isn't that a step in the right direction?
+
+Turn 2
+A: Sure, but it's like saying you're kind to someone before you harm them. The end result is still the same. Wonderful human population and their caring nature to animals to continue to drink their milk and eat them day in day out!
+B: I see your point, but isn't some improvement better than none at all?
+
+...",Wonderful human population and their caring nature to animals to continue to drink their milk and eat them day in day out!,Sarcastic
+"Turn 1
+A: Ugh, that meeting was a complete waste of time. Every suggestion from Mark was just... out there.I swear stupid people were put on this earth to test my anger management skills
+B: I can imagine. It's so frustrating when someone derails the discussion like that.
+
+Turn 2
+A: Seriously, it felt like we were trying to solve a puzzle with pieces from different boxes.
+B: Sounds like Mark was in his own world. Hopefully, the next meeting will be more productive.",Sarcastic,2024-10-01T21:05:11.077000+00:00,"Was the person intended to be sarcastic when ""I swear stupid people were put on this earth to test my anger management skills"" was said during the conversation?","Turn 1
+A: Ugh, that meeting was a complete waste of time. Every suggestion from Mark was just... out there.I swear stupid people were put on this earth to test my anger management skills
+B: I can imagine. It's so frustrating when someone derails the discussion like that.
+
+Turn 2
+A: Seriously, it felt like we were trying to solve a puzzle with pieces from different boxes.
+B: Sounds like Mark was in his own world. Hopefully, the next meeting will be more productive.",I swear stupid people were put on this earth to test my anger management skills,Sarcastic
+"Turn 1
+A: I can't wait for the rematch! We really held our own last time, and I think we've got a great chance to win this time.
+B: Yeah, it was a tough game, but we showed a lot of resilience. What do you think we should focus on for the next match?
+
+Turn 2
+A: I think our defense was solid, but we need to work on our counter-attacks. I am definitely ready for round 2 with the blue!If we can catch them off guard, we can definitely score more goals.
+B: Agreed. Let's make sure we practice those quick transitions in our next training session. I'm feeling good about this!",Not sarcastic,2024-10-01T21:04:47.413000+00:00,"Was the person intended to be sarcastic when ""I am definitely ready for round 2 with the blue!"" was said during the conversation?","Turn 1
+A: I can't wait for the rematch! We really held our own last time, and I think we've got a great chance to win this time.
+B: Yeah, it was a tough game, but we showed a lot of resilience. What do you think we should focus on for the next match?
+
+Turn 2
+A: I think our defense was solid, but we need to work on our counter-attacks. I am definitely ready for round 2 with the blue!If we can catch them off guard, we can definitely score more goals.
+B: Agreed. Let's make sure we practice those quick transitions in our next training session. I'm feeling good about this!",I am definitely ready for round 2 with the blue!,Not sarcastic
+"Turn 1
+A: I recently tried that new burger place downtown. Have you been there yet?
+B: No, I haven't. I've been looking for new spots to try. How was it?
+
+Turn 2
+A: Honestly, I was pretty disappointed. The food was just okay, and it felt like they charged way too much for what you get. 5 Guys is the most overrated food place I've ever been to , absolute rip off
+B: Oh, that's a bummer. Thanks for the heads-up. I'll probably skip that one then. Any other places you'd recommend?",Not sarcastic,2024-10-01T21:04:54.429000+00:00,"Was the person intended to be sarcastic when ""5 Guys is the most overrated food place I've ever been to , absolute rip off"" was said during the conversation?","Turn 1
+A: I recently tried that new burger place downtown. Have you been there yet?
+B: No, I haven't. I've been looking for new spots to try. How was it?
+
+Turn 2
+A: Honestly, I was pretty disappointed. The food was just okay, and it felt like they charged way too much for what you get. 5 Guys is the most overrated food place I've ever been to , absolute rip off
+B: Oh, that's a bummer. Thanks for the heads-up. I'll probably skip that one then. Any other places you'd recommend?","5 Guys is the most overrated food place I've ever been to , absolute rip off",Not sarcastic
+"Turn 1
+A: It's really troubling to see how the recent controversy with that news outlet is shaking public trust in journalism. As someone who teaches media ethics, I worry about the long-term effects on our profession.
+B: Absolutely, it's a serious issue. The industry needs to adopt more rigorous standards and transparency to rebuild that trust. We can't afford to let such incidents undermine the credibility of all journalists.
+
+Turn 2
+A: I agree. We need to emphasize the importance of ethical guidelines and accountability in our curriculum. I think we also need a conversation about truthfulness and impartiality in the media? It's crucial for our students to understand the impact of their work on public perception.
+B: Definitely. And as investigative journalists, we have a responsibility to lead by example. Ensuring our methods are transparent and our reporting is unbiased is key to maintaining the public's trust.",Not sarcastic,2024-10-01T21:04:12.455000+00:00,"Was the person intended to be sarcastic when ""I think we also need a conversation about truthfulness and impartiality in the media?"" was said during the conversation?","Turn 1
+A: It's really troubling to see how the recent controversy with that news outlet is shaking public trust in journalism. As someone who teaches media ethics, I worry about the long-term effects on our profession.
+B: Absolutely, it's a serious issue. The industry needs to adopt more rigorous standards and transparency to rebuild that trust. We can't afford to let such incidents undermine the credibility of all journalists.
+
+Turn 2
+A: I agree. We need to emphasize the importance of ethical guidelines and accountability in our curriculum. I think we also need a conversation about truthfulness and impartiality in the media? It's crucial for our students to understand the impact of their work on public perception.
+B: Definitely. And as investigative journalists, we have a responsibility to lead by example. Ensuring our methods are transparent and our reporting is unbiased is key to maintaining the public's trust.",I think we also need a conversation about truthfulness and impartiality in the media?,Not sarcastic
+"Turn 1
+A: Ugh, I feel like every time I run a script today, I get a new error message. It's like the universe is conspiring against us.
+B: Yeah, it's almost like R has decided to play a game of ""How many ways can I mess with A and B today?""
+
+Turn 2
+A: Seriously, I think I've seen every error message possible at this point. love it when R gives me the 500th error code of the day Maybe we should start a collection.
+B: Great idea! We can call it ""The Encyclopedia of R Errors."" At least we'll have something to show for our efforts.",Sarcastic,2024-10-01T21:02:51.488000+00:00,"Was the person intended to be sarcastic when ""love it when R gives me the 500th error code of the day"" was said during the conversation?","Turn 1
+A: Ugh, I feel like every time I run a script today, I get a new error message. It's like the universe is conspiring against us.
+B: Yeah, it's almost like R has decided to play a game of ""How many ways can I mess with A and B today?""
+
+Turn 2
+A: Seriously, I think I've seen every error message possible at this point. love it when R gives me the 500th error code of the day Maybe we should start a collection.
+B: Great idea! We can call it ""The Encyclopedia of R Errors."" At least we'll have something to show for our efforts.",love it when R gives me the 500th error code of the day,Sarcastic
+"Turn 1
+A: So, there I was, yanking on the door handle, wondering why my key wasn't working.
+B: Oh my gosh, A! How do you even manage these things? 
+
+Turn 2
+A: I guess my brain was on vacation that day. i am sometimes one of the most blondest people out there its a pity my hair colour doesnt match which would make it the perfect combo haha Maybe I should start wearing a sign that says ""Caution: Easily Confused.""
+B: Haha, well, at least you didn't try to drive off in it! That would have been a whole new level of awkward.",Sarcastic,2024-10-01T21:04:39.342000+00:00,"Was the person intended to be sarcastic when ""i am sometimes one of the most blondest people out there its a pity my hair colour doesnt match which would make it the perfect combo haha"" was said during the conversation?","Turn 1
+A: So, there I was, yanking on the door handle, wondering why my key wasn't working.
+B: Oh my gosh, A! How do you even manage these things? 
+
+Turn 2
+A: I guess my brain was on vacation that day. i am sometimes one of the most blondest people out there its a pity my hair colour doesnt match which would make it the perfect combo haha Maybe I should start wearing a sign that says ""Caution: Easily Confused.""
+B: Haha, well, at least you didn't try to drive off in it! That would have been a whole new level of awkward.",i am sometimes one of the most blondest people out there its a pity my hair colour doesnt match which would make it the perfect combo haha,Sarcastic
+"Turn 1
+A: I can't believe we have to go back to wearing masks all day. It's so uncomfortable and makes it hard to breathe.oh great, we have to wear masks and constant tests to protect our loved ones and others around us. being a human is so hard
+B: Yeah, I get what you mean. It's definitely not the most pleasant thing, but I guess it's necessary given the current situation.
+
+Turn 2
+A: And the regular testing? It's such a hassle to keep up with.
+B: True, it can be a bit of a pain. But at least it helps keep everyone safe and hopefully prevents another major outbreak.",Not sarcastic,2024-10-01T21:02:29.143000+00:00,"Was the person intended to be sarcastic when ""oh great, we have to wear masks and constant tests to protect our loved ones and others around us. being a human is so hard"" was said during the conversation?","Turn 1
+A: I can't believe we have to go back to wearing masks all day. It's so uncomfortable and makes it hard to breathe.oh great, we have to wear masks and constant tests to protect our loved ones and others around us. being a human is so hard
+B: Yeah, I get what you mean. It's definitely not the most pleasant thing, but I guess it's necessary given the current situation.
+
+Turn 2
+A: And the regular testing? It's such a hassle to keep up with.
+B: True, it can be a bit of a pain. But at least it helps keep everyone safe and hopefully prevents another major outbreak.","oh great, we have to wear masks and constant tests to protect our loved ones and others around us. being a human is so hard",Not sarcastic
+"Turn 1
+A: It's just been one of those days, you know? Everything that could go wrong did.
+B: Oh no, that sounds rough. What happened?
+
+Turn 2
+A: First, I messed up a big project at work, and then I had this really awkward moment on my date. It was so embarrassing. Between this and getting pied by someone I was dating today has not been great!!
+B: I'm so sorry to hear that. Do you want to talk about it? I'm here for you.",Not sarcastic,2024-10-01T21:03:43.063000+00:00,"Was the person intended to be sarcastic when ""Between this and getting pied by someone I was dating today has not been great!!"" was said during the conversation?","Turn 1
+A: It's just been one of those days, you know? Everything that could go wrong did.
+B: Oh no, that sounds rough. What happened?
+
+Turn 2
+A: First, I messed up a big project at work, and then I had this really awkward moment on my date. It was so embarrassing. Between this and getting pied by someone I was dating today has not been great!!
+B: I'm so sorry to hear that. Do you want to talk about it? I'm here for you.",Between this and getting pied by someone I was dating today has not been great!!,Not sarcastic
+"Turn 1
+A: Did you see that article about the senator who was caught at a private party? The same one who's been pushing for everyone to stay home.
+B: Oh, you mean the ""Do as I say, not as I do"" champion? Classic.
+
+Turn 2
+A: It's really frustrating. How can they expect people to follow the rules when they don't? So glad boris protected our nhs by having his own Christmas party
+B: Exactly. It's like they're living in a different world where the rules don't apply to them.",Sarcastic,2024-10-01T21:05:53.116000+00:00,"Was the person intended to be sarcastic when ""So glad boris protected our nhs by having his own Christmas party"" was said during the conversation?","Turn 1
+A: Did you see that article about the senator who was caught at a private party? The same one who's been pushing for everyone to stay home.
+B: Oh, you mean the ""Do as I say, not as I do"" champion? Classic.
+
+Turn 2
+A: It's really frustrating. How can they expect people to follow the rules when they don't? So glad boris protected our nhs by having his own Christmas party
+B: Exactly. It's like they're living in a different world where the rules don't apply to them.",So glad boris protected our nhs by having his own Christmas party,Sarcastic
+"Turn 1
+B: Thank you so much for hosting tonight. The food was absolutely delicious, and the atmosphere was just perfect.Pleasure is all ours. Thank you
+A: I'm so glad you enjoyed it! It was a pleasure having everyone over. 
+
+Turn 2
+B: You really outdid yourself with the dessert, too. It was the highlight of the evening for me.
+A: That means a lot to me. I had a great time preparing everything and seeing everyone enjoy themselves.",Not sarcastic,2024-10-01T21:05:20.090000+00:00,"Was the person intended to be sarcastic when ""Pleasure is all ours. Thank you"" was said during the conversation?","Turn 1
+B: Thank you so much for hosting tonight. The food was absolutely delicious, and the atmosphere was just perfect.Pleasure is all ours. Thank you
+A: I'm so glad you enjoyed it! It was a pleasure having everyone over. 
+
+Turn 2
+B: You really outdid yourself with the dessert, too. It was the highlight of the evening for me.
+A: That means a lot to me. I had a great time preparing everything and seeing everyone enjoy themselves.",Pleasure is all ours. Thank you,Not sarcastic
+"Turn 1
+A: I'm so wiped out after today. I really need something comforting to eat.
+B: Yeah, I get that. What are you in the mood for?
+
+Turn 2
+A: Honestly, I'm craving that lasagna from Luigi's. A fat burger and onion rings from zumhof would do me the world of good right now I'm not gonna lie It always hits the spot.
+B: That sounds perfect. Let's order from there and relax for the evening.",Not sarcastic,2024-10-01T21:05:30.997000+00:00,"Was the person intended to be sarcastic when ""A fat burger and onion rings from zumhof would do me the world of good right now I'm not gonna lie"" was said during the conversation?","Turn 1
+A: I'm so wiped out after today. I really need something comforting to eat.
+B: Yeah, I get that. What are you in the mood for?
+
+Turn 2
+A: Honestly, I'm craving that lasagna from Luigi's. A fat burger and onion rings from zumhof would do me the world of good right now I'm not gonna lie It always hits the spot.
+B: That sounds perfect. Let's order from there and relax for the evening.",A fat burger and onion rings from zumhof would do me the world of good right now I'm not gonna lie,Not sarcastic
+"Turn 1
+A: Hey, B! Have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something affecting the whole area.
+B: Oh, hi A! Actually, now that you mention it, my TV has been a bit fuzzy too. I thought it was just my old antenna playing up again.
+
+Turn 2
+A: Interesting. I was starting to think I might need to call a technician, but if you're having issues too, maybe it's something bigger.
+B: Yeah, it could be. Maybe we should check with a few more neighbors to see if they're having the same problem. Anyone in Hull area having digital TV aerial or freeview problems? Thank you.If it's widespread, we might need to contact the service provider.
+
+...",Not sarcastic,2024-10-01T21:02:05.974000+00:00,"Was the person intended to be sarcastic when ""Anyone in Hull area having digital TV aerial or freeview problems? Thank you."" was said during the conversation?","Turn 1
+A: Hey, B! Have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something affecting the whole area.
+B: Oh, hi A! Actually, now that you mention it, my TV has been a bit fuzzy too. I thought it was just my old antenna playing up again.
+
+Turn 2
+A: Interesting. I was starting to think I might need to call a technician, but if you're having issues too, maybe it's something bigger.
+B: Yeah, it could be. Maybe we should check with a few more neighbors to see if they're having the same problem. Anyone in Hull area having digital TV aerial or freeview problems? Thank you.If it's widespread, we might need to contact the service provider.
+
+...",Anyone in Hull area having digital TV aerial or freeview problems? Thank you.,Not sarcastic
+"Turn 1
+A: Can you believe how terrible this is? Having the worst time on holiday
+B: Absolutely dreadful. I mean, the sun, the drinks, the waves... it's just unbearable.
+
+Turn 2
+A: I know, right? We should probably never do this again.
+B: Agreed. Next time, let's aim for something more stressful, like a work conference.",Sarcastic,2024-10-01T21:06:02.089000+00:00,"Was the person intended to be sarcastic when ""Having the worst time on holiday"" was said during the conversation?","Turn 1
+A: Can you believe how terrible this is? Having the worst time on holiday
+B: Absolutely dreadful. I mean, the sun, the drinks, the waves... it's just unbearable.
+
+Turn 2
+A: I know, right? We should probably never do this again.
+B: Agreed. Next time, let's aim for something more stressful, like a work conference.",Having the worst time on holiday,Sarcastic
+"Turn 1
+A: I can't keep up with these travel restrictions anymore. Every week there's a new rule or change. It's so frustrating.
+B: Tell me about it. At this rate, they'll probably start banning us from leaving our own neighborhoods next.
+
+Turn 2
+A: Seriously, it's like they don't even think these things through. Thanks Boris Johnson for restricting travel abroad (again) due to the new virus strain and your concern for the public health. I heard next week your banning fast food beacuse thats just as dangerous right? One day it's fine to travel, the next day it's a complete lockdown.
+B: Yeah, and the best part is when they announce these changes with zero notice. It's like they enjoy keeping us on our toes.",Sarcastic,2024-10-01T21:03:52.582000+00:00,"Was the person intended to be sarcastic when ""Thanks Boris Johnson for restricting travel abroad (again) due to the new virus strain and your concern for the public health. I heard next week your banning fast food beacuse thats just as dangerous right?"" was said during the conversation?","Turn 1
+A: I can't keep up with these travel restrictions anymore. Every week there's a new rule or change. It's so frustrating.
+B: Tell me about it. At this rate, they'll probably start banning us from leaving our own neighborhoods next.
+
+Turn 2
+A: Seriously, it's like they don't even think these things through. Thanks Boris Johnson for restricting travel abroad (again) due to the new virus strain and your concern for the public health. I heard next week your banning fast food beacuse thats just as dangerous right? One day it's fine to travel, the next day it's a complete lockdown.
+B: Yeah, and the best part is when they announce these changes with zero notice. It's like they enjoy keeping us on our toes.",Thanks Boris Johnson for restricting travel abroad (again) due to the new virus strain and your concern for the public health. I heard next week your banning fast food beacuse thats just as dangerous right?,Sarcastic

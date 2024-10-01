@@ -73,6 +73,7 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-iSarcasm-4'
     # current_data_prefix = 'Full-iSarcasm-5'
     # current_data_prefix = 'Full-iSarcasm-6'
+    current_data_prefix = 'Full-iSarcasm-7'
 
     # CovidVaccineStance
     # current_data_prefix = 'Full-CovidVaccineStance-1'
@@ -112,7 +113,7 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-SemT6_Sentiment-5'
     # current_data_prefix = 'Full-SemT6_Sentiment-6'
     # current_data_prefix = 'Full-SemT6_Sentiment-7'
-    current_data_prefix = 'Full-SemT6_Sentiment-8'
+    # current_data_prefix = 'Full-SemT6_Sentiment-8'
 
     # # Politeness
     # current_data_prefix = 'Full-Politeness-1'
@@ -139,7 +140,7 @@ if __name__ == '__main__':
             # check if all attention check questions are answered correctly
             attention_check_df['passed'] = attention_check_df['statement'].map(ATTENTION_CHECK_QA) == attention_check_df['response']
             # Only keep data if all attention check questions are answered correctly                        
-            if len(attention_check_df) == 4 and len(df) == 24:
+            if len(attention_check_df) == 4 and len(df) == 26:
                 if not attention_check_df.empty and attention_check_df['passed'].all():
                     df = df[~df['statement'].isin(attention_check_strs)]
                     df['Conversation'] = df['statement']
