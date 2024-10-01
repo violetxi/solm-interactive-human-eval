@@ -1,0 +1,277 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I found this incredible new recording yesterday, and I can't stop listening to it! I must have played it at least ten times in a row.
+B: Really? That sounds amazing! What's the recording? You know I trust your taste in music.
+
+Turn 2
+A: It's a live performance of a jazz quartet. The energy and improvisation are just out of this world. I've listened to the KSU Clarinet Choir recording of the Jurassic Park theme 11 times today. Currently listening to it for a 12th time. You have to hear it!
+B: Wow, that sounds right up my alley. Send me the link, I can't wait to check it out!",positive,2024-10-01T17:40:41.025000+00:00,"What was the person's sentiment when they said ""I've listened to the KSU Clarinet Choir recording of the Jurassic Park theme 11 times today. Currently listening to it for a 12th time."" during the conversation?","Turn 1
+A: I found this incredible new recording yesterday, and I can't stop listening to it! I must have played it at least ten times in a row.
+B: Really? That sounds amazing! What's the recording? You know I trust your taste in music.
+
+Turn 2
+A: It's a live performance of a jazz quartet. The energy and improvisation are just out of this world. I've listened to the KSU Clarinet Choir recording of the Jurassic Park theme 11 times today. Currently listening to it for a 12th time. You have to hear it!
+B: Wow, that sounds right up my alley. Send me the link, I can't wait to check it out!",I've listened to the KSU Clarinet Choir recording of the Jurassic Park theme 11 times today. Currently listening to it for a 12th time.,positive
+"Turn 1
+A: Hey, I have a free evening this weekend and I'm looking for something fun but low-effort to do. Any ideas?
+B: How about a movie night? I can suggest a few options. There's that new comedy everyone's talking about, or maybe something classic and funny like ""Airplane!"" or ""Spaceballs.""
+
+Turn 2
+A: Hmm, a movie night sounds pretty good. ""Spaceballs"" could be fun, I haven't seen it in ages. I may just have to watch Sharknado 3 tomorrow haha
+B: Great choice! It's always good for a laugh. Let me know if you need any snacks or anything else for the night.",positive,2024-10-01T17:41:31.720000+00:00,"What was the person's sentiment when they said ""I may just have to watch Sharknado 3 tomorrow haha"" during the conversation?","Turn 1
+A: Hey, I have a free evening this weekend and I'm looking for something fun but low-effort to do. Any ideas?
+B: How about a movie night? I can suggest a few options. There's that new comedy everyone's talking about, or maybe something classic and funny like ""Airplane!"" or ""Spaceballs.""
+
+Turn 2
+A: Hmm, a movie night sounds pretty good. ""Spaceballs"" could be fun, I haven't seen it in ages. I may just have to watch Sharknado 3 tomorrow haha
+B: Great choice! It's always good for a laugh. Let me know if you need any snacks or anything else for the night.",I may just have to watch Sharknado 3 tomorrow haha,positive
+"Turn 1
+A: You know, I was listening to my playlist the other day, and I realized I sometimes mix up songs by different artists. It's funny how some tracks can sound so similar.
+B: Oh, I totally get that! There are a few songs in my playlist that I always confuse. It's like they have the same vibe or something.
+
+Turn 2
+A: Exactly! Like, I was listening to this one song and thought it was by Artist X, but it turned out to be by Artist Y. It's crazy how they can evoke the same feelings.
+B: That happens to me too! Sometimes I even have to double-check my playlist to see who the artist actually is. every time I hear alright by Kendrick I think it's j Cole's Black Friday It's kind of fun, though, discovering those similarities.",positive,2024-10-01T17:40:25.313000+00:00,"What was the person's sentiment when they said ""every time I hear alright by Kendrick I think it's j Cole's Black Friday"" during the conversation?","Turn 1
+A: You know, I was listening to my playlist the other day, and I realized I sometimes mix up songs by different artists. It's funny how some tracks can sound so similar.
+B: Oh, I totally get that! There are a few songs in my playlist that I always confuse. It's like they have the same vibe or something.
+
+Turn 2
+A: Exactly! Like, I was listening to this one song and thought it was by Artist X, but it turned out to be by Artist Y. It's crazy how they can evoke the same feelings.
+B: That happens to me too! Sometimes I even have to double-check my playlist to see who the artist actually is. every time I hear alright by Kendrick I think it's j Cole's Black Friday It's kind of fun, though, discovering those similarities.",every time I hear alright by Kendrick I think it's j Cole's Black Friday,positive
+"Turn 1
+A: So, what have you been up to lately?
+B: Oh, I actually had a small role in an episode of that popular TV show we sometimes talk about.
+
+Turn 2
+A: Really? That's cool! Which episode was it?I may or may not be watching Gilmore Girls just because you're in this episode.
+B: It was the one that aired last week. I played a minor character, but it was a fun experience.
+
+...",positive,2024-10-01T17:40:16.137000+00:00,"What was the person's sentiment when they said ""I may or may not be watching Gilmore Girls just because you're in this episode."" during the conversation?","Turn 1
+A: So, what have you been up to lately?
+B: Oh, I actually had a small role in an episode of that popular TV show we sometimes talk about.
+
+Turn 2
+A: Really? That's cool! Which episode was it?I may or may not be watching Gilmore Girls just because you're in this episode.
+B: It was the one that aired last week. I played a minor character, but it was a fun experience.
+
+...",I may or may not be watching Gilmore Girls just because you're in this episode.,positive
+"Turn 1
+A: Guess what? I just got us tickets for that 90s band reunion concert in a few months!
+B: No way! That's amazing! I've been wanting to see them live for ages.
+
+Turn 2
+A: I know, right? It's going to be such a blast reliving all those classic hits.
+B: Absolutely! just bought tickets with sam to see a nirvana tribute band in november and i am so fucking excited We should start planning our trip now. This is going to be epic!",positive,2024-10-01T17:44:30.096000+00:00,"What was the person's sentiment when they said ""just bought tickets with sam to see a nirvana tribute band in november and i am so fucking excited"" during the conversation?","Turn 1
+A: Guess what? I just got us tickets for that 90s band reunion concert in a few months!
+B: No way! That's amazing! I've been wanting to see them live for ages.
+
+Turn 2
+A: I know, right? It's going to be such a blast reliving all those classic hits.
+B: Absolutely! just bought tickets with sam to see a nirvana tribute band in november and i am so fucking excited We should start planning our trip now. This is going to be epic!",just bought tickets with sam to see a nirvana tribute band in november and i am so fucking excited,positive
+"Turn 1
+A: So, I finally started watching that TV series you've been raving about.
+B: Oh, really? That's awesome! What do you think so far?
+
+Turn 2
+A: Well, I've only seen the first episode, but it kind of reminded me of that old show with the hilariously over-the-top acting. I may get killed for this but I watched 15 minutes of pretty little liars. The girls acting ability is as good as the acting in Sharknado.
+B: Haha, I know exactly what you mean! It does have its moments, but trust me, it gets better.",positive,2024-10-01T17:44:51.433000+00:00,"What was the person's sentiment when they said ""I may get killed for this but I watched 15 minutes of pretty little liars. The girls acting ability is as good as the acting in Sharknado."" during the conversation?","Turn 1
+A: So, I finally started watching that TV series you've been raving about.
+B: Oh, really? That's awesome! What do you think so far?
+
+Turn 2
+A: Well, I've only seen the first episode, but it kind of reminded me of that old show with the hilariously over-the-top acting. I may get killed for this but I watched 15 minutes of pretty little liars. The girls acting ability is as good as the acting in Sharknado.
+B: Haha, I know exactly what you mean! It does have its moments, but trust me, it gets better.",I may get killed for this but I watched 15 minutes of pretty little liars. The girls acting ability is as good as the acting in Sharknado.,positive
+"Turn 1
+A: I can't believe the AC is still broken. It's like working in a sauna in here. its Thursday and the warmness continues to be a pain like kanye west
+B: I know, right? It's been such a rough week already, and this heat is just making everything worse.
+
+Turn 2
+A: Seriously, it's hard to focus when you're sweating at your desk. I feel like my productivity has taken a nosedive.
+B: Same here. I've been struggling to keep up with my tasks. It's like the heat is draining all my energy.
+
+...",negative,2024-10-01T17:38:13.865000+00:00,"What was the person's sentiment when they said ""its Thursday and the warmness continues to be a pain like kanye west"" during the conversation?","Turn 1
+A: I can't believe the AC is still broken. It's like working in a sauna in here. its Thursday and the warmness continues to be a pain like kanye west
+B: I know, right? It's been such a rough week already, and this heat is just making everything worse.
+
+Turn 2
+A: Seriously, it's hard to focus when you're sweating at your desk. I feel like my productivity has taken a nosedive.
+B: Same here. I've been struggling to keep up with my tasks. It's like the heat is draining all my energy.
+
+...",its Thursday and the warmness continues to be a pain like kanye west,negative
+"Turn 1
+A: I'm really excited about the Norse mythology party, but what if I mess up the traditional dance? If I celebrate it wrong will Thor beat me with his hammer? Do you think they'll banish me to the underworld?
+B: Haha, don't worry! It's all about having fun. No one's going to send you to Helheim for a dance misstep.
+
+Turn 2
+A: Phew, that's a relief! And what about the costume contest? What if my Thor costume looks more like a budget superhero?
+B: Trust me, everyone will love it. The more creative and fun, the better! It's all in the spirit of the party.",positive,2024-10-01T17:44:05.920000+00:00,"What was the person's sentiment when they said ""If I celebrate it wrong will Thor beat me with his hammer?"" during the conversation?","Turn 1
+A: I'm really excited about the Norse mythology party, but what if I mess up the traditional dance? If I celebrate it wrong will Thor beat me with his hammer? Do you think they'll banish me to the underworld?
+B: Haha, don't worry! It's all about having fun. No one's going to send you to Helheim for a dance misstep.
+
+Turn 2
+A: Phew, that's a relief! And what about the costume contest? What if my Thor costume looks more like a budget superhero?
+B: Trust me, everyone will love it. The more creative and fun, the better! It's all in the spirit of the party.",If I celebrate it wrong will Thor beat me with his hammer?,positive
+"Turn 1
+A: Good morning...back after a couple of days off for Labor Day weekend. So today is my Monday. I make no promises. Ready with Morning, B! It's always tough getting back into the groove after a long weekend. I feel like I need a vacation to recover from my vacation!
+B: Haha, I know the feeling! So, what did you get up to? Anything exciting?
+
+Turn 2
+A: Oh, it was great! We went hiking, had a barbecue, and I even managed to finish that book I've been putting off. How about you? How was your weekend?
+B: Sounds fantastic! Mine was pretty low-key, just caught up on some sleep and watched a few movies. Sometimes, that's all you need, right?",negative,2024-10-01T17:42:31.096000+00:00,"What was the person's sentiment when they said ""Good morning...back after a couple of days off for Labor Day weekend. So today is my Monday. I make no promises. Ready with"" during the conversation?","Turn 1
+A: Good morning...back after a couple of days off for Labor Day weekend. So today is my Monday. I make no promises. Ready with Morning, B! It's always tough getting back into the groove after a long weekend. I feel like I need a vacation to recover from my vacation!
+B: Haha, I know the feeling! So, what did you get up to? Anything exciting?
+
+Turn 2
+A: Oh, it was great! We went hiking, had a barbecue, and I even managed to finish that book I've been putting off. How about you? How was your weekend?
+B: Sounds fantastic! Mine was pretty low-key, just caught up on some sleep and watched a few movies. Sometimes, that's all you need, right?",Good morning...back after a couple of days off for Labor Day weekend. So today is my Monday. I make no promises. Ready with,negative
+"Turn 1
+A: I still can't believe they split up. It's like, how do you even choose a side when you love all of them?
+B: I know, it's tough. But maybe we don't have to choose sides. We can just appreciate the music they've given us and support their individual projects.
+
+Turn 2
+A: Yeah, I guess that's true. i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know. It's just hard to imagine them not being together anymore.
+B: It is, but think of it this way: now we get to see different sides of their creativity. Who knows, we might end up loving their solo work even more.",positive,2024-10-01T17:41:21.760000+00:00,"What was the person's sentiment when they said ""i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know."" during the conversation?","Turn 1
+A: I still can't believe they split up. It's like, how do you even choose a side when you love all of them?
+B: I know, it's tough. But maybe we don't have to choose sides. We can just appreciate the music they've given us and support their individual projects.
+
+Turn 2
+A: Yeah, I guess that's true. i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know. It's just hard to imagine them not being together anymore.
+B: It is, but think of it this way: now we get to see different sides of their creativity. Who knows, we might end up loving their solo work even more.",i've made up mind. i'm gonna support both ot8 and Jessica equally. maybe the split is required to save their friendship. you may never know.,positive
+"Turn 1
+A: I heard John Kasich mentioned in the news recently. I'm curious about his political career and what he stands for.
+B: Kasich has had a long career in politics. He was the Governor of Ohio and also ran for President in 2016. He's known for being a moderate Republican with a focus on fiscal responsibility and healthcare reform. You should definitely look into his policies to get a better understanding.
+
+Turn 2
+A: That sounds interesting. I didn't realize he had such a varied career. I'm going to research this John Kasich fellow tomorrow. He has my attention. Any specific policies or viewpoints that stand out?
+B: One notable aspect is his support for Medicaid expansion under the Affordable Care Act, which is somewhat unusual for a Republican. He also emphasizes bipartisanship and has been critical of extreme partisanship in politics. It's worth reading up on his speeches and interviews to get a fuller picture.",neutral,2024-10-01T17:39:37.929000+00:00,"What was the person's sentiment when they said ""I'm going to research this John Kasich fellow tomorrow. He has my attention."" during the conversation?","Turn 1
+A: I heard John Kasich mentioned in the news recently. I'm curious about his political career and what he stands for.
+B: Kasich has had a long career in politics. He was the Governor of Ohio and also ran for President in 2016. He's known for being a moderate Republican with a focus on fiscal responsibility and healthcare reform. You should definitely look into his policies to get a better understanding.
+
+Turn 2
+A: That sounds interesting. I didn't realize he had such a varied career. I'm going to research this John Kasich fellow tomorrow. He has my attention. Any specific policies or viewpoints that stand out?
+B: One notable aspect is his support for Medicaid expansion under the Affordable Care Act, which is somewhat unusual for a Republican. He also emphasizes bipartisanship and has been critical of extreme partisanship in politics. It's worth reading up on his speeches and interviews to get a fuller picture.",I'm going to research this John Kasich fellow tomorrow. He has my attention.,neutral
+"Turn 1
+A: It's interesting how some artists who were heavily criticized in the past are now being celebrated. Take Taylor Swift, for example. She faced a lot of backlash early in her career, but now she's widely respected for her songwriting and versatility.
+B: Absolutely. And look at Justin Bieber. He went through a rough patch with the media and public opinion, but he's managed to turn things around and gain a lot of respect for his music and personal growth.
+
+Turn 2
+A: Yeah, it's almost like people have started to appreciate the evolution and maturity in their work. Even Miley Cyrus, who had a pretty controversial phase, is now being praised for her vocal talent and artistic direction. Do you guys remember that not too long ago Nicki was like one of the most hated artist.. During her Pink Friday album
+B: Exactly. It seems like the public is more willing to acknowledge the growth and changes artists go through, rather than just focusing on their past mistakes or controversies.",positive,2024-10-01T17:43:08.801000+00:00,"What was the person's sentiment when they said ""Do you guys remember that not too long ago Nicki was like one of the most hated artist.. During her Pink Friday album"" during the conversation?","Turn 1
+A: It's interesting how some artists who were heavily criticized in the past are now being celebrated. Take Taylor Swift, for example. She faced a lot of backlash early in her career, but now she's widely respected for her songwriting and versatility.
+B: Absolutely. And look at Justin Bieber. He went through a rough patch with the media and public opinion, but he's managed to turn things around and gain a lot of respect for his music and personal growth.
+
+Turn 2
+A: Yeah, it's almost like people have started to appreciate the evolution and maturity in their work. Even Miley Cyrus, who had a pretty controversial phase, is now being praised for her vocal talent and artistic direction. Do you guys remember that not too long ago Nicki was like one of the most hated artist.. During her Pink Friday album
+B: Exactly. It seems like the public is more willing to acknowledge the growth and changes artists go through, rather than just focusing on their past mistakes or controversies.",Do you guys remember that not too long ago Nicki was like one of the most hated artist.. During her Pink Friday album,positive
+"Turn 1
+A: Can you believe how far Justin has come with his project? I remember when he first started, it seemed like such a daunting task.
+B: Absolutely! It's incredible to see all his hard work paying off. He's really poured his heart and soul into this.
+
+Turn 2
+A: I'm so proud of him. Very proud of Justin and all he's accomplished with What Do You Mean so far, November 13 is getting close!! And with that big presentation coming up, I can't wait to see how it all turns out.
+B: Me too! It's going to be such a milestone for him. I have a feeling it's going to be a huge success.",positive,2024-10-01T17:41:09.289000+00:00,"What was the person's sentiment when they said ""Very proud of Justin and all he's accomplished with What Do You Mean so far, November 13 is getting close!!"" during the conversation?","Turn 1
+A: Can you believe how far Justin has come with his project? I remember when he first started, it seemed like such a daunting task.
+B: Absolutely! It's incredible to see all his hard work paying off. He's really poured his heart and soul into this.
+
+Turn 2
+A: I'm so proud of him. Very proud of Justin and all he's accomplished with What Do You Mean so far, November 13 is getting close!! And with that big presentation coming up, I can't wait to see how it all turns out.
+B: Me too! It's going to be such a milestone for him. I have a feeling it's going to be a huge success.","Very proud of Justin and all he's accomplished with What Do You Mean so far, November 13 is getting close!!",positive
+"Turn 1
+A: I spent some time over the weekend exploring new songs on that music platform we talked about. The previews are so short, though! seriously! itunes puts like an entire minute as a preview so 20 seconds is nothing. AND I KNOW! it needs to be monday ASAP!
+B: I know what you mean. It's hard to get a feel for the song with just a few seconds. But hey, at least we have something to look forward to with our project starting on Monday.
+
+Turn 2
+A: True, I'm really excited about it. It should be a great change of pace.
+B: Absolutely. It's going to be a busy week, but I think it'll be worth it.",positive,2024-10-01T17:44:24.425000+00:00,"What was the person's sentiment when they said ""seriously! itunes puts like an entire minute as a preview so 20 seconds is nothing. AND I KNOW! it needs to be monday ASAP!"" during the conversation?","Turn 1
+A: I spent some time over the weekend exploring new songs on that music platform we talked about. The previews are so short, though! seriously! itunes puts like an entire minute as a preview so 20 seconds is nothing. AND I KNOW! it needs to be monday ASAP!
+B: I know what you mean. It's hard to get a feel for the song with just a few seconds. But hey, at least we have something to look forward to with our project starting on Monday.
+
+Turn 2
+A: True, I'm really excited about it. It should be a great change of pace.
+B: Absolutely. It's going to be a busy week, but I think it'll be worth it.",seriously! itunes puts like an entire minute as a preview so 20 seconds is nothing. AND I KNOW! it needs to be monday ASAP!,positive
+"Turn 1
+A: It's so frustrating how the media always seems to blow things out of proportion when it comes to black women. Did you see how they covered that argument at the awards show?
+B: Yeah, I did. It's really concerning. They always seem to focus on the negative and reinforce harmful stereotypes.
+
+Turn 2
+A: Exactly. It's like they can't wait to paint us in a bad light, no matter what the situation is. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley It's not fair.
+B: I know. And the worst part is, it just fuels more backlash and misunderstanding. We need to change the narrative and support each other more.
+
+...",negative,2024-10-01T17:42:45.720000+00:00,"What was the person's sentiment when they said ""The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley"" during the conversation?","Turn 1
+A: It's so frustrating how the media always seems to blow things out of proportion when it comes to black women. Did you see how they covered that argument at the awards show?
+B: Yeah, I did. It's really concerning. They always seem to focus on the negative and reinforce harmful stereotypes.
+
+Turn 2
+A: Exactly. It's like they can't wait to paint us in a bad light, no matter what the situation is. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley It's not fair.
+B: I know. And the worst part is, it just fuels more backlash and misunderstanding. We need to change the narrative and support each other more.
+
+...",The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley,negative
+"Turn 1
+A: I can't believe I finally got tickets to see The Vamps tomorrow! I've been waiting for this concert for months.
+B: That's amazing! I remember how much you love their music. What time does it start?
+
+Turn 2
+A: The concert starts at 8 PM, but I plan to get there early to soak in the atmosphere. It's going to be such an unforgettable night. Tomorrow I am going to enjoy every second from the concert because I really have no idea when I am seeing The Vamps again
+B: Sounds like a great plan. Remember the last concert we went to? We had such a blast. I'm sure this one will be just as awesome!",positive,2024-10-01T17:42:17.056000+00:00,"What was the person's sentiment when they said ""Tomorrow I am going to enjoy every second from the concert because I really have no idea when I am seeing The Vamps again"" during the conversation?","Turn 1
+A: I can't believe I finally got tickets to see The Vamps tomorrow! I've been waiting for this concert for months.
+B: That's amazing! I remember how much you love their music. What time does it start?
+
+Turn 2
+A: The concert starts at 8 PM, but I plan to get there early to soak in the atmosphere. It's going to be such an unforgettable night. Tomorrow I am going to enjoy every second from the concert because I really have no idea when I am seeing The Vamps again
+B: Sounds like a great plan. Remember the last concert we went to? We had such a blast. I'm sure this one will be just as awesome!",Tomorrow I am going to enjoy every second from the concert because I really have no idea when I am seeing The Vamps again,positive
+"Turn 1
+A: You know that show you recommended to me? I started watching it last night.
+B: Oh, great! What did you think of the first episode?
+
+Turn 2
+A: Honestly, I found it really unsettling. The themes were just too dark for me, and I couldn't get past the first episode. Did you watch the 1st episode of American Horror Story yet so you can understand why I refuse to watch the rest of it ?!?!?
+B: Wow, I didn't expect that. What specifically bothered you about it?",negative,2024-10-01T17:45:06.513000+00:00,"What was the person's sentiment when they said ""Did you watch the 1st episode of American Horror Story yet so you can understand why I refuse to watch the rest of it ?!?!?"" during the conversation?","Turn 1
+A: You know that show you recommended to me? I started watching it last night.
+B: Oh, great! What did you think of the first episode?
+
+Turn 2
+A: Honestly, I found it really unsettling. The themes were just too dark for me, and I couldn't get past the first episode. Did you watch the 1st episode of American Horror Story yet so you can understand why I refuse to watch the rest of it ?!?!?
+B: Wow, I didn't expect that. What specifically bothered you about it?",Did you watch the 1st episode of American Horror Story yet so you can understand why I refuse to watch the rest of it ?!?!?,negative
+"Turn 1
+A: I've been diving into a lot of different music genres lately. It's been quite an adventure.
+B: That's awesome! Are you still into that genre you were so passionate about before?
+
+Turn 2
+A: Not as much, actually. looks like I'm done with Kpop guys I've found myself gravitating towards some new sounds that I never thought I'd enjoy.
+B: Interesting! What kind of music are you into now?
+
+...",neutral,2024-10-01T17:45:16.937000+00:00,"What was the person's sentiment when they said ""looks like I'm done with Kpop guys"" during the conversation?","Turn 1
+A: I've been diving into a lot of different music genres lately. It's been quite an adventure.
+B: That's awesome! Are you still into that genre you were so passionate about before?
+
+Turn 2
+A: Not as much, actually. looks like I'm done with Kpop guys I've found myself gravitating towards some new sounds that I never thought I'd enjoy.
+B: Interesting! What kind of music are you into now?
+
+...",looks like I'm done with Kpop guys,neutral
+"Turn 1
+A: Hey B, have you noticed that there's barely any Kpop chatter on social media tonight? It's so weird, especially after that big release yesterday.Why is my TL so dead um is it Kpop is dead Friday or something???
+B: Yeah, I saw that too. I was expecting a lot more buzz. Maybe everyone's just busy with something else tonight?
+
+Turn 2
+A: Maybe, but it's still strange. Usually, our feed is flooded with reactions and fan theories by now.
+B: True. Let's give it some time. Maybe people will start posting later. Or we could start a discussion ourselves and see if it picks up?",negative,2024-10-01T17:39:55.337000+00:00,"What was the person's sentiment when they said ""Why is my TL so dead um is it Kpop is dead Friday or something???"" during the conversation?","Turn 1
+A: Hey B, have you noticed that there's barely any Kpop chatter on social media tonight? It's so weird, especially after that big release yesterday.Why is my TL so dead um is it Kpop is dead Friday or something???
+B: Yeah, I saw that too. I was expecting a lot more buzz. Maybe everyone's just busy with something else tonight?
+
+Turn 2
+A: Maybe, but it's still strange. Usually, our feed is flooded with reactions and fan theories by now.
+B: True. Let's give it some time. Maybe people will start posting later. Or we could start a discussion ourselves and see if it picks up?",Why is my TL so dead um is it Kpop is dead Friday or something???,negative
+"Turn 1
+A: I just bought a ticket for the concert, and I splurged on a better seat to get an awesome view!
+B: That sounds amazing! I've been thinking about going too. Which section did you get?
+
+Turn 2
+A: I got a seat in the front section, close to the stage. It's going to be epic! Are you planning to get a ticket as well?
+B: I'm definitely tempted now. tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle Let me check with a couple of our friends and see if they're interested too. It would be fun to go together!",positive,2024-10-01T17:44:14.633000+00:00,"What was the person's sentiment when they said ""tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle"" during the conversation?","Turn 1
+A: I just bought a ticket for the concert, and I splurged on a better seat to get an awesome view!
+B: That sounds amazing! I've been thinking about going too. Which section did you get?
+
+Turn 2
+A: I got a seat in the front section, close to the stage. It's going to be epic! Are you planning to get a ticket as well?
+B: I'm definitely tempted now. tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle Let me check with a couple of our friends and see if they're interested too. It would be fun to go together!",tickets are 60 or 114 but I'm getting the 114 oneeeee lol I just need to know who down frfr. December 5 at oracle,positive
