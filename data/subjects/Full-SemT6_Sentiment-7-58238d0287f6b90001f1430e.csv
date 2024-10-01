@@ -1,0 +1,273 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Remember that Thanksgiving party at Jake's place? That was wild! I don't think I've danced that much in ages.
+B: Oh, absolutely! And the food was amazing. I still dream about those pumpkin spice cupcakes.
+
+Turn 2
+A: Yeah, this winter break has been pretty quiet in comparison. I love how Thanksgiving break had hella bangers and we're in the 2nd week of winter break and have failed to have one yet But hey, we could always plan something ourselves. How about a movie marathon night?
+B: That sounds perfect! We can invite a few friends over and make it a cozy get-together. Let's make some hot cocoa and popcorn too!",neutral,2024-10-01T16:50:18.417000+00:00,"What was the person's sentiment when they said ""I love how Thanksgiving break had hella bangers and we're in the 2nd week of winter break and have failed to have one yet"" during the conversation?","Turn 1
+A: Remember that Thanksgiving party at Jake's place? That was wild! I don't think I've danced that much in ages.
+B: Oh, absolutely! And the food was amazing. I still dream about those pumpkin spice cupcakes.
+
+Turn 2
+A: Yeah, this winter break has been pretty quiet in comparison. I love how Thanksgiving break had hella bangers and we're in the 2nd week of winter break and have failed to have one yet But hey, we could always plan something ourselves. How about a movie marathon night?
+B: That sounds perfect! We can invite a few friends over and make it a cozy get-together. Let's make some hot cocoa and popcorn too!",I love how Thanksgiving break had hella bangers and we're in the 2nd week of winter break and have failed to have one yet,neutral
+"Turn 1
+A: I've been checking every day for any news about the new album. It's been so long since the last one. it's now September 6th and I'm still waiting on frank ocean. where u at tho
+B: I know, right? It feels like forever. I remember waiting for years for that one band to release their follow-up album. The anticipation was intense.
+
+Turn 2
+A: Yeah, it's tough being a fan sometimes. But I guess the wait makes it even more exciting when it finally drops.
+B: Absolutely. And the concerts are always worth the wait too. The energy and the crowd make it all worthwhile.",negative,2024-10-01T16:51:15.541000+00:00,"What was the person's sentiment when they said ""it's now September 6th and I'm still waiting on frank ocean. where u at tho"" during the conversation?","Turn 1
+A: I've been checking every day for any news about the new album. It's been so long since the last one. it's now September 6th and I'm still waiting on frank ocean. where u at tho
+B: I know, right? It feels like forever. I remember waiting for years for that one band to release their follow-up album. The anticipation was intense.
+
+Turn 2
+A: Yeah, it's tough being a fan sometimes. But I guess the wait makes it even more exciting when it finally drops.
+B: Absolutely. And the concerts are always worth the wait too. The energy and the crowd make it all worthwhile.",it's now September 6th and I'm still waiting on frank ocean. where u at tho,negative
+"Turn 1
+A: It's just so hard to think about leaving everything behind. Ohio has been home for so long, and all my friends are here, including you.
+B: I know, it's a big change. But remember, this new job is an amazing opportunity for you. And we'll always stay in touch, no matter where you are.
+
+Turn 2
+A: You're right, it's just the thought of not being able to hang out like this anymore that gets to me. I'll miss our coffee chats and all the little things. Wheww I leave Ohio June 3rd I don't even want to think about leaving
+B: I'll miss them too, but we'll find new ways to stay connected. Plus, think of all the new experiences you'll have. And who knows, maybe I'll come visit you and we can explore your new city together.",negative,2024-10-01T16:54:03.063000+00:00,"What was the person's sentiment when they said ""Wheww I leave Ohio June 3rd I don't even want to think about leaving"" during the conversation?","Turn 1
+A: It's just so hard to think about leaving everything behind. Ohio has been home for so long, and all my friends are here, including you.
+B: I know, it's a big change. But remember, this new job is an amazing opportunity for you. And we'll always stay in touch, no matter where you are.
+
+Turn 2
+A: You're right, it's just the thought of not being able to hang out like this anymore that gets to me. I'll miss our coffee chats and all the little things. Wheww I leave Ohio June 3rd I don't even want to think about leaving
+B: I'll miss them too, but we'll find new ways to stay connected. Plus, think of all the new experiences you'll have. And who knows, maybe I'll come visit you and we can explore your new city together.",Wheww I leave Ohio June 3rd I don't even want to think about leaving,negative
+"Turn 1
+A: I'm really excited about this potential matchup. The fans are going to love it! But we need to make sure our striker can hit the weight limit. happy to put the fight together tomorrow if the Brazilian slugger can cut down to 135 pounds to face Rousey How's that looking on your end?
+B: I've been in touch with his camp, and they're confident he can make the weight. We're setting up a nutritionist and a conditioning coach to ensure everything goes smoothly.
+
+Turn 2
+A: That's great to hear. We should also start thinking about the venue and promotion strategy. This fight has the potential to be huge.
+B: Absolutely. I'll start scouting locations and work on the promotional materials. Let's make sure we have everything lined up to announce it as soon as he's confirmed at weight.
+
+...",positive,2024-10-01T16:51:32.111000+00:00,"What was the person's sentiment when they said ""happy to put the fight together tomorrow if the Brazilian slugger can cut down to 135 pounds to face Rousey"" during the conversation?","Turn 1
+A: I'm really excited about this potential matchup. The fans are going to love it! But we need to make sure our striker can hit the weight limit. happy to put the fight together tomorrow if the Brazilian slugger can cut down to 135 pounds to face Rousey How's that looking on your end?
+B: I've been in touch with his camp, and they're confident he can make the weight. We're setting up a nutritionist and a conditioning coach to ensure everything goes smoothly.
+
+Turn 2
+A: That's great to hear. We should also start thinking about the venue and promotion strategy. This fight has the potential to be huge.
+B: Absolutely. I'll start scouting locations and work on the promotional materials. Let's make sure we have everything lined up to announce it as soon as he's confirmed at weight.
+
+...",happy to put the fight together tomorrow if the Brazilian slugger can cut down to 135 pounds to face Rousey,positive
+"Turn 1
+A: This view is absolutely stunning. I can't believe how lucky we are to be here right now.
+B: I know, right? There's something magical about the ocean at sunset. It makes everything feel so peaceful.
+
+Turn 2
+A: And with the music and the wine, it's like everything just fell into place perfectly. Sat watching the sun set with a large glass of wine and a pack of marlies listening to fleetwood mac, DOES LIFE GET BETTER?? no, it does not
+B: Exactly. Sometimes it's the simplest moments like these that make you realize how wonderful life can be.",positive,2024-10-01T16:52:09.586000+00:00,"What was the person's sentiment when they said ""Sat watching the sun set with a large glass of wine and a pack of marlies listening to fleetwood mac, DOES LIFE GET BETTER?? no, it does not"" during the conversation?","Turn 1
+A: This view is absolutely stunning. I can't believe how lucky we are to be here right now.
+B: I know, right? There's something magical about the ocean at sunset. It makes everything feel so peaceful.
+
+Turn 2
+A: And with the music and the wine, it's like everything just fell into place perfectly. Sat watching the sun set with a large glass of wine and a pack of marlies listening to fleetwood mac, DOES LIFE GET BETTER?? no, it does not
+B: Exactly. Sometimes it's the simplest moments like these that make you realize how wonderful life can be.","Sat watching the sun set with a large glass of wine and a pack of marlies listening to fleetwood mac, DOES LIFE GET BETTER?? no, it does not",positive
+"Turn 1
+A: Can't wait for the match this weekend! Liverpool's been on fire lately. Do you think Everton stands a chance?
+B: Oh, come on! You know the Merseyside derby is always unpredictable. Plus, we've got some strong players this season. It's going to be a tough fight.
+
+Turn 2
+A: True, the rivalry always brings out the best in both teams. I'm just excited to see Salah and Mane in action again.
+B: And I can't wait to see how our new signing performs. Super Sunday Football indeed! Love the Merseyside Derby! It's going to be an epic game, no matter what. Let's make sure we have plenty of snacks ready!",positive,2024-10-01T16:49:15.640000+00:00,"What was the person's sentiment when they said ""Super Sunday Football indeed! Love the Merseyside Derby!"" during the conversation?","Turn 1
+A: Can't wait for the match this weekend! Liverpool's been on fire lately. Do you think Everton stands a chance?
+B: Oh, come on! You know the Merseyside derby is always unpredictable. Plus, we've got some strong players this season. It's going to be a tough fight.
+
+Turn 2
+A: True, the rivalry always brings out the best in both teams. I'm just excited to see Salah and Mane in action again.
+B: And I can't wait to see how our new signing performs. Super Sunday Football indeed! Love the Merseyside Derby! It's going to be an epic game, no matter what. Let's make sure we have plenty of snacks ready!",Super Sunday Football indeed! Love the Merseyside Derby!,positive
+"Turn 1
+A: You know, I've been getting a lot of compliments lately. It's kind of surprising.
+B: Really? That's awesome! What kind of compliments are you getting?
+
+Turn 2
+A: Mostly about my appearance. People keep saying I look really refreshed and vibrant. Just got told I look like Sam smith for the 22nd time
+B: That's fantastic! You do look great. What do you think has changed?
+
+...",positive,2024-10-01T16:53:10.024000+00:00,"What was the person's sentiment when they said ""Just got told I look like Sam smith for the 22nd time"" during the conversation?","Turn 1
+A: You know, I've been getting a lot of compliments lately. It's kind of surprising.
+B: Really? That's awesome! What kind of compliments are you getting?
+
+Turn 2
+A: Mostly about my appearance. People keep saying I look really refreshed and vibrant. Just got told I look like Sam smith for the 22nd time
+B: That's fantastic! You do look great. What do you think has changed?
+
+...",Just got told I look like Sam smith for the 22nd time,positive
+"Turn 1
+A: Hey, have you noticed that we've been getting a lot of Fleetwood Mac songs on shuffle today? Music is on shuffle but this is the 4th Fleetwood Mac song in a row what is my phone trying to tell me
+B: Yeah, I was just thinking the same thing! It's like the playlist knows we're fans.
+
+Turn 2
+A: Maybe it's a sign we should just switch to a Fleetwood Mac marathon.
+B: Totally! Their music always puts me in a good mood. Let's do it!",positive,2024-10-01T16:49:36.194000+00:00,"What was the person's sentiment when they said ""Music is on shuffle but this is the 4th Fleetwood Mac song in a row what is my phone trying to tell me"" during the conversation?","Turn 1
+A: Hey, have you noticed that we've been getting a lot of Fleetwood Mac songs on shuffle today? Music is on shuffle but this is the 4th Fleetwood Mac song in a row what is my phone trying to tell me
+B: Yeah, I was just thinking the same thing! It's like the playlist knows we're fans.
+
+Turn 2
+A: Maybe it's a sign we should just switch to a Fleetwood Mac marathon.
+B: Totally! Their music always puts me in a good mood. Let's do it!",Music is on shuffle but this is the 4th Fleetwood Mac song in a row what is my phone trying to tell me,positive
+"Turn 1
+A: I've been keeping up with all the updates on Iron Maiden's new album. The teasers are driving me crazy; I can't wait for the full release.
+B: Same here! The snippets sound promising. What do you think of the new direction they're hinting at?
+
+Turn 2
+A: Honestly, I think it's going to be epic. The riffs and the energy in those short clips are just what I was hoping for. I know that the new Iron Maiden album is not out until Friday but it just keeps getting better!
+B: Absolutely. It feels like they're going back to their roots but with a fresh twist. I'm really excited to hear the whole thing.",positive,2024-10-01T16:53:00.799000+00:00,"What was the person's sentiment when they said ""I know that the new Iron Maiden album is not out until Friday but it just keeps getting better!"" during the conversation?","Turn 1
+A: I've been keeping up with all the updates on Iron Maiden's new album. The teasers are driving me crazy; I can't wait for the full release.
+B: Same here! The snippets sound promising. What do you think of the new direction they're hinting at?
+
+Turn 2
+A: Honestly, I think it's going to be epic. The riffs and the energy in those short clips are just what I was hoping for. I know that the new Iron Maiden album is not out until Friday but it just keeps getting better!
+B: Absolutely. It feels like they're going back to their roots but with a fresh twist. I'm really excited to hear the whole thing.",I know that the new Iron Maiden album is not out until Friday but it just keeps getting better!,positive
+"Turn 1
+A: I watched this amazing performance online last night. The artist had such incredible stage presence and their vocals were just out of this world.
+B: That sounds awesome! Who was it? I love discovering new talent. How do they compare to some of the big names we know?
+
+Turn 2
+A: It was this new artist called Luna Ray. Honestly, she reminded me a bit of a young Adele with her powerful voice, but she also had this unique flair that made her stand out. Zayn reminds me of Rih. This may be blasphemous to say but I feel like he's about to be a male version of her which is good
+B: Wow, that's high praise! If she has that kind of potential, I can definitely see her making it big. I'll have to check her out.",positive,2024-10-01T16:50:49.518000+00:00,"What was the person's sentiment when they said ""Zayn reminds me of Rih. This may be blasphemous to say but I feel like he's about to be a male version of her which is good"" during the conversation?","Turn 1
+A: I watched this amazing performance online last night. The artist had such incredible stage presence and their vocals were just out of this world.
+B: That sounds awesome! Who was it? I love discovering new talent. How do they compare to some of the big names we know?
+
+Turn 2
+A: It was this new artist called Luna Ray. Honestly, she reminded me a bit of a young Adele with her powerful voice, but she also had this unique flair that made her stand out. Zayn reminds me of Rih. This may be blasphemous to say but I feel like he's about to be a male version of her which is good
+B: Wow, that's high praise! If she has that kind of potential, I can definitely see her making it big. I'll have to check her out.",Zayn reminds me of Rih. This may be blasphemous to say but I feel like he's about to be a male version of her which is good,positive
+"Turn 1
+A: I just read that a bunch of hip-hop artists are dropping new albums soon. It's going to be an exciting few months for us fans.
+B: Really? That's awesome! Who's releasing new stuff? Any big names?
+
+Turn 2
+A: Yeah, definitely. Kendrick Lamar, J. Cole, and even Travis Scott have albums coming out. I heard 2chajnz and Wayne is making one and if Kendrick and Cole's drops in Feb. it'll be game over It's like a dream lineup.
+B: No way! I've been waiting for new Kendrick for ages. This is going to be epic.",positive,2024-10-01T16:52:48.327000+00:00,"What was the person's sentiment when they said ""I heard 2chajnz and Wayne is making one and if Kendrick and Cole's drops in Feb. it'll be game over"" during the conversation?","Turn 1
+A: I just read that a bunch of hip-hop artists are dropping new albums soon. It's going to be an exciting few months for us fans.
+B: Really? That's awesome! Who's releasing new stuff? Any big names?
+
+Turn 2
+A: Yeah, definitely. Kendrick Lamar, J. Cole, and even Travis Scott have albums coming out. I heard 2chajnz and Wayne is making one and if Kendrick and Cole's drops in Feb. it'll be game over It's like a dream lineup.
+B: No way! I've been waiting for new Kendrick for ages. This is going to be epic.",I heard 2chajnz and Wayne is making one and if Kendrick and Cole's drops in Feb. it'll be game over,positive
+"Turn 1
+A: I can't wait for Selena Gomez's new album! I've been following every update. Did you hear anything new about it?guysss is it true that selena's album is gonna be released on november 24th omggg
+B: Actually, I did! There's a rumor going around that the release date might be sooner than we thought.
+
+Turn 2
+A: Really? That's amazing! I've been counting down the days. What else did you hear?
+B: Just that it might drop next month. Imagine if it's true—we could be listening to it in just a few weeks!",positive,2024-10-01T16:51:59.648000+00:00,"What was the person's sentiment when they said ""guysss is it true that selena's album is gonna be released on november 24th omggg"" during the conversation?","Turn 1
+A: I can't wait for Selena Gomez's new album! I've been following every update. Did you hear anything new about it?guysss is it true that selena's album is gonna be released on november 24th omggg
+B: Actually, I did! There's a rumor going around that the release date might be sooner than we thought.
+
+Turn 2
+A: Really? That's amazing! I've been counting down the days. What else did you hear?
+B: Just that it might drop next month. Imagine if it's true—we could be listening to it in just a few weeks!",guysss is it true that selena's album is gonna be released on november 24th omggg,positive
+"Turn 1
+A: You should've seen the match last night! There was this incredible moment when our striker dribbled past three defenders and scored from outside the box.
+B: Wow, that sounds amazing! I can't believe I missed it. How did the crowd react?
+
+Turn 2
+A: The stadium went absolutely wild! Everyone was on their feet, cheering and chanting. It was one of those moments that gives you goosebumps.
+B: That must have been electric. I really need to catch the highlights later. Eden Hazard's pass for Mata's 2nd goal yesterday was an absolute dream. Had the watch it about 5 times to believe it. Anything else that stood out?",positive,2024-10-01T16:54:24.719000+00:00,"What was the person's sentiment when they said ""Eden Hazard's pass for Mata's 2nd goal yesterday was an absolute dream. Had the watch it about 5 times to believe it."" during the conversation?","Turn 1
+A: You should've seen the match last night! There was this incredible moment when our striker dribbled past three defenders and scored from outside the box.
+B: Wow, that sounds amazing! I can't believe I missed it. How did the crowd react?
+
+Turn 2
+A: The stadium went absolutely wild! Everyone was on their feet, cheering and chanting. It was one of those moments that gives you goosebumps.
+B: That must have been electric. I really need to catch the highlights later. Eden Hazard's pass for Mata's 2nd goal yesterday was an absolute dream. Had the watch it about 5 times to believe it. Anything else that stood out?",Eden Hazard's pass for Mata's 2nd goal yesterday was an absolute dream. Had the watch it about 5 times to believe it.,positive
+"Turn 1
+A: I noticed that the new single by that indie band is doing really well in Italy. It's interesting because it hasn't charted as high in other countries.
+B: That's true. Italy has a unique music market. But you know, the song's explicit lyrics might be affecting its airplay in more conservative regions.
+
+Turn 2
+A: That makes sense. It must be tough for artists to balance their creative expression with the need to reach a wider audience.
+B: Absolutely. They often have to decide whether to release a clean version or risk limited exposure. It's a tricky situation, especially for emerging artists trying to make a name for themselves. calibraska is 7th in Italy but no one can hear it because of the 'explicit'",negative,2024-10-01T16:53:28.894000+00:00,"What was the person's sentiment when they said ""calibraska is 7th in Italy but no one can hear it because of the 'explicit'"" during the conversation?","Turn 1
+A: I noticed that the new single by that indie band is doing really well in Italy. It's interesting because it hasn't charted as high in other countries.
+B: That's true. Italy has a unique music market. But you know, the song's explicit lyrics might be affecting its airplay in more conservative regions.
+
+Turn 2
+A: That makes sense. It must be tough for artists to balance their creative expression with the need to reach a wider audience.
+B: Absolutely. They often have to decide whether to release a clean version or risk limited exposure. It's a tricky situation, especially for emerging artists trying to make a name for themselves. calibraska is 7th in Italy but no one can hear it because of the 'explicit'",calibraska is 7th in Italy but no one can hear it because of the 'explicit',negative
+"Turn 1
+A: I'm really looking forward to the concert next weekend. I hope the artist actually shows up this time. Man I hope she doesn't Frank Ocean us
+B: Yeah, me too. I read online that they've canceled a few shows last minute before. Fingers crossed it doesn't happen this time.
+
+Turn 2
+A: It would be such a bummer if they canceled. But hey, at least we have a backup plan, right?
+B: Absolutely! And who knows, maybe this time they'll surprise us and put on an amazing show. Let's stay optimistic!",negative,2024-10-01T16:49:51.065000+00:00,"What was the person's sentiment when they said ""Man I hope she doesn't Frank Ocean us"" during the conversation?","Turn 1
+A: I'm really looking forward to the concert next weekend. I hope the artist actually shows up this time. Man I hope she doesn't Frank Ocean us
+B: Yeah, me too. I read online that they've canceled a few shows last minute before. Fingers crossed it doesn't happen this time.
+
+Turn 2
+A: It would be such a bummer if they canceled. But hey, at least we have a backup plan, right?
+B: Absolutely! And who knows, maybe this time they'll surprise us and put on an amazing show. Let's stay optimistic!",Man I hope she doesn't Frank Ocean us,negative
+"Turn 1
+A: You missed an amazing Zumba class today! The new instructor was incredible.
+B: Really? What made it so special?
+
+Turn 2
+A: She used some unexpected music choices, like mixing in some old-school hip-hop with the usual Latin beats. The 2nd instructor had the audacity to play Prince Delirious for one of the songs. I never thought of Prince and Zumba together but it works It was such a fun surprise!
+B: That sounds awesome! I love when instructors mix things up. How did everyone else react?
+
+...",positive,2024-10-01T16:52:22.661000+00:00,"What was the person's sentiment when they said ""The 2nd instructor had the audacity to play Prince Delirious for one of the songs. I never thought of Prince and Zumba together but it works"" during the conversation?","Turn 1
+A: You missed an amazing Zumba class today! The new instructor was incredible.
+B: Really? What made it so special?
+
+Turn 2
+A: She used some unexpected music choices, like mixing in some old-school hip-hop with the usual Latin beats. The 2nd instructor had the audacity to play Prince Delirious for one of the songs. I never thought of Prince and Zumba together but it works It was such a fun surprise!
+B: That sounds awesome! I love when instructors mix things up. How did everyone else react?
+
+...",The 2nd instructor had the audacity to play Prince Delirious for one of the songs. I never thought of Prince and Zumba together but it works,positive
+"Turn 1
+A: in your bio you mention July 25th 2013 does that mean that you are going to the 1D concert at the Maverik Center like me? Hey B, I noticed you have October 15th in your bio. Are you going to the music festival that day?
+B: Oh, yeah! I am. I've been looking forward to it for months. Are you going too?
+
+Turn 2
+A: Yes, I am! I've been a fan of the headliner for years. Which acts are you most excited to see?
+B: Same here! I can't wait to see them live. I'm also really excited about the opening bands. It's going to be an amazing day.",neutral,2024-10-01T16:52:37.020000+00:00,"What was the person's sentiment when they said ""in your bio you mention July 25th 2013 does that mean that you are going to the 1D concert at the Maverik Center like me?"" during the conversation?","Turn 1
+A: in your bio you mention July 25th 2013 does that mean that you are going to the 1D concert at the Maverik Center like me? Hey B, I noticed you have October 15th in your bio. Are you going to the music festival that day?
+B: Oh, yeah! I am. I've been looking forward to it for months. Are you going too?
+
+Turn 2
+A: Yes, I am! I've been a fan of the headliner for years. Which acts are you most excited to see?
+B: Same here! I can't wait to see them live. I'm also really excited about the opening bands. It's going to be an amazing day.",in your bio you mention July 25th 2013 does that mean that you are going to the 1D concert at the Maverik Center like me?,neutral
+"Turn 1
+A: Hey, I have an extra ticket to a concert tonight. Would you be interested in coming along?
+B: That sounds fun, but I actually have plans to watch the big game tonight. Im not watching them because the Red Sox vs Yankees game is on tonight for who's in first. It's a pretty important match.
+
+Turn 2
+A: Ah, got it. No worries, I know how exciting those games can be. Maybe another time.
+B: Definitely. Enjoy the concert, and I'll catch up with you about it tomorrow.",neutral,2024-10-01T16:51:49.565000+00:00,"What was the person's sentiment when they said ""Im not watching them because the Red Sox vs Yankees game is on tonight for who's in first."" during the conversation?","Turn 1
+A: Hey, I have an extra ticket to a concert tonight. Would you be interested in coming along?
+B: That sounds fun, but I actually have plans to watch the big game tonight. Im not watching them because the Red Sox vs Yankees game is on tonight for who's in first. It's a pretty important match.
+
+Turn 2
+A: Ah, got it. No worries, I know how exciting those games can be. Maybe another time.
+B: Definitely. Enjoy the concert, and I'll catch up with you about it tomorrow.",Im not watching them because the Red Sox vs Yankees game is on tonight for who's in first.,neutral
+"Turn 1
+A: You won't believe the night I had! I went to see that new blockbuster movie, and it was absolutely fantastic. The special effects were out of this world!
+B: That sounds awesome! I love a good movie night. I had a pretty wild Saturday myself, but I'll save the details for another time.
+
+Turn 2
+A: Oh, now you've got me curious! What did you get up to?
+B: Let's just say it involved a bit of adventure and some unexpected surprises. A FB friend of mine just posted that seeing Magic Mike XXL was the best night of her life. If only she knew what my typical sat night is. Maybe next weekend we can swap stories in more detail!",positive,2024-10-01T16:53:47.958000+00:00,"What was the person's sentiment when they said ""A FB friend of mine just posted that seeing Magic Mike XXL was the best night of her life. If only she knew what my typical sat night is."" during the conversation?","Turn 1
+A: You won't believe the night I had! I went to see that new blockbuster movie, and it was absolutely fantastic. The special effects were out of this world!
+B: That sounds awesome! I love a good movie night. I had a pretty wild Saturday myself, but I'll save the details for another time.
+
+Turn 2
+A: Oh, now you've got me curious! What did you get up to?
+B: Let's just say it involved a bit of adventure and some unexpected surprises. A FB friend of mine just posted that seeing Magic Mike XXL was the best night of her life. If only she knew what my typical sat night is. Maybe next weekend we can swap stories in more detail!",A FB friend of mine just posted that seeing Magic Mike XXL was the best night of her life. If only she knew what my typical sat night is.,positive
+"Turn 1
+A: Hey, did you hear about that concert happening in Dublin this weekend?
+B: Yeah, I saw something about it online. Are you thinking of going?
+
+Turn 2
+A: I'm not sure yet. Just curious if anyone from our group is planning to attend. U2. Dublin. November. Who's going ?
+B: I haven't heard anyone mention it, but it could be fun to check out. Maybe we should ask around.",neutral,2024-10-01T16:54:13.088000+00:00,"What was the person's sentiment when they said ""U2. Dublin. November. Who's going ?"" during the conversation?","Turn 1
+A: Hey, did you hear about that concert happening in Dublin this weekend?
+B: Yeah, I saw something about it online. Are you thinking of going?
+
+Turn 2
+A: I'm not sure yet. Just curious if anyone from our group is planning to attend. U2. Dublin. November. Who's going ?
+B: I haven't heard anyone mention it, but it could be fun to check out. Maybe we should ask around.",U2. Dublin. November. Who's going ?,neutral
