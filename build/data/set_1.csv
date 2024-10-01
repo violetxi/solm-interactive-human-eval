@@ -1,141 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-60,"Turn 1
-A: Wow, B, that necklace is absolutely stunning! I've never seen anything like it. Where did you get it?
-B: Thanks, A! It's actually really special to me. I made it myself from my baby teeth. I know it sounds a bit unusual, but I love how it turned out. The craftsmanship was a fun challenge!
+42,"Turn 1
+A: ""I'm so excited for my birthday this weekend! We're going to that big concert downtown. I've been waiting for this for months!""
+B: ""No way, that's awesome! I've heard it's going to be an amazing show. Who are you going with?""
 
 Turn 2
-A: That's incredible! I love how personal and unique it is. That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work. You must be really proud of it.
-B: I am! It was a bit of a quirky idea, but I think it captures a part of my childhood in a creative way. Plus, it always makes for an interesting conversation piece!",That's cool. I had a few baby teeth dipped in gold and made into charms for a bracelet. Gorgeous work.,positive,2,"Yes, A was being positive. A complimented B's necklace, expressed admiration for its uniqueness, and shared a similar personal experience with baby teeth, indicating appreciation and understanding.",1,True,669
-53,"Turn 1
-A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
-B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
+A: ""I'm going with Sarah. We both love the band, and we've been planning this since the tickets went on sale. gonna go see Justin bieber with dylan in March on my birthday!!!!""
+B: ""That sounds like so much fun! I'm a little jealous, but I'm really happy for you. You'll have to tell me all about it afterward!""",gonna go see Justin bieber with dylan in March on my birthday!!!!,positive,2,"Yes, A was being positive. They expressed excitement about their upcoming birthday plans and the concert they are attending with Sarah. Additionally, they mentioned another exciting plan to see Justin Bieber with Dylan in March, which further indicates their positive and enthusiastic mood.",1,True,554
+107,"Turn 1
+A: Ugh, I'm having a hard time downloading the latest edition of the September publication for the monthly report. Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes? It's really frustrating.
+B: Oh no, that sounds annoying. Have you tried accessing it through a different browser or clearing your cache?
 
 Turn 2
-A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
-B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",Lmao I hope I'm not the only one who gets this,positive,1,"Yes, A was being positive. The use of ""Lmao"" and the laughing emoji 😂 indicate that A found the meme funny and was sharing it in a light-hearted, humorous way.",1,True,521
-69,"Turn 1
-A: Wow, look at that! The college basketball game is on the main network. It seems like it's getting a lot of attention.
-B: Yeah, it's March Madness season. Everyone's really into it right now. But it's interesting how the UFC fight is on a less prominent channel. You'd think it would get more coverage too.
+A: I tried switching browsers, but I haven't cleared my cache yet. Do you think that might help?
+B: It could. If that doesn't work, I can show you a workaround using a different method to download it. Just let me know.",Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes?,negative,1,"Yes, I agree. A was expressing frustration and negativity about their difficulty in downloading the publication, which is evident from their use of words like ""Ugh"" and ""really frustrating.""",1,True,592
+120,"Turn 1
+A: I've been so swamped with work lately that I completely forgot about Pi Day this year. ""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh"" I usually bake a pie and everything.
+B: Oh no, that's a bummer! I missed it too because of a project deadline. It's frustrating when work gets in the way of the fun stuff.
 
 Turn 2
-A: True, especially considering how popular UFC has become over the years. College basketball just big leagued the UFC. We've to wait for it to finish I think. I guess college basketball has that traditional appeal and a huge following during this time of year.
-B: Definitely. Plus, there's something about the unpredictability of March Madness that really draws people in. Every game feels like it could be an upset.",College basketball just big leagued the UFC. We've to wait for it to finish I think.,neutral,2,"A's statement ""College basketball just big leagued the UFC. We've to wait for it to finish I think."" is more of an observation rather than an expression of a strong opinion or bias. A is noting the fact that college basketball is receiving more attention and coverage at the moment, which is a neutral statement.",1,True,741
-80,"Turn 1
-A: Wait, so this is the big thing you've been hinting at for weeks?I didn't know this was a ""reveal"" he'd been talking about for awhile.
-B: Yep! I've been planning it for months, and it's finally happening this weekend.
+A: Yeah, I was really looking forward to it. I even had a new recipe I wanted to try. Maybe we can plan something together next year to make sure we don't miss it.
+B: That sounds like a great idea! Let's put it on our calendars now so we can remind each other. We could even make it a little tradition.","""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh""",negative,1,"A was expressing disappointment and frustration about missing Pi Day, which is evident from their statement about being swamped with work and forgetting about the event. The mention of missing International Talk Like a Pirate Day for the third year in a row adds to the sense of frustration. Therefore, A's sentiment can be considered negative.",1,True,677
+54,"Turn 1
+A: ""Hey, have you heard about Kevin Hart's new stand-up special? It's supposed to be hilarious! kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!"" We should definitely go see it when it premieres.""
+B: ""Oh, really? I haven't heard about it yet. But you know I'm always up for a good laugh. When's it coming out?""
 
 Turn 2
-A: Wow, I had no idea it was such a big deal. Can you give me a hint about what it is?
-B: Let's just say it involves a lot of people, some amazing decorations, and a surprise guest. You'll have to wait and see!","I didn't know this was a ""reveal"" he'd been talking about for awhile.",neutral,1,"A's statement ""I didn't know this was a 'reveal' he'd been talking about for awhile"" suggests a lack of prior knowledge and a neutral tone, as it doesn't express any strong positive or negative emotions.",1,True,445
-13,"Turn 1
-A: Hey, thanks for the link! That movie looks really interesting. I can't wait to check it out. Thanks, saved. Will watch it tomorrow morning :)
-B: No problem! I thought you'd like it. It's got that kind of twisty plot you enjoy.
+A: ""It's premiering next Friday night. I can already imagine us laughing our heads off. You in?""
+B: ""Absolutely! Count me in. It'll be a great way to unwind after the week. Can't wait!""","kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!""",positive,1,"Yes, A was being positive. A expressed excitement and enthusiasm about Kevin Hart's new stand-up special, indicating that they are looking forward to it and encouraging B to join them.",1,True,549
+5,"Turn 1
+A: Did you see Jason Russell's recent interview? He opened up about his mental health struggles during the KONY2012 campaign.
+B: No, I haven't seen it yet. That must have been intense for him. What did he say?
 
 Turn 2
-A: Awesome! I'll watch it first thing tomorrow morning. Thanks again for the recommendation!
-B: Great! Let me know what you think after you watch it. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""thanks,"" ""saved,"" and ""can't wait to check it out"" indicates enthusiasm and appreciation for the recommendation.",1,True,401
-113,"Turn 1
-A: I can't believe C missed that critical deadline. It's thrown the entire project off track.
-B: I know, it's really frustrating. We were already tight on time, and now we have to scramble to make up for it.
+A: He talked about the immense pressure and how it led to a breakdown. KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity It was really eye-opening to hear about the human side of it all.
+B: Wow, that sounds really tough. It's easy to forget that public figures go through such personal challenges too.",KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity,neutral,2,"A's statement in turn 2 is factual and informative, providing details about Jason Russell's experience without expressing a personal opinion or emotional tone. This indicates a neutral stance.",1,True,594
+95,"Turn 1
+A: I'm thinking of taking a weekend trip to the mountains. It's been ages since I had a proper getaway.
+B: That sounds amazing! I went hiking there last year, and the views were breathtaking. Do you have a specific spot in mind?
 
 Turn 2
-A: And the worst part is, this isn't the first time C has made a mistake like this. Yeah that was inexcusable It's starting to feel like a pattern.
-B: You're right. We need to address this with management before it affects any more of our work. The team can't keep picking up the slack.",Yeah that was inexcusable,negative,2,"Yes, A was being negative. A expressed frustration about C missing a critical deadline and mentioned that it feels like a pattern of mistakes, which indicates a negative sentiment.",1,True,509
-13,"Turn 1
-A: Hey, thanks for the recommendation! I'm swamped right now, but I'll definitely check it out first thing tomorrow morning. Thanks, saved. Will watch it tomorrow morning :)
-B: No worries! I think you'll really like it. It's right up your alley.
+A: Not yet, but I'm leaning towards that new cabin resort everyone's been talking about. This next Superbowl is on my (21st) birthday. Random fact of the day. It looks cozy.
+B: Oh, I've heard great things about that place! Just make sure to book early; it fills up fast.",This next Superbowl is on my (21st) birthday. Random fact of the day.,neutral,2,"Yes, I agree. A's statement about the Superbowl coinciding with their birthday is a neutral fact and doesn't convey any strong emotion or opinion. It seems to be an offhand comment rather than an expression of a particular sentiment.",1,True,514
+109,"Turn 1
+A: I can't believe iKON's debut might be delayed again. im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US I've been counting down the days, and now this happens.
+B: I know, it's really disappointing. But maybe it's for the best. They might need more time to perfect everything.
 
 Turn 2
-A: Awesome, I'm looking forward to it. I'll let you know what I think once I've watched it.
-B: Sounds good! Can't wait to hear your thoughts. Enjoy!","Thanks, saved. Will watch it tomorrow morning :)",positive,1,"Yes, A was being positive. The use of phrases like ""Thanks,"" ""saved,"" and ""Will watch it tomorrow morning :)"" indicates that A is appreciative and looking forward to watching the recommendation.",1,True,409
-110,"Turn 1
-A: I just don't get it, you know? I put in so much effort into that project, and when it failed, everyone just pointed fingers at me. It's like they forgot all the late nights and weekends I sacrificed.
-B: That sounds incredibly frustrating, A. It's really unfair that you're being blamed for something that wasn't solely your responsibility. Have you had a chance to talk to your manager about how you're feeling?
+A: I guess you're right. I just feel so invested in this, you know? I've been following every update.
+B: Totally get it. But think about how amazing it'll be when they finally debut. All this waiting will make it even more special.",im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US,negative,1,"Yes, A was expressing frustration and disappointment about the potential delay of iKON's debut. The use of phrases like ""im going to b so pissed"" and ""can YG STOP PULLING A FRANK OCEAN ON US"" indicates a negative sentiment.",1,True,573
+112,"Turn 1
+A: ""Can you believe this? They're making a big deal out of some celebrity's new haircut. Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!""
+B: ""Seriously? It's like they have nothing better to report on.""
 
 Turn 2
-A: I tried, but it felt like they were just brushing me off. They said they'd ""look into it,"" but nothing's changed. This is exactly what it's been like. I feel personally victimised by it all I feel so unsupported and isolated.
-B: I'm really sorry you're going through this. Maybe it would help to document everything that's happened and request a formal meeting with your manager. That way, you can clearly present your side and hopefully get some resolution.",This is exactly what it's been like. I feel personally victimised by it all,negative,2,"Yes, I agree. A is expressing feelings of frustration, isolation, and a lack of support, which are negative emotions. They feel personally victimized and unsupported, indicating a negative sentiment.",1,True,891
-36,"Turn 1
-A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
-B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
-
-Turn 2
-A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
-B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.","making us look like punks, disappointing",negative,1,"Yes, I agree. A's statement ""making us look like punks, disappointing"" reflects a negative sentiment. A is expressing frustration and disappointment about their performance, indicating a negative outlook on the situation.",1,True,698
-102,"Turn 1
-A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
-B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
-
-Turn 2
-A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
-B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",Sadly enough I was thinking the same.,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the situation, indicating that despite their hard work, they feel it hasn't paid off.",1,True,522
+A: ""I know, right? There are so many more important things happening in the world.""
+B: ""Exactly. It's just ridiculous how much attention this stuff gets.""",Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!,negative,1,"Yes, A was being negative. A expresses frustration and disbelief about the trivial news being reported, specifically mentioning their annoyance with the focus on a celebrity's new haircut and Justin Bieber's new find.",1,True,458
 8,"Turn 1
-A: ""Did you see that last-minute goal by Johnson in the game against the Warriors? That was incredible!""
-B: ""Absolutely! I was on the edge of my seat. Johnson has really stepped up his game this season. I can't wait to see him in action at the next game.""
+A: I finally watched the movie adaptation of that book we read in high school. Remember ""The Lost Journey""?
+B: Oh, really? I've been meaning to watch it. How was it?
 
 Turn 2
-A: ""Yeah, and how about the defense? They've been rock solid. I think that's what's really making the difference for the Kings this year. Can't wait to go to the Kings game. Especially if they bring this level of fire.""
-B: ""Totally agree. Their coordination and strategy have been spot on. It's going to be so exciting to watch them live. We should get there early to catch the warm-ups too.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming Kings game, highlighting the team's strong performance and the ""level of fire"" they bring.",1,True,663
-70,"Turn 1
-A: Ugh, I just saw that NISA might be handling the translation for the new game. After the mess they made with the last one, I'm really worried.
-B: I get where you're coming from, but I'm just excited that we're finally getting an English release. Maybe they'll do better this time?
+A: Honestly, I was pretty disappointed. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me"" They changed so much from the book, especially the ending. It just didn't have the same impact.
+B: That's a shame. I guess it's always tough to capture the essence of a book in a movie. They often have to cut or alter things to fit the runtime.","""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""",negative,2,"Yes, I agree. A expressed disappointment with the movie adaptation of ""The Lost Journey"" by saying they were ""pretty disappointed"" and that the changes, especially the ending, didn't have the same impact as the book. This indicates a negative sentiment.",1,True,583
+105,"Turn 1
+A: I can't believe Paul McCartney is finally coming to Detroit! I've been waiting for this for years.
+B: That's amazing! But you seem a bit down about it. What's up?
 
 Turn 2
-A: I hope so, but their track record isn't great. Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it. Remember all those mistranslations and bugs? It really ruined the experience for me.
-B: True, but at least we'll be able to understand the story without having to rely on fan translations. Plus, we can always hope for patches if there are issues.","Really worried about NISA translating it, but at this point I don't care any more, as long as we get an english version of it.",negative,2,"Yes, A was being negative. A expressed concerns about NISA's past performance with translations, mentioning mistranslations and bugs that ruined their experience. Despite saying they don't care anymore as long as there's an English version, the overall tone remains worried and critical.",1,True,721
-15,"Turn 1
-A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
-B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
+A: The ticket prices are just way too high. What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars I can't afford to go, and it's really bumming me out.
+B: I totally get it. It's so frustrating when money gets in the way of something you love. Maybe we can find a way to make it work together?",What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the high ticket prices, which is evident from the use of strong language and the overall tone of the message.",1,True,542
+20,"Turn 1
+A: ""Hey, guess what? I've got a big match coming up this weekend in Petrolia! Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out! You should totally come and watch.""
+B: ""That sounds awesome! You know I wouldn't miss it for the world. What time does it start?""
 
 Turn 2
-A: I double-checked the results. It's real. I feel like all that work was for nothing.
-B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",Holy shit bro,negative,1,"Yes, I agree. A's statement ""I can't believe it, I just found out I failed the exam. Holy shit bro I studied so hard for it."" clearly expresses disappointment and frustration, which are negative emotions.",1,True,384
-1,"Turn 1
-A: You know, I've been really struggling with the website design lately. It feels like no matter what I do, it just doesn't look right.
-B: Oh, I totally get that. I had a client last week who kept changing their mind about the layout. It was a nightmare trying to keep up with their demands.
+A: ""It's at 7 PM on Saturday. I'm really pumped for this one; it's going to be a tough match.""
+B: ""I'll be there cheering you on! You've got this, A. I can't wait to see you in action!""",Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out!,positive,1,"Yes, A was being positive. They expressed excitement and anticipation for the upcoming match, which indicates a positive attitude.",1,True,497
+81,"Turn 1
+A: Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?
+B: Seriously, it's ridiculous. My grocery bill has doubled, and now this? What's next, a tax on breathing?
 
 Turn 2
-A: That sounds rough. I'm dealing with something similar. Every time I think I've nailed the design, I find something else that needs tweaking. This just reminded me to continue designing that bloody website. It's so frustrating.
-B: Yeah, it can be really challenging. Maybe we can brainstorm some ideas together after lunch? Sometimes a fresh perspective can make a big difference.",This just reminded me to continue designing that bloody website.,negative,2,"Yes, I agree that A was being negative. The use of the word ""bloody"" in ""that bloody website"" indicates frustration and negativity towards the task of designing the website.",1,True,689
-65,"Turn 1
-A: Hey B, got any exciting plans for the weekend?
-B: Oh, absolutely! I'm really looking forward to indulging in my weekend tradition of enjoying various chocolate treats. It's something I find incredibly delightful and relaxing.
-
-Turn 2
-A: That sounds amazing! Mmm... chocolate weekends are my favorite. Do you have a favorite type of chocolate you like to treat yourself with?
-B: Definitely! I have a soft spot for dark chocolate with sea salt. But I also love trying out new flavors and combinations. It's like a little adventure every weekend.",Mmm... chocolate weekends are my favorite.,positive,2,"Yes, A was being positive. A expressed enthusiasm and agreement with B's weekend plans by saying ""That sounds amazing!"" and ""Mmm... chocolate weekends are my favorite.""",1,True,553
-48,"Turn 1
-A: I don't get why erectile dysfunction is such a big deal. I mean, it doesn't stop someone from having an orgasm, right?
-B: Actually, that's not true. Erectile dysfunction can definitely affect the ability to orgasm. It's not just about getting an erection; it's about the whole sexual experience. 
-
-Turn 2
-A: Oh, I didn't realize that. Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about? I thought it was just about not being able to get it up.
-B: It's more complicated than that. It can be really frustrating and emotionally challenging for those who experience it. It's important to understand the full impact it can have on someone's life.",Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?,negative,2,"Yes, I agree. A's use of strong language (""What the fuck are you talking about?"") and the dismissive tone suggest a negative attitude towards the topic and B's explanation.",1,True,709
-8,"Turn 1
-A: ""That game was insane! Did you see that last-minute goal? I was on the edge of my seat!""
-B: ""I know, right? The energy was off the charts. I can't believe how well they played. We definitely need to catch the next game live.""
-
-Turn 2
-A: ""Absolutely! I was thinking we could get tickets for next Saturday's game. Can't wait to go to the Kings game. Especially if they bring this level of fire.The team's on fire, and I don't want to miss it.""
-B: ""Great idea! Let's check the ticket availability tonight. It'll be awesome to be there in person and soak up the atmosphere.""",Can't wait to go to the Kings game. Especially if they bring this level of fire.,positive,2,"Yes, A was being positive. A expressed excitement and anticipation for the upcoming game, highlighting the team's impressive performance and eagerness to experience it live.",1,True,580
+A: At this rate, we'll be living in cardboard boxes. Maybe we should start a commune or something.
+B: Honestly, that doesn't sound half bad. At least we'd have each other's company while we figure out how to survive this madness.",like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?,negative,1,"Yes, A was being negative. The statement ""Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent?"" expresses frustration and disbelief about the increasing rent, which is a negative sentiment.",1,True,527
 26,"Turn 1
-A: ""I just feel like I'm drowning in work and personal stuff. It's like there's no end in sight.""
-B: ""I totally get it. It's been a tough week for me too. But remember, it's okay to feel overwhelmed sometimes. You're doing your best.""
+A: You won't believe the new smartphones I saw at the expo! The latest models have these incredible foldable screens that are so seamless, you can barely see the crease.
+B: Really? That sounds amazing! I've been curious about foldable screens but wasn't sure if they were practical yet. Did you get to try one out?
 
 Turn 2
-A: ""Thanks, B. It really helps to hear that. At some point, we all hate it. Hey it feels good to be real sometimes.  Sometimes I just need to vent and know that someone understands.""
-B: ""Absolutely. Anytime you need to talk, I'm here. We all need a break and some support now and then.""","At some point, we all hate it. Hey it feels good to be real sometimes.",positive,2,"A's statement ""At some point, we all hate it. Hey it feels good to be real sometimes."" acknowledges the shared experience of feeling overwhelmed and the relief that comes from being honest about it. This indicates a positive shift towards acceptance and the value of authenticity.",1,True,536
+A: Yeah, I did! The responsiveness was impressive, and the transition between folded and unfolded modes was super smooth. Plus, the battery life has significantly improved. I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.
+B: That sounds like a game-changer. I might have to consider upgrading sooner than I thought. Did you see any other cool features?",I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.,positive,2,"Yes, A was being positive. A expressed excitement about the new foldable screens and mentioned that the responsiveness and battery life were impressive. Additionally, A showed interest in the new Galaxy Note 5, indicating a positive outlook towards the new technology.",1,True,725
+119,"Turn 1
+A: I can't believe Justin would do this to me. He's been spreading lies about me, and I'm done with it. I think the only way to make him stop is to confront him, maybe even fight him.
+B: I get that you're angry, but fighting isn't going to solve anything. It could just make things worse for you. Let's think of another way to handle this.
+
+Turn 2
+A: But what else can I do? He needs to know he can't get away with this. I'm going to fight Justin tomorrow during lunch idc idc dcIf I don't stand up to him, he'll just keep doing it.
+B: I understand, but there are other ways to stand up for yourself. We can talk to a teacher or a counselor. They can help mediate and put an end to the rumors without anyone getting hurt.",I'm going to fight Justin tomorrow during lunch idc idc dc,negative,2,"Yes, I agree that A was being negative. A's statement about fighting Justin indicates a confrontational and aggressive approach to the situation, which is generally considered a negative response.",1,True,728
+33,"Turn 1
+A: I just got my new smartphone set up! The screen is so vibrant, and the setup process was surprisingly smooth.
+B: That's awesome! What model did you get? I'm curious about the new features it has.
+
+Turn 2
+A: I went with the latest Galaxy model. Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)The camera is supposed to be incredible, and I can't wait to test out the night mode.
+B: Nice choice! I've heard great things about its battery life too. Let me know how it holds up after a full day of use.","Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)",positive,2,"Yes, A was being positive. A expressed excitement about the new smartphone's vibrant screen and smooth setup process, and showed enthusiasm about testing the camera and other features.",1,True,552
+68,"Turn 1
+A: Did you see the latest update from the Supreme Court? They've set the execution date for next month.What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.
+B: Yes, I saw that. It's going to be interesting to see how the clemency plea plays out. Do you think the President will intervene?
+
+Turn 2
+A: It's hard to say. The political climate is pretty tense right now, and this case has garnered a lot of public attention. The legal arguments for clemency are compelling, though.
+B: True, and the international pressure might also influence the decision. It's a complex situation with significant implications for future cases.",What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.,neutral,1,"Yes, I agree. A was being neutral in their statement. They were simply providing information about the Supreme Court's decision and asking a question about the clemency plea without expressing any personal opinion or bias.",1,True,681
+114,"Turn 1
+A: I started watching this great series on Amazon Prime, but after a few seasons, they wanted me to pay extra to keep watching. Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF. It's so frustrating!
+B: Ugh, I know what you mean. That happened to me with a show on Hulu. Just when I was getting into it, they put the new season behind a paywall.
+
+Turn 2
+A: It's like they lure you in with a few free episodes and then hit you with extra charges. I wish they were more upfront about it.
+B: Exactly! It feels like a bait-and-switch. I've started checking reviews and forums before committing to a new show now.","Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF.",negative,1,"Yes, A was expressing frustration and negativity towards Amazon Prime for their practice of charging extra after a few seasons of a show. The use of strong language and the phrase ""FUCK OFF"" clearly indicates a negative sentiment.",1,True,696
+11,"Turn 1
+A: I finally watched Magic Mike XXL last weekend, and I was surprised by how much I enjoyed it! Im mind blown after watching Magic Mike XXL for the 1st time It was so entertaining.
+B: Right? I saw it a while back and didn't expect to like it as much as I did. The dance scenes were incredible!
+
+Turn 2
+A: Absolutely! That scene where they perform to ""Pony"" was just amazing. I couldn't stop laughing and cheering.
+B: Oh, I know! And Joe Manganiello's convenience store dance? Hilarious and so well done. We should definitely watch it together sometime!",Im mind blown after watching Magic Mike XXL for the 1st time,positive,1,"Yes, A was being positive. They expressed surprise and enjoyment, describing the movie as ""entertaining"" and mentioning that they were ""mind blown"" in a positive context.",1,True,559
 27,"Turn 1
-A: Wow, B, these slides look amazing! I can't believe you did all this for me.
-B: Of course, A! I know how important this presentation is for you. I just wanted to help ease some of your stress.
+A: Man, I can't wait for McGregor's fight next week. Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! He's gonna destroy his opponent. You can just see the fear in the other guy's eyes.
+B: Yeah, McGregor's definitely got that intimidation factor. But you never know, his opponent might surprise us. It's MMA, anything can happen.
 
 Turn 2
-A: You have no idea how much this means to me. Omg, thank you! I was really struggling with how to make everything look professional.
-B: I'm glad I could help. You've got the content down perfectly; now you just need to focus on delivering it confidently. You've got this!","Omg, thank you!",positive,2,"Yes, A was being positive. A expressed gratitude and appreciation for B's help, indicating a positive sentiment.",1,True,482
-51,"Turn 1
-A: Hey, did you see that article I sent you about the accident? Just reading this makes me sick It's so heartbreaking.
-B: Yeah, I just read it. I can't believe something like that happened. It's really upsetting to think about all those people affected.
+A: True, but McGregor's striking is on another level. I mean, did you see his last fight? The precision and power were insane.
+B: Absolutely, his striking is top-notch. But I think his ground game could use some work. If his opponent can take him down, it might be a different story.","Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!",positive,1,"Yes, A was being positive about Conor McGregor. A expressed excitement and confidence in McGregor's abilities, and even mentioned celebrating their half Irishness in a cheerful manner.",1,True,719
+40,"Turn 1
+A: The commentators tonight are really on point. They add so much to the game.
+B: Yeah, they're good. But I still miss the voices we grew up with. Those guys were legends and their commentary is tied to so many of my Monday night memories.
 
 Turn 2
-A: I know, right? It's hard to wrap my head around it. I keep thinking about the families and how they're coping.
-B: Same here. It's just so tragic. I wish there was something we could do to help or make a difference somehow.",Just reading this makes me sick,negative,1,"Yes, I agree. A's statement ""Just reading this makes me sick"" indicates a negative reaction to the heartbreaking news about the accident.",1,True,494
+A: Absolutely, there was something special about their style. Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football It's like their voices were the soundtrack to our football nights.
+B: Exactly. It's amazing how a voice can bring back so many memories. Those were the days, huh?",Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football,positive,2,"Yes, A was being positive. A expressed appreciation for the special style of Frank Gifford and Al Michaels and mentioned how their voices were the soundtrack to their football nights, which indicates fondness and positive sentiment.",1,True,572
