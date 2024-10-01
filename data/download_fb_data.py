@@ -73,7 +73,9 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-iSarcasm-4'
     # current_data_prefix = 'Full-iSarcasm-5'
     # current_data_prefix = 'Full-iSarcasm-6'
-    current_data_prefix = 'Full-iSarcasm-7'
+    # current_data_prefix = 'Full-iSarcasm-7'
+    current_data_prefix = 'Full-iSarcasm-8'
+
 
     # CovidVaccineStance
     # current_data_prefix = 'Full-CovidVaccineStance-1'

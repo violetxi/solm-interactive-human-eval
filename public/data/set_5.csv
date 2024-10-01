@@ -1,141 +1,151 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-96,"Turn 1
-A: ""Well, there goes another politician caught in a lie. Who would've thought, right? It's almost like honesty is a foreign concept to them. Politicians are so honest it melts my heart""
-B: ""Yeah, it's pretty disheartening. You'd think they'd learn by now that the truth always comes out.""
+61,"Turn 1
+A: The bot has been really effective in handling the bulk of our routine tasks, but I've noticed it struggles with minor changes in input formats. I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?This has caused a few hiccups in our workflow.
+B: That's a good point. We need the bot to be more adaptable to variations. Do you have any specific examples or suggestions on how we can improve this?
 
 Turn 2
-A: ""At this rate, we might as well start a betting pool on the next scandal. It's becoming a regular occurrence.""
-B: ""Honestly, it feels like we're watching a never-ending soap opera. Just when you think it can't get worse, it does.""",Politicians are so honest it melts my heart,sarcastic,1,"Yes, A was being sarcastic. The statement ""Politicians are so honest it melts my heart"" is clearly ironic given the context of discussing a politician caught in a lie.",1,True,537
-62,"Turn 1
-A: It's really something to hear the English fans singing ""Jerusalem"" in the middle of the Gabba, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba Makes me feel a bit nostalgic.
-B: Absolutely, mate. It's great to see how passionate they are. Adds a unique flavor to the atmosphere here.
-
-Turn 2
-A: Yeah, it reminds me of the matches back home. Even though I'm loving it here, moments like these bring back fond memories.
-B: I get that. It's those little things that make you feel connected to your roots. Plus, it's always good to have a bit of friendly rivalry in the crowd!",Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba,not sarcastic,1,"Yes, I agree. A's statement about it being ""quite wonderful"" to hear ""Jerusalem"" sung by English fans surrounded by Aussies at the Gabba is followed by a sentiment of nostalgia and fondness. This indicates that A is genuinely appreciating the moment and is not being sarcastic.",1,True,640
-21,"Turn 1
-A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
-B: Yeah, I figured. I think it might belong to someone from the other table.
-
-Turn 2
-A: Thanks for pointing that out. I didn't want anyone to think I was being rude by not drinking it.
-B: No worries. Let's just move it over there and avoid any mix-ups.",FYI this was not my pint. I hate beer,not sarcastic,1,"A's statement ""FYI this was not my pint. I hate beer"" appears to be a straightforward clarification rather than a sarcastic remark. A is simply making it clear that the pint does not belong to them because they dislike beer.",1,True,371
-106,"Turn 1
-A: You know, I find Instagram so superficial sometimes. It's like a highlight reel of everyone's best moments, and it can be pretty demotivating.
-B: Yeah, I get that. Speaking of which, did you see Kim Kardashian's latest post? The one where she's flaunting her new luxury car?
-
-Turn 2
-A: Oh, that one? I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account. It was so inspiring. Made me want to delete my account and go read a book instead.
-B: Haha, I figured you'd say something like that. Social media really isn't your thing, is it?",I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account.,sarcastic,2,"Yes, A was being sarcastic. A's initial statement in Turn 1 expressed a negative view of Instagram, calling it superficial and demotivating. In Turn 2, A's comment about being ""motivated to delete my account"" after seeing Kim Kardashian's post is a sarcastic way of reinforcing their disdain for the platform.",1,True,603
-25,"Turn 1
-A: I know the Omicron variant is really concerning, but I just can't stay cooped up at home all the time. I need to get out and do something I love, like birdwatching.Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.
-B: I totally get it, A. It's important to take care of your mental health too. Just make sure you're taking all the necessary precautions while you're out there.
-
-Turn 2
-A: Absolutely, I'll be masked up and keeping my distance from others. Plus, birdwatching is pretty solitary anyway.
-B: That sounds like a good plan. Enjoy your time out there and stay safe. Let me know if you spot any interesting birds!",Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.,not sarcastic,1,A's statement about deciding to go birdwatching despite the risks of the Omicron variant seems sincere and reflects a genuine concern for mental health and a desire to engage in a beloved activity. There is no indication of sarcasm in the context provided.,1,True,747
-22,"Turn 1
-A: Hey B, have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something more widespread.
-B: Funny you mention that, A. I did notice some flickering last night, but I thought it was just a temporary glitch. 
-
-Turn 2
-A: Hmm, that's interesting. I guess it might be something affecting the whole area then. Anyone in Hull area having digital TV aerial or freeview problems? Thank you. Have you heard anything from other neighbors?
-B: Not yet, but I can ask around. Maybe it's worth checking with the service provider too, just in case it's a known issue.",Anyone in Hull area having digital TV aerial or freeview problems? Thank you.,not sarcastic,2,A's question about the Hull area having digital TV aerial or Freeview problems seems genuine and is a logical follow-up to the discussion about TV reception issues. There is no indication of sarcasm in the context provided.,1,True,635
-88,"Turn 1
-A: It's such a hassle to always have to carry cash just for the barbershop. I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...
-B: I know, right? I always forget and end up scrambling to find an ATM.
-
-Turn 2
-A: And it's not just the barbershop. So many places still don't accept card payments.
-B: Exactly. It really complicates things, especially when you're used to paying with your phone everywhere else.",I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...,sarcastic,1,"Yes, A was being sarcastic. The statement ""I love that we have to always pay by cash at the barbers"" is immediately followed by ""Sure would be a lot easier if they took card,"" which indicates that A actually finds it inconvenient to pay by cash and would prefer card payments.",1,True,467
-112,"Turn 1
-A: So, I ordered from Deliveroo today, and guess what? They sent me a vegan salad instead of my burger. I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun! Just what I needed, right?
-B: Oh no, that's the worst! I once got someone else's sushi order. I mean, I like sushi, but not when I'm expecting pizza!
-
-Turn 2
-A: Exactly! It's like they want to keep us on our toes. Maybe next time I'll get a dessert platter instead of my main course.
-B: Haha, yeah, it's like a food roulette. At least it makes for some interesting stories to share!",I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!"" is likely sarcastic because receiving the wrong order is generally frustrating, not enjoyable. The context of the conversation suggests that A is expressing their annoyance in a sarcastic manner.",1,True,599
+A: Sure, for instance, when the date format changes slightly, the bot fails to recognize it and throws an error. Maybe we could implement a more flexible parsing mechanism?
+B: That makes sense. Let's prioritize enhancing the bot's input validation and parsing logic. I'll schedule a session to brainstorm solutions with the team. Thanks for bringing this up.","I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?",polite,1,"Yes, A was being polite. A acknowledged the bot's effectiveness and usefulness before pointing out the issue and suggesting a possible improvement. This approach shows consideration and politeness.",1,True,875
 38,"Turn 1
-A: ""I just can't stop thinking about all the things that could go wrong on this trip. What if I get lost or something bad happens?""
-B: ""I understand your worries, but remember how much you've always wanted to do this. Sometimes, the best experiences come from stepping out of our comfort zones.""
+A: Hey B, I noticed you've been reverting my edits without engaging on the discussion page. Hey, if you want to assert that a cite does not say what it clearly does say, how about actually coming to the discussion page to discuss it, rather than treating edit summaries like a discussion space? Why the hell am I the one being accused of edit warring, when I'm the only one actually willing to talk on the discussion page? Can we please discuss this there to find a solution that works for both of us?
+B: I understand your point, A, but I think the edit summaries are sufficient for now. Your changes are problematic, and I believe it's important to address them directly.
 
 Turn 2
-A: ""You're right, but it's hard to shake off the anxiety. Don't be so afraid of dying that you forget how to live What if I regret going?""
-B: ""You might regret not going even more. Life's too short to let fear hold you back. You've got this, and I'll be here cheering you on every step of the way.""",Don't be so afraid of dying that you forget how to live,not sarcastic,2,"A's statement ""Don't be so afraid of dying that you forget how to live"" is a genuine expression of their internal struggle with anxiety and fear about the trip. It reflects a moment of self-awareness and an attempt to remind themselves of the importance of living fully despite their fears. Therefore, A was not being sarcastic.",1,True,609
-20,"Turn 1
-A: I've been trying to book a COVID booster shot online, but it's been such a hassle. I would love to be able to book my covid booster shot but the website doesn't work The website keeps crashing.
-B: Oh, that sounds frustrating. I had a similar issue last month. Have you tried calling the pharmacy directly?
+A: I appreciate your feedback, but edit summaries don't allow for a detailed conversation. Let's move this to the discussion page so we can fully understand each other's perspectives and avoid further conflict.
+B: Alright, I see your point. I'll join you on the discussion page to talk this through. Let's find a way to resolve this constructively.","Hey, if you want to assert that a cite does not say what it clearly does say, how about actually coming to the discussion page to discuss it, rather than treating edit summaries like a discussion space? Why the hell am I the one being accused of edit warring, when I'm the only one actually willing to talk on the discussion page?",impolite,1,"Yes, I agree that A was being impolite. The use of phrases like ""how about actually coming to the discussion page"" and ""Why the hell am I the one being accused of edit warring"" conveys frustration and a confrontational tone, which can be perceived as impolite.",1,True,1036
+130,"Turn 1
+A: ""B, can you hurry up? You've been in there forever, and I really need to use the bathroom.""
+B: ""I'm sorry, A. I'm having a bit of a rough time in here. I'll be out as soon as I can.""
 
 Turn 2
-A: I haven't, but that's a good idea. I might give that a shot. How did it go for you when you called?
-B: It was much smoother. They were able to schedule me right away, and I got my booster the next day. Definitely worth a try.",I would love to be able to book my covid booster shot but the website doesn't work,not sarcastic,1,A's statement expresses a genuine desire to book a COVID booster shot and frustration with the website not working. There is no indication of sarcasm in the context provided.,1,True,552
-18,"Turn 1
-A: I can't believe how unpredictable the weather has been lately. So fed up with the rubbish every changing weather Every time we make some progress, it starts raining or gets too windy.
-B: I know, it's been really frustrating. We can't seem to catch a break. Maybe we should look into some portable shelters or something to keep us going despite the weather.
+A: ""I get that, but it's been almost an hour. Are you unable to pee with a half filled bladder??? Can you at least try to speed things up?""
+B: ""I understand you're frustrated. I'll do my best to finish quickly. Just give me a few more minutes, please.""",Are you unable to pee with a half filled bladder???,impolite,2,"Yes, A's comment ""Are you unable to pee with a half filled bladder???"" comes across as impatient and dismissive of B's situation, which can be considered impolite.",1,True,453
+59,"Turn 1
+A: Hi B, I noticed you don't have an email linked to your Wikipedia account. I see that you don't have an account linked to the Wikipedia email. Would you be able to send me a message so that we can talk off Wikipedia? For some of our project updates and sensitive discussions, it might be easier to communicate privately. Would you be open to sharing your email or using a messaging app?
+
+B: Hi A, I understand the need for private communication. I don't mind sharing my email for this purpose. You can reach me at [B's email]. Is that okay?
 
 Turn 2
-A: That's a good idea. At least it would give us some consistency. I just hope we can find something sturdy enough to handle these sudden changes.
-B: Agreed. Let's check out some options online during lunch. We need to find a way to keep this project on track.",So fed up with the rubbish every changing weather,not sarcastic,1,"Based on the context, A is expressing genuine frustration about the unpredictable weather affecting their progress. There is no indication of sarcasm in A's statement.",1,True,635
-10,"Turn 1
-A: Did you manage to get tickets for the concert?
-B: Yeah, I did! It was a bit of a scramble, but I got two. How about you?
+A: Perfect, thanks for that. I'll send you an email shortly with the details we need to discuss. Looking forward to our continued collaboration!
+
+B: Sounds good, A. I'll keep an eye out for your email. Let's make this project a success!",I see that you don't have an account linked to the Wikipedia email. Would you be able to send me a message so that we can talk off Wikipedia?,polite,1,"Yes, A was being polite. A acknowledged B's current setup and respectfully asked if B would be open to sharing an email or using a messaging app for private communication.",1,True,794
+46,"Turn 1
+A: Hey B, do you have a minute? I tried setting up a subpage on the wiki for our project, but I'm not sure if I did it right. I was trying to create a subpage. Could you please make it a subpage for me?
+B: Sure, A. I'd be happy to help. Can you show me what you've done so far?
 
 Turn 2
-A: Unfortunately, I wasn't so lucky. The site crashed on me. Did anyone on my twitter even get tickets for the SOUR tour? Do you know if anyone else got tickets?
-B: I heard that Sarah managed to get a few. Maybe she has an extra one she could sell you. I'll ask her for you.",Did anyone on my twitter even get tickets for the SOUR tour?,not sarcastic,2,"A's statement ""Did anyone on my twitter even get tickets for the SOUR tour?"" expresses genuine frustration and disappointment about not getting tickets, rather than sarcasm. A is earnestly inquiring if anyone else had better luck.",1,True,413
-17,"Turn 1
-A: It's interesting how COP26 was organized by the UK in partnership with Italy. Callum obviously doesn't know who organised COP26. Did you know that Callum seems a bit unclear about who was responsible for organizing the event?
-B: Really? That's surprising. I thought it was pretty well-publicized. Maybe he missed some of the initial briefings.
+A: Here it is. I created the subpage under the main project page, but I'm not sure if the structure and links are correct.
+B: Let's take a look. Ah, I see what you did. The content looks good, but the link needs to be formatted slightly differently. Let me show you how to adjust it.",I was trying to create a subpage. Could you please make it a subpage for me?,polite,1,"Yes, A was being polite. A asked B if they had a minute and then requested help in a courteous manner.",1,True,576
+2,"Turn 1
+A: The 100th Indy 500 was absolutely incredible! The atmosphere, the history, everything was just perfect.
+B: I get that it was a big deal, but isn't it a bit misleading to call it the 100th race? I read there were interruptions during the World Wars, so technically, it hasn't been held 100 times consecutively.
 
 Turn 2
-A: Yeah, it could be. I think it might help if we share some of the key details with him, especially since understanding the organizers is crucial for our project.
-B: Good idea. I'll make sure to bring it up in our next team meeting. It's important everyone is on the same page, especially with such a significant event.",Callum obviously doesn't know who organised COP26.,not sarcastic,1,"Based on the context, A is genuinely pointing out that Callum seems unclear about who organized COP26. There is no indication of sarcasm in A's statement; it appears to be a straightforward observation.",1,True,682
-115,"Turn 1
-A: It's been really tough adjusting to remote work. The technical issues are one thing, but I really miss the social interaction. I am just loving life in Covid times. Long may it last!
-B: Oh, absolutely. I'm just ""loving"" the constant Zoom calls and the joy of talking to my cat all day.
+A: Sure, there were interruptions, but it's still the 100th running of the event. The race was advertised and billed as the 100th Indy 500. Are you saying the promoters and Indycar are liars?The legacy and tradition are what matter most.
+B: I understand the tradition, but promoting it as the 100th without acknowledging those gaps feels a bit disingenuous. It's important to be accurate about history.",The race was advertised and billed as the 100th Indy 500. Are you saying the promoters and Indycar are liars?,impolite,2,"Yes, A's response can be seen as impolite because it escalates the conversation by suggesting that B is accusing the promoters and Indycar of being liars, which is a strong and confrontational statement. B was merely pointing out a historical inaccuracy, not making an accusation of dishonesty.",1,True,730
+68,"Turn 1
+A: Thanks for sharing those findings about Fahnbulleh. I really appreciate the effort you put into it. Nice work! Since you dug up some information on Fahnbulleh, I'm curious u2014 do you know what relation he is to Ambassador Henry Fahnbulleh, whom Tubman accused of an attempted coup? Could you clarify how Fahnbulleh is related to Ambassador Henry Fahnbulleh, especially in the context of that significant political incident?
+
+B: Sure, no problem. Fahnbulleh is actually a common surname in Liberia, but in this case, Ambassador Henry Fahnbulleh is indeed related to the Fahnbulleh I mentioned. Henry Fahnbulleh was involved in the 1980 coup that overthrew President Tolbert, and his political activities have had a lasting impact on Liberian politics.
 
 Turn 2
-A: Haha, I know what you mean. My dog has become my new office mate, but he's not much of a conversationalist.
-B: At least your dog doesn't judge you for wearing pajamas to meetings. Small victories, right?",I am just loving life in Covid times. Long may it last!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I am just loving life in Covid times. Long may it last!"" is likely meant to be ironic, as the rest of the conversation indicates that both A and B are struggling with the challenges of remote work and missing social interaction.",1,True,510
-52,"Turn 1
-A: I've checked a few stores already, but I can't seem to find any bra strap extenders. Ladies anywhere in town do bra strap extenders? Do you have any idea where they might have them?
-B: Hmm, let's see. Have you tried the lingerie section in the department store? They usually have a good selection of accessories.
+A: That makes sense. So, the Fahnbulleh you mentioned earlier, is he directly involved in the same political circles as Ambassador Henry Fahnbulleh, or is his influence more indirect?
+
+B: The Fahnbulleh I mentioned earlier is more of a contemporary figure who has been influenced by the political legacy of Ambassador Henry Fahnbulleh. While they may not be directly involved in the same events, the historical context and political environment shaped by Henry Fahnbulleh's actions have certainly impacted his work and perspectives.","Nice work! Since you dug up some information on Fahnbulleh, I'm curious u2014 do you know what relation he is to Ambassador Henry Fahnbulleh, whom Tubman accused of an attempted coup?",polite,1,"Yes, A was being polite. A thanked B for sharing the findings and appreciated the effort put into it, which indicates politeness and gratitude.",1,True,1303
+75,"Turn 1
+A: Hi B, I hope you're doing well. I recently made an edit to the ""History of Science"" article to align it with the style guidelines, but it was reverted by another user. Could you help explain to them why following these guidelines is important? I think your experience could really help resolve this smoothly.
+
+B: Hi A, I'm doing well, thanks for asking. I understand the situation. I'd be happy to help. Could you provide me with the details of your edit and the user who reverted it? That way, I can address the issue more effectively.
 
 Turn 2
-A: No, I haven't checked there yet. Do you think we should ask someone for help once we get there?
-B: Definitely. It'll save us some time. Let's head over and ask one of the sales associates as soon as we arrive.",Ladies anywhere in town do bra strap extenders?,not sarcastic,1,"Yes, I agree. A is genuinely asking for help in finding bra strap extenders and is not being sarcastic. The context shows that A is seeking information and assistance.",1,True,543
-113,"Turn 1
-A: I had a rough time with Jason today. He threw a tantrum in the middle of class because I asked him to put away his phone.
-B: Oh, Jason again? Sometimes I think we need a parenting manual just to deal with the fallout from home.
+A: Sure, I added a section to improve the chronological flow and cited a reliable source, but User X reverted it, saying it was unnecessary. I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such? I just want to ensure we're all on the same page regarding the guidelines.
+
+B: Got it. I'll reach out to User X and explain the importance of maintaining a consistent style and the value of your contribution. I'll emphasize collaboration and see if we can find a middle ground. Thanks for bringing this to my attention, A.",I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such?,polite,2,"Yes, A was being polite. A acknowledged the reversion of their edit and respectfully asked B to use their expertise to explain the importance of following the style guidelines to User X. A's request was framed in a courteous manner, indicating a desire for collaborative resolution.",1,True,1165
+30,"Turn 1
+A: Hey B, glad I could help you out with that info. How's everything going?No worries, thanks for doing that. Nice to hear from you again - new username for 2013?
+B: Thanks again, A! It really made a difference. By the way, did you change your username for the new year? It looks different.
 
 Turn 2
-A: Exactly. It's like we're expected to teach and parent at the same time. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance… I wish there was more support from home.
-B: Tell me about it. If only parents realized how much their involvement could change things for the better.",I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…,sarcastic,2,"Yes, A was being sarcastic. The comment about a ""parenting manual for schools to hand out"" suggests a level of frustration and implies that some parents are not providing adequate support or guidance at home, which is affecting the classroom environment.",1,True,579
-40,"Turn 1
-A: Hey, B, I think I just saw Maxine Peake over there by the café. Might need my eyes checking but I think I just saw Maxine Peake in Deansgate Do you see her?
-B: Really? Where exactly? Let me take a look.
+A: Yeah, I thought it was time for a fresh start. New year, new username! How do you like it?
+B: I love it! It suits you. Here's to new beginnings and more great conversations ahead!","No worries, thanks for doing that. Nice to hear from you again - new username for 2013?",polite,1,"Yes, A was being polite by acknowledging B's gratitude and expressing pleasure in hearing from B again. This shows a courteous and friendly demeanor.",1,True,488
+8,"Turn 1
+A: Hey B, I noticed you seemed upset earlier. Is everything okay?
+B: Honestly, A, I'm frustrated that you made changes to the links without waiting for us to agree as a team. It feels like you disregarded our process.
 
 Turn 2
-A: Right there, near the entrance, in the red coat. Do you think it's her?
-B: Hmm, it does look like her. Wow, what are the chances? Should we go say hi?",Might need my eyes checking but I think I just saw Maxine Peake in Deansgate,not sarcastic,1,"A's statement ""Might need my eyes checking but I think I just saw Maxine Peake in Deansgate"" suggests a genuine surprise and uncertainty about whether they correctly identified Maxine Peake. There is no indication of sarcasm in the context provided.",1,True,374
-95,"Turn 1
-A: I can't believe we have to quarantine now. This means no prom, no graduation, nothing. It's so unfair.
-B: Yeah, because clearly the best way to handle a pandemic is to ruin all the fun stuff for teenagers. Great job, government.
+A: I understand your frustration, B. Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?I thought the changes were minor and wouldn't need a full discussion. I didn't mean to overstep.
+B: I get that, but even small changes can have a big impact. Let's make sure we all agree before making any more updates, okay?","Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?",impolite,2,"Yes, I agree that A was being impolite. The phrase ""Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?"" comes off as confrontational and accusatory, especially since B had already expressed frustration and a desire for team agreement. A's response does not acknowledge B's feelings and instead shifts blame back to B.",1,True,625
+16,"Turn 1
+A: Hey B! I just finished reading the book you sent me. It was such a thoughtful gift, thank you so much! I have already read this - thank you very much for this kind gesture, dear friend. What's up with you? How have you been?
+
+B: Hey A! I'm so glad you liked it. I thought it might be something you'd enjoy. I've been doing alright, just busy with work and trying to find some time to relax. How about you?
 
 Turn 2
-A: Seriously, it's like they don't even care about how much we've already missed out on. I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school. I was really looking forward to seeing everyone.
-B: I know, right? But hey, at least we get to experience the thrill of staring at our bedroom walls for another two weeks. So exciting.",I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,sarcastic,2,"Yes, A was being sarcastic. The phrase ""I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school"" is clearly meant to convey frustration and disappointment, not genuine appreciation.",1,True,652
-11,"Turn 1
-A: ""You see how they're struggling with those corners? It's like they haven't practiced their defensive positioning at all.""
-B: ""Yeah, I noticed that too. They seem lost every time the ball comes in. Do you think it's a problem with the marking system?""
+A: I've been good, just juggling a few projects here and there. Your gift was a perfect break from all the chaos. Anything exciting happening on your end?
+
+B: Not much, just the usual grind. But I did start a new hobby—I've been trying my hand at painting. It's been a fun way to unwind. We should catch up properly soon!","I have already read this - thank you very much for this kind gesture, dear friend. What's up with you?",polite,1,"Yes, I agree. A was being polite by expressing gratitude for the thoughtful gift, even though they had already read the book. This shows appreciation and kindness towards B's gesture.",1,True,745
+22,"Turn 1
+A: Hey, can I ask you something about the 2:00 am news brief? Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world? Is it always called ""Eyewitness News"" every night?
+B: Yeah, it's ""Eyewitness News"" every night at 2:00 am. It's a quick update on the latest headlines.
 
 Turn 2
-A: ""Exactly. They're using a zonal marking system, but the players aren't communicating well. We are missing cress or Bowen for our corners and freekicks have been pretty poor so far. They need to switch to man-to-man marking to handle those set-pieces better.""
-B: ""That makes sense. It would definitely help them keep track of their opponents more effectively. Hopefully, the coach makes that adjustment soon.""",We are missing cress or Bowen for our corners and freekicks have been pretty poor so far.,not sarcastic,2,"A's statement about missing Cresswell or Bowen for corners and free-kicks appears to be a genuine observation about the team's performance and not sarcastic. The context of the conversation is a serious discussion about the team's defensive struggles and marking system, which supports the interpretation that A is making a sincere comment.",1,True,680
-83,"Turn 1
-A: ""If I have to hear 'Jingle Bells' one more time at 5 AM, I might just start decking the halls with canned goods."" I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!
-B: ""I hear you. At this point, I think I could recite the entire Christmas playlist in my sleep. Maybe we should start a caroling group—'The Sleep-Deprived Singers.'""
+A: Got it. And does it always use the ""Move Closer to Your World"" theme music?
+B: Absolutely, that theme is a staple for our news segments. You'll hear it every time.","Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?",polite,1,"Yes, A was being polite by starting the conversation with ""Good day, sorry to bother you,"" which shows consideration and respect for the other person's time.",1,True,539
+72,"Turn 1
+A: Hey B, I wanted to revisit our discussion about the project's direction. I still have some concerns about the timeline and resource allocation. I feel like we might be spreading ourselves too thin.
+B: I appreciate you bringing this up again, A. I understand your concerns. Can you elaborate a bit more on which areas you think need more focus?
 
 Turn 2
-A: ""Only if we can perform in pajamas and slippers. I think that would really capture the essence of our holiday spirit.""
-B: ""Absolutely! And we can hand out coffee instead of candy canes. Now that's a Christmas miracle I can get behind.""","I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!",sarcastic,1,"A's statement about loving to wake up at 5 AM and being surrounded by stressed-out customers is likely sarcastic because it contrasts with the frustration expressed about hearing ""Jingle Bells"" at 5 AM and the mention of decking the halls with canned goods.",1,True,712
+A: Sure, I think the marketing strategy is taking up a lot of our resources, which might be better spent on product development at this stage. I hope this makes my concerns clearer. Perhaps we can work together to resolve them? What do you think about reallocating some of the budget to the development team?
+B: That makes sense. Let's review the budget together and see where we can make adjustments. I'm open to finding a balance that ensures both areas get the attention they need.",I hope this makes my concerns clearer. Perhaps we can work together to resolve them?,polite,2,"Yes, A was being polite. A expressed their concerns clearly and constructively, and also suggested working together to find a solution, which indicates a collaborative and respectful approach.",1,True,846
+36,"Turn 1
+A: Hey B, I've noticed that our current discussion isn't really bringing out any new ideas. I've asked participants to shift the discussion away from Karchmar--that discussion isn't producing any new arguments or sources. Would you be able to contribute some thoughts as to where we might go on the topic of collaboration (i.e., tomorrow)? Do you have any thoughts on how we can shift the focus to something more productive, maybe around collaboration for the next session?
+B: I agree, it feels like we're going in circles. How about we introduce a brainstorming activity where participants can share their experiences with successful collaborations? That might spark some fresh insights.
+
+Turn 2
+A: That sounds like a great idea. We could even break them into smaller groups to discuss specific challenges they've faced and how they overcame them. What do you think?
+B: Absolutely, smaller groups would encourage more participation. We can then reconvene and have each group present their key takeaways. This way, we can gather a variety of perspectives and solutions.","I've asked participants to shift the discussion away from Karchmar--that discussion isn't producing any new arguments or sources. Would you be able to contribute some thoughts as to where we might go on the topic of collaboration (i.e., tomorrow)?",polite,1,"Yes, A was being polite. A acknowledged the current discussion's lack of productivity and respectfully asked B for their thoughts on how to shift the focus to a more productive topic, specifically collaboration.",1,True,1076
+79,"Turn 1
+A: Hey B, I just finished the first draft of the new feature module. Could you take a look and let me know what you think?
+B: Sure, I'd be happy to. Send it over, and I'll review it this afternoon. Anything specific you want me to focus on?
+
+Turn 2
+A: Thanks! I'm particularly concerned about the efficiency of the algorithm and whether the code is following best practices. Just now I created this stub. Could you have a look at it, and try to improve it?
+B: Got it. I'll pay special attention to those areas and get back to you with some feedback. Great job getting this done so quickly!","Just now I created this stub. Could you have a look at it, and try to improve it?",polite,2,"Yes, A was being polite by acknowledging B's willingness to help and by asking for feedback in a considerate manner.",1,True,596
+19,"Turn 1
+A: Hey B, could you take a look at this article related to our project? Yep, no worries. What's the article? I could really use your feedback.
+B: Sure, I'd be happy to help! Can you send me the article or give me more details about it?
+
+Turn 2
+A: Great, thanks! I'll email it to you right now. It's about the latest trends in our industry and how they might impact our strategy.
+B: Sounds interesting. I'll review it and get back to you with my thoughts by the end of the day.","Yep, no worries. What's the article?",polite,1,"Yes, I agree. A was being polite by acknowledging B's willingness to help and expressing gratitude before asking for feedback on the article.",1,True,483
+105,"Turn 1
+A: I don't appreciate being accused of not doing my part, B. What do you mean? How am I supposed to vindicate myself of this ridiculous accusation? I've been working hard on my tasks.
+B: It just seems like some of your deliverables are behind schedule, and it's affecting the team's progress.
+
+Turn 2
+A: I understand the concern, but I've been facing some unexpected challenges. Maybe we can discuss how to address these issues together?
+B: Fair enough. Let's find a way to support each other and get back on track. We can review the tasks after the meeting.",What do you mean? How am I supposed to vindicate myself of this ridiculous accusation?,impolite,1,"A's response, ""What do you mean? How am I supposed to vindicate myself of this ridiculous accusation?"" can be seen as defensive and confrontational, which may come across as impolite. The use of words like ""ridiculous accusation"" suggests a strong emotional reaction and a lack of willingness to understand B's perspective initially.",1,True,565
+34,"Turn 1
+A: I sent over the research you asked for. Did you get a chance to review it?
+B: Yes, I did. But I'm concerned about the accuracy of some of the data and the timing. We needed this earlier to make a well-informed decision.
+
+Turn 2
+A: I worked hard to gather that information, and I submitted it as soon as I could. I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway? It's frustrating to hear that it's not good enough.
+B: I understand you're frustrated, but we need to ensure the data is reliable and timely. Let's figure out how we can address these issues together.","I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway?",impolite,2,"Yes, A's response can be considered impolite. A's tone is defensive and confrontational, implying that B is being unreasonable and dismissive of A's efforts. This kind of response can escalate tension rather than fostering a collaborative resolution.",1,True,638
+70,"Turn 1
+A: Hey B, I was going through the citations and noticed that the date of a cited source is mentioned both in the inline text and in the footnote. Do you think it might be redundant to have it in both places?
+
+B: Hmm, I see what you mean. It could make the document look cleaner if we remove the inline date reference. What do you suggest?
+
+Turn 2
+A: I was thinking we could just keep the date in the footnote since it's already detailed there. That is, I would remove the inline reference to the date of the cited source, since it's given in the actual footnote. Is that OK with you? It would streamline the text a bit. Are you okay with that change?
+
+B: Yes, that sounds good to me. Let's go ahead and make that adjustment. Thanks for checking in with me!","That is, I would remove the inline reference to the date of the cited source, since it's given in the actual footnote. Is that OK with you?",polite,2,"Yes, A was being polite by asking for B's opinion and approval before making a change to the document. This shows consideration and respect for B's input.",1,True,763
+147,"Turn 1
+A: B, can we talk for a minute? I've been feeling like you're constantly undermining my contributions in our meetings. ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time? It's starting to affect my confidence and our working relationship.
+B: I'm sorry you feel that way, A. That was never my intention. I thought I was providing constructive feedback to help us improve the project. Can you give me specific examples of when you felt undermined?
+
+Turn 2
+A: Sure, like in the last meeting when I suggested the new marketing strategy, you immediately pointed out potential flaws without acknowledging the positives. It felt dismissive.
+B: I see. I didn't realize it came across that way. I genuinely value your ideas and was trying to anticipate challenges. I'll make an effort to be more supportive and balanced in my feedback moving forward.","ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time?",impolite,1,"Yes, I agree that A was being impolite. The phrase ""ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me?"" is accusatory and suggests that B has malicious intent, which is a strong and potentially offensive assumption to make without clear evidence.",1,True,927

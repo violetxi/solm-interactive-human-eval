@@ -32,41 +32,46 @@ const shuffleArray = (array) => {
   return shuffledArray;
 };
 
+// Map dataset filenames to specific order of choices
+const choiceOrderMap = {
+  'set_4.csv': [
+    { label: 'Polite', value: 'Polite' },
+    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
+    { label: 'Impolite', value: 'Impolite' }
+  ],
+  'set_5.csv': [
+    { label: 'Impolite', value: 'Impolite' },
+    { label: 'Polite', value: 'Polite' },
+    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' }
+  ],
+  'set_6.csv': [
+    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
+    { label: 'Polite', value: 'Polite' },
+    { label: 'Impolite', value: 'Impolite' }
+  ],
+  'set_7.csv': [
+    { label: 'Polite', value: 'Polite' },
+    { label: 'Impolite', value: 'Impolite' },    
+    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
+  ],
+  'set_8.csv': [
+    { label: 'Polite', value: 'Polite' },
+    { label: 'Impolite', value: 'Impolite' },    
+    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
+  ],
+  'set_9.csv': [
+    { label: 'Polite', value: 'Polite' },
+    { label: 'Impolite', value: 'Impolite' },    
+    { label: 'Ambiguous: I am not sure if this is polite or impolite', value: 'Ambiguous' },
+  ],
+};
+
 const attentionChecks = [
   { question: "Please determine if the following statement is true or false.", statement: "1 + 1 = 2", note: "", correctAnswer: "True", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "Mary was excited about her vacation, but had to cancel it due to work. Mary is likely to feel excited about this situation.", note: "", correctAnswer: "False", isAttentionCheck: true },
   { question: " ", statement: "Please select 'False'", note: "", correctAnswer: "False", isAttentionCheck: true },
   { question: "Please determine if the following statement is true or false.", statement: "John believes vaccines are effective at preventing diseases. John is likely to support vaccination programs.", note: "", correctAnswer: "True", isAttentionCheck: true }
 ];
-
-// Define choice orders for different datasets
-const choiceOrderMap = {
-  'set_4.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not Sarcastic' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' }
-  ],
-  'set_5.csv': [
-    { label: 'The statement is not sarcastic', value: 'Not Sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' }
-  ],
-  'set_6.csv': [
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'The statement is not sarcastic', value: 'Not Sarcastic' }
-  ],
-  'set_7.csv': [
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-  ],
-  'set_8.csv': [
-    { label: 'The statement is sarcastic', value: 'Sarcastic' },
-    { label: 'The statement is not sarcastic', value: 'Not sarcastic' },
-    { label: 'Ambiguous: I am not sure if this is sarcastic or not', value: 'Ambiguous' },
-  ],
-};
 
 function App() {
   // instruction content
@@ -78,24 +83,22 @@ function App() {
   // demographics content
   const [showDemographics, setShowDemographics] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [shuffledChoices, setShuffledChoices] = useState([]);
-  const [currentDataset, setCurrentDataset] = useState('set_8.csv'); // Keep track of which dataset is being used
+  const [currentDataset, setCurrentDataset] = useState('set_6.csv'); // Track the dataset being used
 
   const handleInstructionsComplete = () => {
     setShowInstructions(false);
   };
 
   useEffect(() => {
-    // Load the correct dataset (e.g., set_4.csv)
     loadCSV(`data/${currentDataset}`)
       .then((data) => {
         const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
-          .map(item => ({
-            question: `Was the person intended to be sarcastic when "${item.original_data}" was said during the conversation?`,
-            statement: item.conversation,
-            note: item.note || '',
-            isAttentionCheck: false
-          }));
+        .map(item => ({
+          question: `Was the person intended to be polite when they said "${item.original_data}" in the conversation?`,
+          statement: item.conversation,
+          note: item.note || '',
+          isAttentionCheck: false
+        }));
         const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
         setQuestions(allQuestions);
       })
@@ -105,18 +108,22 @@ function App() {
   }, [currentDataset]); // Re-run when currentDataset changes
 
   useEffect(() => {
-    if (questions.length > 0) {
-      const currentQuestion = questions[currentQuestionIndex];
-      const choices = currentQuestion.isAttentionCheck
-        ? [
-            { label: 'True', value: 'True' },
-            { label: 'False', value: 'False' }
-          ]
-        : choiceOrderMap[currentDataset]; // Use the dataset-specific order
-
-      setShuffledChoices(choices); // No shuffle for regular questions anymore, using pre-defined order
-    }
-  }, [currentQuestionIndex, questions, currentDataset]);
+    loadCSV(`data/${currentDataset}`)
+      .then((data) => {
+        const questionsData = data.filter(item => item.original_data !== undefined && item.original_data.trim() !== '')
+        .map(item => ({
+          question: `What was the person's sentiment when they said "${item.original_data}" during the conversation?`,
+          statement: item.conversation,
+          note: item.note || '',
+          isAttentionCheck: false
+        }));
+        const allQuestions = shuffleArray([...questionsData, ...attentionChecks]);
+        setQuestions(allQuestions);
+      })
+      .catch((error) => {
+        console.error('Error loading CSV:', error);
+      });
+  }, [currentDataset]); // Re-run when currentDataset changes
 
   const handleNextQuestion = () => {
     if (currentQuestionIndex + 1 === questions.length) {
@@ -137,10 +144,10 @@ function App() {
         timestamp: new Date(),
       };
 
-      // Extract the set number from the dataset filename (e.g., 'set_4.csv' -> '4')
+      // Extract the set number from the dataset filename (e.g., 'set_3.csv' -> '3')
       const setNumber = currentDataset.match(/set_(\d+)\.csv/)[1];
       // Update Prolific ID using just the number from the dataset
-      let updatedProlificID = `Full-iSarcasm-${setNumber}-${prolificID}`;
+      let updatedProlificID = `Full-Politeness-${setNumber}-${prolificID}`;
       
       await addDoc(collection(db, updatedProlificID), newResponse);
       console.log('Response logged:', response);
@@ -198,16 +205,29 @@ function App() {
           <p>{currentQuestion}</p>
           {currentNote && <p>{currentNote}</p>}
           <div>
-            {shuffledChoices.map((choice, index) => (
-              <button
-                key={index}
-                className="App-link"
-                style={{ marginRight: '25px' }}
-                onClick={() => logResponse(choice.value)}
-              >
-                {choice.label}
-              </button>
-            ))}
+            {isAttentionCheck ? (
+              <>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('True')}>
+                  True
+                </button>
+                <button className="App-link" style={{ marginRight: '25px' }} onClick={() => logResponse('False')}>
+                  False
+                </button>
+              </>
+            ) : (
+              <>
+                {choiceOrderMap[currentDataset]?.map((choice, index) => (
+                  <button
+                    key={index}
+                    className="App-link"
+                    style={{ marginRight: '25px' }}
+                    onClick={() => logResponse(choice.value)}
+                  >
+                    {choice.label}
+                  </button>
+                ))}
+              </>
+            )}
           </div>
         </header>
       )}

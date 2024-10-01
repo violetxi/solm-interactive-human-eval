@@ -1,0 +1,295 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: It's really frustrating how the new membership program barely gives us any access to away games. I feel like we're missing out on so much.
+B: I know, right? I was hoping for more perks, but it seems like only a few members are getting the real benefits. It's just not fair.
+
+Turn 2
+A: Exactly. We pay the same membership fees, but the benefits are so unevenly distributed. mygers is a joke, 2 away games out of 10 and one half the population got It's like they don't value all their fans equally.
+B: Totally. I had a similar experience last month when I tried to get tickets for an away game. It was impossible. They really need to rethink this program.",Not sarcastic,2024-10-01T21:34:48.971000+00:00,"Was the person intended to be sarcastic when ""mygers is a joke, 2 away games out of 10 and one half the population got"" was said during the conversation?","Turn 1
+A: It's really frustrating how the new membership program barely gives us any access to away games. I feel like we're missing out on so much.
+B: I know, right? I was hoping for more perks, but it seems like only a few members are getting the real benefits. It's just not fair.
+
+Turn 2
+A: Exactly. We pay the same membership fees, but the benefits are so unevenly distributed. mygers is a joke, 2 away games out of 10 and one half the population got It's like they don't value all their fans equally.
+B: Totally. I had a similar experience last month when I tried to get tickets for an away game. It was impossible. They really need to rethink this program.","mygers is a joke, 2 away games out of 10 and one half the population got",Not sarcastic
+"Turn 1
+A: Why would the coach take out Johnson when he's been playing so well? I don't get it.Why is Rashford still on and Sancho out?? Hmmnnn....Daddy G.O....I no see this one okk
+B: Yeah, it's a strange move. Especially since Miller is still on the field and he's been struggling all game.
+
+Turn 2
+A: Exactly! Johnson was creating so many chances. I hope this doesn't backfire.
+B: Let's hope the new guy can make an impact. Fingers crossed it works out for us.",Ambiguous,2024-10-01T21:34:05.672000+00:00,"Was the person intended to be sarcastic when ""Why is Rashford still on and Sancho out?? Hmmnnn....Daddy G.O....I no see this one okk"" was said during the conversation?","Turn 1
+A: Why would the coach take out Johnson when he's been playing so well? I don't get it.Why is Rashford still on and Sancho out?? Hmmnnn....Daddy G.O....I no see this one okk
+B: Yeah, it's a strange move. Especially since Miller is still on the field and he's been struggling all game.
+
+Turn 2
+A: Exactly! Johnson was creating so many chances. I hope this doesn't backfire.
+B: Let's hope the new guy can make an impact. Fingers crossed it works out for us.",Why is Rashford still on and Sancho out?? Hmmnnn....Daddy G.O....I no see this one okk,Ambiguous
+"Turn 1
+A: Did you catch the press conference yesterday? The official claimed they didn't break any rules during last year's holiday season.
+B: Oh, right, because we all know how trustworthy their word has been throughout this whole ordeal.
+
+Turn 2
+A: Yeah, it does seem a bit hard to believe given all the reports that have come out.
+B: ""A bit hard to believe"" is putting it mildly. It's like they're living in an alternate reality where facts don't matter. Boris Johnson is entirely trustworthy and honest and there was obviously no Christmas Party in Number 10 this time last year",Sarcastic,2024-10-01T21:37:42.051000+00:00,"Was the person intended to be sarcastic when ""Boris Johnson is entirely trustworthy and honest and there was obviously no Christmas Party in Number 10 this time last year"" was said during the conversation?","Turn 1
+A: Did you catch the press conference yesterday? The official claimed they didn't break any rules during last year's holiday season.
+B: Oh, right, because we all know how trustworthy their word has been throughout this whole ordeal.
+
+Turn 2
+A: Yeah, it does seem a bit hard to believe given all the reports that have come out.
+B: ""A bit hard to believe"" is putting it mildly. It's like they're living in an alternate reality where facts don't matter. Boris Johnson is entirely trustworthy and honest and there was obviously no Christmas Party in Number 10 this time last year",Boris Johnson is entirely trustworthy and honest and there was obviously no Christmas Party in Number 10 this time last year,Sarcastic
+"Turn 1
+A: ""Morning, B. Lovely weather we're having, isn't it?""
+B: ""Yeah, I noticed you got caught in the downpour. Rough commute?""
+
+Turn 2
+A: ""Oh, just a bit. Nothing like starting the week soaked to the bone. I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!""
+B: ""I can imagine. Hopefully, the rest of the day goes smoother for you.""",Sarcastic,2024-10-01T21:36:08.341000+00:00,"Was the person intended to be sarcastic when ""I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!"" was said during the conversation?","Turn 1
+A: ""Morning, B. Lovely weather we're having, isn't it?""
+B: ""Yeah, I noticed you got caught in the downpour. Rough commute?""
+
+Turn 2
+A: ""Oh, just a bit. Nothing like starting the week soaked to the bone. I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!""
+B: ""I can imagine. Hopefully, the rest of the day goes smoother for you.""",I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!,Sarcastic
+"Turn 1
+A: Did you hear about the new COVID-19 variant? Apparently, it was released on purpose to control the population.
+B: Oh, come on. You can't seriously believe that, can you?
+
+Turn 2
+A: Yeah, because clearly, the world's governments have nothing better to do than orchestrate a global pandemic. I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas! Next, they'll say it was aliens.
+B: Haha, right? It's amazing what people will come up with these days.",Sarcastic,2024-10-01T21:35:56.685000+00:00,"Was the person intended to be sarcastic when ""I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas!"" was said during the conversation?","Turn 1
+A: Did you hear about the new COVID-19 variant? Apparently, it was released on purpose to control the population.
+B: Oh, come on. You can't seriously believe that, can you?
+
+Turn 2
+A: Yeah, because clearly, the world's governments have nothing better to do than orchestrate a global pandemic. I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas! Next, they'll say it was aliens.
+B: Haha, right? It's amazing what people will come up with these days.",I can't believe omicron is an anagram of no crimbo! The government designed this covid variant just in time for christmas!,Sarcastic
+"Turn 1
+A: I've started this new routine where I wake up at 4 AM, run 10 miles, and then read a book before work. It's been really invigorating!
+B: Oh, sure, because everyone just loves waking up at the crack of dawn to run a marathon and then dive into a novel. Sure you do! Doesn't everyone?! I do it everyday!!! Sounds totally doable.
+
+Turn 2
+A: I know it sounds intense, but it's actually been really rewarding. You should try it sometime!
+B: Right, because I can totally see myself trading my cozy bed for a 10-mile run. Maybe in another lifetime!",Sarcastic,2024-10-01T21:35:21.675000+00:00,"Was the person intended to be sarcastic when ""Sure you do! Doesn't everyone?! I do it everyday!!!"" was said during the conversation?","Turn 1
+A: I've started this new routine where I wake up at 4 AM, run 10 miles, and then read a book before work. It's been really invigorating!
+B: Oh, sure, because everyone just loves waking up at the crack of dawn to run a marathon and then dive into a novel. Sure you do! Doesn't everyone?! I do it everyday!!! Sounds totally doable.
+
+Turn 2
+A: I know it sounds intense, but it's actually been really rewarding. You should try it sometime!
+B: Right, because I can totally see myself trading my cozy bed for a 10-mile run. Maybe in another lifetime!",Sure you do! Doesn't everyone?! I do it everyday!!!,Sarcastic
+"Turn 1
+A: Excuse me, do you know if the number 5 bus stops here?
+B: Yes, it does. It should be here in about ten minutes. Are you new to the area?
+
+Turn 2
+A: Yes, I just moved here last week. Yes, I am waiting for the bus, thank you. Thanks for the help!
+B: No problem at all! Welcome to the neighborhood. If you need any more information, feel free to ask.",Not sarcastic,2024-10-01T21:38:47.563000+00:00,"Was the person intended to be sarcastic when ""Yes, I am waiting for the bus, thank you."" was said during the conversation?","Turn 1
+A: Excuse me, do you know if the number 5 bus stops here?
+B: Yes, it does. It should be here in about ten minutes. Are you new to the area?
+
+Turn 2
+A: Yes, I just moved here last week. Yes, I am waiting for the bus, thank you. Thanks for the help!
+B: No problem at all! Welcome to the neighborhood. If you need any more information, feel free to ask.","Yes, I am waiting for the bus, thank you.",Not sarcastic
+"Turn 1
+A: I had a horrible dayIt was just one thing after another today. First, I missed my bus, then I spilled coffee all over my presentation notes.
+B: Oh no, that sounds rough. Did you manage to get through the presentation okay?
+
+Turn 2
+A: Barely. I had to wing it, and I don't think it went well. My boss didn't look too impressed.
+B: I'm sorry to hear that. Want to talk more about it? Maybe we can figure out a way to make tomorrow better.
+
+...",Not sarcastic,2024-10-01T21:37:05.967000+00:00,"Was the person intended to be sarcastic when ""I had a horrible day"" was said during the conversation?","Turn 1
+A: I had a horrible dayIt was just one thing after another today. First, I missed my bus, then I spilled coffee all over my presentation notes.
+B: Oh no, that sounds rough. Did you manage to get through the presentation okay?
+
+Turn 2
+A: Barely. I had to wing it, and I don't think it went well. My boss didn't look too impressed.
+B: I'm sorry to hear that. Want to talk more about it? Maybe we can figure out a way to make tomorrow better.
+
+...",I had a horrible day,Not sarcastic
+"Turn 1
+A: You know that scene in ""The Office"" where Jim gives Pam the teapot for Christmas? I always get choked up watching it.why am i cryin  actual tears every time i watch this it's not even funny
+B: Really? I mean, it's a sweet moment, but what about it gets to you so much?
+
+Turn 2
+A: It's just the way Jim put so much thought into it, filling it with all those little memories they shared. It reminds me of how important those small, personal gestures are in relationships.
+B: I get that. It's like those moments capture the essence of their connection, right?",Not sarcastic,2024-10-01T21:36:56.681000+00:00,"Was the person intended to be sarcastic when ""why am i cryin  actual tears every time i watch this it's not even funny"" was said during the conversation?","Turn 1
+A: You know that scene in ""The Office"" where Jim gives Pam the teapot for Christmas? I always get choked up watching it.why am i cryin  actual tears every time i watch this it's not even funny
+B: Really? I mean, it's a sweet moment, but what about it gets to you so much?
+
+Turn 2
+A: It's just the way Jim put so much thought into it, filling it with all those little memories they shared. It reminds me of how important those small, personal gestures are in relationships.
+B: I get that. It's like those moments capture the essence of their connection, right?",why am i cryin  actual tears every time i watch this it's not even funny,Not sarcastic
+"Turn 1
+A: Did you see how Johnson completely fumbled that pass in the last game? It was like he handed the ball to the other team on a silver platter.Mateusz Klich is the worst PL footballer ever had since Paul Okon
+B: Oh, absolutely. But you know, I've seen worse. Remember when Torres had that open goal miss a few years back? That was a disaster too.
+
+Turn 2
+A: True, but Johnson's been making these kinds of mistakes all season. It's like he's lost his touch.
+B: Yeah, it's concerning. I mean, every player has their off days, but with Johnson, it's becoming a pattern. It's really hurting the team's chances.",Not sarcastic,2024-10-01T21:37:59.692000+00:00,"Was the person intended to be sarcastic when ""Mateusz Klich is the worst PL footballer ever had since Paul Okon"" was said during the conversation?","Turn 1
+A: Did you see how Johnson completely fumbled that pass in the last game? It was like he handed the ball to the other team on a silver platter.Mateusz Klich is the worst PL footballer ever had since Paul Okon
+B: Oh, absolutely. But you know, I've seen worse. Remember when Torres had that open goal miss a few years back? That was a disaster too.
+
+Turn 2
+A: True, but Johnson's been making these kinds of mistakes all season. It's like he's lost his touch.
+B: Yeah, it's concerning. I mean, every player has their off days, but with Johnson, it's becoming a pattern. It's really hurting the team's chances.",Mateusz Klich is the worst PL footballer ever had since Paul Okon,Not sarcastic
+"Turn 1
+A: I've been really worried about C lately. It seems like the stress is really getting to them.
+B: Yeah, I noticed that too. They've been looking pretty worn out. Do you think they might need some extra help?
+
+Turn 2
+A: I think so. With everything they're dealing with, it might be too much to handle alone. Sadly, I think he will need it
+B: Maybe we should suggest some resources or even just be there more often to support them.",Not sarcastic,2024-10-01T21:38:19.880000+00:00,"Was the person intended to be sarcastic when ""Sadly, I think he will need it"" was said during the conversation?","Turn 1
+A: I've been really worried about C lately. It seems like the stress is really getting to them.
+B: Yeah, I noticed that too. They've been looking pretty worn out. Do you think they might need some extra help?
+
+Turn 2
+A: I think so. With everything they're dealing with, it might be too much to handle alone. Sadly, I think he will need it
+B: Maybe we should suggest some resources or even just be there more often to support them.","Sadly, I think he will need it",Not sarcastic
+"Turn 1
+A: I've got a packed day ahead. There's that big game later, and I know you're excited about it too.
+B: Absolutely! I can't wait. By the way, did you manage to catch up with your cousin this morning?
+
+Turn 2
+A: Yes, I did. I wanted to check in, especially since her husband is such a huge fan of the team playing today. Just realized my phone call to my sister to wish happy birthday today was best done this morning, before our game, as her husband is Leeds!
+B: That's thoughtful of you. It's always nice to balance our personal lives with our shared interests.",Sarcastic,2024-10-01T21:36:23.714000+00:00,"Was the person intended to be sarcastic when ""Just realized my phone call to my sister to wish happy birthday today was best done this morning, before our game, as her husband is Leeds!"" was said during the conversation?","Turn 1
+A: I've got a packed day ahead. There's that big game later, and I know you're excited about it too.
+B: Absolutely! I can't wait. By the way, did you manage to catch up with your cousin this morning?
+
+Turn 2
+A: Yes, I did. I wanted to check in, especially since her husband is such a huge fan of the team playing today. Just realized my phone call to my sister to wish happy birthday today was best done this morning, before our game, as her husband is Leeds!
+B: That's thoughtful of you. It's always nice to balance our personal lives with our shared interests.","Just realized my phone call to my sister to wish happy birthday today was best done this morning, before our game, as her husband is Leeds!",Sarcastic
+"Turn 1
+A: I'm really dreading the family gathering this Christmas. It's hard to enjoy when some relatives won't get vaccinated or even wear masks.The omicron variant has decided to give us all a wonderful gift for Christmas. For that one day it has chosen to not be spread between people at all. This gift will make me feel a lot better about being around loved ones who still refuse to get the vaccine or to wear a mask at the very least.
+B: Yeah, it's like they're trying to win an award for ""Most Stubborn Family Member.""
+
+Turn 2
+A: Exactly! I just want everyone to be safe and have a good time.
+B: Maybe we should hand out trophies for ""Best Ignorer of Science"" at the door.",Sarcastic,2024-10-01T21:37:18.439000+00:00,"Was the person intended to be sarcastic when ""The omicron variant has decided to give us all a wonderful gift for Christmas. For that one day it has chosen to not be spread between people at all. This gift will make me feel a lot better about being around loved ones who still refuse to get the vaccine or to wear a mask at the very least."" was said during the conversation?","Turn 1
+A: I'm really dreading the family gathering this Christmas. It's hard to enjoy when some relatives won't get vaccinated or even wear masks.The omicron variant has decided to give us all a wonderful gift for Christmas. For that one day it has chosen to not be spread between people at all. This gift will make me feel a lot better about being around loved ones who still refuse to get the vaccine or to wear a mask at the very least.
+B: Yeah, it's like they're trying to win an award for ""Most Stubborn Family Member.""
+
+Turn 2
+A: Exactly! I just want everyone to be safe and have a good time.
+B: Maybe we should hand out trophies for ""Best Ignorer of Science"" at the door.",The omicron variant has decided to give us all a wonderful gift for Christmas. For that one day it has chosen to not be spread between people at all. This gift will make me feel a lot better about being around loved ones who still refuse to get the vaccine or to wear a mask at the very least.,Sarcastic
+"Turn 1
+A: I have a job interview today for that high-paying position I mentioned. I'm feeling really confident about it.
+B: That's fantastic! With your skills and experience, I'm sure they'll see you're the perfect fit. 
+
+Turn 2
+A: Thanks! Money is going to locate me today . Claiming thisIf I get this job, it could really make a big difference for me financially.
+B: Absolutely, it sounds like an amazing opportunity. I'm excited for you and can't wait to hear how it goes!",Not sarcastic,2024-10-01T21:38:27.328000+00:00,"Was the person intended to be sarcastic when ""Money is going to locate me today . Claiming this"" was said during the conversation?","Turn 1
+A: I have a job interview today for that high-paying position I mentioned. I'm feeling really confident about it.
+B: That's fantastic! With your skills and experience, I'm sure they'll see you're the perfect fit. 
+
+Turn 2
+A: Thanks! Money is going to locate me today . Claiming thisIf I get this job, it could really make a big difference for me financially.
+B: Absolutely, it sounds like an amazing opportunity. I'm excited for you and can't wait to hear how it goes!",Money is going to locate me today . Claiming this,Not sarcastic
+"Turn 1
+A: I'm really looking forward to visiting my family abroad next month. It's been so long since I've seen them.
+B: That sounds wonderful, but have you heard about the potential lockdowns? They might impose new travel restrictions soon.
+
+Turn 2
+A: Yeah, I heard. Just my luck, right? Finally get a chance to travel, and now this.I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!
+B: I know, it's so frustrating. Hopefully, things will clear up before your trip.",Sarcastic,2024-10-01T21:38:41.536000+00:00,"Was the person intended to be sarcastic when ""I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!"" was said during the conversation?","Turn 1
+A: I'm really looking forward to visiting my family abroad next month. It's been so long since I've seen them.
+B: That sounds wonderful, but have you heard about the potential lockdowns? They might impose new travel restrictions soon.
+
+Turn 2
+A: Yeah, I heard. Just my luck, right? Finally get a chance to travel, and now this.I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!
+B: I know, it's so frustrating. Hopefully, things will clear up before your trip.",I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!,Sarcastic
+"Turn 1
+A: I can't believe how clueless some parents can be. It's like they expect us to do everything for their kids. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…
+B: I know, right? It's frustrating when they don't seem to understand the basics of supporting their child's education.
+
+Turn 2
+A: Honestly, sometimes I think we need to offer a parenting class alongside the curriculum.
+B: That might not be a bad idea. It could really help bridge the gap and make our jobs a bit easier.",Sarcastic,2024-10-01T21:37:29.488000+00:00,"Was the person intended to be sarcastic when ""I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…"" was said during the conversation?","Turn 1
+A: I can't believe how clueless some parents can be. It's like they expect us to do everything for their kids. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…
+B: I know, right? It's frustrating when they don't seem to understand the basics of supporting their child's education.
+
+Turn 2
+A: Honestly, sometimes I think we need to offer a parenting class alongside the curriculum.
+B: That might not be a bad idea. It could really help bridge the gap and make our jobs a bit easier.",I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…,Sarcastic
+"Turn 1
+A: Did you see Chris at the party last night? He really knows how to make a statement with his outfits.
+B: Absolutely! I don't know how he does it, but he always manages to pull off the most daring looks.
+
+Turn 2
+A: I was especially impressed with that bright red coat he wore. It was so bold, but he made it look effortless.
+B: Yeah, Chris has this incredible confidence that just makes everything he wears look amazing. I can't think of anyone else who could pull off the Wooly Hat. Not everyone could do that.",Not sarcastic,2024-10-01T21:34:30.679000+00:00,"Was the person intended to be sarcastic when ""I can't think of anyone else who could pull off the Wooly Hat."" was said during the conversation?","Turn 1
+A: Did you see Chris at the party last night? He really knows how to make a statement with his outfits.
+B: Absolutely! I don't know how he does it, but he always manages to pull off the most daring looks.
+
+Turn 2
+A: I was especially impressed with that bright red coat he wore. It was so bold, but he made it look effortless.
+B: Yeah, Chris has this incredible confidence that just makes everything he wears look amazing. I can't think of anyone else who could pull off the Wooly Hat. Not everyone could do that.",I can't think of anyone else who could pull off the Wooly Hat.,Not sarcastic
+"Turn 1
+A: So, what did you think of the movie?
+B: Honestly, I was really impressed. Keanu was fantastic in it.
+
+Turn 2
+A: I knew you'd come around! He's got a unique style that really grows on you.
+B: Yeah, I have to admit, I misjudged him. I was thinking perhaps we may have been oversaturated with Keanu, but I was wrong. Shame on me. He's definitely more talented than I gave him credit for.",Not sarcastic,2024-10-01T21:35:03.421000+00:00,"Was the person intended to be sarcastic when ""I was thinking perhaps we may have been oversaturated with Keanu, but I was wrong. Shame on me."" was said during the conversation?","Turn 1
+A: So, what did you think of the movie?
+B: Honestly, I was really impressed. Keanu was fantastic in it.
+
+Turn 2
+A: I knew you'd come around! He's got a unique style that really grows on you.
+B: Yeah, I have to admit, I misjudged him. I was thinking perhaps we may have been oversaturated with Keanu, but I was wrong. Shame on me. He's definitely more talented than I gave him credit for.","I was thinking perhaps we may have been oversaturated with Keanu, but I was wrong. Shame on me.",Not sarcastic
+"Turn 1
+A: *coughs openly* ""It's really hard to breathe with these masks on all day.""
+B: ""Yeah, because breathing freely is definitely more important than keeping everyone healthy.""
+
+Turn 2
+A: ""Oh come on, it's not like I'm sick or anything.""
+B: ""Right, because we all have X-ray vision to see if someone is carrying the virus.Oh, no, totally, don't wear a mask and cough and splutter around me. COVID'll be a fun little time..""
+
+...",Sarcastic,2024-10-01T21:36:36.076000+00:00,"Was the person intended to be sarcastic when ""Oh, no, totally, don't wear a mask and cough and splutter around me. COVID'll be a fun little time.."" was said during the conversation?","Turn 1
+A: *coughs openly* ""It's really hard to breathe with these masks on all day.""
+B: ""Yeah, because breathing freely is definitely more important than keeping everyone healthy.""
+
+Turn 2
+A: ""Oh come on, it's not like I'm sick or anything.""
+B: ""Right, because we all have X-ray vision to see if someone is carrying the virus.Oh, no, totally, don't wear a mask and cough and splutter around me. COVID'll be a fun little time..""
+
+...","Oh, no, totally, don't wear a mask and cough and splutter around me. COVID'll be a fun little time..",Sarcastic
+"Turn 1
+A: You know, at that party last weekend, I felt like everyone else was so much more interesting and accomplished. I just didn't fit in. I'm a lot like Jonathan Creek, really, only without the intelligence. Or the good looks, or the charm
+B: Oh, come on! You remind me of that clever and charming character from that show we both love. You're always so witty and engaging.
+
+Turn 2
+A: Ha, I wish! If only I had half their charisma. I just feel like I'm always fumbling my way through conversations.
+B: Well, that's what makes you endearing. Your authenticity and humor are what people love about you. Trust me, you have more going for you than you realize.",Sarcastic,2024-10-01T21:33:17.114000+00:00,"Was the person intended to be sarcastic when ""I'm a lot like Jonathan Creek, really, only without the intelligence. Or the good looks, or the charm"" was said during the conversation?","Turn 1
+A: You know, at that party last weekend, I felt like everyone else was so much more interesting and accomplished. I just didn't fit in. I'm a lot like Jonathan Creek, really, only without the intelligence. Or the good looks, or the charm
+B: Oh, come on! You remind me of that clever and charming character from that show we both love. You're always so witty and engaging.
+
+Turn 2
+A: Ha, I wish! If only I had half their charisma. I just feel like I'm always fumbling my way through conversations.
+B: Well, that's what makes you endearing. Your authenticity and humor are what people love about you. Trust me, you have more going for you than you realize.","I'm a lot like Jonathan Creek, really, only without the intelligence. Or the good looks, or the charm",Sarcastic
+"Turn 1
+A: I've been feeling so overwhelmed with this new project at work. The deadlines are insanely tight, and my boss keeps piling on more tasks without any regard for what's realistic.
+B: That sounds incredibly stressful. It's tough when expectations are so high and you don't feel supported. How are you holding up?
+
+Turn 2
+A: Honestly, not great. I feel like I'm constantly on edge, and it's starting to affect my sleep and mood.This makes me feel uneasy ngl I just don't know how much longer I can keep this up.
+B: I'm really sorry to hear that. Maybe we can brainstorm some ways to manage the workload or find a way to communicate your concerns to your boss more effectively. You shouldn't have to go through this alone.",Not sarcastic,2024-10-01T21:35:36.906000+00:00,"Was the person intended to be sarcastic when ""This makes me feel uneasy ngl"" was said during the conversation?","Turn 1
+A: I've been feeling so overwhelmed with this new project at work. The deadlines are insanely tight, and my boss keeps piling on more tasks without any regard for what's realistic.
+B: That sounds incredibly stressful. It's tough when expectations are so high and you don't feel supported. How are you holding up?
+
+Turn 2
+A: Honestly, not great. I feel like I'm constantly on edge, and it's starting to affect my sleep and mood.This makes me feel uneasy ngl I just don't know how much longer I can keep this up.
+B: I'm really sorry to hear that. Maybe we can brainstorm some ways to manage the workload or find a way to communicate your concerns to your boss more effectively. You shouldn't have to go through this alone.",This makes me feel uneasy ngl,Not sarcastic
+"Turn 1
+A: Can this wait? I'm trying to relax in here.
+B: I just need to know where the remote control is. I can't find it anywhere.
+
+Turn 2
+A: It's probably on the coffee table, where it always is. Can I please have some peace now?Love it when I get disturbed three times in the bath to be asked where things in the house are!!
+B: Oh, right. Sorry. By the way, have you seen my book on the history of art?",Sarcastic,2024-10-01T21:38:10.682000+00:00,"Was the person intended to be sarcastic when ""Love it when I get disturbed three times in the bath to be asked where things in the house are!!"" was said during the conversation?","Turn 1
+A: Can this wait? I'm trying to relax in here.
+B: I just need to know where the remote control is. I can't find it anywhere.
+
+Turn 2
+A: It's probably on the coffee table, where it always is. Can I please have some peace now?Love it when I get disturbed three times in the bath to be asked where things in the house are!!
+B: Oh, right. Sorry. By the way, have you seen my book on the history of art?",Love it when I get disturbed three times in the bath to be asked where things in the house are!!,Sarcastic

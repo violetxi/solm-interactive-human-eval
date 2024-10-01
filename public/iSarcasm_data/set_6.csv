@@ -1,0 +1,149 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+82,"Turn 1
+A: ""I can't believe it, I've been looking forward to this trip to Poland for months, and now it looks like the government might impose new lockdown measures right after Christmas. I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!""
+B: ""Yeah, that really sucks. I can understand why you're so frustrated. It's like they have a radar for ruining plans.""
+
+Turn 2
+A: ""Seriously, it's like they wait until everyone is excited and then drop the bomb. I just hope they don't announce anything until after New Year's.""
+B: ""Fingers crossed. Maybe you'll get lucky and they'll hold off. In the meantime, let's enjoy this coffee and try not to stress too much.""",I can't wait for Boris to wait until after Christmas to lock us down again so that I can't go to Poland like I've been waiting for for half a year!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I can't wait for Boris to wait until after Christmas to lock us down again"" is not meant to be taken literally. A is expressing frustration and disappointment about the potential lockdown ruining their plans, and the use of ""I can't wait"" in this context is a sarcastic way of highlighting their annoyance.",1,True,754
+54,"Turn 1
+A: ""I can't shake this feeling, you know? If we don't win tomorrow, we might actually get relegated. Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far It's been such a rough season.""
+B: ""I hear you, mate. Every game feels like a final now. But remember, we've seen them pull off miracles before. We just need to keep the faith.""
+
+Turn 2
+A: ""Yeah, but this time it feels different. The team's been struggling with injuries, and our defense has been shaky at best.""
+B: ""True, but we've got some key players back now. If they can step up, we might just have a fighting chance. Let's hope for the best and cheer them on tomorrow.""",Need a win tommorow or another relegation battle looms. Imo tommorow is the biggest game of the season so far,not sarcastic,1,A's statement about needing a win to avoid relegation and calling it the biggest game of the season so far indicates genuine concern and seriousness about the situation. There is no indication of sarcasm in A's tone.,1,True,693
+31,"Turn 1
+A: Ah, Mondays. The best day of the week, right?Been looking forward to today all weekend.  Mondays are the best.  I feel fresh and ready to start the week.  SAID NO ONE EVER!!
+B: Absolutely, nothing like starting the week with a mountain of emails and a half-empty coffee pot.
+
+Turn 2
+A: At least we have the coffee machine to keep us going.
+B: True, though I think it needs more caffeine than we do at this point.",Been looking forward to today all weekend.  Mondays are the best.  I feel fresh and ready to start the week.  SAID NO ONE EVER!!,sarcastic,1,"A's statement ""Been looking forward to today all weekend. Mondays are the best. I feel fresh and ready to start the week. SAID NO ONE EVER!!"" clearly indicates sarcasm. The phrase ""SAID NO ONE EVER!!"" is a common way to highlight that the preceding statements are not genuinely believed by anyone, thus confirming the sarcastic tone.",1,True,422
+6,"Turn 1
+A: You know, wearing a mask has been a lifesaver in this freezing weather. It keeps my face so much warmer during the walk to work. Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work
+B: I totally agree! I didn't expect it, but it's like having a mini scarf for my face. Makes the commute a bit more bearable.
+
+Turn 2
+A: Exactly! Plus, it's nice not having to deal with the biting wind on my cheeks. I might keep wearing it even after winter.
+B: Same here. It's funny how something meant for health reasons turned out to be a great winter accessory too.",Beauty of wearing a mask isn't that it's just the responsible thing to do is that it's another layer of warmth on my freezing trips to work,not sarcastic,1,"Based on the context, A is genuinely expressing appreciation for the mask's additional warmth during cold weather. There is no indication of sarcasm in A's statement.",1,True,648
+39,"Turn 1
+A: It's frustrating to see how wealth disparity keeps growing. The rich are getting richer, and the poor are struggling more than ever. Did you see the latest report on land ownership? It's shocking how concentrated it is. Why aren't we finding a way to distribute our lovely country fairly?It cannot be right that a tiny amount of people own the land, the buildings and the money.
+B: Absolutely, it's like the system is designed to keep the wealth in the hands of a few. We need more policies that promote equitable distribution and support for the underprivileged.
+
+Turn 2
+A: Exactly. It's not just about charity; it's about creating a fair system where everyone has a chance to succeed. We need to push for reforms that address these structural issues.
+B: I agree. Maybe we should start by advocating for more progressive taxation and better access to education and healthcare. Those could be game-changers for so many people.","Why aren't we finding a way to distribute our lovely country fairly?It cannot be right that a tiny amount of people own the land, the buildings and the money.",not sarcastic,1,"Based on the context of the conversation, A is expressing genuine frustration and concern about wealth disparity and the concentration of land ownership. There is no indication of sarcasm in A's statement; rather, it reflects a serious critique of the current system.",1,True,936
+48,"Turn 1
+A: Ugh, dealing with that car insurance claim was such a nightmare. I spent hours on the phone just trying to get a straight answer.
+B: I hear you. I had a similar issue last year when I got into a fender bender. It's like they make it intentionally confusing.
+
+Turn 2
+A: Seriously! It's moments like these that make me realize how much adulting can suck sometimes. You know you've become an adult when you have to argue nonsense stuff with 20 different phone numbers of your car insurance company. Remember when our biggest worry was finishing homework on time?
+B: Oh, absolutely. Now it's all about bills, insurance, and figuring out taxes. But hey, at least we can laugh about it over coffee, right?",You know you've become an adult when you have to argue nonsense stuff with 20 different phone numbers of your car insurance company.,not sarcastic,2,"Yes, I agree. A is expressing genuine frustration about the complexities and challenges of adult responsibilities, such as dealing with car insurance claims. The statement reflects a sincere realization about the difficulties of adulthood.",1,True,709
+3,"Turn 1
+A: Did you see that match? Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while. West Ham really showed up today! What a game!
+B: Yeah, yeah, I saw it. Tough one for us, but I have to admit, your guys played well.
+
+Turn 2
+A: Antonio was on fire! That goal was a beauty. You have to give him credit.
+B: True, he was impressive. But don't get too comfortable, we'll get you next time.","Wow, Chelsea bean beaten by West Ham, that was a day I had been looking forward to for a while.",not sarcastic,1,A's excitement and positive remarks about West Ham's performance indicate genuine enthusiasm and satisfaction. There is no indication of sarcasm in A's tone.,1,True,431
+27,"Turn 1
+A: I can't believe Rashford missed that again. I'm losing my patience a little with rashford He's usually so reliable in front of goal.
+B: Yeah, it's frustrating. Maybe he's just going through a rough patch. It happens to the best of them.
+
+Turn 2
+A: I hope you're right. We really need him to step up if we're going to make a serious run this season.
+B: Absolutely. Maybe a bit of rest or a change in tactics could help him get back on track. Let's hope the coach has a plan.",I'm losing my patience a little with rashford,not sarcastic,1,A's statement about losing patience with Rashford appears to be genuine frustration rather than sarcasm. The context suggests that A is concerned about Rashford's performance and is expressing a sincere hope for improvement.,1,True,483
+72,"Turn 1
+A: ""I can't believe it! Just when I'm finally about to go to Paris, they introduce new COVID-19 testing requirements. So kind of the government to introduce 900 new covid tests right before I fly to Paris x Perfect timing, right?""
+B: ""Ugh, that's so frustrating. I heard about that. It seems like they always find a way to complicate things.""
+
+Turn 2
+A: ""Seriously, it's like they have a radar for my plans. Now I have to figure out where to get tested and hope it doesn't delay my trip.""
+B: ""I get it. Maybe you can check if there are any rapid testing centers near you? That might save you some time and stress.""",So kind of the government to introduce 900 new covid tests right before I fly to Paris x,sarcastic,1,"Yes, A was being sarcastic. The phrase ""So kind of the government"" is used ironically to express frustration rather than genuine gratitude, especially given the context of the new COVID-19 testing requirements complicating A's travel plans.",1,True,621
+41,"Turn 1
+A: Wow, that was such an amazing performance! The kids really put their hearts into it.
+B: Absolutely, they were fantastic. I was especially impressed by the lead actor's energy and presence on stage.
+
+Turn 2
+A: I'm thinking of posting about it on social media to spread the word. I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
+Please retweet if you saw the production and agree with me. It'd be great to get more people to support these young talents.
+B: That's a great idea! I'll share your post too. The community should definitely know about this incredible talent.","I'm a bit biased but I have to say this was fantastic. The talent in the young people on our island is amazing. Well done everyone.
+Please retweet if you saw the production and agree with me.",not sarcastic,2,"Based on the context, A is genuinely praising the performance and expressing pride in the young talent on their island. There is no indication of sarcasm in A's words; instead, A is enthusiastic and supportive.",1,True,661
+16,"Turn 1
+A: Oh, you know, life's just been absolutely fantastic! Lost my job, my relationship's a mess, and I'm pretty sure my plants are plotting against me. my life is great lmaooooo. Couldn't be better! *laughs exaggeratedly*
+B: *smiles sympathetically* That sounds rough, A. You don't have to put on a brave face for me. What's really going on?
+
+Turn 2
+A: *sighs* Honestly, it's been tough. I'm just trying to keep it together, but it feels like everything's falling apart.
+B: I'm here for you, A. Let's talk it through. Maybe we can figure out some steps to make things a bit easier.",my life is great lmaooooo.,sarcastic,1,"Yes, A was being sarcastic. The exaggerated laughter and the contradictory statements about their life being ""fantastic"" despite listing several negative events indicate sarcasm.",1,True,586
+73,"Turn 1
+A: ""Unbelievable! ""Does Salah want to score today, even my grand mother could have scored that open goal!"" Even my grandma could've scored that one!""
+B: ""Yeah, maybe we should sign her up for the team. She might just be our secret weapon!""
+
+Turn 2
+A: ""At this rate, we might need all the help we can get.""
+B: ""True, but hey, there's still time for a comeback. Let's keep the faith!""","""Does Salah want to score today, even my grand mother could have scored that open goal!""",sarcastic,1,"Yes, A was being sarcastic. The statement ""even my grandma could've scored that one"" is a sarcastic way of expressing frustration over Salah missing an easy goal.",1,True,389
+57,"Turn 1
+A: This weather has been a real headache lately, hasn't it? Tough few weeks so far with the snow and rain! My commute took twice as long this morning.
+B: Tell me about it. I had to reschedule two meetings because half the team couldn't make it in on time.
+
+Turn 2
+A: It's been a challenge for sure. I even had to work from home a couple of days last week because the roads were so bad.
+B: Same here. At least we're all in the same boat. Hopefully, things will clear up soon.",Tough few weeks so far with the snow and rain!,not sarcastic,1,"A's statement about the weather causing a tough few weeks with snow and rain appears to be a genuine expression of frustration and inconvenience, not sarcasm. The context of the conversation supports this interpretation as both A and B discuss real challenges they have faced due to the weather.",1,True,481
+103,"Turn 1
+A: So, after all the sleepless nights and student loans, they just cancel our graduation ceremony. Fantastic, right? I mean, who needs closure or a sense of accomplishment anyway? I absolutely loveee not getting a graduation ceremony after I spent 3 years on my degree and ended up over £50,000 in debt
+B: Yeah, it's really disappointing. I was looking forward to celebrating with everyone. But I guess they had no choice with everything going on.
+
+Turn 2
+A: Still, it feels like a slap in the face. We put in so much effort, and now we don't even get to walk across the stage.
+B: I get it. It's frustrating. Maybe we can plan our own little celebration? It won't be the same, but at least we can mark the occasion somehow.","I absolutely loveee not getting a graduation ceremony after I spent 3 years on my degree and ended up over £50,000 in debt",sarcastic,1,"Yes, A was being sarcastic. The exaggerated enthusiasm in ""I absolutely loveee"" and the context of expressing disappointment about the cancellation of the graduation ceremony indicate sarcasm.",1,True,730
+81,"Turn 1
+A: I heard someone say the COVID-19 vaccine can turn you into a magnet. Can you believe that?
+B: Oh, absolutely! And next thing you know, we'll all be sticking to our refrigerators like those souvenir magnets.
+
+Turn 2
+A: It's crazy how people come up with these things. can't believe the covid vaccine made me lose a limb. i thought being tracked was the only side effect It's like they don't even try to check the facts.
+B: Yeah, because who needs science when you have a cousin's friend's neighbor's Facebook post, right?",can't believe the covid vaccine made me lose a limb. i thought being tracked was the only side effect,sarcastic,2,"Yes, A was being sarcastic. The context of the conversation shows that both A and B are mocking the absurdity of the misinformation surrounding the COVID-19 vaccine. A's statement about losing a limb and being tracked is an exaggerated and sarcastic way to highlight how ridiculous some of the claims are.",1,True,530
+60,"Turn 1
+A: Honestly, this new job isn't what I expected. I feel like I'm just another cog in the machine, and no one really appreciates what I bring to the table.
+B: That sounds tough. What exactly is making you feel that way?
+
+Turn 2
+A: It's just that at my old job, I felt respected and valued. People actually listened to my ideas. Can't wait to go back to my old job and be treated like an actual person and be respected again.. Here, it's like I'm invisible.
+B: I get that. Have you thought about talking to your manager or maybe even considering going back to your old job?",Can't wait to go back to my old job and be treated like an actual person and be respected again..,not sarcastic,2,A's statement about going back to their old job and being treated with respect seems genuine and aligns with their expressed dissatisfaction with the current job. There is no indication of sarcasm in their tone or context.,1,True,578
+42,"Turn 1
+A: Did you catch Andrew Neil's latest interview? His stance was surprisingly authoritarian, especially given how he's always criticized others for similar behavior. Quite ironic how people such as Andrew Neil labelled me a stalinist whilst he himself becomes one
+B: Yeah, I saw that. It's quite ironic, isn't it? He used to be the one calling out heavy-handed tactics, and now he's the one exhibiting them.
+
+Turn 2
+A: Exactly. It makes you question the consistency of these media figures. If someone like Neil can flip so drastically, what does that say about media credibility?
+B: It definitely undermines trust. When public personas shift like this, it blurs the line between genuine belief and opportunism. It's a worrying trend for journalism.",Quite ironic how people such as Andrew Neil labelled me a stalinist whilst he himself becomes one,not sarcastic,1,"Yes, I agree. A's statement appears to be a genuine observation about the irony of Andrew Neil's behavior, rather than a sarcastic remark. A is pointing out the inconsistency in Neil's actions compared to his previous criticisms.",1,True,754
+90,"Turn 1
+A: ""Honey, I really love being interrupted every five minutes while I'm trying to relax.""Love it when I get disturbed three times in the bath to be asked where things in the house are!!
+B: ""Sorry, I just can't find the spatula. Do you know where it is?""
+
+Turn 2
+A: ""Check the second drawer on the left. And maybe we can save the rest of the questions for after my bath?""
+B: ""Got it. I'll try to manage on my own for a bit. Enjoy your bath!""",Love it when I get disturbed three times in the bath to be asked where things in the house are!!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I really love being interrupted every five minutes while I'm trying to relax"" is a clear indication of sarcasm, as it is unlikely that someone would genuinely enjoy being disturbed repeatedly while trying to relax.",1,True,447
+67,"Turn 1
+A: ""I've got my appointment for the COVID-19 booster shot later today.""I'm heading out to snag my COVID-19 inoculation! Thanks government mandate! Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!
+B: ""Oh, another one? At this rate, we'll need a booster every time we sneeze.""
+
+Turn 2
+A: ""Yeah, I know it feels like a lot, but I'd rather be safe than sorry.""
+B: ""Sure, because nothing says 'safety' like a never-ending cycle of jabs.""","I'm heading out to snag my COVID-19 inoculation! Thanks government mandate! Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!",sarcastic,1,"A's statement includes phrases like ""Thanks government mandate!"" and ""Super pleased to be doing my part even though the vaccines do not stop one from getting the disease, they do not stop the spread, and it leads to a life of non-stop useless boosters! Woo-hoo!"" which are indicative of sarcasm. The use of ""Woo-hoo!"" at the end further emphasizes the sarcastic tone.",1,True,582
+34,"Turn 1
+A: You know, it's like every team we face brings their A-game just for us. Did you notice how aggressive their midfield was today?
+B: Absolutely. It's like they were determined to shut down our playmakers. Speaking of which, don't you think it's time for Rodriguez to get some rest? He looked exhausted out there.
+
+Turn 2
+A: Yeah, Rodriguez has been running on fumes lately. We can't afford to burn him out before the playoffs. Things ralfie must have learned today. 
+1) everyone plays against us as if they are  in the a European up final. 
+2) Rashford needs a rest (ie dropping)
+3) Fred is quality. On the bright side, did you see how well Martinez handled the pressure? He was a rock in defense.
+B: Martinez was phenomenal. If he keeps this up, he might just be our key player for the rest of the season. We really need that kind of stability at the back.","Things ralfie must have learned today. 
+1) everyone plays against us as if they are  in the a European up final. 
+2) Rashford needs a rest (ie dropping)
+3) Fred is quality.",not sarcastic,2,"A's statement about ""Things ralfie must have learned today"" appears to be a genuine reflection on the game and the team's performance. The points listed are consistent with the observations made earlier in the conversation, such as the need for rest for certain players and the quality of others. There is no indication of sarcasm in the context provided.",1,True,865
