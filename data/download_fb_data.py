@@ -90,7 +90,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-GoEmotions_Sentiment-4'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-5'
     # current_data_prefix = 'Full-GoEmotions_Sentiment-6'
-    current_data_prefix = 'Full-GoEmotions_Sentiment-7'
+    # current_data_prefix = 'Full-GoEmotions_Sentiment-7'
+    current_data_prefix = 'Full-GoEmotions_Sentiment-8'
 
     # # Abortion
     # current_data_prefix = 'Full-SemT6_Abortion-1'

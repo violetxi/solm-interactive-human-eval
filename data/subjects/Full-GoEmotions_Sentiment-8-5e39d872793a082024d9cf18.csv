@@ -1,0 +1,265 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: You know, I just wanted to say how amazing it was to work with all of you on this project. It wasn't easy, but we pulled through together.
+B: Absolutely, A. It was a tough one, but the teamwork really made the difference. I'm glad we could all contribute.
+
+Turn 2
+A: To celebrate our success, how about we plan a fun outing this weekend? Maybe a hike or a picnic?I love you guys. Beers on me
+B: That sounds like a fantastic idea! It would be great to spend some time together outside of work and just relax.",positive,2024-10-01T03:23:34.841000+00:00,"What was the person's sentiment when they said ""I love you guys. Beers on me"" during the conversation?","Turn 1
+A: You know, I just wanted to say how amazing it was to work with all of you on this project. It wasn't easy, but we pulled through together.
+B: Absolutely, A. It was a tough one, but the teamwork really made the difference. I'm glad we could all contribute.
+
+Turn 2
+A: To celebrate our success, how about we plan a fun outing this weekend? Maybe a hike or a picnic?I love you guys. Beers on me
+B: That sounds like a fantastic idea! It would be great to spend some time together outside of work and just relax.",I love you guys. Beers on me,positive
+"Turn 1
+A: Hey, could you maybe stop fidgeting with your hands? Those fingers disturb me the most It's a bit distracting.
+B: Oh, sorry about that. I didn't realize it was bothering you.
+
+Turn 2
+A: No worries, I just need to focus a bit more right now.
+B: Got it, I'll try to keep still. Thanks for letting me know.",negative,2024-10-01T03:23:19.663000+00:00,"What was the person's sentiment when they said ""Those fingers disturb me the most"" during the conversation?","Turn 1
+A: Hey, could you maybe stop fidgeting with your hands? Those fingers disturb me the most It's a bit distracting.
+B: Oh, sorry about that. I didn't realize it was bothering you.
+
+Turn 2
+A: No worries, I just need to focus a bit more right now.
+B: Got it, I'll try to keep still. Thanks for letting me know.",Those fingers disturb me the most,negative
+"Turn 1
+A: Looks like I'll be burning the midnight oil tonight. They just moved up the deadline for the project.
+B: That's rough. I know how much work you've already put into it.
+
+Turn 2
+A: Yeah, it's definitely not ideal. But I guess it comes with the territory.
+B: True, sometimes these things happen. Wich stinks for you Let me know if you need any help wrapping things up.",negative,2024-10-01T03:18:36.039000+00:00,"What was the person's sentiment when they said ""Wich stinks for you"" during the conversation?","Turn 1
+A: Looks like I'll be burning the midnight oil tonight. They just moved up the deadline for the project.
+B: That's rough. I know how much work you've already put into it.
+
+Turn 2
+A: Yeah, it's definitely not ideal. But I guess it comes with the territory.
+B: True, sometimes these things happen. Wich stinks for you Let me know if you need any help wrapping things up.",Wich stinks for you,negative
+"Turn 1
+A: Remember when you turned yourself into a walking grape with that purple paint spill?
+B: Oh, how could I forget? I think I still have some purple stains on my shoes!
+
+Turn 2
+A: Well, it definitely added a unique touch to our mural. I couldn't have asked for a better partner in crime. Much love half purple homie
+B: Same here! Your quirky ideas really brought the whole piece to life. Can't wait for our next project together!",positive,2024-10-01T03:15:48.637000+00:00,"What was the person's sentiment when they said ""Much love half purple homie"" during the conversation?","Turn 1
+A: Remember when you turned yourself into a walking grape with that purple paint spill?
+B: Oh, how could I forget? I think I still have some purple stains on my shoes!
+
+Turn 2
+A: Well, it definitely added a unique touch to our mural. I couldn't have asked for a better partner in crime. Much love half purple homie
+B: Same here! Your quirky ideas really brought the whole piece to life. Can't wait for our next project together!",Much love half purple homie,positive
+"Turn 1
+A: So, what was your favorite part of the book?
+B: I really loved the scene where the protagonist finally confronts their fears. It was so well-written and powerful.
+
+Turn 2
+A: Oh, that was a great moment! Also one of my favorite parts of this story. I also enjoyed the way the author built up the tension leading to that scene.
+B: Absolutely. The pacing was perfect, and it made the resolution so satisfying.",positive,2024-10-01T03:18:21.340000+00:00,"What was the person's sentiment when they said ""Also one of my favorite parts of this story."" during the conversation?","Turn 1
+A: So, what was your favorite part of the book?
+B: I really loved the scene where the protagonist finally confronts their fears. It was so well-written and powerful.
+
+Turn 2
+A: Oh, that was a great moment! Also one of my favorite parts of this story. I also enjoyed the way the author built up the tension leading to that scene.
+B: Absolutely. The pacing was perfect, and it made the resolution so satisfying.",Also one of my favorite parts of this story.,positive
+"Turn 1
+A: Hey, did you hear about the community event for the animal shelter next weekend?
+B: Yeah, I did! I actually signed up to volunteer and donated a bit already. It's such a great cause.
+
+Turn 2
+A: That's awesome! I really want to get involved too. Would love to donate as well! How can I sign up to help?
+B: You can register online through their website. They need all the help they can get, and every bit counts!",positive,2024-10-01T03:16:14.897000+00:00,"What was the person's sentiment when they said ""Would love to donate as well!"" during the conversation?","Turn 1
+A: Hey, did you hear about the community event for the animal shelter next weekend?
+B: Yeah, I did! I actually signed up to volunteer and donated a bit already. It's such a great cause.
+
+Turn 2
+A: That's awesome! I really want to get involved too. Would love to donate as well! How can I sign up to help?
+B: You can register online through their website. They need all the help they can get, and every bit counts!",Would love to donate as well!,positive
+"Turn 1
+A: Thanks so much for your help so far! I'm really excited to get this up and running. What do I need to make sure everything works smoothly?
+B: You're welcome! I'm glad you're excited. You'll need to check that your system meets the minimum requirements, like having enough RAM and storage space. Also, make sure your operating system is up to date.
+
+Turn 2
+A: Got it. I think my computer should be fine, but how do I check the RAM and storage space? Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?
+B: No problem! On your computer, go to the system settings or control panel, and look for the 'About' section. It should show you the details about your RAM and storage. If you need any help finding it, just let me know!",ambiguous,2024-10-01T03:17:42.535000+00:00,"What was the person's sentiment when they said ""Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?"" during the conversation?","Turn 1
+A: Thanks so much for your help so far! I'm really excited to get this up and running. What do I need to make sure everything works smoothly?
+B: You're welcome! I'm glad you're excited. You'll need to check that your system meets the minimum requirements, like having enough RAM and storage space. Also, make sure your operating system is up to date.
+
+Turn 2
+A: Got it. I think my computer should be fine, but how do I check the RAM and storage space? Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?
+B: No problem! On your computer, go to the system settings or control panel, and look for the 'About' section. It should show you the details about your RAM and storage. If you need any help finding it, just let me know!",Thank you very much I appreciate the enthusiasm btw do you know more or less how much space will I need to install it?,ambiguous
+"Turn 1
+A: So, I was rushing to catch the bus, and I tripped over my own shoelaces in front of everyone! It was so embarrassing, but I couldn't stop laughing at myself.
+B: You know, if you had double-knotted your shoelaces, that wouldn't have happened. It's a simple precaution that can save you from such situations.
+
+Turn 2
+A: B, come on! I'm just trying to share a funny moment. Can't you just laugh with me instead of dissecting it? Do not use logic dude. Not cool.
+B: Oh, sorry! You're right, it is pretty funny. I can imagine how hilarious that must have looked.",positive,2024-10-01T03:23:29.432000+00:00,"What was the person's sentiment when they said ""Do not use logic dude. Not cool."" during the conversation?","Turn 1
+A: So, I was rushing to catch the bus, and I tripped over my own shoelaces in front of everyone! It was so embarrassing, but I couldn't stop laughing at myself.
+B: You know, if you had double-knotted your shoelaces, that wouldn't have happened. It's a simple precaution that can save you from such situations.
+
+Turn 2
+A: B, come on! I'm just trying to share a funny moment. Can't you just laugh with me instead of dissecting it? Do not use logic dude. Not cool.
+B: Oh, sorry! You're right, it is pretty funny. I can imagine how hilarious that must have looked.",Do not use logic dude. Not cool.,positive
+"Turn 1
+A: You know, I've been thinking a lot about where I want to be in the next few years. I really want to focus on my personal growth and make sure I'm in a good place mentally and emotionally.
+B: That sounds like a great plan. It's important to take care of yourself and be the best version of you.
+
+Turn 2
+A: Exactly. I feel like if I work on myself now, I'll be more prepared for whatever comes my way, especially when it comes to relationships. I just tell myself that I'll be put together for some girl. She won't have to treat me like a fixer upper.
+B: Absolutely. Being prepared and knowing what you want can make a huge difference. I'm sure you'll get there.",positive,2024-10-01T03:19:39.791000+00:00,"What was the person's sentiment when they said ""I just tell myself that I'll be put together for some girl. She won't have to treat me like a fixer upper."" during the conversation?","Turn 1
+A: You know, I've been thinking a lot about where I want to be in the next few years. I really want to focus on my personal growth and make sure I'm in a good place mentally and emotionally.
+B: That sounds like a great plan. It's important to take care of yourself and be the best version of you.
+
+Turn 2
+A: Exactly. I feel like if I work on myself now, I'll be more prepared for whatever comes my way, especially when it comes to relationships. I just tell myself that I'll be put together for some girl. She won't have to treat me like a fixer upper.
+B: Absolutely. Being prepared and knowing what you want can make a huge difference. I'm sure you'll get there.",I just tell myself that I'll be put together for some girl. She won't have to treat me like a fixer upper.,positive
+"Turn 1
+A: Man, this is so nerve-wracking. I'm just sitting here, waiting for the right moment.
+B: I know, right? You've been so close so many times. Just a little more patience and you'll get it.
+
+Turn 2
+A: Yeah, it's like the game is teasing me. So this is what edging feels like I can almost taste the victory.
+B: Hang in there, A. You've got this. Just a bit longer and it'll be worth it.",positive,2024-10-01T03:13:06.038000+00:00,"What was the person's sentiment when they said ""So this is what edging feels like"" during the conversation?","Turn 1
+A: Man, this is so nerve-wracking. I'm just sitting here, waiting for the right moment.
+B: I know, right? You've been so close so many times. Just a little more patience and you'll get it.
+
+Turn 2
+A: Yeah, it's like the game is teasing me. So this is what edging feels like I can almost taste the victory.
+B: Hang in there, A. You've got this. Just a bit longer and it'll be worth it.",So this is what edging feels like,positive
+"Turn 1
+A: Have you seen the latest reports on that startup's product? It looks like there's a surprising demand for it.
+B: Yes, I noticed that. It's interesting how they've tapped into a niche market so effectively. Their timing seems impeccable.
+
+Turn 2
+A: Absolutely. Their market positioning is quite strategic. They've managed to identify a gap and fill it quickly.
+B: And with the current trends, they could potentially scale this up significantly. Ironically, I just sense that they are working in an area where this is a ready stream of revenue just waiting for them.Their revenue projections might need a serious revision.",neutral,2024-10-01T03:19:47.297000+00:00,"What was the person's sentiment when they said ""Ironically, I just sense that they are working in an area where this is a ready stream of revenue just waiting for them."" during the conversation?","Turn 1
+A: Have you seen the latest reports on that startup's product? It looks like there's a surprising demand for it.
+B: Yes, I noticed that. It's interesting how they've tapped into a niche market so effectively. Their timing seems impeccable.
+
+Turn 2
+A: Absolutely. Their market positioning is quite strategic. They've managed to identify a gap and fill it quickly.
+B: And with the current trends, they could potentially scale this up significantly. Ironically, I just sense that they are working in an area where this is a ready stream of revenue just waiting for them.Their revenue projections might need a serious revision.","Ironically, I just sense that they are working in an area where this is a ready stream of revenue just waiting for them.",neutral
+"Turn 1
+A: Doctor, I've been really struggling with my digestive issues. The treatments we've tried so far haven't made much of a difference. I'm hoping we can find something more effective.
+B: I understand your frustration, and I appreciate your patience. Let's explore some newer treatment options that have shown promising results in similar cases.
+
+Turn 2
+A: That sounds reassuring. I'm open to trying anything that could help improve my condition.Please treat me with modern medicine. I have gastroparisis.
+B: Great. We'll look into some advanced therapies and possibly some lifestyle adjustments that could complement the treatment. We'll find a solution that works for you.",neutral,2024-10-01T03:18:00.185000+00:00,"What was the person's sentiment when they said ""Please treat me with modern medicine. I have gastroparisis."" during the conversation?","Turn 1
+A: Doctor, I've been really struggling with my digestive issues. The treatments we've tried so far haven't made much of a difference. I'm hoping we can find something more effective.
+B: I understand your frustration, and I appreciate your patience. Let's explore some newer treatment options that have shown promising results in similar cases.
+
+Turn 2
+A: That sounds reassuring. I'm open to trying anything that could help improve my condition.Please treat me with modern medicine. I have gastroparisis.
+B: Great. We'll look into some advanced therapies and possibly some lifestyle adjustments that could complement the treatment. We'll find a solution that works for you.",Please treat me with modern medicine. I have gastroparisis.,neutral
+"Turn 1
+A: I've been diving deeper into the New Testament lately, and I came across some passages that really disturbed me. I didn't expect to find such harsh statements.
+B: I understand where you're coming from. Some parts can be quite challenging, especially when taken out of context. What specifically bothered you?
+
+Turn 2
+A: It's the parts about punishment and eternal damnation. It feels so extreme and unforgiving. I thought the New Testament was supposed to be about love and forgiveness. I'm not apologizing for it. I just didn't think there was something this blatantly immoral in the new testament.
+B: Those themes are definitely central, but the text also addresses justice and consequences. It's a complex balance, and interpreting it can be tough. Have you looked into different commentaries or perspectives on those passages?",ambiguous,2024-10-01T03:23:15.102000+00:00,"What was the person's sentiment when they said ""I'm not apologizing for it. I just didn't think there was something this blatantly immoral in the new testament."" during the conversation?","Turn 1
+A: I've been diving deeper into the New Testament lately, and I came across some passages that really disturbed me. I didn't expect to find such harsh statements.
+B: I understand where you're coming from. Some parts can be quite challenging, especially when taken out of context. What specifically bothered you?
+
+Turn 2
+A: It's the parts about punishment and eternal damnation. It feels so extreme and unforgiving. I thought the New Testament was supposed to be about love and forgiveness. I'm not apologizing for it. I just didn't think there was something this blatantly immoral in the new testament.
+B: Those themes are definitely central, but the text also addresses justice and consequences. It's a complex balance, and interpreting it can be tough. Have you looked into different commentaries or perspectives on those passages?",I'm not apologizing for it. I just didn't think there was something this blatantly immoral in the new testament.,ambiguous
+"Turn 1
+A: I can't believe it... Max is gone. Damn. I'm sorry. What misery. He was fine just yesterday, and now he's... he's just gone.
+B: Oh no, I'm so sorry to hear that. Losing a pet is incredibly hard. Max was such a sweet dog. 
+
+Turn 2
+A: Yeah, he really was. I don't know how I'm going to get through this. The house feels so empty without him.
+B: I can only imagine. If you need anything, even just someone to talk to, I'm here for you. Max was lucky to have you, and you gave him a wonderful life.",negative,2024-10-01T03:17:34.941000+00:00,"What was the person's sentiment when they said ""Damn. I'm sorry. What misery."" during the conversation?","Turn 1
+A: I can't believe it... Max is gone. Damn. I'm sorry. What misery. He was fine just yesterday, and now he's... he's just gone.
+B: Oh no, I'm so sorry to hear that. Losing a pet is incredibly hard. Max was such a sweet dog. 
+
+Turn 2
+A: Yeah, he really was. I don't know how I'm going to get through this. The house feels so empty without him.
+B: I can only imagine. If you need anything, even just someone to talk to, I'm here for you. Max was lucky to have you, and you gave him a wonderful life.",Damn. I'm sorry. What misery.,negative
+"Turn 1
+A: You know, sometimes I just wish I could drop everything and move to a deserted island. I just want tk be a random scumbag No responsibilities, no deadlines, just pure freedom.
+B: Haha, that sounds like a dream! Imagine us just lounging around all day, not a care in the world.
+
+Turn 2
+A: Right? We could just live off coconuts and fish, and forget about all these crazy expectations.
+B: Totally! And we could make up our own rules, like mandatory afternoon naps and no emails ever.",positive,2024-10-01T03:16:06.648000+00:00,"What was the person's sentiment when they said ""I just want tk be a random scumbag"" during the conversation?","Turn 1
+A: You know, sometimes I just wish I could drop everything and move to a deserted island. I just want tk be a random scumbag No responsibilities, no deadlines, just pure freedom.
+B: Haha, that sounds like a dream! Imagine us just lounging around all day, not a care in the world.
+
+Turn 2
+A: Right? We could just live off coconuts and fish, and forget about all these crazy expectations.
+B: Totally! And we could make up our own rules, like mandatory afternoon naps and no emails ever.",I just want tk be a random scumbag,positive
+"Turn 1
+A: Hi B, I wanted to quickly go over a minor update to our procedure for submitting expense reports.
+B: Sure, A. What's the new update?
+
+Turn 2
+A: I came here to say this. Starting next week, we need to include a brief justification for each expense item in the report. It's just a short sentence explaining the purpose.
+B: Got it. That sounds straightforward. Thanks for letting me know.",neutral,2024-10-01T03:18:11.642000+00:00,"What was the person's sentiment when they said ""I came here to say this."" during the conversation?","Turn 1
+A: Hi B, I wanted to quickly go over a minor update to our procedure for submitting expense reports.
+B: Sure, A. What's the new update?
+
+Turn 2
+A: I came here to say this. Starting next week, we need to include a brief justification for each expense item in the report. It's just a short sentence explaining the purpose.
+B: Got it. That sounds straightforward. Thanks for letting me know.",I came here to say this.,neutral
+"Turn 1
+A: I can't believe I missed the opening act of the concert last night. My train was delayed, and I only got there halfway through.I missed that part unfortunately
+B: Oh no, that's such a bummer! The opening act was incredible. They really set the tone for the rest of the night.
+
+Turn 2
+A: Ugh, I was really looking forward to seeing them live. What was the highlight of their performance?
+B: They did this amazing acoustic version of their hit song. The crowd went wild, and it was such a unique experience. You would have loved it.",negative,2024-10-01T03:15:58.942000+00:00,"What was the person's sentiment when they said ""I missed that part unfortunately"" during the conversation?","Turn 1
+A: I can't believe I missed the opening act of the concert last night. My train was delayed, and I only got there halfway through.I missed that part unfortunately
+B: Oh no, that's such a bummer! The opening act was incredible. They really set the tone for the rest of the night.
+
+Turn 2
+A: Ugh, I was really looking forward to seeing them live. What was the highlight of their performance?
+B: They did this amazing acoustic version of their hit song. The crowd went wild, and it was such a unique experience. You would have loved it.",I missed that part unfortunately,negative
+"Turn 1
+A: I just got an email from our manager with a bunch of changes to the project plan. None of this was discussed in our last meeting. It's really frustrating.
+B: Oh no, that sounds stressful. What kind of changes are we talking about?
+
+Turn 2
+A: They want us to shift our focus to a completely different feature and move up the deadline by two weeks. It's so last-minute and unclear. What the fuck is this about?
+B: That's a lot to handle. Let's sit down and go through the email together. Maybe we can figure out a way to tackle this without too much disruption.",negative,2024-10-01T03:19:27.661000+00:00,"What was the person's sentiment when they said ""What the fuck is this about?"" during the conversation?","Turn 1
+A: I just got an email from our manager with a bunch of changes to the project plan. None of this was discussed in our last meeting. It's really frustrating.
+B: Oh no, that sounds stressful. What kind of changes are we talking about?
+
+Turn 2
+A: They want us to shift our focus to a completely different feature and move up the deadline by two weeks. It's so last-minute and unclear. What the fuck is this about?
+B: That's a lot to handle. Let's sit down and go through the email together. Maybe we can figure out a way to tackle this without too much disruption.",What the fuck is this about?,negative
+"Turn 1
+A: You know, I've been on a few dates recently, but honestly, none of them have been that great.
+B: Really? What do you think is the issue?
+
+Turn 2
+A: I don't know, I just haven't felt any real connection. It's like we're on different wavelengths. I don't find anything about women appealing.
+B: That sounds frustrating. Do you think it's just bad luck, or is there something specific that's been bothering you?
+
+...",negative,2024-10-01T03:23:05.822000+00:00,"What was the person's sentiment when they said ""I don't find anything about women appealing."" during the conversation?","Turn 1
+A: You know, I've been on a few dates recently, but honestly, none of them have been that great.
+B: Really? What do you think is the issue?
+
+Turn 2
+A: I don't know, I just haven't felt any real connection. It's like we're on different wavelengths. I don't find anything about women appealing.
+B: That sounds frustrating. Do you think it's just bad luck, or is there something specific that's been bothering you?
+
+...",I don't find anything about women appealing.,negative
+"Turn 1
+A: Wow, check out this new smartwatch! It looks amazing and has so many cool features.
+B: Yeah, it does look pretty sleek. I heard it has a really long battery life and some advanced health tracking features.
+
+Turn 2
+A: Exactly! And it even has a built-in GPS and music storage. looks cool, i want it now. I think it would be perfect for my runs.
+B: Totally! Plus, it would match your style perfectly. You should definitely consider getting it.",positive,2024-10-01T03:15:53.662000+00:00,"What was the person's sentiment when they said ""looks cool, i want it now."" during the conversation?","Turn 1
+A: Wow, check out this new smartwatch! It looks amazing and has so many cool features.
+B: Yeah, it does look pretty sleek. I heard it has a really long battery life and some advanced health tracking features.
+
+Turn 2
+A: Exactly! And it even has a built-in GPS and music storage. looks cool, i want it now. I think it would be perfect for my runs.
+B: Totally! Plus, it would match your style perfectly. You should definitely consider getting it.","looks cool, i want it now.",positive
