@@ -1,141 +1,147 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-42,"Turn 1
-A: ""I'm so excited for my birthday this weekend! We're going to that big concert downtown. I've been waiting for this for months!""
-B: ""No way, that's awesome! I've heard it's going to be an amazing show. Who are you going with?""
+18,"Turn 1
+A: Did you catch last night's episode of ""Strictly""? The performances were incredible!
+B: Absolutely! I was blown away by that Argentine tango. It was hands down the best I've ever seen on the show.
 
 Turn 2
-A: ""I'm going with Sarah. We both love the band, and we've been planning this since the tickets went on sale. gonna go see Justin bieber with dylan in March on my birthday!!!!""
-B: ""That sounds like so much fun! I'm a little jealous, but I'm really happy for you. You'll have to tell me all about it afterward!""",gonna go see Justin bieber with dylan in March on my birthday!!!!,positive,2,"Yes, A was being positive. They expressed excitement about their upcoming birthday plans and the concert they are attending with Sarah. Additionally, they mentioned another exciting plan to see Justin Bieber with Dylan in March, which further indicates their positive and enthusiastic mood.",1,True,554
-107,"Turn 1
-A: Ugh, I'm having a hard time downloading the latest edition of the September publication for the monthly report. Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes? It's really frustrating.
-B: Oh no, that sounds annoying. Have you tried accessing it through a different browser or clearing your cache?
+A: Oh, I know exactly which one you're talking about! Best argentine tango there's ever been on strictlyThe chemistry and precision were just off the charts.
+B: Right? And the way they executed those lifts and footwork was just mesmerizing. I couldn't take my eyes off the screen!",Best argentine tango there's ever been on strictly,not sarcastic,2,"A's comment about the Argentine tango being the best ever on ""Strictly"" is consistent with the positive and enthusiastic tone of the conversation. Both A and B are expressing genuine admiration for the performance.",1,True,494
+116,"Turn 1
+A: Ugh, today was brutal. I don't think I sat down once during my entire shift.
+B: I know exactly what you mean. I barely had time to grab a sip of water between patients. It's like they just keep coming.
 
 Turn 2
-A: I tried switching browsers, but I haven't cleared my cache yet. Do you think that might help?
-B: It could. If that doesn't work, I can show you a workaround using a different method to download it. Just let me know.",Was having trouble yesterday downloading Septembers edition using Google? Loads the 1st page then crashes?,negative,1,"Yes, I agree. A was expressing frustration and negativity about their difficulty in downloading the publication, which is evident from their use of words like ""Ugh"" and ""really frustrating.""",1,True,592
-120,"Turn 1
-A: I've been so swamped with work lately that I completely forgot about Pi Day this year. ""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh"" I usually bake a pie and everything.
-B: Oh no, that's a bummer! I missed it too because of a project deadline. It's frustrating when work gets in the way of the fun stuff.
+A: And that rush right before closing? I thought we'd never get out of here. Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this. My feet are killing me.
+B: Same here. I swear, if I have to deal with one more irate customer or emergency, I might just lose it. We really need more staff.","Just finished the most wonderful 12 hour shift!! I had no breaks at all, how delightful! I absolutely LOVE standing on my feet all day long, running on 6 hours sleep. I live for this.",sarcastic,2,"Yes, A was being sarcastic. The exaggerated positive language about a clearly exhausting and unpleasant situation indicates sarcasm.",1,True,637
+111,"Turn 1
+A: Ugh, I can't believe it's Monday already. I feel like the weekend just flew by.
+B: Oh, come on, A! Isn't it just fantastic to be back at work, bright and early, ready to tackle the week?
 
 Turn 2
-A: Yeah, I was really looking forward to it. I even had a new recipe I wanted to try. Maybe we can plan something together next year to make sure we don't miss it.
-B: That sounds like a great idea! Let's put it on our calendars now so we can remind each other. We could even make it a little tradition.","""For the 3rd year in a row,I total spaced and missed International Talk Like a Pirate Day...Argh""",negative,1,"A was expressing disappointment and frustration about missing Pi Day, which is evident from their statement about being swamped with work and forgetting about the event. The mention of missing International Talk Like a Pirate Day for the third year in a row adds to the sense of frustration. Therefore, A's sentiment can be considered negative.",1,True,677
-54,"Turn 1
-A: ""Hey, have you heard about Kevin Hart's new stand-up special? It's supposed to be hilarious! kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!"" We should definitely go see it when it premieres.""
-B: ""Oh, really? I haven't heard about it yet. But you know I'm always up for a good laugh. When's it coming out?""
+A: (groans) Yeah, right. If by fantastic you mean dragging myself out of bed and barely making it here on time. I love a Monday morning so glad the weekends over!
+B: (chuckles) Hey, at least we have coffee. It's the only thing keeping me from turning into a zombie right now.",I love a Monday morning so glad the weekends over!,sarcastic,2,"Yes, A was being sarcastic. The context shows that A is complaining about how quickly the weekend ended and how difficult it is to get up on a Monday morning. The statement ""I love a Monday morning so glad the weekends over!"" is clearly meant to be taken sarcastically, as it contradicts A's expressed feelings.",1,True,480
+80,"Turn 1
+A: Oh, the commute was just fantastic. I mean, who doesn't love spending an extra half hour behind a parade of drivers who seem to think the speed limit is a mere suggestion?My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.
+B: Sounds like quite the adventure. Did you get to see any new sights along the way?
 
 Turn 2
-A: ""It's premiering next Friday night. I can already imagine us laughing our heads off. You in?""
-B: ""Absolutely! Count me in. It'll be a great way to unwind after the week. Can't wait!""","kevin hart is the man, you better be going to see laugh at my pain on sept 9th...i am!""",positive,1,"Yes, A was being positive. A expressed excitement and enthusiasm about Kevin Hart's new stand-up special, indicating that they are looking forward to it and encouraging B to join them.",1,True,549
-5,"Turn 1
-A: Did you see Jason Russell's recent interview? He opened up about his mental health struggles during the KONY2012 campaign.
-B: No, I haven't seen it yet. That must have been intense for him. What did he say?
-
-Turn 2
-A: He talked about the immense pressure and how it led to a breakdown. KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity It was really eye-opening to hear about the human side of it all.
-B: Wow, that sounds really tough. It's easy to forget that public figures go through such personal challenges too.",KONY2012 filmmaker Jason Russell explains breakdown: I literally thought I was responsible for the future of humanity,neutral,2,"A's statement in turn 2 is factual and informative, providing details about Jason Russell's experience without expressing a personal opinion or emotional tone. This indicates a neutral stance.",1,True,594
-95,"Turn 1
-A: I'm thinking of taking a weekend trip to the mountains. It's been ages since I had a proper getaway.
-B: That sounds amazing! I went hiking there last year, and the views were breathtaking. Do you have a specific spot in mind?
-
-Turn 2
-A: Not yet, but I'm leaning towards that new cabin resort everyone's been talking about. This next Superbowl is on my (21st) birthday. Random fact of the day. It looks cozy.
-B: Oh, I've heard great things about that place! Just make sure to book early; it fills up fast.",This next Superbowl is on my (21st) birthday. Random fact of the day.,neutral,2,"Yes, I agree. A's statement about the Superbowl coinciding with their birthday is a neutral fact and doesn't convey any strong emotion or opinion. It seems to be an offhand comment rather than an expression of a particular sentiment.",1,True,514
-109,"Turn 1
-A: I can't believe iKON's debut might be delayed again. im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US I've been counting down the days, and now this happens.
-B: I know, it's really disappointing. But maybe it's for the best. They might need more time to perfect everything.
-
-Turn 2
-A: I guess you're right. I just feel so invested in this, you know? I've been following every update.
-B: Totally get it. But think about how amazing it'll be when they finally debut. All this waiting will make it even more special.",im going to b so pissed if ikon doesn't debut on sept 15th can YG STOP PULLING A FRANK OCEAN ON US,negative,1,"Yes, A was expressing frustration and disappointment about the potential delay of iKON's debut. The use of phrases like ""im going to b so pissed"" and ""can YG STOP PULLING A FRANK OCEAN ON US"" indicates a negative sentiment.",1,True,573
-112,"Turn 1
-A: ""Can you believe this? They're making a big deal out of some celebrity's new haircut. Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!""
-B: ""Seriously? It's like they have nothing better to report on.""
-
-Turn 2
-A: ""I know, right? There are so many more important things happening in the world.""
-B: ""Exactly. It's just ridiculous how much attention this stuff gets.""",Sat here dunking choc biscuits in my tea reading the daily mail.. And tells me about Justin bieber new find ( Xenia deli ) fuck off!!,negative,1,"Yes, A was being negative. A expresses frustration and disbelief about the trivial news being reported, specifically mentioning their annoyance with the focus on a celebrity's new haircut and Justin Bieber's new find.",1,True,458
-8,"Turn 1
-A: I finally watched the movie adaptation of that book we read in high school. Remember ""The Lost Journey""?
-B: Oh, really? I've been meaning to watch it. How was it?
-
-Turn 2
-A: Honestly, I was pretty disappointed. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me"" They changed so much from the book, especially the ending. It just didn't have the same impact.
-B: That's a shame. I guess it's always tough to capture the essence of a book in a movie. They often have to cut or alter things to fit the runtime.","""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""",negative,2,"Yes, I agree. A expressed disappointment with the movie adaptation of ""The Lost Journey"" by saying they were ""pretty disappointed"" and that the changes, especially the ending, didn't have the same impact as the book. This indicates a negative sentiment.",1,True,583
-105,"Turn 1
-A: I can't believe Paul McCartney is finally coming to Detroit! I've been waiting for this for years.
-B: That's amazing! But you seem a bit down about it. What's up?
-
-Turn 2
-A: The ticket prices are just way too high. What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars I can't afford to go, and it's really bumming me out.
-B: I totally get it. It's so frustrating when money gets in the way of something you love. Maybe we can find a way to make it work together?",What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars,negative,2,"Yes, A was being negative. A expressed frustration and disappointment about the high ticket prices, which is evident from the use of strong language and the overall tone of the message.",1,True,542
-20,"Turn 1
-A: ""Hey, guess what? I've got a big match coming up this weekend in Petrolia! Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out! You should totally come and watch.""
-B: ""That sounds awesome! You know I wouldn't miss it for the world. What time does it start?""
-
-Turn 2
-A: ""It's at 7 PM on Saturday. I'm really pumped for this one; it's going to be a tough match.""
-B: ""I'll be there cheering you on! You've got this, A. I can't wait to see you in action!""",Looking forward to facing Ms. Allysin Kay this Saturday in Petrolia!! come check it out!,positive,1,"Yes, A was being positive. They expressed excitement and anticipation for the upcoming match, which indicates a positive attitude.",1,True,497
-81,"Turn 1
-A: Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?
-B: Seriously, it's ridiculous. My grocery bill has doubled, and now this? What's next, a tax on breathing?
-
-Turn 2
-A: At this rate, we'll be living in cardboard boxes. Maybe we should start a commune or something.
-B: Honestly, that doesn't sound half bad. At least we'd have each other's company while we figure out how to survive this madness.",like how are ppl supposed to pay rent? Should i ask the pope on the 26th when he comes?,negative,1,"Yes, A was being negative. The statement ""Can you believe my rent is going up again? It's like they think we're made of money. like how are ppl supposed to pay rent?"" expresses frustration and disbelief about the increasing rent, which is a negative sentiment.",1,True,527
-26,"Turn 1
-A: You won't believe the new smartphones I saw at the expo! The latest models have these incredible foldable screens that are so seamless, you can barely see the crease.
-B: Really? That sounds amazing! I've been curious about foldable screens but wasn't sure if they were practical yet. Did you get to try one out?
-
-Turn 2
-A: Yeah, I did! The responsiveness was impressive, and the transition between folded and unfolded modes was super smooth. Plus, the battery life has significantly improved. I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.
-B: That sounds like a game-changer. I might have to consider upgrading sooner than I thought. Did you see any other cool features?",I just saw a glance at the new Galaxy Note 5. Looks interesting. That may be my next phone.,positive,2,"Yes, A was being positive. A expressed excitement about the new foldable screens and mentioned that the responsiveness and battery life were impressive. Additionally, A showed interest in the new Galaxy Note 5, indicating a positive outlook towards the new technology.",1,True,725
-119,"Turn 1
-A: I can't believe Justin would do this to me. He's been spreading lies about me, and I'm done with it. I think the only way to make him stop is to confront him, maybe even fight him.
-B: I get that you're angry, but fighting isn't going to solve anything. It could just make things worse for you. Let's think of another way to handle this.
-
-Turn 2
-A: But what else can I do? He needs to know he can't get away with this. I'm going to fight Justin tomorrow during lunch idc idc dcIf I don't stand up to him, he'll just keep doing it.
-B: I understand, but there are other ways to stand up for yourself. We can talk to a teacher or a counselor. They can help mediate and put an end to the rumors without anyone getting hurt.",I'm going to fight Justin tomorrow during lunch idc idc dc,negative,2,"Yes, I agree that A was being negative. A's statement about fighting Justin indicates a confrontational and aggressive approach to the situation, which is generally considered a negative response.",1,True,728
-33,"Turn 1
-A: I just got my new smartphone set up! The screen is so vibrant, and the setup process was surprisingly smooth.
-B: That's awesome! What model did you get? I'm curious about the new features it has.
-
-Turn 2
-A: I went with the latest Galaxy model. Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)The camera is supposed to be incredible, and I can't wait to test out the night mode.
-B: Nice choice! I've heard great things about its battery life too. Let me know how it holds up after a full day of use.","Just set up the Galaxy Note 5. Let's see how it does tomorrow. (Battery Life, Speed, Camera)",positive,2,"Yes, A was being positive. A expressed excitement about the new smartphone's vibrant screen and smooth setup process, and showed enthusiasm about testing the camera and other features.",1,True,552
+A: Oh, absolutely. I got an up-close and personal view of every bumper sticker in the city. It's like a moving art gallery, really.
+B: Well, at least you got some culture before work. Maybe tomorrow you'll get to enjoy an impromptu concert of honking horns.","My favourite thing driving to work in the morning is how peaceful and slow everyone is. I love when people don't know where they're going, like they are just out for a stroll at 8:30 in the morning. It makes me so happy.",sarcastic,1,"Yes, A was being sarcastic. The exaggerated positive tone about a typically frustrating situation, such as slow drivers and people not knowing where they're going during a morning commute, indicates sarcasm.",1,True,752
 68,"Turn 1
-A: Did you see the latest update from the Supreme Court? They've set the execution date for next month.What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.
-B: Yes, I saw that. It's going to be interesting to see how the clemency plea plays out. Do you think the President will intervene?
+A: Honestly, work has been really tough lately. My employers have been piling on more tasks without any additional support, and it's starting to feel overwhelming. My employers take many opportunities to make me unhappy.
+B: That sounds really frustrating. Have you had a chance to talk to them about how you're feeling?
 
 Turn 2
-A: It's hard to say. The political climate is pretty tense right now, and this case has garnered a lot of public attention. The legal arguments for clemency are compelling, though.
-B: True, and the international pressure might also influence the decision. It's a complex situation with significant implications for future cases.",What will happen to the clemency plea before the President? SC says Yakub can be executed on Thursday.,neutral,1,"Yes, I agree. A was being neutral in their statement. They were simply providing information about the Supreme Court's decision and asking a question about the clemency plea without expressing any personal opinion or bias.",1,True,681
-114,"Turn 1
-A: I started watching this great series on Amazon Prime, but after a few seasons, they wanted me to pay extra to keep watching. Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF. It's so frustrating!
-B: Ugh, I know what you mean. That happened to me with a show on Hulu. Just when I was getting into it, they put the new season behind a paywall.
+A: I tried bringing it up in our last meeting, but they just brushed it off and said everyone is under pressure right now. It feels like they don't care about how it's affecting me.
+B: I'm so sorry to hear that. It sounds like they're not valuing your well-being. Maybe it's time to start looking for other opportunities where you'll be appreciated more?",My employers take many opportunities to make me unhappy.,not sarcastic,1,"Based on the context, A is expressing genuine frustration and dissatisfaction with their work situation. There is no indication of sarcasm in their statement about their employers making them unhappy.",1,True,689
+15,"Turn 1
+A: Ugh, I can't stand working in the office sometimes. The smell from Bob's desk is just unbearable. It's like he never showers or something.
+B: I know exactly what you mean. It's not just you; a lot of people have noticed it. I wish there was a polite way to address it without making things awkward.
 
 Turn 2
-A: It's like they lure you in with a few free episodes and then hit you with extra charges. I wish they were more upfront about it.
-B: Exactly! It feels like a bait-and-switch. I've started checking reviews and forums before committing to a new show now.","Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF.",negative,1,"Yes, A was expressing frustration and negativity towards Amazon Prime for their practice of charging extra after a few seasons of a show. The use of strong language and the phrase ""FUCK OFF"" clearly indicates a negative sentiment.",1,True,696
+A: Yeah, it's tricky. I don't want to hurt his feelings, but it's really affecting my concentration. I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too. And it's not just that; the whole office environment can be so frustrating.
+B: Totally. Between the constant noise and the outdated equipment, it's hard to stay productive. Sometimes I wonder if working from home would be better for everyone.",I love working in the office instead of home. I wish they did a wax melt of Bob's BO so that I could smell it at home too.,sarcastic,2,"Yes, A was being sarcastic. The statement ""I wish they did a wax melt of Bob's BO so that I could smell it at home too"" is clearly not a genuine wish. It is an exaggerated and ironic way to express how unpleasant the smell is, indicating sarcasm.",1,True,783
+103,"Turn 1
+A: Ugh, I can't believe we have that team meeting later. The atmosphere is always so negative, and no one seems motivated. I enjoy being at work and can't wait to come in everyday and see all my happy colleagues
+B: Oh, absolutely. I just love coming to work and seeing everyone so ""happy"" and ""enthusiastic.""
+
+Turn 2
+A: Right? It's like a black hole of energy in there. I wish we could just skip it.
+B: If only! Maybe we should start a petition for virtual meetings so we can at least mute the negativity.",I enjoy being at work and can't wait to come in everyday and see all my happy colleagues,sarcastic,1,"Yes, A was being sarcastic. The context of the conversation indicates that A is frustrated with the negative atmosphere of the team meetings. The statement about enjoying work and seeing happy colleagues is clearly meant to be ironic, given the preceding complaint about the negativity.",1,True,512
+84,"Turn 1
+A: ""Hey, I just got a notification that I need to get another booster shot. Can you believe it?""
+B: ""Oh great, just what I needed—another chance to feel like a human pincushion.""
+
+Turn 2
+A: ""I know, right? It feels like we just got the last one. Another jab to protect myself? More pokes I get I'll pop But I guess it's important to stay protected.""
+B: ""Yeah, I get it. But at this rate, I'm going to start glowing in the dark from all these shots.""",Another jab to protect myself? More pokes I get I'll pop,sarcastic,2,"Yes, A was being sarcastic. The phrase ""More pokes I get I’ll pop"" is an exaggerated and humorous way to express frustration about getting multiple booster shots, which indicates sarcasm.",1,True,456
 11,"Turn 1
-A: I finally watched Magic Mike XXL last weekend, and I was surprised by how much I enjoyed it! Im mind blown after watching Magic Mike XXL for the 1st time It was so entertaining.
-B: Right? I saw it a while back and didn't expect to like it as much as I did. The dance scenes were incredible!
+A: ""So, this weekend, I have to spend time with my uncle again. You know, the one who thinks masks are a government plot to control us."" Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.
+B: ""Oh no, not him again. How do you even manage to keep a straight face?""
 
 Turn 2
-A: Absolutely! That scene where they perform to ""Pony"" was just amazing. I couldn't stop laughing and cheering.
-B: Oh, I know! And Joe Manganiello's convenience store dance? Hilarious and so well done. We should definitely watch it together sometime!",Im mind blown after watching Magic Mike XXL for the 1st time,positive,1,"Yes, A was being positive. They expressed surprise and enjoyment, describing the movie as ""entertaining"" and mentioning that they were ""mind blown"" in a positive context.",1,True,559
-27,"Turn 1
-A: Man, I can't wait for McGregor's fight next week. Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all! He's gonna destroy his opponent. You can just see the fear in the other guy's eyes.
-B: Yeah, McGregor's definitely got that intimidation factor. But you never know, his opponent might surprise us. It's MMA, anything can happen.
+A: ""Honestly, I don't. I just nod and make jokes in my head to survive. Last time, I imagined him as a character in a sci-fi movie.""
+B: ""That's brilliant! Maybe this time, picture him as the villain in a superhero flick. It might make it more entertaining.""","Really looking forward to going Christmas shopping with my anti-vax, anti-mask, global conspiracy believing sister this weekend.",sarcastic,1,"Yes, A was being sarcastic. The phrase ""Really looking forward to"" is typically used to express genuine excitement, but given the context of having to spend time with someone who holds controversial and frustrating beliefs, it is clear that A is using sarcasm to convey their lack of enthusiasm.",1,True,613
+8,"Turn 1
+A: Hey B, I was thinking about that post I made yesterday. I realized it might have come off as sarcastic, but I actually love my job. Any ideas on how I can rephrase it to show that?
+
+B: Sure, A. How about starting with something like, ""I feel incredibly fortunate to work with such a talented team and on projects that truly inspire me""? That way, it sounds more genuine and positive.
 
 Turn 2
-A: True, but McGregor's striking is on another level. I mean, did you see his last fight? The precision and power were insane.
-B: Absolutely, his striking is top-notch. But I think his ground game could use some work. If his opponent can take him down, it might be a different story.","Conor McGregor is the real deal. Stop ducking him Aldo you pussy. Today, I celebrate my half Irishness by getting pissed. Happy Sunday all!",positive,1,"Yes, A was being positive about Conor McGregor. A expressed excitement and confidence in McGregor's abilities, and even mentioned celebrating their half Irishness in a cheerful manner.",1,True,719
-40,"Turn 1
-A: The commentators tonight are really on point. They add so much to the game.
-B: Yeah, they're good. But I still miss the voices we grew up with. Those guys were legends and their commentary is tied to so many of my Monday night memories.
+A: That sounds great! Maybe I can add something about the support I get from the team too. I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way. Like, ""The support and collaboration here make every day rewarding.""
+
+B: Absolutely, that's perfect. It shows appreciation for your colleagues and highlights the positive work environment. I think that will definitely convey your true feelings better.","I would remove the 'wow' at the beginning, and probably add some reasoning such as 'Work is so fulfilling and rewarding right now. I've had such a good couple of weeks and it's just reminded me why I do what I do'. I feel that this is the same message, but in a non sarcastic way.",not sarcastic,2,"Yes, I agree. A is clearly trying to rephrase their original post to ensure it doesn't come off as sarcastic and genuinely reflects their positive feelings about their job. They are focusing on expressing appreciation and fulfillment in a sincere manner.",1,True,1025
+110,"Turn 1
+A: Ugh, I spent hours trying to book a vaccination appointment online, and it kept crashing. It's so frustrating!
+B: Oh, come on, it's not like you're trying to solve a Rubik's Cube blindfolded. It's just a few clicks and some patience.
 
 Turn 2
-A: Absolutely, there was something special about their style. Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football It's like their voices were the soundtrack to our football nights.
-B: Exactly. It's amazing how a voice can bring back so many memories. Those were the days, huh?",Frank Gifford and Al Michaels are the voices I hear when I think about Monday night football,positive,2,"Yes, A was being positive. A expressed appreciation for the special style of Frank Gifford and Al Michaels and mentioned how their voices were the soundtrack to their football nights, which indicates fondness and positive sentiment.",1,True,572
+A: Easy for you to say, you already got yours. So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?I just don't get why it has to be so complicated.
+B: Trust me, once you get that shot, you'll forget all about the hassle. It's totally worth it for the peace of mind and protection.","So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?",sarcastic,2,"Yes, A was being sarcastic. The phrase ""So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life"" is meant to highlight the simplicity of the process in a sarcastic manner, contrasting it with the actual frustration A is experiencing.",1,True,579
+2,"Turn 1
+A: You know, I was thinking about our last game night. It was so much fun, and I really felt the support from everyone when I was having a tough time with that puzzle.
+B: Oh, absolutely! I remember that. It was great how everyone jumped in to help. Moments like those really show how close-knit our group is.
+
+Turn 2
+A: Exactly. It's amazing how we all come together, no matter what. I love my friends I really value these friendships; they bring so much positivity into my life.
+B: Same here. It's rare to find such a supportive and fun group of friends. I feel really lucky to be a part of it.",I love my friends,not sarcastic,2,"The context of the conversation is positive and appreciative, with both A and B expressing gratitude and happiness about their supportive and close-knit group of friends. There is no indication of sarcasm in A's statement.",1,True,602
+5,"Turn 1
+A: Man, last night was wild! I can't believe we ended up at that karaoke bar. Do you remember when I tried to sing ""Bohemian Rhapsody""?
+B: Oh, I remember! You were really going for those high notes. It was hilarious. I think everyone in the bar was cheering you on.
+
+Turn 2
+A: Yeah, it was a blast. Drinks last night was a bit messy. May get some more beers tonight. Not sure though. I'm kind of tempted to do it all over again tonight. What do you think? Up for another round of chaos?
+B: Hmm, it does sound tempting. But maybe we should take it easy tonight? I don't know if my voice can handle another ""Bohemian Rhapsody"" performance so soon.",Drinks last night was a bit messy. May get some more beers tonight. Not sure though.,not sarcastic,2,"Yes, I agree. A was being sincere about the previous night's experience and is genuinely considering whether to repeat it. There is no indication of sarcasm in A's statement.",1,True,652
+6,"Turn 1
+A: You know, B, I've been feeling really overwhelmed lately. Every time I try to talk to you about it, it seems like you just brush it off. I need you to understand how serious this is for me.
+B: I'm sorry if it seemed like I wasn't taking you seriously. I didn't realize how much it was affecting you. Can you tell me more about what's been going on?
+
+Turn 2
+A: It's just everything piling up—work stress, family issues, and my mental health. It's crazy how you can tell someone what you're going through 1000x and they just dismiss it I feel like I'm drowning, and when you change the subject or give me quick advice, it makes me feel even more alone.
+B: I had no idea you felt that way. I really want to be here for you. Let's sit down and talk about it properly. I promise to listen this time.",It's crazy how you can tell someone what you're going through 1000x and they just dismiss it,not sarcastic,2,"A was expressing genuine frustration and hurt about not being taken seriously, rather than being sarcastic. The context shows A is overwhelmed and feels dismissed, which aligns with a sincere expression of their feelings.",1,True,804
+7,"Turn 1
+A: ""I can't believe how much it costs to fill up the tank these days. It's like I'm burning money every time I drive.""
+B: ""Yeah, it's ridiculous. It feels like the oil companies are the only ones making a killing off this.""
+
+Turn 2
+A: ""Oh, absolutely. I'm sure they're just swimming in their profits while we scrape by to afford gas. I LOVE paying so much for gas. Really feels good to help out big oil.""
+B: ""It's frustrating. You'd think there'd be some relief or regulation, but nope, just higher prices every time we turn around.""",I LOVE paying so much for gas. Really feels good to help out big oil.,sarcastic,2,"A's statement ""I LOVE paying so much for gas. Really feels good to help out big oil."" is clearly sarcastic given the context of the conversation. Both A and B are expressing frustration about the high cost of gas and the perceived profiteering by oil companies. A's exaggerated expression of love for paying high prices is a sarcastic way to emphasize their dissatisfaction.",1,True,540
+13,"Turn 1
+A: You know, I've been seeing someone new, and it's been amazing. I feel like they really understand me, and we just click on so many levels.
+B: That's wonderful to hear! Tell me more about them. What makes you feel so connected?
+
+Turn 2
+A: Well, for starters, they always make me feel heard and valued. We have these deep conversations that leave me feeling so inspired and understood. I am so in love with this woman Plus, they have this incredible sense of humor that just brightens my day.
+B: That sounds perfect! It's so important to feel both understood and uplifted in a relationship. I'm really happy for you. How has this new relationship impacted your life so far?
+
+[Continue for N turns]",I am so in love with this woman,not sarcastic,2,"Based on the context, A is expressing genuine feelings of love and appreciation for the person they are seeing. The tone of the conversation is positive and sincere, indicating that A is not being sarcastic.",1,True,705
+65,"Turn 1
+A: Hey, I found this awesome video about that new drone technology we've been talking about. Thought you might like it!
+B: Oh, nice! Let me check it out.
+
+Turn 2
+A: What did you think? Pretty cool, right? I simply love this clip. Thank you.
+B: That was amazing! Thanks for sharing it. I loved the part where they showed the drone's agility in the obstacle course. So impressive!",I simply love this clip. Thank you.,not sarcastic,2,"Based on the context, A genuinely seems to appreciate the video and is expressing their enthusiasm. There is no indication of sarcasm in their statement.",1,True,385
+15,"Turn 1
+A: I can't believe the concert is finally here! So stoked to see them tonight I've been counting down the days.
+B: Same here! It's going to be epic. Do you remember the last time we saw them live? It was unforgettable.
+
+Turn 2
+A: Absolutely! I still get chills thinking about it. What time do you want to meet up before the show?
+B: How about 6 PM at that café near the venue? We can grab a quick bite and then head over together.",So stoked to see them tonight,not sarcastic,1,"Based on the context, A is expressing genuine excitement about the concert. The use of phrases like ""I can't believe the concert is finally here!"" and ""So stoked to see them tonight"" indicates that A is eagerly anticipating the event and is not being sarcastic.",1,True,437
+41,"Turn 1
+A: ""Did you see the latest policy they rolled out? It's like they're trying to win the 'Most Out of Touch' award.""
+B: ""Oh, absolutely. I mean, who even thought that cutting funding for public services was a good idea? It's like they live in a different universe.""
+
+Turn 2
+A: ""Right? And don't get me started on their supporters. It's like they think trickle-down economics is some kind of magic spell. It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.""
+B: ""Yeah, because clearly, if we just give the rich more money, it'll somehow rain gold coins on the rest of us. Makes perfect sense!""
+
+[Continue for N turns]",It's actually really easy to get into the mindset of a Tory. All I do is smash my head into a wall until I bleed and then slur incoherently about social mobility and England before stuffing handfuls of loose change into Tim Martin's hands and kick a homeless person in the jaw.,sarcastic,2,"Yes, A was being sarcastic. The exaggerated and absurd actions described by A, such as smashing their head into a wall and kicking a homeless person, are not meant to be taken literally. Instead, they are used to mock and criticize the mindset and policies associated with the Tory party.",1,True,846
+4,"Turn 1
+A: Hey, did you see all the likes and comments I've been leaving on your posts lately? Clapped out the post twice now.Your travel photos are amazing!
+B: Yeah, I noticed! Thanks so much for the support. It really means a lot to me. I'm glad you're enjoying them.
+
+Turn 2
+A: Absolutely! I love seeing all the places you've been visiting. It's like I'm traveling vicariously through you.
+B: That's awesome to hear. I've been trying to capture the best moments. Your feedback really keeps me motivated to share more.",Clapped out the post twice now.,not sarcastic,1,"Yes, I agree. A's comments throughout the conversation are positive and supportive, indicating genuine appreciation for B's travel photos. The phrase ""Clapped out the post twice now"" seems to be a way of emphasizing their enthusiasm and support.",1,True,519

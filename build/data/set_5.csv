@@ -1,141 +1,141 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
-57,"Turn 1
-A: I'm really excited about tomorrow. I think I might finally tell them how I feel.I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga
-B: That's awesome! You should definitely go for it. What's your plan?
+96,"Turn 1
+A: ""Well, there goes another politician caught in a lie. Who would've thought, right? It's almost like honesty is a foreign concept to them. Politicians are so honest it melts my heart""
+B: ""Yeah, it's pretty disheartening. You'd think they'd learn by now that the truth always comes out.""
 
 Turn 2
-A: I was thinking of taking them to that new art exhibit and then maybe grabbing dinner afterward. It feels like the perfect setting to open up.
-B: That sounds perfect. Just be yourself and let the moment guide you. You've got this!",I should probs just kiss him cause we are gonna hang out tomorrow Lady Gaga,positive,1,"Yes, A was being positive. They expressed excitement about the upcoming day and the possibility of sharing their feelings, which indicates a hopeful and positive outlook.",1,True,476
-52,"Turn 1
-A: Did you hear about the new game, LawBreakers? It looks pretty cool.
-B: Yeah, but I'm bummed it's only coming out on PC. I really wanted to play it on my console.
+A: ""At this rate, we might as well start a betting pool on the next scandal. It's becoming a regular occurrence.""
+B: ""Honestly, it feels like we're watching a never-ending soap opera. Just when you think it can't get worse, it does.""",Politicians are so honest it melts my heart,sarcastic,1,"Yes, A was being sarcastic. The statement ""Politicians are so honest it melts my heart"" is clearly ironic given the context of discussing a politician caught in a lie.",1,True,537
+62,"Turn 1
+A: It's really something to hear the English fans singing ""Jerusalem"" in the middle of the Gabba, isn't it? Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba Makes me feel a bit nostalgic.
+B: Absolutely, mate. It's great to see how passionate they are. Adds a unique flavor to the atmosphere here.
 
 Turn 2
-A: Don't lose hope just yet. ""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 - Sometimes games get ported to consoles after their initial release. There's still a chance it might come to your platform.
-B: Really? That would be awesome! I'll keep my fingers crossed then. Thanks for the heads-up!","""Don?t worry, console gamers: LawBreakers may still come to the Xbox One, PS4 -",positive,2,"Yes, A was being positive. A was trying to reassure B by suggesting that there is still a possibility that LawBreakers might be released on consoles in the future.",1,True,505
+A: Yeah, it reminds me of the matches back home. Even though I'm loving it here, moments like these bring back fond memories.
+B: I get that. It's those little things that make you feel connected to your roots. Plus, it's always good to have a bit of friendly rivalry in the crowd!",Quite wonderful to hear the 'Jerusalem' of the few Englishmen surrounded by Aussies at the Gabba,not sarcastic,1,"Yes, I agree. A's statement about it being ""quite wonderful"" to hear ""Jerusalem"" sung by English fans surrounded by Aussies at the Gabba is followed by a sentiment of nostalgia and fondness. This indicates that A is genuinely appreciating the moment and is not being sarcastic.",1,True,640
 21,"Turn 1
-A: Ugh, why do they always have to cut to commercials right when we're in the middle of something interesting? Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!
-B: Yeah, it can be annoying, but it's just a part of watching live TV. What were you saying about Dana White?
+A: Oh, just to clarify, this pint isn't mine. FYI this was not my pint. I hate beerYou know I can't stand beer.
+B: Yeah, I figured. I think it might belong to someone from the other table.
 
 Turn 2
-A: Right, so as I was saying, I think his management style is really polarizing. Some people love it, but others think he's too aggressive.
-B: True, he's definitely a controversial figure. I guess that's part of what makes him so interesting to talk about.",Please refrain from interupting Dan's rants on Dana White with a stupid ass Sunday Countdown commercial... k? thanks!,negative,1,"Yes, A was being negative. The use of phrases like ""Ugh,"" ""stupid ass,"" and the sarcastic ""k? thanks!"" indicate frustration and annoyance with the interruption caused by the commercial.",1,True,610
-66,"Turn 1
-A: I'm so pumped for the game tonight! Can't wait to hit the stadium club and cheer for Galaxy. I really think we have a good shot against Dallas.
-B: Yeah, I hope so. Dallas has been pretty strong this season, though. I'm a bit worried about our defense.
+A: Thanks for pointing that out. I didn't want anyone to think I was being rude by not drinking it.
+B: No worries. Let's just move it over there and avoid any mix-ups.",FYI this was not my pint. I hate beer,not sarcastic,1,"A's statement ""FYI this was not my pint. I hate beer"" appears to be a straightforward clarification rather than a sarcastic remark. A is simply making it clear that the pint does not belong to them because they dislike beer.",1,True,371
+106,"Turn 1
+A: You know, I find Instagram so superficial sometimes. It's like a highlight reel of everyone's best moments, and it can be pretty demotivating.
+B: Yeah, I get that. Speaking of which, did you see Kim Kardashian's latest post? The one where she's flaunting her new luxury car?
 
 Turn 2
-A: I get that, but we've been improving a lot lately. Plus, the home crowd energy will definitely give us an edge. Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!
-B: True, the atmosphere at the stadium club is always electric. Let's hope it fires up the team. See you there!",Thanks. Still have love for my Galaxy!! I will cheering us on to victory at the stadium club tonite!! Beat Dallas!!,positive,2,"Yes, A was being positive. A expressed excitement and confidence about the game, mentioned the improvement of their team, and showed enthusiasm about cheering for their team at the stadium club.",1,True,612
-47,"Turn 1
-A: I can't even see straight anymore. I think I've read this same paragraph five times.
-B: You look exhausted, A. Let's take a quick break. A few minutes away from the screen might help.
+A: Oh, that one? I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account. It was so inspiring. Made me want to delete my account and go read a book instead.
+B: Haha, I figured you'd say something like that. Social media really isn't your thing, is it?",I love how Instagram can motivate people.  I saw a post by Kim Kardashian and I was motivated to delete my account.,sarcastic,2,"Yes, A was being sarcastic. A's initial statement in Turn 1 expressed a negative view of Instagram, calling it superficial and demotivating. In Turn 2, A's comment about being ""motivated to delete my account"" after seeing Kim Kardashian's post is a sarcastic way of reinforcing their disdain for the platform.",1,True,603
+25,"Turn 1
+A: I know the Omicron variant is really concerning, but I just can't stay cooped up at home all the time. I need to get out and do something I love, like birdwatching.Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.
+B: I totally get it, A. It's important to take care of your mental health too. Just make sure you're taking all the necessary precautions while you're out there.
 
 Turn 2
-A: I don't know if a break will cut it. Im so tired that Zulu is the 1st word that pops in my mind I feel like my brain is turning to mush.
-B: That's exactly why we need to step away for a bit. A short walk or some fresh air could make a big difference.",Im so tired that Zulu is the 1st word that pops in my mind,negative,2,"Yes, I agree. A's statement about being so tired that ""Zulu is the 1st word that pops in my mind"" indicates a level of frustration and mental exhaustion, which can be interpreted as a negative sentiment.",1,True,455
-6,"Turn 1
-A: It's so frustrating how the media always blows things out of proportion, especially when it involves black women. The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley Did you see how they covered the Nicki and Miley thing?
-B: Yeah, it's like they can't wait to paint Nicki as the aggressor. It's so biased and unfair.
+A: Absolutely, I'll be masked up and keeping my distance from others. Plus, birdwatching is pretty solitary anyway.
+B: That sounds like a good plan. Enjoy your time out there and stay safe. Let me know if you spot any interesting birds!",Decided to go to birdwatching place today despite terror in face of Omicron (1 person can infect 500 in a room). Decided to accept fate rather than go on hiding away.,not sarcastic,1,A's statement about deciding to go birdwatching despite the risks of the Omicron variant seems sincere and reflects a genuine concern for mental health and a desire to engage in a beloved activity. There is no indication of sarcasm in the context provided.,1,True,747
+22,"Turn 1
+A: Hey B, have you been having any trouble with your TV reception lately? Mine's been acting up, and I'm not sure if it's just my setup or something more widespread.
+B: Funny you mention that, A. I did notice some flickering last night, but I thought it was just a temporary glitch. 
 
 Turn 2
-A: Exactly! They never give her the benefit of the doubt. It's always the same old stereotypes being pushed.
-B: Totally. And it's not just about Nicki. This kind of coverage affects how people view all black women. It's exhausting.",The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley,negative,1,"Yes, I agree. A is expressing frustration and negativity about how the media portrays black women, specifically mentioning that Nicki Minaj will be unfairly labeled as the ""angry black woman"" in contrast to Miley Cyrus being seen as the ""poor white girl."" This indicates a negative sentiment towards the media's biased coverage.",1,True,623
+A: Hmm, that's interesting. I guess it might be something affecting the whole area then. Anyone in Hull area having digital TV aerial or freeview problems? Thank you. Have you heard anything from other neighbors?
+B: Not yet, but I can ask around. Maybe it's worth checking with the service provider too, just in case it's a known issue.",Anyone in Hull area having digital TV aerial or freeview problems? Thank you.,not sarcastic,2,A's question about the Hull area having digital TV aerial or Freeview problems seems genuine and is a logical follow-up to the discussion about TV reception issues. There is no indication of sarcasm in the context provided.,1,True,635
+88,"Turn 1
+A: It's such a hassle to always have to carry cash just for the barbershop. I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...
+B: I know, right? I always forget and end up scrambling to find an ATM.
+
+Turn 2
+A: And it's not just the barbershop. So many places still don't accept card payments.
+B: Exactly. It really complicates things, especially when you're used to paying with your phone everywhere else.",I love that we have to always pay by cash at the barbers. Sure would be a lot easier if they took card...,sarcastic,1,"Yes, A was being sarcastic. The statement ""I love that we have to always pay by cash at the barbers"" is immediately followed by ""Sure would be a lot easier if they took card,"" which indicates that A actually finds it inconvenient to pay by cash and would prefer card payments.",1,True,467
+112,"Turn 1
+A: So, I ordered from Deliveroo today, and guess what? They sent me a vegan salad instead of my burger. I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun! Just what I needed, right?
+B: Oh no, that's the worst! I once got someone else's sushi order. I mean, I like sushi, but not when I'm expecting pizza!
+
+Turn 2
+A: Exactly! It's like they want to keep us on our toes. Maybe next time I'll get a dessert platter instead of my main course.
+B: Haha, yeah, it's like a food roulette. At least it makes for some interesting stories to share!",I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I simply love it when I get my Deliveroo and they have given me a whole different person's order! So fun!"" is likely sarcastic because receiving the wrong order is generally frustrating, not enjoyable. The context of the conversation suggests that A is expressing their annoyance in a sarcastic manner.",1,True,599
+38,"Turn 1
+A: ""I just can't stop thinking about all the things that could go wrong on this trip. What if I get lost or something bad happens?""
+B: ""I understand your worries, but remember how much you've always wanted to do this. Sometimes, the best experiences come from stepping out of our comfort zones.""
+
+Turn 2
+A: ""You're right, but it's hard to shake off the anxiety. Don't be so afraid of dying that you forget how to live What if I regret going?""
+B: ""You might regret not going even more. Life's too short to let fear hold you back. You've got this, and I'll be here cheering you on every step of the way.""",Don't be so afraid of dying that you forget how to live,not sarcastic,2,"A's statement ""Don't be so afraid of dying that you forget how to live"" is a genuine expression of their internal struggle with anxiety and fear about the trip. It reflects a moment of self-awareness and an attempt to remind themselves of the importance of living fully despite their fears. Therefore, A was not being sarcastic.",1,True,609
+20,"Turn 1
+A: I've been trying to book a COVID booster shot online, but it's been such a hassle. I would love to be able to book my covid booster shot but the website doesn't work The website keeps crashing.
+B: Oh, that sounds frustrating. I had a similar issue last month. Have you tried calling the pharmacy directly?
+
+Turn 2
+A: I haven't, but that's a good idea. I might give that a shot. How did it go for you when you called?
+B: It was much smoother. They were able to schedule me right away, and I got my booster the next day. Definitely worth a try.",I would love to be able to book my covid booster shot but the website doesn't work,not sarcastic,1,A's statement expresses a genuine desire to book a COVID booster shot and frustration with the website not working. There is no indication of sarcasm in the context provided.,1,True,552
+18,"Turn 1
+A: I can't believe how unpredictable the weather has been lately. So fed up with the rubbish every changing weather Every time we make some progress, it starts raining or gets too windy.
+B: I know, it's been really frustrating. We can't seem to catch a break. Maybe we should look into some portable shelters or something to keep us going despite the weather.
+
+Turn 2
+A: That's a good idea. At least it would give us some consistency. I just hope we can find something sturdy enough to handle these sudden changes.
+B: Agreed. Let's check out some options online during lunch. We need to find a way to keep this project on track.",So fed up with the rubbish every changing weather,not sarcastic,1,"Based on the context, A is expressing genuine frustration about the unpredictable weather affecting their progress. There is no indication of sarcasm in A's statement.",1,True,635
 10,"Turn 1
-A: I can't wait for tonight's episode! can it be tomorrow already i want to watch big brotherI wish the day would just fly by.
-B: I know, right? The last episode ended on such a cliffhanger. I wonder what will happen next.
+A: Did you manage to get tickets for the concert?
+B: Yeah, I did! It was a bit of a scramble, but I got two. How about you?
 
 Turn 2
-A: Same here! I have a feeling there's going to be a big twist.
-B: Me too. Let's grab some snacks on the way home so we're all set for our watch party.",can it be tomorrow already i want to watch big brother,positive,1,"Yes, A was being positive. A's excitement about watching the next episode of ""Big Brother"" and their wish for the day to fly by so they can watch it sooner indicates a positive sentiment.",1,True,389
-9,"Turn 1
-A: I watched Ant-Man again last weekend, and it was interesting to see how everyone stayed glued to their seats for the after-credits scenes.
-B: Oh, I love those! They always add a little extra to the movie. Did you notice anything different this time?
-
-Turn 2
-A: Yeah, it seemed like more people knew to stay until the very end. In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits sceneThe first time I saw it, half the audience left before the credits finished.
-B: That's funny. I guess word gets around. I always make sure to stay, especially with Marvel movies. Have you seen any other good ones lately?",In this second time I've watched Ant-Man and this time I was the only one that stayed for the 2nd after credits scene,neutral,2,A's statement indicates a neutral observation about their experience watching the movie for the second time. They are simply noting the difference in audience behavior without expressing any strong emotions or opinions.,1,True,674
-3,"Turn 1
-A: I can't wait for tomorrow's game! Chelsea's been in great form lately. Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win! Do you think they'll keep the momentum going?
-B: Yeah, they've been impressive. But you never know with football. Who are they up against again?
-
-Turn 2
-A: They're playing against Liverpool. It's going to be a tough match, but I have a good feeling about it.
-B: Liverpool's always a challenge, but if Chelsea plays like they did last week, they definitely have a shot. Should be an exciting game!",Can't wait for tomorrow at 9 pm! Chelsea v crystal palace! Hope the blues will win!,positive,1,"Yes, A was being positive. They expressed excitement and optimism about Chelsea's performance and the upcoming game.",1,True,561
-79,"Turn 1
-A: I don't know, man. I spent a lot on those Carmelo Anthony tickets and memorabilia, but with the way the team's playing, I'm starting to wonder if it was worth it.I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.
-B: I get it, A. It's tough when the team's not performing as well as you'd hoped. But remember, it's not just about the current season. Carmelo's had an incredible career, and that memorabilia will always have value.
-
-Turn 2
-A: Yeah, I guess you're right. It's just frustrating to see them struggle after investing so much.
-B: Totally understandable. But think of it this way: you're supporting a player you admire and have some great memories tied to those items. Plus, teams go through ups and downs. They might turn it around soon.",I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.,negative,1,"Yes, A was expressing frustration and doubt about their investment in Carmelo Anthony memorabilia due to the team's poor performance. This indicates a negative sentiment.",1,True,844
-67,"Turn 1
-A: Any exciting plans coming up?lol I can't wait.. and I'm going to see Janet Jackson next Thursday
-B: Oh, absolutely! I'm going to see Janet Jackson next Thursday. I can't wait!
-
-Turn 2
-A: That sounds amazing! Have you seen her live before?
-B: No, this will be my first time. I've heard her shows are incredible, so I'm really looking forward to it!",lol I can't wait.. and I'm going to see Janet Jackson next Thursday,positive,1,"Yes, A was being positive. The use of ""lol"" and the phrase ""I can't wait"" indicate excitement and anticipation, which are positive emotions.",1,True,357
-44,"Turn 1
-A: Good morning, B! Ready for the long weekend?"" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!
-B: Morning, A! Absolutely, I can't wait. Got any plans?
-
-Turn 2
-A: Just some relaxing and maybe a little hiking. How about you?
-B: Sounds great! I'm planning to visit family. Have a fantastic weekend and stay safe!",""" Good morning Kerry! Happy Friday! Wishing you a safe and awesome labor day weekend!",positive,1,"Yes, A was being positive. A greeted B warmly, wished them a happy Friday, and extended good wishes for a safe and awesome Labor Day weekend.",1,True,354
-73,"Turn 1
-A: I just traded in my computer for an iPad. Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop. It's so much more portable!
-B: That's awesome! Funny enough, your uncle mentioned there's an announcement soon that might drop iPad prices. 
-
-Turn 2
-A: Really? That's great news! Maybe I got in at the right time or can snag some accessories on the cheap.
-B: Exactly! Either way, it sounds like you made a smart move. Keep an eye out for those deals.",Traded in the new computer to get an iPad. Uncle tells me new iPad will be announced tomorrow so prices should drop.,positive,1,"Yes, A was being positive. A expressed excitement about the portability of the iPad and mentioned the potential for price drops due to an upcoming announcement, which suggests optimism about the decision.",1,True,518
-52,"Turn 1
-A: Hey, I heard about what happened at work today. I'm really sorry you had to go through that. Remember, setbacks are just stepping stones to something better.
-B: Thanks, A. It was a rough day, and I can't help but feel a bit down about it. It's hard to see the silver lining right now.
-
-Turn 2
-A: I get it, B. But you've always bounced back stronger from tough situations. This is just a temporary bump in the road. Tryna make tomorrow much better You've got so much potential, and I know you'll come out of this even better.
-B: I appreciate your confidence in me. It means a lot. I'll try to keep that in mind and focus on the positives. Thanks for being there for me.",Tryna make tomorrow much better,positive,2,"Yes, A was being positive. A was encouraging B by reminding them of their resilience and potential, and suggesting that tomorrow can be better.",1,True,678
-77,"Turn 1
-A: You know, I was thinking about Bernie Sanders the other day. Do you know where he went to college?
-B: Hmm, I think he went to the University of Chicago. Not entirely sure, though. Why do you ask?
-
-Turn 2
-A: Just curious. I know he's been in politics for a long time, but I wonder what he did before that.1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office
-B: Yeah, I think he was involved in civil rights activism and some other community work. It's interesting how those early experiences shaped his political views.","1) may be wrong, but if I read it right, Bernie Sanders majored in Political Science and then went straight to a life of running for office",neutral,2,A's statement appears to be neutral as it simply provides information about Bernie Sanders' educational background and career path without expressing any strong opinions or emotions.,1,True,615
-72,"Turn 1
-A: Hey, do you have any plans for tomorrow?Are you going to go to Levi's tomorrow??
-B: Not much, just thinking about checking out Levi's. They might have some new arrivals.
-
-Turn 2
-A: Oh, nice! I was actually planning to go there too. Maybe we can go together?
-B: Sounds great! Let's meet up around noon and make a day of it.",Are you going to go to Levi's tomorrow??,neutral,1,"Yes, I agree. A's question ""Are you going to go to Levi's tomorrow??"" is neutral and simply seeks information about B's plans without expressing any particular emotion or bias.",1,True,332
-50,"Turn 1
-A: Oh look, it's that legendary disaster of a baseball movie. ""Hey, the 2nd worst baseball movie is on Reelz right now. Should we subject ourselves to it for a laugh?
-B: You mean the one with the cringe-worthy acting and plot holes big enough to drive a truck through? Absolutely.
-
-Turn 2
-A: Perfect. Let's see if it's as hilariously awful as everyone says.
-B: I'm ready. This is going to be a train wreck we can't look away from.","""Hey, the 2nd worst baseball movie is on Reelz right now.",negative,1,"A's comment about the movie being the ""2nd worst baseball movie"" and suggesting to watch it ""for a laugh"" indicates a negative view of the movie's quality. The use of ""legendary disaster"" further emphasizes the negative sentiment.",1,True,437
+A: Unfortunately, I wasn't so lucky. The site crashed on me. Did anyone on my twitter even get tickets for the SOUR tour? Do you know if anyone else got tickets?
+B: I heard that Sarah managed to get a few. Maybe she has an extra one she could sell you. I'll ask her for you.",Did anyone on my twitter even get tickets for the SOUR tour?,not sarcastic,2,"A's statement ""Did anyone on my twitter even get tickets for the SOUR tour?"" expresses genuine frustration and disappointment about not getting tickets, rather than sarcasm. A is earnestly inquiring if anyone else had better luck.",1,True,413
 17,"Turn 1
-A: I'm so pumped for the big run on Sunday! I just need to find some new music to keep me motivated. Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.
-B: That's awesome! Have you tried the latest playlist on Spotify? It's got some great tracks for running.
+A: It's interesting how COP26 was organized by the UK in partnership with Italy. Callum obviously doesn't know who organised COP26. Did you know that Callum seems a bit unclear about who was responsible for organizing the event?
+B: Really? That's surprising. I thought it was pretty well-publicized. Maybe he missed some of the initial briefings.
 
 Turn 2
-A: No, I haven't checked it out yet. Do you have any specific songs you recommend from it?
-B: Definitely! ""Runaway"" by Galantis always gets me going, and ""Blinding Lights"" by The Weeknd has a great beat for keeping pace.","Hey please RT, running GNR on Sunday, anyone got suggestions for good running songs. Need to update the iPod.",positive,1,"Yes, A was being positive. They expressed excitement about the upcoming run and were actively seeking suggestions to enhance their experience.",1,True,552
-46,"Turn 1
-A: I've been binge-watching ""The Vampire Diaries"" lately, and I'm totally hooked! I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries! I'm planning to write a blog post about it this weekend.
-B: That sounds fun! What's got you so excited about the show?
+A: Yeah, it could be. I think it might help if we share some of the key details with him, especially since understanding the organizers is crucial for our project.
+B: Good idea. I'll make sure to bring it up in our next team meeting. It's important everyone is on the same page, especially with such a significant event.",Callum obviously doesn't know who organised COP26.,not sarcastic,1,"Based on the context, A is genuinely pointing out that Callum seems unclear about who organized COP26. There is no indication of sarcasm in A's statement; it appears to be a straightforward observation.",1,True,682
+115,"Turn 1
+A: It's been really tough adjusting to remote work. The technical issues are one thing, but I really miss the social interaction. I am just loving life in Covid times. Long may it last!
+B: Oh, absolutely. I'm just ""loving"" the constant Zoom calls and the joy of talking to my cat all day.
 
 Turn 2
-A: The characters are so complex, and the plot twists keep me on the edge of my seat. Plus, the supernatural elements are really well done.
-B: Nice! I might have to check it out. I'm thinking of going hiking this weekend. Any good trails you recommend?",I know one thing I can do tomorrow.. Write a blog post about my newly discovered love for Vampire Diaries!,positive,1,"Yes, A was being positive. They expressed excitement about binge-watching ""The Vampire Diaries"" and mentioned their plan to write a blog post about it, indicating enthusiasm and a positive attitude towards the show.",1,True,575
-43,"Turn 1
-A: You won't believe it, but I finally got to see that live performance by our favorite artist on TV last week. It was absolutely breathtaking!
-B: Oh wow, that sounds amazing! I can only imagine how incredible it must have been. What was the highlight for you?
+A: Haha, I know what you mean. My dog has become my new office mate, but he's not much of a conversationalist.
+B: At least your dog doesn't judge you for wearing pajamas to meetings. Small victories, right?",I am just loving life in Covid times. Long may it last!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""I am just loving life in Covid times. Long may it last!"" is likely meant to be ironic, as the rest of the conversation indicates that both A and B are struggling with the challenges of remote work and missing social interaction.",1,True,510
+52,"Turn 1
+A: I've checked a few stores already, but I can't seem to find any bra strap extenders. Ladies anywhere in town do bra strap extenders? Do you have any idea where they might have them?
+B: Hmm, let's see. Have you tried the lingerie section in the department store? They usually have a good selection of accessories.
 
 Turn 2
-A: Honestly, the whole performance was fantastic, but there was this one song where they hit this high note perfectly. It gave me chills! omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show
-B: I know exactly what you mean. I had a similar experience when I saw them live a few years ago. It's like they have this magical ability to connect with the audience on such a deep level.",omg then I sat on my floor in front of the TV and bawled over Shawn when he was performing on that one show,positive,2,"Yes, I agree. A's statement about sitting on the floor and bawling over Shawn's performance indicates a strong emotional reaction, which in this context seems to be a positive one, driven by the impact of the performance.",1,True,711
+A: No, I haven't checked there yet. Do you think we should ask someone for help once we get there?
+B: Definitely. It'll save us some time. Let's head over and ask one of the sales associates as soon as we arrive.",Ladies anywhere in town do bra strap extenders?,not sarcastic,1,"Yes, I agree. A is genuinely asking for help in finding bra strap extenders and is not being sarcastic. The context shows that A is seeking information and assistance.",1,True,543
+113,"Turn 1
+A: I had a rough time with Jason today. He threw a tantrum in the middle of class because I asked him to put away his phone.
+B: Oh, Jason again? Sometimes I think we need a parenting manual just to deal with the fallout from home.
+
+Turn 2
+A: Exactly. It's like we're expected to teach and parent at the same time. I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance… I wish there was more support from home.
+B: Tell me about it. If only parents realized how much their involvement could change things for the better.",I wonder if there's a parenting manual for schools to hand out?. Some parents could really use the guidance…,sarcastic,2,"Yes, A was being sarcastic. The comment about a ""parenting manual for schools to hand out"" suggests a level of frustration and implies that some parents are not providing adequate support or guidance at home, which is affecting the classroom environment.",1,True,579
+40,"Turn 1
+A: Hey, B, I think I just saw Maxine Peake over there by the café. Might need my eyes checking but I think I just saw Maxine Peake in Deansgate Do you see her?
+B: Really? Where exactly? Let me take a look.
+
+Turn 2
+A: Right there, near the entrance, in the red coat. Do you think it's her?
+B: Hmm, it does look like her. Wow, what are the chances? Should we go say hi?",Might need my eyes checking but I think I just saw Maxine Peake in Deansgate,not sarcastic,1,"A's statement ""Might need my eyes checking but I think I just saw Maxine Peake in Deansgate"" suggests a genuine surprise and uncertainty about whether they correctly identified Maxine Peake. There is no indication of sarcasm in the context provided.",1,True,374
+95,"Turn 1
+A: I can't believe we have to quarantine now. This means no prom, no graduation, nothing. It's so unfair.
+B: Yeah, because clearly the best way to handle a pandemic is to ruin all the fun stuff for teenagers. Great job, government.
+
+Turn 2
+A: Seriously, it's like they don't even care about how much we've already missed out on. I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school. I was really looking forward to seeing everyone.
+B: I know, right? But hey, at least we get to experience the thrill of staring at our bedroom walls for another two weeks. So exciting.",I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,sarcastic,2,"Yes, A was being sarcastic. The phrase ""I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school"" is clearly meant to convey frustration and disappointment, not genuine appreciation.",1,True,652
+11,"Turn 1
+A: ""You see how they're struggling with those corners? It's like they haven't practiced their defensive positioning at all.""
+B: ""Yeah, I noticed that too. They seem lost every time the ball comes in. Do you think it's a problem with the marking system?""
+
+Turn 2
+A: ""Exactly. They're using a zonal marking system, but the players aren't communicating well. We are missing cress or Bowen for our corners and freekicks have been pretty poor so far. They need to switch to man-to-man marking to handle those set-pieces better.""
+B: ""That makes sense. It would definitely help them keep track of their opponents more effectively. Hopefully, the coach makes that adjustment soon.""",We are missing cress or Bowen for our corners and freekicks have been pretty poor so far.,not sarcastic,2,"A's statement about missing Cresswell or Bowen for corners and free-kicks appears to be a genuine observation about the team's performance and not sarcastic. The context of the conversation is a serious discussion about the team's defensive struggles and marking system, which supports the interpretation that A is making a sincere comment.",1,True,680
+83,"Turn 1
+A: ""If I have to hear 'Jingle Bells' one more time at 5 AM, I might just start decking the halls with canned goods."" I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!
+B: ""I hear you. At this point, I think I could recite the entire Christmas playlist in my sleep. Maybe we should start a caroling group—'The Sleep-Deprived Singers.'""
+
+Turn 2
+A: ""Only if we can perform in pajamas and slippers. I think that would really capture the essence of our holiday spirit.""
+B: ""Absolutely! And we can hand out coffee instead of candy canes. Now that's a Christmas miracle I can get behind.""","I love waking up to start work at 5am everyday. Even better when its Christmas, because there's nothing I love more than being surrounded by stressed out customers over food!",sarcastic,1,"A's statement about loving to wake up at 5 AM and being surrounded by stressed-out customers is likely sarcastic because it contrasts with the frustration expressed about hearing ""Jingle Bells"" at 5 AM and the mention of decking the halls with canned goods.",1,True,712

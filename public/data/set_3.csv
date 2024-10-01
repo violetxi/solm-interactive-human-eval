@@ -1,141 +1,151 @@
 Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,verifier_explanation,verifier_sentiment_detected,contains,conv_length
+90,"Turn 1
+A: ""Well, wasn't that just the most delightful drive in? Nothing like a torrential downpour to start the day off right. I really loved the drive into work today in the dark, wet, heavy rain""
+B: ""Oh, absolutely. I especially loved the part where I couldn't see two feet in front of me. Really gets the adrenaline pumping.""
+
+Turn 2
+A: ""And let's not forget the impromptu swimming lesson when I stepped into that puddle the size of a small lake.""
+B: ""Ah, yes, the classic 'soaked shoes' experience. At least we can say we're fully awake now, right?""","I really loved the drive into work today in the dark, wet, heavy rain",sarcastic,1,"A's statement about loving the drive in the dark, wet, heavy rain is clearly sarcastic because it is followed by a description of unpleasant conditions, which are typically not enjoyable.",1,True,553
+57,"Turn 1
+A: Hey B, just saw the email about the quarterly meeting being canceled. Such a bummer! So sad not to have the meeting. Was looking forward to catching up with everyone! I was really looking forward to catching up with everyone and hearing about the latest projects.
+B: I know, right? It's disappointing. I had a few updates I was excited to share, and it's always nice to see everyone in person. Virtual meetings just aren't the same.
+
+Turn 2
+A: Absolutely. I was hoping to get some face-to-face time to discuss the new initiative we're working on. It's so much easier to brainstorm in person.
+B: Totally agree. Maybe we can set up a smaller meeting with just a few of us to go over those updates? It won't be the same, but at least we can still connect and share ideas.",So sad not to have the meeting. Was looking forward to catching up with everyone!,not sarcastic,1,"Based on the context, A genuinely expresses disappointment about the meeting being canceled and the missed opportunity to catch up with everyone. There is no indication of sarcasm in A's tone.",1,True,778
+58,"Turn 1
+A: Ugh, I feel so overwhelmed with all the holiday preparations. two weeks til christmas and i haven't bought a single present pieceI haven't even started my Christmas shopping yet.
+B: Oh no, that sounds stressful. Have you thought about making a list of what you need to get? It might help you feel more organized.
+
+Turn 2
+A: That's a good idea. I just don't know where to start. There are so many people to buy for, and I want to get something meaningful for each of them.
+B: How about starting with the people closest to you? Maybe jot down a few ideas for each person, and then you can tackle the rest once you have a plan. And if you need any help, I'm here for you.",two weeks til christmas and i haven't bought a single present piece,not sarcastic,1,"Based on the context, A is expressing genuine concern and stress about not having started their Christmas shopping yet. There is no indication of sarcasm in their statement.",1,True,678
+52,"Turn 1
+A: Ugh, I am so wiped out. That 12-8 shift really took it out of me. A 12-8 shift has to be one of the worst out thereI feel like I haven't slept properly in days.
+B: I hear you. Those late shifts can be brutal. I remember when I did a string of them last month, I felt like a zombie. It's tough to get your body to adjust.
+
+Turn 2
+A: Yeah, and it's not just the sleep. I miss out on so much in the evenings. My friends went out for dinner last night, and I had to pass. It's like my social life is on hold.
+B: I know exactly what you mean. It's hard to balance work and personal life with these hours. But hey, if you ever need to vent or just want to grab a coffee after a shift, I'm here. We can get through this together.",A 12-8 shift has to be one of the worst out there,not sarcastic,1,"Based on the context, A is expressing genuine frustration and exhaustion from working a 12-8 shift. There is no indication of sarcasm in A's statement; rather, it reflects a sincere sentiment about the difficulty of the shift.",1,True,732
+70,"Turn 1
+A: Oh, did you hear? Apparently, teaching about systemic racism means I'm unpatriotic now. Guess I missed that memo.
+B: Seriously? That's absurd. How can educating students about real issues be seen as unpatriotic?
+
+Turn 2
+A: Right? Next thing you know, they'll say discussing civil rights history is a betrayal of my race. I mean, all I teach is critical race theory bc I'm a traitor to my race 
+B: It's frustrating how some people just don't get it. You're helping students understand the world better, not undermining it.","I mean, all I teach is critical race theory bc I'm a traitor to my race",sarcastic,2,"Yes, A was being sarcastic. The context of the conversation shows A's frustration with the absurdity of being labeled unpatriotic for teaching about systemic racism. The statement ""I mean, all I teach is critical race theory bc I’m a traitor to my race"" is a sarcastic exaggeration to highlight the ridiculousness of such accusations.",1,True,531
+9,"Turn 1
+A: Remember how easy it was to plan trips when STA Travel was around? Debating where to go to away to in June, I miss STA Travel They made everything so convenient.
+B: Yeah, I miss that too. They always had great deals and knew exactly what we needed. So, where are we thinking of going this summer?
+
+Turn 2
+A: I was thinking about Europe. Maybe we could do a mix of cities and countryside. What do you think?
+B: That sounds amazing! I've always wanted to explore more of Italy and maybe hop over to Spain. We could start in Rome and then make our way to Barcelona.","Debating where to go to away to in June, I miss STA Travel",not sarcastic,1,A's statement about missing STA Travel and finding it convenient suggests a genuine sentiment of nostalgia and appreciation for the services STA Travel provided. There is no indication of sarcasm in the context.,1,True,572
+36,"Turn 1
+A: Ugh, I really can't stand Mondays. All weekend I've been dreading today.  I hate Mondays.  I feel rubbish.I felt down about it all weekend.
+B: I hear you. Mondays can be rough. Did anything specific happen over the weekend, or is it just the usual Monday blues?
+
+Turn 2
+A: It's mostly the usual. I just couldn't shake off the feeling of dread about coming back to work.
+B: I get that. Sometimes it helps to have something to look forward to during the week. Maybe we can grab lunch together on Wednesday?",All weekend I've been dreading today.  I hate Mondays.  I feel rubbish.,not sarcastic,1,"A's statements express genuine feelings of dread and dislike for Mondays, indicating that they are not being sarcastic but rather sincere about their emotions.",1,True,514
+69,"Turn 1
+A: Hey there! Happy birthday! How old are you today, 21?
+B: Haha, thanks! Close, but I'm actually 25.
+
+Turn 2
+A: Ah, I was just trying to make you feel younger! At my favourite cafe:
+
+Barista: It's your birthday today? You must be like, 30, right?
+
+I'm 23 but no hard feelings... What can I get for the birthday star today?
+B: I'll take my usual latte, but maybe with an extra shot of espresso to celebrate!","At my favourite cafe:
+
+Barista: It's your birthday today? You must be like, 30, right?
+
+I'm 23 but no hard feelings...",not sarcastic,2,"A was sharing a personal anecdote about a similar situation they experienced at their favorite cafe, where the barista mistakenly guessed their age to be older. This was not meant to be sarcastic but rather to relate to B's situation humorously.",1,True,414
+54,"Turn 1
+A: You know, I used to be so anxious about the lockdowns and all the restrictions. It felt like the world was closing in on me.
+B: I totally get that. It was such a stressful time. I remember feeling overwhelmed by all the uncertainty.
+
+Turn 2
+A: But now, I feel like I've become more accepting of the situation. I'm sure I'm getting more laid back about the whole virus thing.  There is speculation about a possible lockdown after Christmas, and I've got to the stage of ""never mind, we've had 3 already...""If another lockdown happens, I think I'd handle it much better.
+B: Same here. I think we've all learned to adapt in our own ways. For me, focusing on small daily routines really helped me cope with the changes.","I'm sure I'm getting more laid back about the whole virus thing.  There is speculation about a possible lockdown after Christmas, and I've got to the stage of ""never mind, we've had 3 already...""",not sarcastic,2,"A's statement reflects a genuine shift in attitude towards the situation, indicating acceptance and a more relaxed approach. There is no indication of sarcasm in A's tone.",1,True,725
+5,"Turn 1
+A: Man, last night was wild! I can't believe we ended up at that karaoke bar. Do you remember when I tried to sing ""Bohemian Rhapsody""?
+B: Oh, I remember! You were really going for those high notes. It was hilarious. I think everyone in the bar was cheering you on.
+
+Turn 2
+A: Yeah, it was a blast. Drinks last night was a bit messy. May get some more beers tonight. Not sure though. I'm kind of tempted to do it all over again tonight. What do you think? Up for another round of chaos?
+B: Hmm, it does sound tempting. But maybe we should take it easy tonight? My head's still spinning from last night. How about we just grab some drinks and chill instead?",Drinks last night was a bit messy. May get some more beers tonight. Not sure though.,not sarcastic,2,"Yes, I agree. A's statement about the drinks being messy and considering getting more beers tonight seems genuine and reflects their actual thoughts and experiences from the previous night. There is no indication of sarcasm in their tone or wording.",1,True,663
+16,"Turn 1
+A: I'm really stressed about Christmas this year. With the Omicron variant spreading, I'm not sure if it's safe to have our usual family gathering. My grandparents are in their 80s, and I don't want to risk their health.
+B: I know what you mean. My parents are also getting older, and I'm worried about them too. It's so frustrating that the government hasn't given us clear guidelines. It feels like we're left to figure it out on our own.
+
+Turn 2
+A: Exactly. I was hoping for some concrete advice by now, but everything is so vague. I can't believe the mixed messages coming from the government re Omicron and socialising over Christmas- no one seems to know what's going on! Should we get everyone tested before meeting? Or maybe just do a virtual celebration again?
+B: Testing sounds like a good idea, but it's not foolproof. And virtual celebrations are so impersonal. I miss the warmth of being together in person. Maybe we could do a smaller, more controlled gathering with just immediate family?",I can't believe the mixed messages coming from the government re Omicron and socialising over Christmas- no one seems to know what's going on!,not sarcastic,2,"A's statement expresses genuine frustration and confusion about the lack of clear guidance from the government regarding the Omicron variant and socializing over Christmas. There is no indication of sarcasm; rather, A is earnestly concerned about the situation.",1,True,1010
+67,"Turn 1
+A: You know, ever since those department stores closed, I've been struggling to find a good gift for my wife. How's a guy supposed to shop for wife's birthday and Christmas in Aberdeen since John Lewis and Debenhams deserted the city? It's like all the convenient options just vanished overnight.
+B: I hear you. It's been tough finding decent places to shop around here lately. Have you tried any of the local boutiques? They sometimes have unique stuff you wouldn't find in the big stores.
+
+Turn 2
+A: I haven't really explored the boutiques much. Do you have any recommendations?
+B: Yeah, there's this little place on Maple Street called ""Charming Finds."" They have a great selection of handmade jewelry and other unique gifts. It might be worth checking out.",How's a guy supposed to shop for wife's birthday and Christmas in Aberdeen since John Lewis and Debenhams deserted the city?,not sarcastic,1,"A's statement reflects genuine frustration and concern about finding a good gift for his wife due to the closure of major department stores. There is no indication of sarcasm; rather, it seems to be a straightforward expression of a real problem he is facing.",1,True,767
+117,"Turn 1
+A: You know, I saw another patient this morning who had to wait three weeks just to get an appointment. It's getting ridiculous.
+B: Really? That's surprising. I read an article yesterday praising GPs for their efficiency and dedication. They made it sound like everything's running smoothly.
+
+Turn 2
+A: Oh, sure, everything's just peachy. I really haven't a clue why people think GP's aren't working when you look at all the supportive news headlines around!If you consider drowning in paperwork and barely having time to breathe as ""running smoothly.""
+B: Wow, I had no idea it was that bad. The media really paints a different picture. How are you managing with all that pressure?",I really haven't a clue why people think GP's aren't working when you look at all the supportive news headlines around!,sarcastic,2,"Yes, A was being sarcastic. The phrase ""everything's just peachy"" and the mention of supportive news headlines, followed by the reality of ""drowning in paperwork and barely having time to breathe,"" indicates that A is using sarcasm to highlight the discrepancy between the media portrayal and the actual situation.",1,True,688
+14,"Turn 1
+A: ""Well, looks like Accrington's trying to set a new record for the most consecutive rainy days."" Another gorgeous day in sunny Accrington!
+B: ""At this rate, we might need to start building an ark.""
+
+Turn 2
+A: ""I was thinking more along the lines of investing in a canoe. At least we'd get to work faster.""
+B: ""True, and we could avoid the traffic jams. Silver linings, right?""",Another gorgeous day in sunny Accrington!,sarcastic,1,"Yes, A was being sarcastic. The phrase ""Another gorgeous day in sunny Accrington!"" is clearly ironic given the context that Accrington is experiencing many consecutive rainy days.",1,True,385
 101,"Turn 1
-A: Ugh, I've been stuck at this airport for two days now because of the storm. It's so frustrating!
-B: That sounds awful. I'm really sorry you're going through this. Is there any update on when you might be able to leave?
+A: ""Hey B, I noticed that the font size on the title of your report is slightly different from the rest. Can you fix that?""
+B: ""Oh, absolutely. Because we all know the success of this project hinges on perfect font consistency.""
 
 Turn 2
-A: They just told us we might have to fly to a different city and wait out the storm there. Day 2 stuck in the Taipei airport. Possibly going to LA to wait out the storm. Didn't think I'd make it to Cali for the 1st time this way This wasn't part of my plan at all.
-B: Wow, that's really unexpected. Hang in there. If you need anything or just want to vent, I'm here for you.",Day 2 stuck in the Taipei airport. Possibly going to LA to wait out the storm. Didn't think I'd make it to Cali for the 1st time this way,negative,2,"Yes, A was being negative. They expressed frustration about being stuck in the airport for two days and mentioned that going to LA was not part of their plan, indicating disappointment and dissatisfaction with the situation.",1,True,612
-15,"Turn 1
-A: I heard our favorite singer is going to be on ""Live with Kelly and Michael"" tomorrow! ""I feel like tomorrow on Live with Kelly and Michael, they're gonna show the video of Shawn singing I Don't Even Know Your Name, I'm excited!""
-B: Really? That's awesome! I can't wait to see what they talk about.
+A: ""I just think attention to detail is important. if you listen carefully, you can hear me not carig Also, the margins on page three seem a bit off.""
+B: ""Right, because the margins are definitely what our clients are most concerned about. I'll get right on that.""","if you listen carefully, you can hear me not carig",sarcastic,2,"Yes, A was being sarcastic. The phrase ""if you listen carefully, you can hear me not carig"" is a sarcastic way of saying that A doesn't actually care about the font size issue, despite having pointed it out.",1,True,508
+40,"Turn 1
+A: Hi B, do you have a moment to chat? I'm planning to renovate my kitchen soon, and I know it might get a bit noisy with all the drilling and hammering. Ramish, I'm going to rennovate my kitchen . If there is a lot of noise I can't help that. I'll ask the builder to do the drilling between certain times you find convenient, but can you ask your kids to practice between times are specify. I wanted to see if we could coordinate the schedule to minimize any disruption, especially since I know your kids practice their instruments at home.
+
+B: Oh, hi A! Thanks for letting me know. I appreciate you being considerate about the noise. The kids usually practice in the late afternoon, around 4 to 6 PM. Do you have a specific time in mind for the renovation work?
 
 Turn 2
-A: I know, right? I hope they perform one of their new songs.
-B: That would be amazing. We should definitely watch it together and discuss it afterward.","""I feel like tomorrow on Live with Kelly and Michael, they're gonna show the video of Shawn singing I Don't Even Know Your Name, I'm excited!""",positive,1,"Yes, A was being positive. A expressed excitement about the upcoming appearance of their favorite singer on the show and the possibility of seeing a video of Shawn singing.",1,True,468
-85,"Turn 1
-A: I'm really worried about our defense for the next game. I don't think Christensen has been in great form lately. Really hope Chelsea start Baba instead of Ivanovic on Saturday, he's literally aged about 5 years over the summer
-B: Yeah, I get what you mean. Maybe it's time to give Chalobah a start. He's been solid whenever he's played.
+A: I was thinking of starting the noisy work in the mornings, say from 9 AM to 12 PM. Would that work for you? I can also try to avoid weekends if that helps.
+
+B: That sounds reasonable. Mornings are usually quieter for us, so it shouldn't be a problem. And avoiding weekends would be great, as we're often home more then. Thanks for being so thoughtful about this!","Ramish, I'm going to rennovate my kitchen . If there is a lot of noise I can't help that. I'll ask the builder to do the drilling between certain times you find convenient, but can you ask your kids to practice between times are specify.",not sarcastic,1,"A was being considerate and trying to coordinate the renovation schedule to minimize disruption for B and their kids. There is no indication of sarcasm in A's message; rather, A is showing a willingness to accommodate B's schedule.",1,True,1144
+1,"Turn 1
+A: ""Do you remember that trip we took to the mountains? I still think about how peaceful it was, just the two of us away from everything.""
+B: ""Of course I do. That was one of the best weekends we've ever had. I loved waking up to the sound of the birds and seeing you so relaxed.""
 
 Turn 2
-A: Exactly! Chalobah brings a lot of energy and seems more reliable right now. Plus, his passing is pretty sharp.
-B: True, and with our current strategy, having someone who can distribute the ball well from the back could make a big difference. Let's hope Tuchel sees it the same way.","Really hope Chelsea start Baba instead of Ivanovic on Saturday, he's literally aged about 5 years over the summer",negative,1,"Yes, A was being negative. A expressed concern about the defense and criticized Ivanovic by saying he has aged significantly over the summer, implying a decline in his performance.",1,True,639
-2,"Turn 1
-A: Did you do anything interesting over the weekend?
-B: Yeah, I watched the movie adaptation of that book I told you about.
+A: ""I felt so connected to you during that trip. my darling my dear my darling It's moments like those that remind me how lucky I am to have you in my life.""
+B: ""I feel the same way, love. Every day with you is a blessing, and I cherish all the memories we've made together.""",my darling my dear my darling,not sarcastic,2,"The context of the conversation is very affectionate and sincere, with both A and B expressing their love and appreciation for each other. A's repetition of ""my darling my dear my darling"" seems to be an expression of deep affection rather than sarcasm.",1,True,571
+24,"Turn 1
+A: Remember a couple of years ago when we didn't have this constant stream of new regulations? remember when we didn't see new rules for 21 months It feels like we had so much more breathing room back then.
+B: Oh, absolutely. We could actually focus on improving our processes and tackling long-term projects. Now, it seems like we're always in reactive mode, just trying to keep up.
 
 Turn 2
-A: Oh, really? How was it? I know you usually have strong opinions about these adaptations. ""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""
-B: It was a mixed bag. Some parts were well done, but they made a lot of changes that didn't sit well with me. It just didn't capture the essence of the book.","""I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me""",negative,2,"Yes, I agree. A's statement about ""Paper Towns"" indicates a negative sentiment. They mention that the movie was ""good I guess"" but immediately follow it with a complaint about the numerous changes compared to the book, which bothered them.",1,True,507
-108,"Turn 1
-A: Ugh, I shouldn't have taken that nap before the party. I thought it would help, but I feel even more exhausted now. ""In retrospect, the prefunk nap and midnight Red Bull may have been a poor decision.
-B: Yeah, I noticed you were struggling to stay awake. Maybe the energy drink at midnight wasn't the best idea either.
+A: Yeah, I miss those days. We had the chance to really dive deep into our work without the pressure of constant changes. It felt like we were making a real impact.
+B: I know what you mean. It was nice to have that stability. We could plan ahead and be proactive rather than scrambling to adapt. Hopefully, things will settle down soon so we can get back to that.",remember when we didn't see new rules for 21 months,not sarcastic,1,"Based on the context of the conversation, A is reminiscing about a time when there were fewer new regulations and expressing a genuine sense of nostalgia for that period. The tone of the conversation is reflective and sincere, not sarcastic.",1,True,762
+35,"Turn 1
+A: I think the manager did a fantastic job with the lineup changes. The team looked fresh and dynamic out there.
+B: Fresh, maybe, but changing all 11 players? That seems excessive. How can you build any consistency with that kind of turnover?
 
 Turn 2
-A: Definitely not. It gave me a quick boost, but now I feel like I'm crashing hard.
-B: I get it. Next time, maybe just stick to coffee earlier in the evening. It seems to work better for me.","""In retrospect, the prefunk nap and midnight Red Bull may have been a poor decision.",negative,1,"Yes, A was being negative. A expressed regret and dissatisfaction with their decision to take a nap and drink a Red Bull at midnight, indicating that these actions had adverse effects.",1,True,527
-78,"Turn 1
-A: You know, I've kind of lost interest in Kpop lately. looks like I'm done with Kpop guys I've been exploring other genres and activities.
-B: Oh, really? That's interesting. What have you been getting into instead?
+A: Sometimes you need to shake things up to get the best out of the squad. Full throttle? 11 players changed and playing the philosophy that the manager wants isn't grounds for slagging! Especially when we win! Clutching at straws here! Plus, the win proves that the new strategy worked.
+B: Sure, we won, but what about the long term? Constant changes could disrupt team chemistry. I'm not convinced this is sustainable.",Full throttle? 11 players changed and playing the philosophy that the manager wants isn't grounds for slagging! Especially when we win! Clutching at straws here!,not sarcastic,2,"A is defending the manager's decision to change all 11 players and is genuinely supportive of the strategy, especially since it led to a win. A's tone suggests they believe the changes were justified and effective, not sarcastic.",1,True,678
+10,"Turn 1
+A: I'm really dreading this family outing. Dreading going Christmas shopping with my anti-vax anti-mask sister this weekend. My sister's anti-vaccine and anti-mask views are going to make things so tense. I just know it's going to lead to some awkward moments, especially when we're out shopping.
+B: That sounds really tough. I can see why you're stressed. Maybe you could try to steer the conversation away from those topics if they come up? Or have a few neutral topics ready to switch to?
 
 Turn 2
-A: I've been listening to a lot of indie rock and also started taking up painting.
-B: That sounds cool! It's always nice to try new things and see where they take you.",looks like I'm done with Kpop guys,neutral,1,"A's statement ""looks like I'm done with Kpop guys"" suggests a sense of finality and a shift in interest, but it doesn't convey strong positive or negative emotions. It seems more like a neutral observation about their changing interests.",1,True,398
-100,"Turn 1
-A: Ugh, I just found out that our professor is playing Kpop in class this Thursday. that sucks. I'm forced to listen to Kpop on Thursday class. I guess my cells in brain are going to die out. I really can't stand it.
-B: Oh, that sounds rough. I guess it's not your thing, huh?
-
-Turn 2
-A: Yeah, it's just not my style at all. I wish they would pick something else.
-B: Maybe you can bring headphones and listen to your own music during the activity? It might help you get through it.",that sucks. I'm forced to listen to Kpop on Thursday class. I guess my cells in brain are going to die out.,negative,1,"Yes, I agree. A's statement ""that sucks"" and ""I guess my cells in brain are going to die out"" clearly indicate a negative sentiment towards the situation of having to listen to Kpop in class.",1,True,488
-7,"Turn 1
-A: Guess what? I finally found a new job with better hours!
-B: That's amazing! Congratulations! When do you start?
-
-Turn 2
-A: Thanks! I start next week, and tomorrow is my last early shift at Dunkin. Tomorrow is my last day waking up at 5:30 in the morning to work at Dunkin and I couldn't be happier
-B: Wow, that's fantastic news! I'm so happy for you. You deserve it after all those early mornings.",Tomorrow is my last day waking up at 5:30 in the morning to work at Dunkin and I couldn't be happier,positive,2,"Yes, A was being positive. A expressed happiness about finding a new job with better hours and mentioned being happy about not having to wake up early anymore.",1,True,407
-111,"Turn 1
-A: Ugh, my console's been acting up again. It keeps freezing in the middle of my games, and it's driving me nuts.
-B: That sucks. Have you tried checking for any system updates or maybe clearing some cache? Sometimes that helps.
-
-Turn 2
-A: Yeah, I did both, but it didn't make much of a difference. my PS4 died last night. I press the power button once it beeps, nothing happens. 2nd time beeps blue light comes on but nothing"" I'm starting to think it might be a hardware issue.
-B: Could be. Maybe it's overheating? Have you checked the vents and made sure it's getting enough airflow?","my PS4 died last night. I press the power button once it beeps, nothing happens. 2nd time beeps blue light comes on but nothing""",negative,2,"Yes, I agree. A's statement ""my PS4 died last night. I press the power button once it beeps, nothing happens. 2nd time beeps blue light comes on but nothing"" indicates frustration and disappointment, which are negative emotions.",1,True,592
-71,"Turn 1
-A: We had such a great family dinner last night! The food was amazing, and everyone was in such good spirits.
-B: That sounds wonderful! I'm glad you're having a good time. What's on the agenda for tomorrow?
-
-Turn 2
-A: We're planning to attend this event where Harris English will be. Lovely meal with the fam Day four at tomorrow come on Harris English It should be really fun!
-B: Wow, that's exciting! I've heard he's a great golfer. You'll have to tell me all about it afterward.",Lovely meal with the fam Day four at tomorrow come on Harris English,positive,2,"Yes, A was being positive. They expressed excitement about attending an event with Harris English and mentioned having a lovely meal with their family, which indicates a positive sentiment.",1,True,488
-62,"Turn 1
-A: I'm really looking forward to tomorrow. I've got a jiujitsu class in the morning and then the big UFC event in the evening. Jiujitsu tomorrow - then ufc 155 - it's gonna be a great day I can already tell
-B: That sounds awesome! I was planning to watch the fight too. Who are you rooting for?
-
-Turn 2
-A: I'm backing Oliveira. His ground game is just incredible. How about you?
-B: I'm all in for Gaethje. His striking is on another level. Should be an epic fight!",Jiujitsu tomorrow - then ufc 155 - it's gonna be a great day I can already tell,positive,1,"Yes, A was being positive. They expressed excitement and anticipation for both their jiujitsu class and the UFC event, indicating they are looking forward to the day.",1,True,471
-104,"Turn 1
-A: I can't believe how Congress is handling these deadlines. It's like they're playing a game with critical issues.
-B: Yeah, I noticed you seemed pretty upset. What's the latest that's got you so frustrated?
-
-Turn 2
-A: It's the Iran deal and the funding for Planned Parenthood. MT My 1st read of the day from Congress returns to tight deadlines, key farts on Iran deal, Planned Parenthood They keep pushing things to the last minute, and it's just so irresponsible.
-B: I hear you. It feels like they're not taking these issues seriously enough. Do you think there's any chance they'll get it together in time?","MT My 1st read of the day from Congress returns to tight deadlines, key farts on Iran deal, Planned Parenthood",negative,2,"Yes, A was being negative. A expressed frustration with Congress's handling of critical issues like the Iran deal and Planned Parenthood funding, describing their actions as irresponsible and likening them to playing a game with important deadlines.",1,True,616
-32,"Turn 1
-A: Imagine if Kanye West starred in the next season of ""True Detective."" Can you picture him as a brooding detective?
-B: Oh man, that would be wild! He'd probably have some epic monologues about the nature of reality and fame.
-
-Turn 2
-A: And you know he'd insist on doing the soundtrack too. Every episode would have a new Kanye track. I hope Kanye West is the lead on the 3rd season of true detective. Because this script is writing itself.
-B: Totally! It would be like a mix of intense crime drama and a Kanye concert. I'd watch that in a heartbeat.",I hope Kanye West is the lead on the 3rd season of true detective. Because this script is writing itself.,positive,2,"A's statement about Kanye West being the lead on the 3rd season of ""True Detective"" and the script writing itself suggests enthusiasm and excitement about the idea. This indicates a positive sentiment.",1,True,558
-65,"Turn 1
-A: Hey, did you hear about the local soccer game tonight? They're having a special promotion for the first 1,000 attendees. ""We're excited to have MYSA's support behind tomorrow night's game! First 1,000 people in the doors get a mini soccer ball!""
-B: Really? That sounds awesome! I was just thinking about what to do this evening. What time does it start?
-
-Turn 2
-A: It kicks off at 7 PM. I was planning to get there early to make sure I get in on the promotion. Want to join me?
-B: Absolutely! Let's meet up around 6:30 then. It'll be great to catch the game together and maybe grab some snacks beforehand.","""We're excited to have MYSA's support behind tomorrow night's game! First 1,000 people in the doors get a mini soccer ball!""",positive,1,"Yes, A was being positive. A was sharing exciting news about a special promotion at the local soccer game, which is generally a positive and enthusiastic statement.",1,True,615
-43,"Turn 1
-A: I'm not sure if I can make it to the ICC tomorrow. Ion think I'm going to ICC tomorrow.I have a few other things lined up.
-B: I understand. Do you think you might be able to join later in the day, or should I plan to go alone?
-
-Turn 2
-A: I might be able to swing by in the afternoon, but I can't promise anything. I'll let you know by tonight.
-B: Sounds good. Just keep me posted, and I'll adjust the schedule accordingly. Thanks!",Ion think I'm going to ICC tomorrow.,neutral,1,"Yes, I agree. A was being neutral in their response. They were simply stating their current situation and the possibility of not being able to attend the ICC due to other commitments. There was no strong positive or negative sentiment expressed.",1,True,440
-44,"Turn 1
-A: Remember that episode where Woody and FPS Russia did that crazy challenge? That was one of my favorites. woody are you going to do another mail monday with FPS Russia cause the last one was hilarious that was by far my fav Do you think they'll do more like that?
-B: Oh, absolutely! That one was epic. I think they hinted at doing something similar in their last Q&A. Fingers crossed!
-
-Turn 2
-A: Yeah, I caught that too. I love how they always manage to keep things fresh and exciting. What do you think they might try next?
-B: Maybe another wild stunt or a collaboration with another big creator. They always seem to have something up their sleeves. Can't wait to see what they come up with!",woody are you going to do another mail monday with FPS Russia cause the last one was hilarious that was by far my fav,positive,1,"Yes, A was being positive. They expressed enjoyment and enthusiasm about the previous collaboration between Woody and FPS Russia, calling it hilarious and their favorite.",1,True,701
-115,"Turn 1
-A: I can't believe you're more excited about seeing that headliner than Paul McCartney. He's a legend!""If you're going to Lolla next Friday and seeing a headliner other than Paul McCartney, I will have no respect in your opinion of music""
-B: I know, but I've seen Paul before, and this other band is one I've been dying to see live. It's just a different vibe.
-
-Turn 2
-A: I get that, but Paul McCartney is in a league of his own. Missing his set feels like a missed opportunity.
-B: I understand where you're coming from, but I think it's cool that we have different tastes. It makes our festival experience more diverse.","""If you're going to Lolla next Friday and seeing a headliner other than Paul McCartney, I will have no respect in your opinion of music""",negative,1,"Yes, A was being negative. A's statement, ""I will have no respect in your opinion of music,"" is a strong and dismissive remark that indicates a lack of respect for B's musical preferences.",1,True,627
-19,"Turn 1
-A: Did you hear about Brock Lesnar's return on WWE Raw? ICYMI: Last Monday in the city with Paul Heyman. This Monday he returns to WWE Raw with Brock Lesnar! And guess what, Paul Heyman's back with him!
-B: No way! That's awesome. I can't wait to see what kind of chaos they stir up. Any hints on what they're planning?
-
-Turn 2
-A: From what I heard, they're targeting Roman Reigns. It looks like we're in for some epic showdowns.
-B: Oh man, that sounds intense. I hope they really push the envelope with this storyline. Can't wait for the next episode!",ICYMI: Last Monday in the city with Paul Heyman. This Monday he returns to WWE Raw with Brock Lesnar!,neutral,1,"A's statement ""ICYMI: Last Monday in the city with Paul Heyman. This Monday he returns to WWE Raw with Brock Lesnar!"" is informative and factual, providing details about Brock Lesnar's return without expressing any personal feelings or opinions. Therefore, A was being neutral.",1,True,558
-6,"Turn 1
-A: I can't wait for Baylor's homecoming this weekend! The parade, the game, and all the events are going to be so much fun.
-B: I know, right? I'm really looking forward to the bonfire. Remember how amazing it was last year?
-
-Turn 2
-A: Absolutely! headed to Baylor homecoming tomorrow with my baber. Should be fun even without RG3! And even though that famous alumnus won't be there this time, I bet we'll still run into a lot of familiar faces.
-B: For sure. It's always great catching up with old friends. Plus, the energy of the crowd is just unbeatable. It's going to be a blast!",headed to Baylor homecoming tomorrow with my baber. Should be fun even without RG3!,positive,2,"Yes, A was being positive. They expressed excitement about attending Baylor's homecoming and mentioned that it should be fun even without RG3, indicating a positive outlook on the event.",1,True,588
-56,"Turn 1
-A: I can't believe how late it is! I've been so hooked on Game of Thrones that I completely lost track of time.
-B: Haha, I totally get it! That show has a way of pulling you in. I remember staying up until 3 AM just to finish a season.
-
-Turn 2
-A: Right? It's like you can't stop once you start. Its okay if its almost 5am and ive had no sleep in like three days cos im on the 4th season of Game of Thrones so who's the real winner here I think I might need a coffee IV at this point.
-B: Oh, for sure! But it's worth it for those epic plot twists. Just wait until you get to the Red Wedding—mind-blowing!",Its okay if its almost 5am and ive had no sleep in like three days cos im on the 4th season of Game of Thrones so who's the real winner here,positive,2,"A's statement, while acknowledging the lack of sleep and the late hour, is delivered with a sense of humor and enthusiasm about watching Game of Thrones. This suggests a positive sentiment despite the exhaustion.",1,True,610
+A: Yeah, I guess I could try that. It's just hard because she can be so vocal about her opinions. I don't want to end up in a big argument in the middle of a store.
+B: I get that. Maybe you could also set some boundaries beforehand? Let her know that you want to have a peaceful outing and would prefer to avoid certain topics. It might help to have a plan in place for how to handle it if things start to get heated.",Dreading going Christmas shopping with my anti-vax anti-mask sister this weekend.,not sarcastic,1,A's statement about dreading the outing and the specific mention of their sister's anti-vax and anti-mask views suggest genuine concern and stress about the situation. There is no indication of sarcasm in the context provided.,1,True,924
