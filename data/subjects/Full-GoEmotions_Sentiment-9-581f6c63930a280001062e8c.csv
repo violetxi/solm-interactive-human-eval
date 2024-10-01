@@ -1,0 +1,274 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I can't get over how clever the humor in ""Smart Laughs"" is. The way they weave in those subtle jokes is just brilliant.
+B: I get that, but ""Hilarious Times"" had me in stitches. The characters are so over-the-top, it's impossible not to laugh.
+
+Turn 2
+A: True, the characters are pretty wild. But I love how ""Smart Laughs"" makes you think a bit more.
+B: That's fair. I guess it just depends on what kind of mood you're in. They are both good in their own way. But the us is funnier lol Sometimes I just want to laugh without thinking too hard.",positive,2024-10-01T04:26:37.566000+00:00,"What was the person's sentiment when they said ""They are both good in their own way. But the us is funnier lol"" during the conversation?","Turn 1
+A: I can't get over how clever the humor in ""Smart Laughs"" is. The way they weave in those subtle jokes is just brilliant.
+B: I get that, but ""Hilarious Times"" had me in stitches. The characters are so over-the-top, it's impossible not to laugh.
+
+Turn 2
+A: True, the characters are pretty wild. But I love how ""Smart Laughs"" makes you think a bit more.
+B: That's fair. I guess it just depends on what kind of mood you're in. They are both good in their own way. But the us is funnier lol Sometimes I just want to laugh without thinking too hard.",They are both good in their own way. But the us is funnier lol,positive
+"Turn 1
+A: I've recently started investing, and it's been really exciting to see the potential for growth. It's empowering to make smart financial decisions and watch them pay off.
+B: That sounds fascinating! I'm new to the whole concept of investing. How exactly can it change one's financial trajectory?
+
+Turn 2
+A: Well, by investing wisely, you can accumulate wealth over time, which can significantly improve your financial stability and independence. But a worker who earns wealth can invest it and become a capital investor. In that case he is literally providing the capital. It's all about making informed choices and being patient.
+B: I see. So, it's more about long-term gains rather than quick profits. That makes sense. What kind of investments do you think are good for beginners?",positive,2024-10-01T04:28:21.538000+00:00,"What was the person's sentiment when they said ""But a worker who earns wealth can invest it and become a capital investor. In that case he is literally providing the capital."" during the conversation?","Turn 1
+A: I've recently started investing, and it's been really exciting to see the potential for growth. It's empowering to make smart financial decisions and watch them pay off.
+B: That sounds fascinating! I'm new to the whole concept of investing. How exactly can it change one's financial trajectory?
+
+Turn 2
+A: Well, by investing wisely, you can accumulate wealth over time, which can significantly improve your financial stability and independence. But a worker who earns wealth can invest it and become a capital investor. In that case he is literally providing the capital. It's all about making informed choices and being patient.
+B: I see. So, it's more about long-term gains rather than quick profits. That makes sense. What kind of investments do you think are good for beginners?",But a worker who earns wealth can invest it and become a capital investor. In that case he is literally providing the capital.,positive
+"Turn 1
+A: I just finished reviewing that report from John, and it was a nightmare. It was so poorly written, I could barely follow what he was trying to say. That was what was most nauseating for me honestly. Not a single period used once.
+B: I know exactly what you mean. I've had to deal with a few of those myself. It's really frustrating when basic punctuation is missing; it makes the whole process so much harder.
+
+Turn 2
+A: Yeah, it took me twice as long to get through it because I had to keep re-reading sentences to make sense of them.
+B: It's such a time sink. Maybe we should suggest a quick writing workshop for the team to help improve these reports. It would save us all a lot of headaches.",negative,2024-10-01T04:29:28.176000+00:00,"What was the person's sentiment when they said ""That was what was most nauseating for me honestly. Not a single period used once."" during the conversation?","Turn 1
+A: I just finished reviewing that report from John, and it was a nightmare. It was so poorly written, I could barely follow what he was trying to say. That was what was most nauseating for me honestly. Not a single period used once.
+B: I know exactly what you mean. I've had to deal with a few of those myself. It's really frustrating when basic punctuation is missing; it makes the whole process so much harder.
+
+Turn 2
+A: Yeah, it took me twice as long to get through it because I had to keep re-reading sentences to make sense of them.
+B: It's such a time sink. Maybe we should suggest a quick writing workshop for the team to help improve these reports. It would save us all a lot of headaches.",That was what was most nauseating for me honestly. Not a single period used once.,negative
+"Turn 1
+A: I've noticed you've been missing a lot of our meetups and haven't been keeping up with your work. Is everything okay?
+B: I didn't realize it was that obvious. I guess I've been feeling overwhelmed and just trying to escape it all.
+
+Turn 2
+A: I understand it's tough, but avoiding things is only making it worse for you and for those who care about you.
+B: You're right. Ouch. Hurts because it's true. I need to face this and start making some changes. Thanks for being honest with me.",negative,2024-10-01T04:26:14.576000+00:00,"What was the person's sentiment when they said ""Ouch. Hurts because it's true."" during the conversation?","Turn 1
+A: I've noticed you've been missing a lot of our meetups and haven't been keeping up with your work. Is everything okay?
+B: I didn't realize it was that obvious. I guess I've been feeling overwhelmed and just trying to escape it all.
+
+Turn 2
+A: I understand it's tough, but avoiding things is only making it worse for you and for those who care about you.
+B: You're right. Ouch. Hurts because it's true. I need to face this and start making some changes. Thanks for being honest with me.",Ouch. Hurts because it's true.,negative
+"Turn 1
+A: I reached out to several people to see if they might be interested in joining the community project.He's not interested, blessim...
+B: Oh, did you hear back from Sarah? I know she's usually swamped with her personal commitments.
+
+Turn 2
+A: Yes, I did. She mentioned that she can't commit right now because of her busy schedule, which is totally understandable.
+B: That makes sense. It's good to know she's still interested in the community, even if she can't participate this time.",positive,2024-10-01T04:24:52.353000+00:00,"What was the person's sentiment when they said ""He's not interested, blessim..."" during the conversation?","Turn 1
+A: I reached out to several people to see if they might be interested in joining the community project.He's not interested, blessim...
+B: Oh, did you hear back from Sarah? I know she's usually swamped with her personal commitments.
+
+Turn 2
+A: Yes, I did. She mentioned that she can't commit right now because of her busy schedule, which is totally understandable.
+B: That makes sense. It's good to know she's still interested in the community, even if she can't participate this time.","He's not interested, blessim...",positive
+"Turn 1
+A: Hey B, I just found the funniest video ever! You have to watch it right now.
+B: Haha, I bet it's good, but I've been swamped with work lately. Maybe later?
+
+Turn 2
+A: Trust me, you don't want to miss this one. It's exactly what you need for a good laugh. Just take a quick break and watch it!I'm legit posting this everywhere. It's hilarious. I've given you many chances.
+B: Alright, alright, you convinced me. Send it over, I'll check it out now.",positive,2024-10-01T04:30:03.158000+00:00,"What was the person's sentiment when they said ""I'm legit posting this everywhere. It's hilarious. I've given you many chances."" during the conversation?","Turn 1
+A: Hey B, I just found the funniest video ever! You have to watch it right now.
+B: Haha, I bet it's good, but I've been swamped with work lately. Maybe later?
+
+Turn 2
+A: Trust me, you don't want to miss this one. It's exactly what you need for a good laugh. Just take a quick break and watch it!I'm legit posting this everywhere. It's hilarious. I've given you many chances.
+B: Alright, alright, you convinced me. Send it over, I'll check it out now.",I'm legit posting this everywhere. It's hilarious. I've given you many chances.,positive
+"Turn 1
+A: The trip was amazing! We visited so many beautiful places, like the old town with its charming streets and the stunning coastal cliffs.
+B: That sounds incredible! What was your favorite part of the trip?
+
+Turn 2
+A: Oh, definitely the coastal cliffs. The view was breathtaking, and we even went on a boat tour to see the caves up close. I love miramar It was unforgettable.
+B: Wow, that must have been spectacular! Did you take any photos?",positive,2024-10-01T04:29:07.703000+00:00,"What was the person's sentiment when they said ""I love miramar"" during the conversation?","Turn 1
+A: The trip was amazing! We visited so many beautiful places, like the old town with its charming streets and the stunning coastal cliffs.
+B: That sounds incredible! What was your favorite part of the trip?
+
+Turn 2
+A: Oh, definitely the coastal cliffs. The view was breathtaking, and we even went on a boat tour to see the caves up close. I love miramar It was unforgettable.
+B: Wow, that must have been spectacular! Did you take any photos?",I love miramar,positive
+"Turn 1
+A: Oh wow, you made cookies? They smell amazing!
+B: Yeah, I thought you could use a little pick-me-up. How are you holding up?
+
+Turn 2
+A: Honestly, this is exactly what I needed today. This made my rainy day Thank you so much.
+B: I'm glad to hear that. Let's sit down and enjoy them together.",positive,2024-10-01T04:25:05.404000+00:00,"What was the person's sentiment when they said ""This made my rainy day"" during the conversation?","Turn 1
+A: Oh wow, you made cookies? They smell amazing!
+B: Yeah, I thought you could use a little pick-me-up. How are you holding up?
+
+Turn 2
+A: Honestly, this is exactly what I needed today. This made my rainy day Thank you so much.
+B: I'm glad to hear that. Let's sit down and enjoy them together.",This made my rainy day,positive
+"Turn 1
+A: I can't believe we missed the deadline. This project was crucial, and it feels like everyone dropped the ball, including you.Guilty as well!
+B: I know, I made a mistake, but it wasn't just me. Remember, John also didn't deliver his part on time.
+
+Turn 2
+A: It's just frustrating. We had clear timelines, and now we're all facing the consequences.
+B: I understand your frustration, but we need to look at the whole picture. It was a team effort, and we all need to learn from this.",negative,2024-10-01T04:27:15.449000+00:00,"What was the person's sentiment when they said ""Guilty as well!"" during the conversation?","Turn 1
+A: I can't believe we missed the deadline. This project was crucial, and it feels like everyone dropped the ball, including you.Guilty as well!
+B: I know, I made a mistake, but it wasn't just me. Remember, John also didn't deliver his part on time.
+
+Turn 2
+A: It's just frustrating. We had clear timelines, and now we're all facing the consequences.
+B: I understand your frustration, but we need to look at the whole picture. It was a team effort, and we all need to learn from this.",Guilty as well!,negative
+"Turn 1
+A: I've been looking at the housing density data for the suburbs we're considering. For instance, Suburb X has about 1,200 homes per square mile, while Suburb Y has around 900.
+B: Hmm, that seems like a reasonable distribution. I dont think thats too far off. There are 200k homes in most suburbs. 
+
+Turn 2
+A: Yeah, and it looks like Suburb Z is even less dense, with only 700 homes per square mile. This might affect our planning for the new transportation route.
+B: True, those numbers could definitely influence our infrastructure decisions.",neutral,2024-10-01T04:25:28.694000+00:00,"What was the person's sentiment when they said ""I dont think thats too far off. There are 200k homes in most suburbs."" during the conversation?","Turn 1
+A: I've been looking at the housing density data for the suburbs we're considering. For instance, Suburb X has about 1,200 homes per square mile, while Suburb Y has around 900.
+B: Hmm, that seems like a reasonable distribution. I dont think thats too far off. There are 200k homes in most suburbs. 
+
+Turn 2
+A: Yeah, and it looks like Suburb Z is even less dense, with only 700 homes per square mile. This might affect our planning for the new transportation route.
+B: True, those numbers could definitely influence our infrastructure decisions.",I dont think thats too far off. There are 200k homes in most suburbs.,neutral
+"Turn 1
+A: Well, that didn't go as planned. I guess our masterpiece wasn't quite the hit we thought it would be.Sign my name to it too lol it was so awful we deserve pain and suffering for that!
+B: Yeah, seems like we missed the mark by a mile. Maybe we should stick to our day jobs.
+
+Turn 2
+A: Or we could start a new career in receiving criticism. We seem to be naturals at that.
+B: True, we could open a consultancy on how not to impress judges. At least we'd have plenty of material to work with!",negative,2024-10-01T04:25:53.225000+00:00,"What was the person's sentiment when they said ""Sign my name to it too lol it was so awful we deserve pain and suffering for that!"" during the conversation?","Turn 1
+A: Well, that didn't go as planned. I guess our masterpiece wasn't quite the hit we thought it would be.Sign my name to it too lol it was so awful we deserve pain and suffering for that!
+B: Yeah, seems like we missed the mark by a mile. Maybe we should stick to our day jobs.
+
+Turn 2
+A: Or we could start a new career in receiving criticism. We seem to be naturals at that.
+B: True, we could open a consultancy on how not to impress judges. At least we'd have plenty of material to work with!",Sign my name to it too lol it was so awful we deserve pain and suffering for that!,negative
+"Turn 1
+A: Oh wow, that's hilarious! I can't believe that happened to you at work!
+B: Yeah, it was pretty embarrassing. I was hoping you'd understand how awkward it was for me.
+
+Turn 2
+A: I'm really sorry, I didn't mean to laugh. I felt bad for laughing I should have been more supportive.
+B: It's okay, I just needed someone to listen. Thanks for understanding.",negative,2024-10-01T04:27:45.643000+00:00,"What was the person's sentiment when they said ""I felt bad for laughing"" during the conversation?","Turn 1
+A: Oh wow, that's hilarious! I can't believe that happened to you at work!
+B: Yeah, it was pretty embarrassing. I was hoping you'd understand how awkward it was for me.
+
+Turn 2
+A: I'm really sorry, I didn't mean to laugh. I felt bad for laughing I should have been more supportive.
+B: It's okay, I just needed someone to listen. Thanks for understanding.",I felt bad for laughing,negative
+"Turn 1
+A: I've been hitting a wall with this task. It's been really tough to make any progress.
+B: Yeah, it sounds frustrating. Maybe taking a short break could help clear your mind?
+
+Turn 2
+A: I was actually thinking about stepping back from the project for a bit. It's just been one setback after another. i should just quit yikes
+B: I get it. Sometimes a fresh perspective can make a big difference. If you need to talk more about it, I'm here.",negative,2024-10-01T04:24:36.352000+00:00,"What was the person's sentiment when they said ""i should just quit yikes"" during the conversation?","Turn 1
+A: I've been hitting a wall with this task. It's been really tough to make any progress.
+B: Yeah, it sounds frustrating. Maybe taking a short break could help clear your mind?
+
+Turn 2
+A: I was actually thinking about stepping back from the project for a bit. It's just been one setback after another. i should just quit yikes
+B: I get it. Sometimes a fresh perspective can make a big difference. If you need to talk more about it, I'm here.",i should just quit yikes,negative
+"Turn 1
+A: I sent the documents to the client this morning, but I haven't received any acknowledgment yet. It's really unusual for them. Just got a bit worried because it's always showed up instantly for me before
+B: That is strange. They usually reply pretty quickly. Have you checked if the email went through properly?
+
+Turn 2
+A: Yes, I double-checked everything. The email was sent without any issues. I'm just worried this delay might affect our project timeline.
+B: Let's give it a bit more time. Meanwhile, I'll draft a follow-up email just in case. We can send it if we don't hear back soon.",negative,2024-10-01T04:27:32.293000+00:00,"What was the person's sentiment when they said ""Just got a bit worried because it's always showed up instantly for me before"" during the conversation?","Turn 1
+A: I sent the documents to the client this morning, but I haven't received any acknowledgment yet. It's really unusual for them. Just got a bit worried because it's always showed up instantly for me before
+B: That is strange. They usually reply pretty quickly. Have you checked if the email went through properly?
+
+Turn 2
+A: Yes, I double-checked everything. The email was sent without any issues. I'm just worried this delay might affect our project timeline.
+B: Let's give it a bit more time. Meanwhile, I'll draft a follow-up email just in case. We can send it if we don't hear back soon.",Just got a bit worried because it's always showed up instantly for me before,negative
+"Turn 1
+A: You know, I remember my residency days being incredibly tough. There were times I questioned if I was cut out for this.
+B: Really? It's hard to imagine you ever feeling that way. You seem so confident and composed now.
+
+Turn 2
+A: Trust me, I had my fair share of doubts. It's a steep learning curve, but those experiences shaped me into the physician I am today.
+B: Hearing that actually makes me feel a lot better. Thanks for having that self awareness, as a physician in training I feel stupid daily. It's a very humbling job It's reassuring to know that even seasoned doctors went through similar struggles.",positive,2024-10-01T04:29:46.876000+00:00,"What was the person's sentiment when they said ""Thanks for having that self awareness, as a physician in training I feel stupid daily. It's a very humbling job"" during the conversation?","Turn 1
+A: You know, I remember my residency days being incredibly tough. There were times I questioned if I was cut out for this.
+B: Really? It's hard to imagine you ever feeling that way. You seem so confident and composed now.
+
+Turn 2
+A: Trust me, I had my fair share of doubts. It's a steep learning curve, but those experiences shaped me into the physician I am today.
+B: Hearing that actually makes me feel a lot better. Thanks for having that self awareness, as a physician in training I feel stupid daily. It's a very humbling job It's reassuring to know that even seasoned doctors went through similar struggles.","Thanks for having that self awareness, as a physician in training I feel stupid daily. It's a very humbling job",positive
+"Turn 1
+A: ""So, what's the deal with airplane food? It's like they think we're all pigeons or something!"" *flails arms dramatically*
+B: *laughing* ""Oh my gosh, A, you never fail to crack me up! You're a walking comedy show!What a nutbar lol""
+
+Turn 2
+A: *switches to a deep, exaggerated voice* ""Thank you, thank you, I'll be here all week! Try the veal!""
+B: *grinning* ""Seriously, where do you come up with this stuff? You're the best!""",positive,2024-10-01T04:24:09.965000+00:00,"What was the person's sentiment when they said ""What a nutbar lol"" during the conversation?","Turn 1
+A: ""So, what's the deal with airplane food? It's like they think we're all pigeons or something!"" *flails arms dramatically*
+B: *laughing* ""Oh my gosh, A, you never fail to crack me up! You're a walking comedy show!What a nutbar lol""
+
+Turn 2
+A: *switches to a deep, exaggerated voice* ""Thank you, thank you, I'll be here all week! Try the veal!""
+B: *grinning* ""Seriously, where do you come up with this stuff? You're the best!""",What a nutbar lol,positive
+"Turn 1
+A: You know, when my kid was little, they used to follow me everywhere. I couldn't even go to the bathroom without them wanting to tag along!
+B: Oh, that's so sweet! They must have really adored you. Did it ever get overwhelming?
+
+Turn 2
+A: Sometimes, but mostly it was just endearing. I remember once, I was trying to cook dinner, and they insisted on helping, even though they could barely reach the counter. I can't wait to tell my daughter how she used to love me so much she even wanted to watch me poop.
+B: That's adorable! It's those little moments that make such great memories. Do they still like to help out in the kitchen?",positive,2024-10-01T04:26:58.900000+00:00,"What was the person's sentiment when they said ""I can't wait to tell my daughter how she used to love me so much she even wanted to watch me poop."" during the conversation?","Turn 1
+A: You know, when my kid was little, they used to follow me everywhere. I couldn't even go to the bathroom without them wanting to tag along!
+B: Oh, that's so sweet! They must have really adored you. Did it ever get overwhelming?
+
+Turn 2
+A: Sometimes, but mostly it was just endearing. I remember once, I was trying to cook dinner, and they insisted on helping, even though they could barely reach the counter. I can't wait to tell my daughter how she used to love me so much she even wanted to watch me poop.
+B: That's adorable! It's those little moments that make such great memories. Do they still like to help out in the kitchen?",I can't wait to tell my daughter how she used to love me so much she even wanted to watch me poop.,positive
+"Turn 1
+A: Hey, I know we've got a lot to talk about, but I've had a really rough day. How about we watch that new movie that just came out instead?
+B: Hmm, I was hoping we could sort out the chores tonight, but I guess a movie sounds good too. Which one do you have in mind?
+
+Turn 2
+A: How about that comedy everyone's been raving about? I could really use a good laugh.
+B: Sure, that sounds fun. Sorry. I am avoiding arguments today. Enjoy the video. Let's grab some snacks and get comfortable.",neutral,2024-10-01T04:28:55.627000+00:00,"What was the person's sentiment when they said ""Sorry. I am avoiding arguments today. Enjoy the video."" during the conversation?","Turn 1
+A: Hey, I know we've got a lot to talk about, but I've had a really rough day. How about we watch that new movie that just came out instead?
+B: Hmm, I was hoping we could sort out the chores tonight, but I guess a movie sounds good too. Which one do you have in mind?
+
+Turn 2
+A: How about that comedy everyone's been raving about? I could really use a good laugh.
+B: Sure, that sounds fun. Sorry. I am avoiding arguments today. Enjoy the video. Let's grab some snacks and get comfortable.",Sorry. I am avoiding arguments today. Enjoy the video.,neutral
+"Turn 1
+A: I've been trying to be upfront about the minor flaws in our shavers, thinking it would make us seem more trustworthy. But it doesn't seem to be working as well as I hoped.
+B: I understand your intention, but focusing on the negatives can actually undermine your product's value. Instead, you should highlight the unique benefits and quality features that set your shavers apart from the competition.
+
+Turn 2
+A: It's frustrating to realize I've been going about this the wrong way. I thought honesty would build a stronger connection with customers. Wait so I shouldn't try to sell my shavers by telling my customers that they aren't good enough and could do better? Damn.
+B: Honesty is important, but it's about how you frame it. Emphasize the strengths and address any concerns in a way that reassures customers. Positive messaging can still be genuine and build trust.",neutral,2024-10-01T04:23:51.879000+00:00,"What was the person's sentiment when they said ""Wait so I shouldn't try to sell my shavers by telling my customers that they aren't good enough and could do better? Damn."" during the conversation?","Turn 1
+A: I've been trying to be upfront about the minor flaws in our shavers, thinking it would make us seem more trustworthy. But it doesn't seem to be working as well as I hoped.
+B: I understand your intention, but focusing on the negatives can actually undermine your product's value. Instead, you should highlight the unique benefits and quality features that set your shavers apart from the competition.
+
+Turn 2
+A: It's frustrating to realize I've been going about this the wrong way. I thought honesty would build a stronger connection with customers. Wait so I shouldn't try to sell my shavers by telling my customers that they aren't good enough and could do better? Damn.
+B: Honesty is important, but it's about how you frame it. Emphasize the strengths and address any concerns in a way that reassures customers. Positive messaging can still be genuine and build trust.",Wait so I shouldn't try to sell my shavers by telling my customers that they aren't good enough and could do better? Damn.,neutral
+"Turn 1
+A: Hey, I'm having some trouble with my computer. It's been acting up all day, and I can't seem to figure out what's wrong. Do you think you could take a look at it when you have a moment?I'll see what I can do, thanks man.
+B: Of course! I'd be happy to help. I know how frustrating tech issues can be. Just let me know when you're free, and we can sort it out together.
+
+Turn 2
+A: Thanks so much! I really appreciate it. How about this evening? I should be home by 6.
+B: That works perfectly for me. I'll swing by around 6:30 then. We'll get it sorted out in no time!",positive,2024-10-01T04:23:19.415000+00:00,"What was the person's sentiment when they said ""I'll see what I can do, thanks man."" during the conversation?","Turn 1
+A: Hey, I'm having some trouble with my computer. It's been acting up all day, and I can't seem to figure out what's wrong. Do you think you could take a look at it when you have a moment?I'll see what I can do, thanks man.
+B: Of course! I'd be happy to help. I know how frustrating tech issues can be. Just let me know when you're free, and we can sort it out together.
+
+Turn 2
+A: Thanks so much! I really appreciate it. How about this evening? I should be home by 6.
+B: That works perfectly for me. I'll swing by around 6:30 then. We'll get it sorted out in no time!","I'll see what I can do, thanks man.",positive
+"Turn 1
+A: Remember that massive history project we had to do last semester? I thought I was never going to finish it.
+B: Oh, I know! That project was brutal. I barely survived my chemistry final. I bet college will have even more of those.
+
+Turn 2
+A: Probably, but at least we know we can handle it. We got through high school, right?
+B: Exactly! We'll just take it one step at a time and laugh about it later. cant wait to go through a rebranded version of this pain again in college too Bring on the challenges!",negative,2024-10-01T04:28:07.409000+00:00,"What was the person's sentiment when they said ""cant wait to go through a rebranded version of this pain again in college too"" during the conversation?","Turn 1
+A: Remember that massive history project we had to do last semester? I thought I was never going to finish it.
+B: Oh, I know! That project was brutal. I barely survived my chemistry final. I bet college will have even more of those.
+
+Turn 2
+A: Probably, but at least we know we can handle it. We got through high school, right?
+B: Exactly! We'll just take it one step at a time and laugh about it later. cant wait to go through a rebranded version of this pain again in college too Bring on the challenges!",cant wait to go through a rebranded version of this pain again in college too,negative
