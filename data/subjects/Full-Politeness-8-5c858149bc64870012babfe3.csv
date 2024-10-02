@@ -1,0 +1,293 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: I was really surprised to hear about the new project direction during the meeting. Based on what? Don't you think a little discussion is in order before doing this? Why wasn't this discussed with the team beforehand?
+B: I understand your concern, A. I felt the change was urgent and needed to be implemented quickly to keep us on track.
+
+Turn 2
+A: But making such a significant decision without any input from the team makes us feel sidelined. We all have valuable insights that could have contributed.
+B: You're right, A. I should have communicated better and involved everyone in the decision-making process. Let's discuss how we can improve this moving forward.",Impolite,2024-10-02T05:19:09.893000+00:00,"What was the person's sentiment when they said ""Based on what? Don't you think a little discussion is in order before doing this?"" during the conversation?","Turn 1
+A: I was really surprised to hear about the new project direction during the meeting. Based on what? Don't you think a little discussion is in order before doing this? Why wasn't this discussed with the team beforehand?
+B: I understand your concern, A. I felt the change was urgent and needed to be implemented quickly to keep us on track.
+
+Turn 2
+A: But making such a significant decision without any input from the team makes us feel sidelined. We all have valuable insights that could have contributed.
+B: You're right, A. I should have communicated better and involved everyone in the decision-making process. Let's discuss how we can improve this moving forward.",Based on what? Don't you think a little discussion is in order before doing this?,Impolite
+"Turn 1
+A: Hey B, I've noticed that someone keeps making disruptive or incorrect edits to the IIHF page. It's really frustrating because it's undermining all the hard work we've put in. Do you have any advice on how to handle this?
+
+B: Hi A, I understand your frustration. The first step is to document the problematic edits and try to engage with the user on their talk page. Sometimes, a polite explanation can resolve the issue. If that doesn't work, we can escalate it to the moderators for further action.
+
+Turn 2
+A: Thanks, B. I'll start by documenting the edits and reaching out to the user. Hey, can you block this moron from editing the IIHF Page? Or what can i do in such cases? If it continues, I'll definitely need your help to escalate it. It's just disheartening to see the page getting messed up.
+
+B: No problem, A. Keep me posted on how it goes. We're all in this together to maintain the quality of the page. If you need any support or if things get out of hand, don't hesitate to reach out.",Impolite,2024-10-02T05:21:38.977000+00:00,"What was the person's sentiment when they said ""Hey, can you block this moron from editing the IIHF Page? Or what can i do in such cases?"" during the conversation?","Turn 1
+A: Hey B, I've noticed that someone keeps making disruptive or incorrect edits to the IIHF page. It's really frustrating because it's undermining all the hard work we've put in. Do you have any advice on how to handle this?
+
+B: Hi A, I understand your frustration. The first step is to document the problematic edits and try to engage with the user on their talk page. Sometimes, a polite explanation can resolve the issue. If that doesn't work, we can escalate it to the moderators for further action.
+
+Turn 2
+A: Thanks, B. I'll start by documenting the edits and reaching out to the user. Hey, can you block this moron from editing the IIHF Page? Or what can i do in such cases? If it continues, I'll definitely need your help to escalate it. It's just disheartening to see the page getting messed up.
+
+B: No problem, A. Keep me posted on how it goes. We're all in this together to maintain the quality of the page. If you need any support or if things get out of hand, don't hesitate to reach out.","Hey, can you block this moron from editing the IIHF Page? Or what can i do in such cases?",Impolite
+"Turn 1
+A: Hi B, I noticed you're interested in the article I flagged for deletion. The main issue is the lack of reliable sources to establish the subject's notability. Do you think you could find more credible references or improve the content to better demonstrate its significance?
+B: Hi A, thanks for reaching out. I believe the subject is notable, but I understand the concern. I'll look for additional sources and work on enhancing the article. Could you give me some time to make these improvements?
+
+Turn 2
+A: Absolutely, take your time. If you need any help or guidance on what kind of sources would be most effective, feel free to ask. It was nominated for speedy deletion because he wasn't notable. However, if I undelete the page, will you improve the article and be able to provide decent sources to help his notability? I'm here to assist.
+B: That's very kind of you, A. I'll start gathering more information and will reach out if I need any advice. Thanks for being open to discussing this.",Polite,2024-10-02T05:22:09.231000+00:00,"What was the person's sentiment when they said ""It was nominated for speedy deletion because he wasn't notable. However, if I undelete the page, will you improve the article and be able to provide decent sources to help his notability?"" during the conversation?","Turn 1
+A: Hi B, I noticed you're interested in the article I flagged for deletion. The main issue is the lack of reliable sources to establish the subject's notability. Do you think you could find more credible references or improve the content to better demonstrate its significance?
+B: Hi A, thanks for reaching out. I believe the subject is notable, but I understand the concern. I'll look for additional sources and work on enhancing the article. Could you give me some time to make these improvements?
+
+Turn 2
+A: Absolutely, take your time. If you need any help or guidance on what kind of sources would be most effective, feel free to ask. It was nominated for speedy deletion because he wasn't notable. However, if I undelete the page, will you improve the article and be able to provide decent sources to help his notability? I'm here to assist.
+B: That's very kind of you, A. I'll start gathering more information and will reach out if I need any advice. Thanks for being open to discussing this.","It was nominated for speedy deletion because he wasn't notable. However, if I undelete the page, will you improve the article and be able to provide decent sources to help his notability?",Polite
+"Turn 1
+A: Hey B, I noticed you brought up the sensitive topic in the group chat. Remember, Person C asked for a 48-hour pause on that discussion. Now why would you do that when he specifically stated that he didn't want to discuss the matter for 48 hours and I specifically stated that people should come here? Did you not read his request?
+B: Oh, I thought it was okay to mention it briefly. I didn't realize it would be an issue.
+
+Turn 2
+A: I understand, but we need to respect Person C's request. Let's hold off on that topic until the period is over.
+B: Got it. I'll make sure to wait next time. Thanks for the reminder.",Impolite,2024-10-02T05:27:38.578000+00:00,"What was the person's sentiment when they said ""Now why would you do that when he specifically stated that he didn't want to discuss the matter for 48 hours and I specifically stated that people should come here? Did you not read his request?"" during the conversation?","Turn 1
+A: Hey B, I noticed you brought up the sensitive topic in the group chat. Remember, Person C asked for a 48-hour pause on that discussion. Now why would you do that when he specifically stated that he didn't want to discuss the matter for 48 hours and I specifically stated that people should come here? Did you not read his request?
+B: Oh, I thought it was okay to mention it briefly. I didn't realize it would be an issue.
+
+Turn 2
+A: I understand, but we need to respect Person C's request. Let's hold off on that topic until the period is over.
+B: Got it. I'll make sure to wait next time. Thanks for the reminder.",Now why would you do that when he specifically stated that he didn't want to discuss the matter for 48 hours and I specifically stated that people should come here? Did you not read his request?,Impolite
+"Turn 1
+A: Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?Hi there! I just wanted to say thank you for fixing the error on my profile page so quickly. I really appreciate it. Also, I was wondering if you could guide me on how to archive my past interactions or discussions on the platform?
+
+B: You're welcome! I'm glad I could help. As for archiving your past interactions, you can go to your account settings and look for the ""History"" section. There, you'll find options to archive or delete your past discussions. If you need more detailed steps, let me know!
+
+Turn 2
+A: Thanks for the tip! I'll check out the ""History"" section. If I run into any issues, I'll definitely reach out again. Have a great day!
+
+B: No problem at all! Feel free to reach out anytime you need assistance. Have a wonderful day too!",Polite,2024-10-02T05:18:29.042000+00:00,"What was the person's sentiment when they said ""Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?"" during the conversation?","Turn 1
+A: Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?Hi there! I just wanted to say thank you for fixing the error on my profile page so quickly. I really appreciate it. Also, I was wondering if you could guide me on how to archive my past interactions or discussions on the platform?
+
+B: You're welcome! I'm glad I could help. As for archiving your past interactions, you can go to your account settings and look for the ""History"" section. There, you'll find options to archive or delete your past discussions. If you need more detailed steps, let me know!
+
+Turn 2
+A: Thanks for the tip! I'll check out the ""History"" section. If I run into any issues, I'll definitely reach out again. Have a great day!
+
+B: No problem at all! Feel free to reach out anytime you need assistance. Have a wonderful day too!",Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?,Polite
+"Turn 1
+A: Hey B, I noticed you mentioned some edit histories seem to be missing. I'm really sorry about that. Can you point me to the specific articles where this is happening?
+B: Sure, A. It's mostly in the recent updates to the user guide and the troubleshooting sections. I think it might have happened during the reorganization.
+
+Turn 2
+A: Got it, thanks for letting me know. Sorry, I've moved a number of articles and thought I did it correctly. How is moving done properly without losing the edit history? I'll look into those sections right away. Do you have any suggestions on the best way to handle the edits to ensure we keep the history intact?
+B: I think if we use the version control features more consistently, it should help. Maybe we can also set up a quick review process before finalizing any major changes.",Polite,2024-10-02T05:28:01.332000+00:00,"What was the person's sentiment when they said ""Sorry, I've moved a number of articles and thought I did it correctly. How is moving done properly without losing the edit history?"" during the conversation?","Turn 1
+A: Hey B, I noticed you mentioned some edit histories seem to be missing. I'm really sorry about that. Can you point me to the specific articles where this is happening?
+B: Sure, A. It's mostly in the recent updates to the user guide and the troubleshooting sections. I think it might have happened during the reorganization.
+
+Turn 2
+A: Got it, thanks for letting me know. Sorry, I've moved a number of articles and thought I did it correctly. How is moving done properly without losing the edit history? I'll look into those sections right away. Do you have any suggestions on the best way to handle the edits to ensure we keep the history intact?
+B: I think if we use the version control features more consistently, it should help. Maybe we can also set up a quick review process before finalizing any major changes.","Sorry, I've moved a number of articles and thought I did it correctly. How is moving done properly without losing the edit history?",Polite
+"Turn 1
+A: B, I've decided to address the issue with Haskett. I will take out Haskett in deference to you. OK? We'll be reassigning him to another project.
+B: Oh, I see. I appreciate you taking action, but the way this is being handled feels a bit abrupt.
+
+Turn 2
+A: I understand your concern, but we need to move forward efficiently. Let's focus on our tasks now.
+B: Alright, I'll do my best. I just hope this approach doesn't cause more tension in the team.
+
+...",Ambiguous,2024-10-02T05:23:28.947000+00:00,"What was the person's sentiment when they said ""I will take out Haskett in deference to you. OK?"" during the conversation?","Turn 1
+A: B, I've decided to address the issue with Haskett. I will take out Haskett in deference to you. OK? We'll be reassigning him to another project.
+B: Oh, I see. I appreciate you taking action, but the way this is being handled feels a bit abrupt.
+
+Turn 2
+A: I understand your concern, but we need to move forward efficiently. Let's focus on our tasks now.
+B: Alright, I'll do my best. I just hope this approach doesn't cause more tension in the team.
+
+...",I will take out Haskett in deference to you. OK?,Ambiguous
+"Turn 1
+A: Hey B, I just finished compiling the report for the project. Could you take a look at it when you have a moment?
+B: Sure, A. I can review it right after this meeting. Is there anything specific you want me to focus on?
+
+Turn 2
+A: That sounds great, thanks. Just make sure the data sections are clear and that the conclusions align with our findings.
+B: Will do. Once I've reviewed it, I'll let you know if there are any changes needed before we send it to the other department.This is now ready for transfer. I will leave it up to you if that is OK?",Polite,2024-10-02T05:23:43.611000+00:00,"What was the person's sentiment when they said ""This is now ready for transfer. I will leave it up to you if that is OK?"" during the conversation?","Turn 1
+A: Hey B, I just finished compiling the report for the project. Could you take a look at it when you have a moment?
+B: Sure, A. I can review it right after this meeting. Is there anything specific you want me to focus on?
+
+Turn 2
+A: That sounds great, thanks. Just make sure the data sections are clear and that the conclusions align with our findings.
+B: Will do. Once I've reviewed it, I'll let you know if there are any changes needed before we send it to the other department.This is now ready for transfer. I will leave it up to you if that is OK?",This is now ready for transfer. I will leave it up to you if that is OK?,Polite
+"Turn 1
+A: Hi, I'm working on a formal document and need some help with punctuation when quoting someone. Should the punctuation go inside or outside the quotation marks?I just saw that after I left this message to you. By speech marks do you mean quotation marks?
+
+B: Great question! In American English, punctuation like periods and commas typically go inside the quotation marks. For example, you would write, ""He said it was urgent."" However, for other punctuation marks like colons, semicolons, and dashes, they usually go outside unless they're part of the quoted material.
+
+Turn 2
+A: Thanks for the clarification! What about question marks and exclamation points? Do they follow the same rule?
+
+B: It depends on the context. If the question mark or exclamation point is part of the quoted material, it goes inside the quotation marks. For example, ""Did she really say, 'I can't believe it'?"" But if it's not part of the quoted material, it stays outside: Did she really say, ""I can't believe it""?
+
+...",Polite,2024-10-02T05:21:11.379000+00:00,"What was the person's sentiment when they said ""I just saw that after I left this message to you. By speech marks do you mean quotation marks?"" during the conversation?","Turn 1
+A: Hi, I'm working on a formal document and need some help with punctuation when quoting someone. Should the punctuation go inside or outside the quotation marks?I just saw that after I left this message to you. By speech marks do you mean quotation marks?
+
+B: Great question! In American English, punctuation like periods and commas typically go inside the quotation marks. For example, you would write, ""He said it was urgent."" However, for other punctuation marks like colons, semicolons, and dashes, they usually go outside unless they're part of the quoted material.
+
+Turn 2
+A: Thanks for the clarification! What about question marks and exclamation points? Do they follow the same rule?
+
+B: It depends on the context. If the question mark or exclamation point is part of the quoted material, it goes inside the quotation marks. For example, ""Did she really say, 'I can't believe it'?"" But if it's not part of the quoted material, it stays outside: Did she really say, ""I can't believe it""?
+
+...",I just saw that after I left this message to you. By speech marks do you mean quotation marks?,Polite
+"Turn 1
+A: B, this is your final warning. If you don't stop the taunting and offensive language, there will be consequences.Hm. Are you asking to be banned?
+B: Oh, come on, it's just a game! Everyone's being too sensitive.
+
+Turn 2
+A: It's not about sensitivity; it's about respect. Keep it up, and you'll find yourself banned.
+B: Fine, whatever. I'll tone it down.",Impolite,2024-10-02T05:28:29.226000+00:00,"What was the person's sentiment when they said ""Hm. Are you asking to be banned?"" during the conversation?","Turn 1
+A: B, this is your final warning. If you don't stop the taunting and offensive language, there will be consequences.Hm. Are you asking to be banned?
+B: Oh, come on, it's just a game! Everyone's being too sensitive.
+
+Turn 2
+A: It's not about sensitivity; it's about respect. Keep it up, and you'll find yourself banned.
+B: Fine, whatever. I'll tone it down.",Hm. Are you asking to be banned?,Impolite
+"Turn 1
+A: Hi, I borrowed your bit on Rauls Razor for my userpage. I hope thats okay?Hi B! I hope you're doing well. I wanted to let you know that I recently created my user page and included a concept you posted about last month. Your insights were really helpful, and I thought it would be great to share them with others. I hope that's okay with you!
+
+B: Hi A! Thanks for reaching out and letting me know. I'm glad you found my post helpful. I appreciate you asking—it's totally fine with me. It's always nice to see my ideas being shared and appreciated by others.
+
+Turn 2
+A: Great, I'm glad to hear that! I'll make sure to credit you properly on my page. If there's anything specific you'd like me to include or any way I can improve the attribution, just let me know.
+
+B: That sounds perfect, A. Thank you for being considerate. If you need any more information or have any questions about the concept, feel free to ask. Keep up the good work on your page!",Polite,2024-10-02T05:20:23.543000+00:00,"What was the person's sentiment when they said ""Hi, I borrowed your bit on Rauls Razor for my userpage. I hope thats okay?"" during the conversation?","Turn 1
+A: Hi, I borrowed your bit on Rauls Razor for my userpage. I hope thats okay?Hi B! I hope you're doing well. I wanted to let you know that I recently created my user page and included a concept you posted about last month. Your insights were really helpful, and I thought it would be great to share them with others. I hope that's okay with you!
+
+B: Hi A! Thanks for reaching out and letting me know. I'm glad you found my post helpful. I appreciate you asking—it's totally fine with me. It's always nice to see my ideas being shared and appreciated by others.
+
+Turn 2
+A: Great, I'm glad to hear that! I'll make sure to credit you properly on my page. If there's anything specific you'd like me to include or any way I can improve the attribution, just let me know.
+
+B: That sounds perfect, A. Thank you for being considerate. If you need any more information or have any questions about the concept, feel free to ask. Keep up the good work on your page!","Hi, I borrowed your bit on Rauls Razor for my userpage. I hope thats okay?",Polite
+"Turn 1
+A: ""Wow, B, did you use a random word generator for this section?""
+B: ""What do you mean by that? I spent a lot of time on this part.""
+
+Turn 2
+A: ""Oh, no, I was just kidding! I didn't mean it seriously. I was trying to be sarcastic, ok??""
+B: ""Well, it didn't come across that way. Maybe next time, be a bit clearer with your jokes.""",Impolite,2024-10-02T05:22:22.084000+00:00,"What was the person's sentiment when they said ""I was trying to be sarcastic, ok??"" during the conversation?","Turn 1
+A: ""Wow, B, did you use a random word generator for this section?""
+B: ""What do you mean by that? I spent a lot of time on this part.""
+
+Turn 2
+A: ""Oh, no, I was just kidding! I didn't mean it seriously. I was trying to be sarcastic, ok??""
+B: ""Well, it didn't come across that way. Maybe next time, be a bit clearer with your jokes.""","I was trying to be sarcastic, ok??",Impolite
+"Turn 1
+A: Hey B, do you have a moment? I could really use your expertise on something.
+B: Sure, A! What's up?
+
+Turn 2
+A: I'm trying to adjust the layout of our webpage so that the main content is more prominent at the top. Do you know how to make the 'All Star Template' appear only at the bottom, as well as the 'Confirmed future sites', so the actual table appears at the top of the page?? I'm not quite sure how to move the other elements to the bottom without messing up the design. Could you give me some pointers?
+B: Absolutely, I'd be happy to help. We can use some CSS techniques to rearrange the elements. Let's take a look at the code together and I'll walk you through it.",Polite,2024-10-02T05:23:08.871000+00:00,"What was the person's sentiment when they said ""Do you know how to make the 'All Star Template' appear only at the bottom, as well as the 'Confirmed future sites', so the actual table appears at the top of the page??"" during the conversation?","Turn 1
+A: Hey B, do you have a moment? I could really use your expertise on something.
+B: Sure, A! What's up?
+
+Turn 2
+A: I'm trying to adjust the layout of our webpage so that the main content is more prominent at the top. Do you know how to make the 'All Star Template' appear only at the bottom, as well as the 'Confirmed future sites', so the actual table appears at the top of the page?? I'm not quite sure how to move the other elements to the bottom without messing up the design. Could you give me some pointers?
+B: Absolutely, I'd be happy to help. We can use some CSS techniques to rearrange the elements. Let's take a look at the code together and I'll walk you through it.","Do you know how to make the 'All Star Template' appear only at the bottom, as well as the 'Confirmed future sites', so the actual table appears at the top of the page??",Polite
+"Turn 1
+A: Hey B, thanks for taking the time to look at my graph. I'm still getting the hang of data visualization. Do you have any suggestions on how I can make this clearer?
+B: Of course, A! You've made a great start. One thing that might help is using different colors to distinguish the various sections. It can make the data easier to interpret at a glance.
+
+Turn 2
+A: That makes sense. I was worried about overcomplicating it with too many colors. Good one for the beginning. Is it possible to paint, say, red color an area between the null line and the curve below it, and blue (or green) an area between the null line and the curve above it? Do you have any tips on choosing the right colors?
+B: Absolutely. Try to use a consistent color palette that is both visually appealing and accessible. For instance, using contrasting colors can highlight differences effectively, but make sure they are not too harsh on the eyes. Tools like colorblind-friendly palettes can also be very helpful.",Polite,2024-10-02T05:20:00.238000+00:00,"What was the person's sentiment when they said ""Good one for the beginning. Is it possible to paint, say, red color an area between the null line and the curve below it, and blue (or green) an area between the null line and the curve above it?"" during the conversation?","Turn 1
+A: Hey B, thanks for taking the time to look at my graph. I'm still getting the hang of data visualization. Do you have any suggestions on how I can make this clearer?
+B: Of course, A! You've made a great start. One thing that might help is using different colors to distinguish the various sections. It can make the data easier to interpret at a glance.
+
+Turn 2
+A: That makes sense. I was worried about overcomplicating it with too many colors. Good one for the beginning. Is it possible to paint, say, red color an area between the null line and the curve below it, and blue (or green) an area between the null line and the curve above it? Do you have any tips on choosing the right colors?
+B: Absolutely. Try to use a consistent color palette that is both visually appealing and accessible. For instance, using contrasting colors can highlight differences effectively, but make sure they are not too harsh on the eyes. Tools like colorblind-friendly palettes can also be very helpful.","Good one for the beginning. Is it possible to paint, say, red color an area between the null line and the curve below it, and blue (or green) an area between the null line and the curve above it?",Polite
+"Turn 1
+A: I've noticed that some of the translated articles are not aligning properly with our formatting guidelines. I'm considering a few options to fix this, but I wanted to get your perspective on the best approach.
+
+B: Thanks for bringing this up, A. Can you show me a specific example so we can discuss the possible solutions in detail?
+
+Turn 2
+A: Sure, here's one of the articles where the text alignment seems off, especially in the bullet points section. I started working on missing translations of news titles inside citations, but discovered that square brackets leave an ugly residue, while round ones may not be optimal, since they clash visually with the language ones. Would it be acceptable to just use the English version as title? I was thinking of adjusting the margins or maybe tweaking the font size.
+
+B: I see what you mean. Adjusting the margins could work, but let's also consider using a consistent template for all articles to maintain uniformity. That way, we can ensure the formatting is consistent across the board.",Polite,2024-10-02T05:26:48.755000+00:00,"What was the person's sentiment when they said ""I started working on missing translations of news titles inside citations, but discovered that square brackets leave an ugly residue, while round ones may not be optimal, since they clash visually with the language ones. Would it be acceptable to just use the English version as title?"" during the conversation?","Turn 1
+A: I've noticed that some of the translated articles are not aligning properly with our formatting guidelines. I'm considering a few options to fix this, but I wanted to get your perspective on the best approach.
+
+B: Thanks for bringing this up, A. Can you show me a specific example so we can discuss the possible solutions in detail?
+
+Turn 2
+A: Sure, here's one of the articles where the text alignment seems off, especially in the bullet points section. I started working on missing translations of news titles inside citations, but discovered that square brackets leave an ugly residue, while round ones may not be optimal, since they clash visually with the language ones. Would it be acceptable to just use the English version as title? I was thinking of adjusting the margins or maybe tweaking the font size.
+
+B: I see what you mean. Adjusting the margins could work, but let's also consider using a consistent template for all articles to maintain uniformity. That way, we can ensure the formatting is consistent across the board.","I started working on missing translations of news titles inside citations, but discovered that square brackets leave an ugly residue, while round ones may not be optimal, since they clash visually with the language ones. Would it be acceptable to just use the English version as title?",Polite
+"Turn 1
+A: I spent a lot of time developing this new strategy because I really think it can help us meet our goals more efficiently.
+B: I understand that, but I have serious doubts about its effectiveness. It seems like it could end up being a waste of our time and resources.
+
+Turn 2
+A: I don't appreciate you dismissing my efforts like that. I am genuinely trying to do something useful and helpful. Why are you attacking it? I believe in this approach and think it deserves a fair chance.
+B: I'm not dismissing your efforts. I'm just concerned about the potential risks and want to make sure we're making the best decision for the project.",Impolite,2024-10-02T05:28:51.291000+00:00,"What was the person's sentiment when they said ""I am genuinely trying to do something useful and helpful. Why are you attacking it?"" during the conversation?","Turn 1
+A: I spent a lot of time developing this new strategy because I really think it can help us meet our goals more efficiently.
+B: I understand that, but I have serious doubts about its effectiveness. It seems like it could end up being a waste of our time and resources.
+
+Turn 2
+A: I don't appreciate you dismissing my efforts like that. I am genuinely trying to do something useful and helpful. Why are you attacking it? I believe in this approach and think it deserves a fair chance.
+B: I'm not dismissing your efforts. I'm just concerned about the potential risks and want to make sure we're making the best decision for the project.",I am genuinely trying to do something useful and helpful. Why are you attacking it?,Impolite
+"Turn 1
+A: I've been feeling really overwhelmed lately with all the editing and managing on Wikipedia. It's starting to take a toll on me.
+B: I noticed you've been looking pretty tired. Maybe it would help to take a short break from it all. I can help you figure out a way to manage your workload better.
+
+Turn 2
+A: I appreciate your concern. I just feel like there's so much to do, and I don't want to let the community down.
+B: I understand, but your well-being is important too. Elkman, there are other ways to take a Wikibreak. Can I help? We can find a way to distribute some of your tasks or even take a temporary step back. It's okay to prioritize your health.",Polite,2024-10-02T05:27:09.076000+00:00,"What was the person's sentiment when they said ""Elkman, there are other ways to take a Wikibreak. Can I help?"" during the conversation?","Turn 1
+A: I've been feeling really overwhelmed lately with all the editing and managing on Wikipedia. It's starting to take a toll on me.
+B: I noticed you've been looking pretty tired. Maybe it would help to take a short break from it all. I can help you figure out a way to manage your workload better.
+
+Turn 2
+A: I appreciate your concern. I just feel like there's so much to do, and I don't want to let the community down.
+B: I understand, but your well-being is important too. Elkman, there are other ways to take a Wikibreak. Can I help? We can find a way to distribute some of your tasks or even take a temporary step back. It's okay to prioritize your health.","Elkman, there are other ways to take a Wikibreak. Can I help?",Polite
+"Turn 1
+A: We've successfully completed several junctions, and the feedback has been overwhelmingly positive. The new designs seem to be making a real difference.
+B: That's fantastic to hear, A. I was thinking, while we're on a roll, maybe we could look into enhancing pedestrian access points. It could further improve the usability and safety of these areas.
+
+Turn 2
+A: That's a great idea, B. Improving pedestrian access could definitely complement our current work. Do you have any specific enhancements in mind?
+B: Yes, I was considering adding more crosswalks and better signage. Good work on the canal junctions! Where appropriate, do you think we should give the nearest pedestrian access point, from the road (as opposed to canal) network? We could also look into creating more accessible pathways for people with disabilities. What do you think?",Polite,2024-10-02T05:27:50.154000+00:00,"What was the person's sentiment when they said ""Good work on the canal junctions! Where appropriate, do you think we should give the nearest pedestrian access point, from the road (as opposed to canal) network?"" during the conversation?","Turn 1
+A: We've successfully completed several junctions, and the feedback has been overwhelmingly positive. The new designs seem to be making a real difference.
+B: That's fantastic to hear, A. I was thinking, while we're on a roll, maybe we could look into enhancing pedestrian access points. It could further improve the usability and safety of these areas.
+
+Turn 2
+A: That's a great idea, B. Improving pedestrian access could definitely complement our current work. Do you have any specific enhancements in mind?
+B: Yes, I was considering adding more crosswalks and better signage. Good work on the canal junctions! Where appropriate, do you think we should give the nearest pedestrian access point, from the road (as opposed to canal) network? We could also look into creating more accessible pathways for people with disabilities. What do you think?","Good work on the canal junctions! Where appropriate, do you think we should give the nearest pedestrian access point, from the road (as opposed to canal) network?",Polite
+"Turn 1
+A: Hey B, I've been going through the list of accounts flagged for long-term abuse, but I'm running into a problem. Some of these accounts don't seem to exist. I actually went to the long term abuse page right now, and tried to block them, but it seems that those accounts don't exist. Have they been listed incorrectly? Have you encountered this before?
+
+B: Hi A, yes, I've seen that happen occasionally. It could be due to the accounts being deleted or merged. Let me take a look at the list and see if I can help clarify what's going on.
+
+Turn 2
+A: Thanks, that would be great. I just want to make sure we're handling these cases correctly and not missing anything important.
+
+B: No problem. Let's review the list together and cross-check with our internal records. We can figure out the best course of action from there.",Polite,2024-10-02T05:19:49.285000+00:00,"What was the person's sentiment when they said ""I actually went to the long term abuse page right now, and tried to block them, but it seems that those accounts don't exist. Have they been listed incorrectly?"" during the conversation?","Turn 1
+A: Hey B, I've been going through the list of accounts flagged for long-term abuse, but I'm running into a problem. Some of these accounts don't seem to exist. I actually went to the long term abuse page right now, and tried to block them, but it seems that those accounts don't exist. Have they been listed incorrectly? Have you encountered this before?
+
+B: Hi A, yes, I've seen that happen occasionally. It could be due to the accounts being deleted or merged. Let me take a look at the list and see if I can help clarify what's going on.
+
+Turn 2
+A: Thanks, that would be great. I just want to make sure we're handling these cases correctly and not missing anything important.
+
+B: No problem. Let's review the list together and cross-check with our internal records. We can figure out the best course of action from there.","I actually went to the long term abuse page right now, and tried to block them, but it seems that those accounts don't exist. Have they been listed incorrectly?",Polite
+"Turn 1
+A: Are you crazy down here?! What the heck is going on?What on earth happened here, B? I just got home and the place is a disaster.
+B: Oh, hey A! Sorry about the mess. We decided to have an impromptu party. Didn't think it would get this out of hand.
+
+Turn 2
+A: I really needed some peace and quiet after work. This is the last thing I expected to come home to.
+B: I get it, A. I'll ask everyone to leave soon and I'll clean up. I didn't mean to disrupt your evening.",Impolite,2024-10-02T05:24:04.305000+00:00,"What was the person's sentiment when they said ""Are you crazy down here?! What the heck is going on?"" during the conversation?","Turn 1
+A: Are you crazy down here?! What the heck is going on?What on earth happened here, B? I just got home and the place is a disaster.
+B: Oh, hey A! Sorry about the mess. We decided to have an impromptu party. Didn't think it would get this out of hand.
+
+Turn 2
+A: I really needed some peace and quiet after work. This is the last thing I expected to come home to.
+B: I get it, A. I'll ask everyone to leave soon and I'll clean up. I didn't mean to disrupt your evening.",Are you crazy down here?! What the heck is going on?,Impolite

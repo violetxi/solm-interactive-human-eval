@@ -124,7 +124,8 @@ if __name__ == '__main__':
     # current_data_prefix = 'Full-Politeness-4'
     # current_data_prefix = 'Full-Politeness-5'
     # current_data_prefix = 'Full-Politeness-6'
-    current_data_prefix = 'Full-Politeness-7'
+    # current_data_prefix = 'Full-Politeness-7'
+    current_data_prefix = 'Full-Politeness-8'
 
     """ Chinese Datasets """
     # current_data_prefix = 'CSTANCE-ch-1'
