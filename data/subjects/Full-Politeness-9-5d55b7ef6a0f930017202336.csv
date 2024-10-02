@@ -1,0 +1,301 @@
+statement,response,timestamp,question,Conversation,Statement,Answer
+"Turn 1
+A: Hi B, I noticed that the nomination period was closed earlier than expected. I had several nominations I was planning to submit, and now I have to resubmit each one individually. That was awfully quick, considering that it was open for less than 12 hours. Since I must now do them individually, must they be considered Second Nominations if I put them up again? Can you explain why the period was shortened without informing the rest of the committee?
+
+B: Hi A, I understand your frustration. We had to close the nomination period early due to some unforeseen scheduling conflicts. I apologize for not communicating this to the committee sooner. Let's discuss how we can streamline the resubmission process for you.
+
+Turn 2
+A: I appreciate the explanation, but it would have been helpful to know about the change in advance. Is there a way we can ensure better communication in the future? Also, any tips on how to expedite the resubmission process would be greatly appreciated.
+
+B: Absolutely, A. We'll make sure to improve our communication going forward. For now, you can send me the details of your nominations directly, and I'll assist in getting them processed quickly. Thank you for your understanding.",Impolite,2024-10-02T07:16:24.580000+00:00,"Was the person intended to be polite when they said ""That was awfully quick, considering that it was open for less than 12 hours. Since I must now do them individually, must they be considered Second Nominations if I put them up again?"" in the conversation?","Turn 1
+A: Hi B, I noticed that the nomination period was closed earlier than expected. I had several nominations I was planning to submit, and now I have to resubmit each one individually. That was awfully quick, considering that it was open for less than 12 hours. Since I must now do them individually, must they be considered Second Nominations if I put them up again? Can you explain why the period was shortened without informing the rest of the committee?
+
+B: Hi A, I understand your frustration. We had to close the nomination period early due to some unforeseen scheduling conflicts. I apologize for not communicating this to the committee sooner. Let's discuss how we can streamline the resubmission process for you.
+
+Turn 2
+A: I appreciate the explanation, but it would have been helpful to know about the change in advance. Is there a way we can ensure better communication in the future? Also, any tips on how to expedite the resubmission process would be greatly appreciated.
+
+B: Absolutely, A. We'll make sure to improve our communication going forward. For now, you can send me the details of your nominations directly, and I'll assist in getting them processed quickly. Thank you for your understanding.","That was awfully quick, considering that it was open for less than 12 hours. Since I must now do them individually, must they be considered Second Nominations if I put them up again?",Impolite
+"Turn 1
+B: Hey A, I noticed the image of the early computer prototype you shared is missing from our project folder. Could you re-upload it when you get a chance?
+A: Oh, sure thing, B! I didn't realize it was gone. I'll get that back up right away.
+
+Turn 2
+B: Thanks, A. That image is really crucial for the section I'm working on. Some time ago you uploaded an image of the Knowledge Navigator, which was speedied some time later. Can you upload the file again? Appreciate it!
+A: No problem at all. Just re-uploaded it. Let me know if there's anything else you need.",Ambiguous,2024-10-02T07:12:22.050000+00:00,"Was the person intended to be polite when they said ""Some time ago you uploaded an image of the Knowledge Navigator, which was speedied some time later. Can you upload the file again?"" in the conversation?","Turn 1
+B: Hey A, I noticed the image of the early computer prototype you shared is missing from our project folder. Could you re-upload it when you get a chance?
+A: Oh, sure thing, B! I didn't realize it was gone. I'll get that back up right away.
+
+Turn 2
+B: Thanks, A. That image is really crucial for the section I'm working on. Some time ago you uploaded an image of the Knowledge Navigator, which was speedied some time later. Can you upload the file again? Appreciate it!
+A: No problem at all. Just re-uploaded it. Let me know if there's anything else you need.","Some time ago you uploaded an image of the Knowledge Navigator, which was speedied some time later. Can you upload the file again?",Ambiguous
+"Turn 1
+A: Hi B, I followed the steps you provided, but the webpage is still not loading correctly. Could you help me troubleshoot further?
+
+B: Of course, A. Let's try a few more things. Can you clear your browser cache and cookies, then restart your browser and see if that helps?
+
+Turn 2
+A: I cleared the cache and cookies and restarted the browser, but the issue persists. Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening? Is there anything else we can try?
+
+B: Thanks for doing that, A. Let's check if there are any browser extensions that might be interfering. Could you disable them temporarily and see if the page loads properly?",Ambiguous,2024-10-02T07:09:28.556000+00:00,"Was the person intended to be polite when they said ""Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening?"" in the conversation?","Turn 1
+A: Hi B, I followed the steps you provided, but the webpage is still not loading correctly. Could you help me troubleshoot further?
+
+B: Of course, A. Let's try a few more things. Can you clear your browser cache and cookies, then restart your browser and see if that helps?
+
+Turn 2
+A: I cleared the cache and cookies and restarted the browser, but the issue persists. Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening? Is there anything else we can try?
+
+B: Thanks for doing that, A. Let's check if there are any browser extensions that might be interfering. Could you disable them temporarily and see if the page loads properly?",Thanks for the info but the page is still giving the same warnings. Any ideas why this might be happening?,Ambiguous
+"Turn 1
+A: Hey B, I realized I might have missed some of your suggestions about handling duplicate user profiles. Can we go over them again? I want to make sure we're on the same page and improve our system.
+
+B: Of course, A. No problem at all. I suggested implementing a more robust matching algorithm that checks for similarities in user data fields like email and phone number. This should help us identify duplicates more accurately.
+
+Turn 2
+A: That makes sense. Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user? Do you think we should also add a manual review step for cases where the algorithm isn't certain?
+
+B: Absolutely. A manual review step would be a good safety net to catch any edge cases the algorithm might miss. We can set up a workflow for that. Let's work on integrating these changes.
+
+...",Ambiguous,2024-10-02T07:11:51.329000+00:00,"Was the person intended to be polite when they said ""Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user?"" in the conversation?","Turn 1
+A: Hey B, I realized I might have missed some of your suggestions about handling duplicate user profiles. Can we go over them again? I want to make sure we're on the same page and improve our system.
+
+B: Of course, A. No problem at all. I suggested implementing a more robust matching algorithm that checks for similarities in user data fields like email and phone number. This should help us identify duplicates more accurately.
+
+Turn 2
+A: That makes sense. Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user? Do you think we should also add a manual review step for cases where the algorithm isn't certain?
+
+B: Absolutely. A manual review step would be a good safety net to catch any edge cases the algorithm might miss. We can set up a workflow for that. Let's work on integrating these changes.
+
+...","Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user?",Ambiguous
+"Turn 1
+B: Hi A, I noticed you made some changes to the structure of the data table. Could you explain the reasoning behind it? I want to make sure I understand the modifications fully.
+
+A: Sure, B! I restructured the table to better align with our analysis goals. The new format should make it easier to run our queries and visualize the data trends. Let me know if you have any specific questions about the changes.
+
+Turn 2
+B: That makes sense, thanks for clarifying. I did have one question about the new column you added. How does it fit into our current analysis framework?I'm interested in why you reduced the columns from 5 to 2? Could you reply on my talk page please?
+
+A: Great question! The new column captures additional metadata that we were previously missing. This should help us refine our results and provide more detailed insights. If you need more details, I'm happy to walk you through it.",Impolite,2024-10-02T07:11:19.408000+00:00,"Was the person intended to be polite when they said ""I'm interested in why you reduced the columns from 5 to 2? Could you reply on my talk page please?"" in the conversation?","Turn 1
+B: Hi A, I noticed you made some changes to the structure of the data table. Could you explain the reasoning behind it? I want to make sure I understand the modifications fully.
+
+A: Sure, B! I restructured the table to better align with our analysis goals. The new format should make it easier to run our queries and visualize the data trends. Let me know if you have any specific questions about the changes.
+
+Turn 2
+B: That makes sense, thanks for clarifying. I did have one question about the new column you added. How does it fit into our current analysis framework?I'm interested in why you reduced the columns from 5 to 2? Could you reply on my talk page please?
+
+A: Great question! The new column captures additional metadata that we were previously missing. This should help us refine our results and provide more detailed insights. If you need more details, I'm happy to walk you through it.",I'm interested in why you reduced the columns from 5 to 2? Could you reply on my talk page please?,Impolite
+"Turn 1
+A: Thanks so much for your detailed explanation, B! It really cleared things up for me. By the way, are you the same B from Slashdot? Thanks. Are you Slashdot user Anothy by any chance, or someone else?Your insights seem very familiar.
+
+B: You're welcome, A! I'm glad I could help. And yes, that's me on Slashdot too. It's great to see familiar faces across different platforms!
+
+Turn 2
+A: That's awesome! I've always appreciated your contributions there as well. Looking forward to more great discussions here.
+
+B: Thanks, A! I enjoy our interactions too. Let's keep the conversations going and continue learning from each other.",Polite,2024-10-02T07:13:15.644000+00:00,"Was the person intended to be polite when they said ""Thanks. Are you Slashdot user Anothy by any chance, or someone else?"" in the conversation?","Turn 1
+A: Thanks so much for your detailed explanation, B! It really cleared things up for me. By the way, are you the same B from Slashdot? Thanks. Are you Slashdot user Anothy by any chance, or someone else?Your insights seem very familiar.
+
+B: You're welcome, A! I'm glad I could help. And yes, that's me on Slashdot too. It's great to see familiar faces across different platforms!
+
+Turn 2
+A: That's awesome! I've always appreciated your contributions there as well. Looking forward to more great discussions here.
+
+B: Thanks, A! I enjoy our interactions too. Let's keep the conversations going and continue learning from each other.","Thanks. Are you Slashdot user Anothy by any chance, or someone else?",Polite
+"Turn 1
+A: I think we should start by categorizing the matrix decompositions into broader sections like Eigenvalue Decompositions, Singular Value Decompositions, and LU Decompositions. This way, readers can quickly navigate to the type they are interested in.
+B: That makes sense. We could also include a summary table at the beginning of the section, listing all the decompositions with brief descriptions and page numbers. It would help readers get an overview and jump to the specific algorithm they need.
+
+Turn 2
+A: Great idea! The summary table will definitely enhance the usability. I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR. It's fine if we just make a section about RQ in the QR article, is that ok with you? We should ensure each section has clear headings and subheadings to maintain consistency.
+B: Absolutely. I'll draft the table and headings, and you can review them for clarity and accuracy. Let's make sure the transitions between sections are smooth as well.",Polite,2024-10-02T07:06:03.793000+00:00,"Was the person intended to be polite when they said ""I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR. It's fine if we just make a section about RQ in the QR article, is that ok with you?"" in the conversation?","Turn 1
+A: I think we should start by categorizing the matrix decompositions into broader sections like Eigenvalue Decompositions, Singular Value Decompositions, and LU Decompositions. This way, readers can quickly navigate to the type they are interested in.
+B: That makes sense. We could also include a summary table at the beginning of the section, listing all the decompositions with brief descriptions and page numbers. It would help readers get an overview and jump to the specific algorithm they need.
+
+Turn 2
+A: Great idea! The summary table will definitely enhance the usability. I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR. It's fine if we just make a section about RQ in the QR article, is that ok with you? We should ensure each section has clear headings and subheadings to maintain consistency.
+B: Absolutely. I'll draft the table and headings, and you can review them for clarity and accuracy. Let's make sure the transitions between sections are smooth as well.","I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR. It's fine if we just make a section about RQ in the QR article, is that ok with you?",Polite
+"Turn 1
+A: Hey B, I've been thinking a lot about the points you raised in our last meeting. I took some time to analyze the options and I think you made some really valid arguments. I've revised my initial approach and wanted to run it by you.
+
+B: That's great to hear, A. I'm glad you found my feedback useful. I'm curious to see what changes you've made. Let's go through it together.
+
+Turn 2
+A: Sure, so I've incorporated your suggestion about focusing more on the user experience. As I wrote above, at first I thought lets keep it, but after I heard some arguments, and when I made analysis of my own, I got to my conclusion. What's yours? I think it really strengthens our proposal. What do you think about this new direction?
+
+B: I like it! It definitely adds more value to our project. I think we're on the right track now. Let's refine it further and make sure we cover all bases.",Ambiguous,2024-10-02T07:15:03.505000+00:00,"Was the person intended to be polite when they said ""As I wrote above, at first I thought lets keep it, but after I heard some arguments, and when I made analysis of my own, I got to my conclusion. What's yours?"" in the conversation?","Turn 1
+A: Hey B, I've been thinking a lot about the points you raised in our last meeting. I took some time to analyze the options and I think you made some really valid arguments. I've revised my initial approach and wanted to run it by you.
+
+B: That's great to hear, A. I'm glad you found my feedback useful. I'm curious to see what changes you've made. Let's go through it together.
+
+Turn 2
+A: Sure, so I've incorporated your suggestion about focusing more on the user experience. As I wrote above, at first I thought lets keep it, but after I heard some arguments, and when I made analysis of my own, I got to my conclusion. What's yours? I think it really strengthens our proposal. What do you think about this new direction?
+
+B: I like it! It definitely adds more value to our project. I think we're on the right track now. Let's refine it further and make sure we cover all bases.","As I wrote above, at first I thought lets keep it, but after I heard some arguments, and when I made analysis of my own, I got to my conclusion. What's yours?",Ambiguous
+"Turn 1
+A: I've been buried in this project on postmodern narrative techniques. It's fascinating but incredibly demanding. I barely have time to breathe.I understand, it could be quite time consuming. Maybe we could do a collab for an article related to Thalia (once I'm finished with some work)?
+B: That sounds intense! Once you get through that, maybe we could work on something lighter together. How about an article on Thalia's influence in contemporary media?
+
+Turn 2
+A: That sounds like a great idea. I've always been intrigued by how her work has shaped modern storytelling. Let's definitely plan for that once I wrap up this current project.
+B: Perfect! I think it would be a refreshing change of pace and a lot of fun to explore that topic together.",Polite,2024-10-02T07:06:45.837000+00:00,"Was the person intended to be polite when they said ""I understand, it could be quite time consuming. Maybe we could do a collab for an article related to Thalia (once I'm finished with some work)?"" in the conversation?","Turn 1
+A: I've been buried in this project on postmodern narrative techniques. It's fascinating but incredibly demanding. I barely have time to breathe.I understand, it could be quite time consuming. Maybe we could do a collab for an article related to Thalia (once I'm finished with some work)?
+B: That sounds intense! Once you get through that, maybe we could work on something lighter together. How about an article on Thalia's influence in contemporary media?
+
+Turn 2
+A: That sounds like a great idea. I've always been intrigued by how her work has shaped modern storytelling. Let's definitely plan for that once I wrap up this current project.
+B: Perfect! I think it would be a refreshing change of pace and a lot of fun to explore that topic together.","I understand, it could be quite time consuming. Maybe we could do a collab for an article related to Thalia (once I'm finished with some work)?",Polite
+"Turn 1
+A: Hey B, I've been noticing that the warning system in Huggle sometimes flags users incorrectly. Have you encountered this issue before?
+B: Yeah, I've seen that happen a few times. It can be pretty frustrating. What specific problems have you noticed?
+
+Turn 2
+A: It seems like it's flagging users for minor infractions that don't really warrant a warning. I noticed, that for users warned before, Huggle still uses level 1 warning. Is there anything I can do? I was thinking we might need to tweak the settings or maybe there's a better way to handle these cases?
+B: I understand. We can definitely look into adjusting the settings. Let's review the current configuration together and see where we can make improvements. I can also share some tips on how I've been managing these situations.",Ambiguous,2024-10-02T07:07:38.828000+00:00,"Was the person intended to be polite when they said ""I noticed, that for users warned before, Huggle still uses level 1 warning. Is there anything I can do?"" in the conversation?","Turn 1
+A: Hey B, I've been noticing that the warning system in Huggle sometimes flags users incorrectly. Have you encountered this issue before?
+B: Yeah, I've seen that happen a few times. It can be pretty frustrating. What specific problems have you noticed?
+
+Turn 2
+A: It seems like it's flagging users for minor infractions that don't really warrant a warning. I noticed, that for users warned before, Huggle still uses level 1 warning. Is there anything I can do? I was thinking we might need to tweak the settings or maybe there's a better way to handle these cases?
+B: I understand. We can definitely look into adjusting the settings. Let's review the current configuration together and see where we can make improvements. I can also share some tips on how I've been managing these situations.","I noticed, that for users warned before, Huggle still uses level 1 warning. Is there anything I can do?",Ambiguous
+"Turn 1
+A: Hey B, I really need your full attention on this part. It's crucial for our project's success.Doing too many things at once? Not listening ?
+B: Oh, sorry A. I was just finishing up an urgent email. What were you saying?
+
+Turn 2
+A: I was explaining the timeline adjustments we need to make. Can we focus on this for a bit?
+B: Absolutely, let me put my phone away. I'm all ears now.",Impolite,2024-10-02T07:12:51.579000+00:00,"Was the person intended to be polite when they said ""Doing too many things at once? Not listening ?"" in the conversation?","Turn 1
+A: Hey B, I really need your full attention on this part. It's crucial for our project's success.Doing too many things at once? Not listening ?
+B: Oh, sorry A. I was just finishing up an urgent email. What were you saying?
+
+Turn 2
+A: I was explaining the timeline adjustments we need to make. Can we focus on this for a bit?
+B: Absolutely, let me put my phone away. I'm all ears now.",Doing too many things at once? Not listening ?,Impolite
+"Turn 1
+A: Hey B, how's your latest project coming along?
+B: It's going well, thanks. Actually, I wanted to talk to you about something I noticed in the database. Do you have a moment?
+
+Turn 2
+A: Sure, what's up?
+B: I came across an image that might need a slight update to ensure it accurately represents the specific enantiomer. The proper title of this image should be Eszopiclone.svg, since it depicts the S enantiomer. Could you change the title so I can upload an image of the racemic compound instead? Could we take a look at it together?
+
+...",Ambiguous,2024-10-02T07:14:30.676000+00:00,"Was the person intended to be polite when they said ""The proper title of this image should be Eszopiclone.svg, since it depicts the S enantiomer. Could you change the title so I can upload an image of the racemic compound instead?"" in the conversation?","Turn 1
+A: Hey B, how's your latest project coming along?
+B: It's going well, thanks. Actually, I wanted to talk to you about something I noticed in the database. Do you have a moment?
+
+Turn 2
+A: Sure, what's up?
+B: I came across an image that might need a slight update to ensure it accurately represents the specific enantiomer. The proper title of this image should be Eszopiclone.svg, since it depicts the S enantiomer. Could you change the title so I can upload an image of the racemic compound instead? Could we take a look at it together?
+
+...","The proper title of this image should be Eszopiclone.svg, since it depicts the S enantiomer. Could you change the title so I can upload an image of the racemic compound instead?",Ambiguous
+"Turn 1
+A: Hi, I'm working on a project that requires access to Volume 3 of the ""Historical Chronicles"" series, but I'm having trouble finding it. Could you help me locate it or suggest how I might access it?
+
+B: Of course! Let me check our digital archives and see if we have that volume available. If not, I can guide you on other ways to access it, such as interlibrary loans or digital repositories.
+
+Turn 2
+A: That would be great, thank you. I tried searching online databases, but I couldn't find a digital copy. Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally). I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6? Is there a specific database or resource you recommend?
+
+B: Yes, I recommend checking the HathiTrust Digital Library and JSTOR. If it's not available there, we can request it through our interlibrary loan service. I'll also look into our special collections to see if we have a physical copy that can be digitized for you.",Ambiguous,2024-10-02T07:08:58.735000+00:00,"Was the person intended to be polite when they said ""Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally). I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6?"" in the conversation?","Turn 1
+A: Hi, I'm working on a project that requires access to Volume 3 of the ""Historical Chronicles"" series, but I'm having trouble finding it. Could you help me locate it or suggest how I might access it?
+
+B: Of course! Let me check our digital archives and see if we have that volume available. If not, I can guide you on other ways to access it, such as interlibrary loans or digital repositories.
+
+Turn 2
+A: That would be great, thank you. I tried searching online databases, but I couldn't find a digital copy. Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally). I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6? Is there a specific database or resource you recommend?
+
+B: Yes, I recommend checking the HathiTrust Digital Library and JSTOR. If it's not available there, we can request it through our interlibrary loan service. I'll also look into our special collections to see if we have a physical copy that can be digitized for you.","Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally). I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6?",Ambiguous
+"Turn 1
+A: I really don't see how you can think these accounts are genuine. The patterns are too suspicious.
+B: I understand your concerns, but I've seen similar patterns in legitimate accounts before. We can't just dismiss them without proper analysis.
+
+Turn 2
+A: Look, this back-and-forth isn't getting us anywhere. How about we bring in an external tool or team to take a closer look? I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay? That way, we can get an objective opinion.
+B: Fine, if it helps settle this, I'm open to it. But let's make sure we choose a reliable third party for the investigation.",Impolite,2024-10-02T07:15:33.506000+00:00,"Was the person intended to be polite when they said ""I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?"" in the conversation?","Turn 1
+A: I really don't see how you can think these accounts are genuine. The patterns are too suspicious.
+B: I understand your concerns, but I've seen similar patterns in legitimate accounts before. We can't just dismiss them without proper analysis.
+
+Turn 2
+A: Look, this back-and-forth isn't getting us anywhere. How about we bring in an external tool or team to take a closer look? I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay? That way, we can get an objective opinion.
+B: Fine, if it helps settle this, I'm open to it. But let's make sure we choose a reliable third party for the investigation.","I'm sure. How about we let the sockpuppet investigation let us know for certain, m'kay?",Impolite
+"Turn 1
+A: I noticed a small typo in the second paragraph, and I think rephrasing the third sentence might make it clearer.Yes, I agree. Would you please make the appropriate change?
+B: Good catch! I'll fix the typo and rework that sentence to improve the clarity.
+
+Turn 2
+A: Great, thanks for being so responsive. The rest of the report looks solid.
+B: No problem at all. I appreciate your feedback. Let's make this report the best it can be.",Polite,2024-10-02T07:07:54.907000+00:00,"Was the person intended to be polite when they said ""Yes, I agree. Would you please make the appropriate change?"" in the conversation?","Turn 1
+A: I noticed a small typo in the second paragraph, and I think rephrasing the third sentence might make it clearer.Yes, I agree. Would you please make the appropriate change?
+B: Good catch! I'll fix the typo and rework that sentence to improve the clarity.
+
+Turn 2
+A: Great, thanks for being so responsive. The rest of the report looks solid.
+B: No problem at all. I appreciate your feedback. Let's make this report the best it can be.","Yes, I agree. Would you please make the appropriate change?",Polite
+"Turn 1
+A: Hey B, I noticed you wanted to discuss something about the project. What's on your mind?
+B: Hi A, I've been seeing some unauthorized changes to our content lately. This page, which you recently edited on, is constantly getting vandalized by a rival school. Could you please put an edit lock on the page? It's really affecting the quality of our work. Can we implement some measures to prevent this?
+
+Turn 2
+A: That's concerning. I can look into setting up stricter access controls and maybe add a version history tracker. Would that help?
+B: Yes, that sounds perfect. It would definitely help us maintain the integrity of our content. Thanks for addressing this so quickly, A.",Ambiguous,2024-10-02T07:07:11.665000+00:00,"Was the person intended to be polite when they said ""This page, which you recently edited on, is constantly getting vandalized by a rival school. Could you please put an edit lock on the page?"" in the conversation?","Turn 1
+A: Hey B, I noticed you wanted to discuss something about the project. What's on your mind?
+B: Hi A, I've been seeing some unauthorized changes to our content lately. This page, which you recently edited on, is constantly getting vandalized by a rival school. Could you please put an edit lock on the page? It's really affecting the quality of our work. Can we implement some measures to prevent this?
+
+Turn 2
+A: That's concerning. I can look into setting up stricter access controls and maybe add a version history tracker. Would that help?
+B: Yes, that sounds perfect. It would definitely help us maintain the integrity of our content. Thanks for addressing this so quickly, A.","This page, which you recently edited on, is constantly getting vandalized by a rival school. Could you please put an edit lock on the page?",Ambiguous
+"Turn 1
+A: Hey B, I've noticed you've been making some disruptive edits and posts lately. It's taking a lot of time to clean up after you. What's going on?
+B: I was just trying to have a bit of fun. Didn't think it was that big of a deal.
+
+Turn 2
+A: Well, it's causing unnecessary work for the moderators and disrupting the community. Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point? Can you please be more considerate in the future?
+B: Alright, I get it. I'll tone it down. Sorry for the trouble.",Impolite,2024-10-02T07:12:37.554000+00:00,"Was the person intended to be polite when they said ""Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point?"" in the conversation?","Turn 1
+A: Hey B, I've noticed you've been making some disruptive edits and posts lately. It's taking a lot of time to clean up after you. What's going on?
+B: I was just trying to have a bit of fun. Didn't think it was that big of a deal.
+
+Turn 2
+A: Well, it's causing unnecessary work for the moderators and disrupting the community. Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point? Can you please be more considerate in the future?
+B: Alright, I get it. I'll tone it down. Sorry for the trouble.",Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point?,Impolite
+"Turn 1
+A: I think the article could benefit from a more thorough review. There are several sections that lack citations, and some of the information seems outdated.
+B: I agree with your assessment. You make some good points. How do you feel about nominating the article for AfD then? It's important that we maintain high standards. What do you think about initiating a formal review process to address these issues?
+
+Turn 2
+A: That sounds like a good plan. A formal review would allow us to systematically address the concerns and improve the article's quality.
+B: Great, I'll start drafting the proposal for the review process. I'll make sure to include your points and keep you updated on the progress. Thanks for your valuable input!",Ambiguous,2024-10-02T07:10:19.324000+00:00,"Was the person intended to be polite when they said ""You make some good points. How do you feel about nominating the article for AfD then?"" in the conversation?","Turn 1
+A: I think the article could benefit from a more thorough review. There are several sections that lack citations, and some of the information seems outdated.
+B: I agree with your assessment. You make some good points. How do you feel about nominating the article for AfD then? It's important that we maintain high standards. What do you think about initiating a formal review process to address these issues?
+
+Turn 2
+A: That sounds like a good plan. A formal review would allow us to systematically address the concerns and improve the article's quality.
+B: Great, I'll start drafting the proposal for the review process. I'll make sure to include your points and keep you updated on the progress. Thanks for your valuable input!",You make some good points. How do you feel about nominating the article for AfD then?,Ambiguous
+"Turn 1
+A: Hi B, I was going through the document you shared regarding the project guidelines. I noticed that some sections seem a bit incomplete, particularly the part about the submission process. Could you provide some additional details or clarify those points for me?The link you provided to speedy delection criteria only goes up to CSD12, and there is no CSD 13 listed there. Could you clarify?
+
+B: Of course, A. I appreciate you bringing this to my attention. The submission process section should include steps for both the initial draft and the final submission. I'll review the document and send you the missing information shortly.
+
+Turn 2
+A: Thank you, B. That would be really helpful. I just want to make sure I'm following the correct procedures and meeting all the requirements.
+
+B: No problem at all, A. I'll get the updated document to you by the end of the day. If you have any other questions in the meantime, feel free to ask.",Polite,2024-10-02T07:02:38.649000+00:00,"Was the person intended to be polite when they said ""The link you provided to speedy delection criteria only goes up to CSD12, and there is no CSD 13 listed there. Could you clarify?"" in the conversation?","Turn 1
+A: Hi B, I was going through the document you shared regarding the project guidelines. I noticed that some sections seem a bit incomplete, particularly the part about the submission process. Could you provide some additional details or clarify those points for me?The link you provided to speedy delection criteria only goes up to CSD12, and there is no CSD 13 listed there. Could you clarify?
+
+B: Of course, A. I appreciate you bringing this to my attention. The submission process section should include steps for both the initial draft and the final submission. I'll review the document and send you the missing information shortly.
+
+Turn 2
+A: Thank you, B. That would be really helpful. I just want to make sure I'm following the correct procedures and meeting all the requirements.
+
+B: No problem at all, A. I'll get the updated document to you by the end of the day. If you have any other questions in the meantime, feel free to ask.","The link you provided to speedy delection criteria only goes up to CSD12, and there is no CSD 13 listed there. Could you clarify?",Polite
+"Turn 1
+A: Howdy Mattisse. Haven't I seen you on hockey articles, years ago?Hey, aren't you B? I think I've seen your comments on some hockey forums a few years back. You always had some great insights!
+B: Oh wow, yeah, that's me! It's always nice to meet a fellow hockey enthusiast. Which team do you follow?
+
+Turn 2
+A: I'm a big fan of the Maple Leafs. How about you?
+B: I'm all about the Bruins. It's always fun to have a bit of friendly rivalry, isn't it?",Polite,2024-10-02T07:10:01.306000+00:00,"Was the person intended to be polite when they said ""Howdy Mattisse. Haven't I seen you on hockey articles, years ago?"" in the conversation?","Turn 1
+A: Howdy Mattisse. Haven't I seen you on hockey articles, years ago?Hey, aren't you B? I think I've seen your comments on some hockey forums a few years back. You always had some great insights!
+B: Oh wow, yeah, that's me! It's always nice to meet a fellow hockey enthusiast. Which team do you follow?
+
+Turn 2
+A: I'm a big fan of the Maple Leafs. How about you?
+B: I'm all about the Bruins. It's always fun to have a bit of friendly rivalry, isn't it?","Howdy Mattisse. Haven't I seen you on hockey articles, years ago?",Polite
